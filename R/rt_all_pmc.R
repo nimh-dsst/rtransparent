@@ -15,6 +15,8 @@
       xml2::read_xml()
 
   }
+	
+  return(article_xml)
 }
 
 

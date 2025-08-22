@@ -1190,7 +1190,7 @@ rt_coi_pmc <- function(filename, remove_ns = F) {
 
   article <- article[(hi_relevance + lo_relevance) > 0]
   # rel_regex <- paste(hi_regex, lo_regex, sep = "|")
-  # article %<>% purrr::keep(~ str_detect(.x, regex(rel_regex, ignore_case = T)))
+  # article %<>% purrr::keep(~ str_detect(.x, stringr::regex(rel_regex, ignore_case = T)))
 
   out$is_relevant_hi <- any(hi_relevance)
   out$is_relevant_lo <- any(lo_relevance)
