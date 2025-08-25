@@ -15,6 +15,8 @@ out <- vectorized_rt(args) %>% Filter(function(x) length(x) == 116, .) %>% do.ca
 
 outDir <- Sys.getenv("R_OUTDIR", "~")
 
+if (length(args)) > 0 {
 # print
 write.table(out, file.path(outDir, "out.csv"), sep=",", col.names=F, row.names=F)
 write.table(t(names(out)), file.path(outDir, "out.names.csv"), sep=",", col.names=F, row.names=F)
+}

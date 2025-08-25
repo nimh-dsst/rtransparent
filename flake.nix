@@ -53,9 +53,9 @@
 			docker = pkgs.dockerTools.buildLayeredImage {
 				name = "rtransparent";
 				tag = "latest";
-				contents = [ pkgs.bash default pkgs.rWrapper ];
+				contents = [ nixPkgsFor."x86_64-linux".bash default nixPkgsFor."x86_64-linux".rWrapper ];
 				config.WorkingDir = "${default}/bin";
-				config.Cmd = [ "${pkgs.rWrapper}/bin/Rscript" "${default}/bin/run.R" ];
+				config.Cmd = [ "${nixPkgsFor."x86_64-linux".rWrapper}/bin/Rscript" "${default}/bin/run.R" ];
 			};
 		});
   	};
