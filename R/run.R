@@ -13,7 +13,7 @@ ident <- Sys.getenv("R_IDENTIFIER", "0")
 vectorized_rt <- Vectorize(rt_all_pmc, vectorize.args=c("filename"), SIMPLIFY=F) # remap the rt_all_pmc function to run over vector
 
 if (dir.exists(file.path(inDir))) {
-	args <- list.files(file.path(inDir), ".*\\.xml") >%> lapply(., function(x) file.path(inDir, x))
+	args <- list.files(file.path(inDir), ".*\\.xml") %>% lapply(., function(x) file.path(inDir, x))
 
 	if (length(args) > 0) {
 		out <- vectorized_rt(args) %>% Filter(function(x) length(x) == 116, .) %>% do.call(rbind, .) # run & bind into a big tibble
