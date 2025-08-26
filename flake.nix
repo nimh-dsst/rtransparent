@@ -6,7 +6,7 @@
   };
 
   outputs = { self, nixpkgs }: let
-    supportedSystems = [ "x86_64-linux" "x86_64-darwin" "aarch64-linux" "aarch64-darwin" ];
+    supportedSystems = [ "x86_64-linux" ];
     # Helper function to generate an attrset '{ x86_64-linux = f "x86_64-linux"; ... }'.
     forAllSystems = nixpkgs.lib.genAttrs supportedSystems;
 		nixPkgsFor = forAllSystems (system: import nixpkgs {
@@ -57,6 +57,24 @@
 				config.WorkingDir = "${default}/bin";
 				config.Cmd = [ "${pkgs.rWrapper}/bin/Rscript" "${default}/bin/run.R" ];
 				config.Env = [ "TMPDIR=/" ];
+			};
+
+			singularity = pkgs.singularity-tools.buildImage {
+				name = "rtransparent";
+				singularity = pkgs.apptainer;
+				contents = with pkgs; [ bash rWrapper coreutils default ];
+				runAsRoot = ''
+					#!${pkgs.bash}/bin/bash
+					${pkgs.dockerTools.shadowSetup}
+					mkdir -p /.singularity.d/env/
+
+					echo "export TMPDIR=/" >> /.singularity.d/env/91-custom-environment.sh
+				'';
+				runScript = ''
+					#!${pkgs.bash}/bin/bash
+					cd ${default}/bin/
+					${pkgs.rWrapper}/bin/Rscript ${default}/bin/run.R
+				'';
 			};
 		});
   	};
