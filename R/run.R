@@ -1,4 +1,5 @@
 library(magrittr)
+library(arrow)
 source("xml_utils.R")
 source("rt_coi_pmc.R")
 source("rt_all_pmc.R")
@@ -19,11 +20,7 @@ if (dir.exists(file.path(inDir))) {
 		out <- vectorized_rt(args) %>% Filter(function(x) length(x) == 116, .) %>% do.call(rbind, .) # run & bind into a big tibble
 
 		dir.create(file.path(outDir), showWarnings=F)
-		write.table(out, file.path(outDir, paste("out", ident, "csv", sep=".")), sep=",", col.names=F, row.names=F)
-
-		if (!file.exists(file.path(outDir, "out.names.csv"))) {
-			write.table(t(names(out)), file.path(outDir, "out.names.csv"), sep=",", col.names=F, row.names=F)
-		}
+		write_parquet(out, file.path(outDir, paste("out", ident, "parquet", sep=".")))
 	}
 
 }
