@@ -15,7 +15,7 @@
         (final: prev: {
           rWrapper = prev.rWrapper.override { packages = with prev.rPackages; [ 
 						magrittr
-						arrow
+						nanoparquet
 						stringr
 						dplyr
 						purrr

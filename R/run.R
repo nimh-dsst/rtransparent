@@ -1,5 +1,5 @@
 library(magrittr)
-library(arrow)
+library(nanoparquet)
 source("xml_utils.R")
 source("rt_coi_pmc.R")
 source("rt_all_pmc.R")
