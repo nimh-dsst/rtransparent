@@ -58,7 +58,7 @@
 			docker = pkgs.dockerTools.buildLayeredImage {
 				name = "rtransparent";
 				tag = "latest";
-				contents = [ pkgs.bash default pkgs.rWrapper pkgs.coreutils pkgs.cacert pkgs.glibc ];
+				contents = [ pkgs.bash default pkgs.rWrapper pkgs.coreutils pkgs.cacert ];
 				config.WorkingDir = "${default}/bin";
 				fakeRootCommands = ''
 					mkdir -p /R/lib
