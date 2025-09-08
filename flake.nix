@@ -58,7 +58,7 @@
 			docker = pkgs.dockerTools.buildImage {
 				name = "rtransparent";
 				tag = "latest";
-				copyToRoot = buildEnv {
+				copyToRoot = pkgs.buildEnv {
 					name = "image-root";
 					paths = with pkgs; [ bash default rWrapper coreutils cacert ];
 					pathsToLink = [ "/bin" ];
