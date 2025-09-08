@@ -55,35 +55,22 @@
 				'';
 			};
 
-			docker = pkgs.dockerTools.buildLayeredImage {
+			docker = pkgs.dockerTools.buildImage {
 				name = "rtransparent";
 				tag = "latest";
-				contents = [ pkgs.bash default pkgs.rWrapper pkgs.coreutils pkgs.cacert ];
-				config.WorkingDir = "${default}/bin";
-				fakeRootCommands = ''
+				copyToRoot = buildEnv {
+					name = "image-root";
+					paths = with pkgs; [ bash default rWrapper coreutils cacert ];
+					pathsToLink = [ "/bin" ];
+				};
+
+				extraCommands = ''
 					mkdir -p /R/lib
 					R_LIBS=/R/lib ${pkgs.rWrapper}/bin/R -e 'devtools::install_github("quest-bih/oddpub",ref="c5b091c7e82ed6177192dc380a515b3dc6304863")'
 				'';
+				config.WorkingDir = "${default}/bin";
 				config.Cmd = [ "${pkgs.rWrapper}/bin/Rscript" "${default}/bin/run.R" ];
 				config.Env = [ "TMPDIR=/" "R_LIBS=/R/lib" ];
-			};
-
-			singularity = pkgs.singularity-tools.buildImage {
-				name = "rtransparent";
-				singularity = pkgs.apptainer;
-				contents = with pkgs; [ bash rWrapper coreutils default ];
-				runAsRoot = ''
-					#!${pkgs.bash}/bin/bash
-					${pkgs.dockerTools.shadowSetup}
-					mkdir -p /.singularity.d/env/
-
-					echo "export TMPDIR=/" >> /.singularity.d/env/91-custom-environment.sh
-				'';
-				runScript = ''
-					#!${pkgs.bash}/bin/bash
-					cd ${default}/bin/
-					${pkgs.rWrapper}/bin/Rscript ${default}/bin/run.R
-				'';
 			};
 		});
   	};
