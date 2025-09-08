@@ -22,6 +22,10 @@
 						rlang
 						tibble
 						xml2
+						qpdf
+						pdftools
+						devtools
+						pkgs.poppler
 					]; };
         })
       ];
@@ -45,6 +49,7 @@
 					runHook preInstall
 					
 					mkdir -p $out/bin
+					mkdir -p $out/lib
 					cp $src/* $out/bin/.
 
 					runHook postInstall
@@ -56,8 +61,11 @@
 				tag = "latest";
 				contents = [ pkgs.bash default pkgs.rWrapper pkgs.coreutils ];
 				config.WorkingDir = "${default}/bin";
+				fakeRootCommands = ''
+					R_LIBS=${default}/lib R -e 'devtools::install_github("quest-bih/oddpub",ref="c5b091c7e82ed6177192dc380a515b3dc6304863")'
+				'';
 				config.Cmd = [ "${pkgs.rWrapper}/bin/Rscript" "${default}/bin/run.R" ];
-				config.Env = [ "TMPDIR=/" ];
+				config.Env = [ "TMPDIR=/" "R_LIBS=${default}/lib" ];
 			};
 
 			singularity = pkgs.singularity-tools.buildImage {
