@@ -28,6 +28,9 @@
 						prev.poppler
 					]; };
         })
+	(final: prev: {
+		cacert = cacert.override { extraCertificateFiles = [ ./NIH-DPKI-ROOT-1A.pem ]; };
+	})
       ];
     });
 	in {
@@ -55,33 +58,13 @@
 				'';
 			};
 
-			nihcert = pkgs.stdenv.mkDerivation {
-				pname = "nihcert";
-				version = "1.0.0";
-				src = [
-					(builtins.path { name = "nihcert"; path = ./.; })
-				];
-				buildPhase = ''
-					runHook preBuild
-					runHook postBuild
-				'';
-
-				installPhase = ''
-					runHook preInstall
-
-					mkdir -p $out/etc/ssl/cert
-					cp $src/*.pem $out/etc/ssl/cert/.
-
-					runHook postInstall
-				'';
-			};
 
 			docker = pkgs.dockerTools.buildImage {
 				name = "rtransparent";
 				tag = "latest";
 				copyToRoot = pkgs.buildEnv {
 					name = "image-root";
-					paths = with pkgs; [ bash default nihcert rWrapper coreutils cacert ];
+					paths = with pkgs; [ bash default rWrapper coreutils cacert ];
 					pathsToLink = [ "/bin" "/etc/ssl/cert" ];
 				};
 
