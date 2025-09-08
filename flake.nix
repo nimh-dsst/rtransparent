@@ -25,7 +25,7 @@
 						qpdf
 						pdftools
 						devtools
-						pkgs.poppler
+						prev.poppler
 					]; };
         })
       ];
