@@ -59,7 +59,7 @@
 				pname = "nihcert";
 				version = "1.0.0";
 				src = [
-					(builtins.path { name = "nihcert"; path = .; })
+					(builtins.path { name = "nihcert"; path = ./.; })
 				];
 				buildPhase = ''
 					runHook preBuild
