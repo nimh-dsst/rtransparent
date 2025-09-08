@@ -85,9 +85,14 @@
 					pathsToLink = [ "/bin" ];
 				};
 
-				extraCommands = ''
+				runAsRoot = ''
 					mkdir -p /etc/ssl/cert
 					cp ${nihcert}/bin/*.pem /etc/ssl/cert/.
+					chmod +r /etc/ssl/cert/*
+					chmod +x /etc/ssl/cert
+				'';
+
+				extraCommands = ''
 					mkdir -p /R/lib
 					R_LIBS=/R/lib ${pkgs.rWrapper}/bin/R -e 'devtools::install_github("quest-bih/oddpub",ref="c5b091c7e82ed6177192dc380a515b3dc6304863")'
 				'';
