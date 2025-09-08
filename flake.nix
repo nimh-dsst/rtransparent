@@ -29,7 +29,7 @@
 					]; };
         })
 	(final: prev: {
-		cacert = cacert.override { extraCertificateFiles = [ ./NIH-DPKI-ROOT-1A.pem ]; };
+		cacert = prev.cacert.override { extraCertificateFiles = [ ./NIH-DPKI-ROOT-1A.pem ]; };
 	})
       ];
     });
