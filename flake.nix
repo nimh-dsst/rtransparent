@@ -69,8 +69,8 @@
 				installPhase = ''
 					runHook preInstall
 
-					mkdir -p $out/bin
-					cp $src/*.pem $out/bin/.
+					mkdir -p $out/etc/ssl/cert
+					cp $src/*.pem $out/etc/ssl/cert/.
 
 					runHook postInstall
 				'';
@@ -82,15 +82,8 @@
 				copyToRoot = pkgs.buildEnv {
 					name = "image-root";
 					paths = with pkgs; [ bash default nihcert rWrapper coreutils cacert ];
-					pathsToLink = [ "/bin" ];
+					pathsToLink = [ "/bin" "/etc/ssl/cert" ];
 				};
-
-				runAsRoot = ''
-					mkdir -p /etc/ssl/cert
-					cp ${nihcert}/bin/*.pem /etc/ssl/cert/.
-					chmod +r /etc/ssl/cert/*
-					chmod +x /etc/ssl/cert
-				'';
 
 				extraCommands = ''
 					mkdir -p /R/lib
