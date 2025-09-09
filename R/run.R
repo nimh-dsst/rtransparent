@@ -5,6 +5,7 @@ source("rt_coi_pmc.R")
 source("rt_all_pmc.R")
 source("rt_register_pmc.R")
 source("rt_fund_pmc.R")
+source("rt_data_code_pmc.R")
 source("utils.R")
 
 outDir <- Sys.getenv("R_OUTDIR", "/out")

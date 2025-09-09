@@ -9,19 +9,24 @@
     supportedSystems = [ "x86_64-linux" ];
     # Helper function to generate an attrset '{ x86_64-linux = f "x86_64-linux"; ... }'.
     forAllSystems = nixpkgs.lib.genAttrs supportedSystems;
-		oddpub = nixpkgs.rPackages.buildRPackage {
-			name = "oddpub";
-			src = pkgs.fetchFromGithub {
-					owner = "quest-bih";
-					repo = "oddpub";
-					rev = "c5b091c7e82ed6177192dc380a515b3dc6304863";
-					sha256 = "gf09iU5uCrzKXnmhzI7eL1bhhXtRfjK5VfuAqq3o=";
-			};
-		};
 		nixPkgsFor = forAllSystems (system: import nixpkgs {
       inherit system;
       overlays = [
         (final: prev: {
+					oddpub = prev.rPackages.buildRPackage {
+						name = "oddpub";
+						src = prev.fetchFromGitHub {
+							owner = "quest-bih";
+							repo = "oddpub";
+							rev = "c5b091c7e82ed6177192dc380a515b3dc6304863";
+							sha256 = "PB+gf09iU5uCrzKXnmhzI7eL1bhhXtRfjK5VfuAqq3o=";
+						};
+						buildInputs = with prev.rPackages; [
+							dplyr purrr foreach doParallel tokenizers stringr magrittr readr
+							prev.rWrapper
+						];
+					};
+
           rWrapper = prev.rWrapper.override { packages = with prev.rPackages; [
 						magrittr
 						nanoparquet
@@ -34,7 +39,7 @@
 						qpdf
 						pdftools
 						prev.poppler
-						oddpub
+						final.oddpub
 					]; };
         })
       ];
@@ -78,6 +83,11 @@
 				config.Cmd = [ "${pkgs.rWrapper}/bin/Rscript" "${default}/bin/run.R" ];
 				config.Env = [ "TMPDIR=/" ];
 			};
+
+			devShell = (pkgs.buildFHSEnv {
+				name = "shell-env";
+				targetPkgs = _: [ rWrapper ];
+			}).env;
 		});
   	};
 }

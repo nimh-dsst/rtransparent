@@ -163,6 +163,11 @@
   ))
 }
 
+.get_data_pmc <- function (article_xml) {
+  # rt_data_code_pmc <- function(article_xml, remove_ns = T, specificity = "low") {
+
+  rt_data_pmc_specific 
+}
 
 
 #' @returns Article sections as a list
