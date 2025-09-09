@@ -167,15 +167,15 @@
   # rt_data_code_pmc <- function(article_xml, remove_ns = T, specificity = "low") {
 
   open_data <- rt_data_pmc_specific(article_xml)
-  
   return(list(
-    "is_open_data" = open_data["is_open_data"]
-    "is_open_code" = open_data["is_open_code"]
-    "open_data_statements" = open_data["open_data_statements"]
-    "open_code_statements" = open_data["open_code_statements"]
-    "open_data_category" = open_data["open_data_category"]
-    "is_relevant_code" = open_data["is_relevant_code"]
-    "is_relevant_data" = open_data['is_relevant_data']
+    "is_open_data" = open_data[["is_open_data"]],
+    "is_open_code" = open_data[["is_open_code"]],
+    # FIXME these ones are inconsistent for some reason
+    # "open_data_statements" = open_data["open_data_statements"],
+    # "open_code_statements" = open_data["open_code_statements"],
+    # "open_data_category" = open_data["open_data_category"],
+    "is_relevant_code" = open_data[["is_relevant_code"]],
+    "is_relevant_data" = open_data[['is_relevant_data']]
   ))
 }
 
@@ -340,5 +340,6 @@ rt_all_pmc <- function(filename, remove_ns = F, all_meta = F) {
 
 
   status_ls <- list(is_success = T)
+
   tibble::as_tibble(c(id_ls, meta_ls, coi_ls, fund_ls, reg_ls, status_ls, pmc_data_ls))
 }

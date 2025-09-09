@@ -1283,7 +1283,7 @@ rt_coi_pmc <- function(filename, remove_ns = F) {
   out$is_coi_pred <- !!length(index)
   out$coi_text <- article[index] %>% paste(collapse = " ")
 
-  index_any %<>% purrr::map(function(x) !!length(x))
+   
 
   if (out$is_coi_pred) {
 

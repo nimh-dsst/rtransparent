@@ -7,3 +7,7 @@ packrat/lib*/
 inst/doc
 rtransparent.sif
 result
+R/
+in/
+out/
+in1/
