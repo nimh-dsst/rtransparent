@@ -14,7 +14,7 @@
 			src = pkgs.fetchFromGithub {
 					owner = "quest-bih";
 					repo = "oddpub";
-					rev = "c5b091c7e82ed6177192dc380a515b3dc6304863"
+					rev = "c5b091c7e82ed6177192dc380a515b3dc6304863";
 					sha256 = "gf09iU5uCrzKXnmhzI7eL1bhhXtRfjK5VfuAqq3o=";
 			};
 		};
