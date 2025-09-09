@@ -1,0 +1,1563 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">World J Cardiol</journal-id><journal-id journal-id-type="publisher-id">WJC</journal-id><journal-title-group><journal-title>World Journal of Cardiology</journal-title></journal-title-group><issn pub-type="epub">1949-8462</issn><publisher><publisher-name>Baishideng Publishing Group Inc</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmc">PMC12186181</article-id><article-id pub-id-type="other">jWJC.v17.i6.eid107386</article-id><article-id pub-id-type="doi">10.4330/wjc.v17.i6.107386</article-id><article-id pub-id-type="publisher-manuscript">107386</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Impact of gut microbiome on atrial fibrillation: Mechanistic insights and future directions in individualized medicine</article-title><alt-title>Brar AS <italic>et al</italic>. Impact of gut microbiome on AF</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Brar</surname><given-names>Ajit Singh</given-names></name><aff>Department of Internal Medicine, Michigan State University at Hurley Medical Center, Flint, MI 48503, United States</aff></contrib><contrib contrib-type="author"><name><surname>Vemula</surname><given-names>Shree Laya</given-names></name><aff>Department of Internal Medicine, South Brooklyn Health, Brooklyn, NY 11235, United States</aff></contrib><contrib contrib-type="author"><name><surname>Yanamaladoddi</surname><given-names>Vishnu</given-names></name><aff>Department of Internal Medicine, Creighton University School of Medicine, Phoenix, AZ 85012, United States</aff></contrib><contrib contrib-type="author"><name><surname>Sodhi</surname><given-names>Sohail</given-names></name><aff>Department of Internal Medicine, Rutgers Health/ RWJBH Trinitas Regional Medical Center, Elizabeth, NJ 07202, United States</aff></contrib><contrib contrib-type="author"><name><surname>Hatwal</surname><given-names>Juniali</given-names></name><aff>Department of Internal Medicine, Post Graduate Institute of Medical Education and Research, Chandigarh 160012, India</aff></contrib><contrib contrib-type="author"><name><surname>Sohal</surname><given-names>Aalam</given-names></name><aff>Department of Gastroenterology and Hepatology, Creighton University School of Medicine, Phoenix, AZ 85012, United States</aff></contrib><contrib contrib-type="author"><name><surname>Batta</surname><given-names>Akash</given-names></name><aff>Department of Cardiology, Dayanand Medical College and Hospital, Ludhiana 141001, Punjab, India. <email>akashbatta02@gmail.com</email></aff></contrib></contrib-group><author-notes><fn><p>Author contributions: Brar AS, Vemula SL, Yanamaladoddi V, Sodhi S, and Hatwal J conducted the literature review, interpreted data, created artwork, and drafted the original manuscript; Brar AS and Sohal A conceptualized and designed the study; Sohal A and Batta A supervised the study and made critical revisions; all of the authors read and approved the final version of the manuscript to be published.</p><p>Corresponding author: Akash Batta, Associate Professor, Department of Cardiology, Dayanand Medical College and Hospital, Tagore Nagar, Civil Lines, Ludhiana 141001, Punjab, India. <email>akashbatta02@gmail.com</email></p></fn></author-notes><pub-date pub-type="ppub"><day>26</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="epub"><day>26</day><month>6</month><year>2025</year></pub-date><volume>17</volume><issue>6</issue><elocation-id>107386</elocation-id><history><date date-type="received"><day>24</day><month>3</month><year>2025</year></date><date date-type="rev-recd"><day>11</day><month>4</month><year>2025</year></date><date date-type="accepted"><day>13</day><month>5</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9;The Author(s) 2025. Published by Baishideng Publishing Group Inc. All rights reserved.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is an open-access article that was selected by an in-house editor and fully peer-reviewed by external reviewers. It is distributed in accordance with the Creative Commons Attribution NonCommercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See: <uri xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/Licenses/by-nc/4.0/</uri></license-p></license></permissions><abstract><p>Atrial fibrillation (AF) is a growing global health burden, with a prevalence of over 52.55 million cases. Rising disability-adjusted life-years, increasing age, and disparities in care have contributed to the worsening severity and mortality of AF. Modifiable risk factors, such as hypertension, obesity, and diabetes mellitus, are associated with alterations in gut microbiota, making the gut-heart axis a potential therapeutic target. Gut dysbiosis influences AF pathogenesis through inflammation, metabolic disruption, and autonomic dysfunction. Key mechanisms include gut barrier dysfunction, short-chain fatty acid (SCFA) depletion, lipopolysaccharides (LPS)-induced inflammation, and ferroptosis-mediated atrial remodeling. Trimethylamine N-oxide, bile acids, and tryptophan metabolites contribute to arrhythmogenic remodeling. Emerging evidence suggests that dietary interventions, including prebiotics and probiotics, as well as gut surveillance, may help mitigate AF progression. Clinical implications of gut modulation in AF include personalized dietary strategies, microbiome assessment through metagenomic sequencing, and targeted interventions such as SCFA-based therapies and ferroptosis inhibition. Metabolite surveillance, including LPS and indoxyl sulfate monitoring, may influence the effectiveness of anticoagulant and antiarrhythmic therapy. Despite growing mechanistic evidence linking gut dysbiosis to AF, clinical applications remain unexplored. This review summarizes the current understanding of the gut microbiome's role in AF.</p></abstract><kwd-group><kwd>Atrial fibrillation</kwd><kwd>Gut microbiome</kwd><kwd>Dysbiosis</kwd><kwd>Inflammation</kwd><kwd>Short-chain-fatty-acid</kwd><kwd>Trimethylamine N-oxide</kwd><kwd>Ferroptosis</kwd><kwd>Lipopolysaccharides</kwd><kwd>Microbiome-based therapy</kwd><kwd>Individualized care</kwd></kwd-group></article-meta></front><body><p>
+<bold>Core Tip:</bold> Gut microbiome alteration contributes to the generation of harmful metabolites, loss of gut integrity, and cardiac remodeling. Gut dysbiosis interacts with modifiable risk factors to promote cardiac tissue remodeling. Animal models and clinical studies indicate that microbial composition is associated with arrhythmogenesis, atrial fibrillation (AF) recurrence, and modulates medication response. Integrating microbiome surveillance and gut microbiome modulation therapy into AF management may slow disease progression and reduce the arrhythmia burden. However, clinical trials are needed to establish causality and support the incorporation of gut modulation into clinical care.</p><sec><title>INTRODUCTION</title><p>Atrial fibrillation (AF) affects an estimated 52.55 million people worldwide[<xref rid="B1" ref-type="bibr">1</xref>]. The rising number of disability-adjusted life-years (DALY), an indicator of disability, highlights the widening care gap in AF management and disease burden[<xref rid="B1" ref-type="bibr">1</xref>]. DALY rose from 3.3 million cases in 1990 to 8.3 million in 2021[<xref rid="B1" ref-type="bibr">1</xref>]. Over the past 30 years, increasing age, higher rates of modifiable risk factors, greater public awareness, and disparities in care have contributed to the growing severity and mortality of AF[<xref rid="B1" ref-type="bibr">1</xref>].</p><p>Gut dysbiosis is characterized by a high <italic>Firmicutes</italic>/<italic>Bacteroidetes</italic> (F/B) ratio and contributes to atrial tissue remodeling. Microbial imbalance (dysbiosis) interacts with modifiable AF risk factors, such as hypertension, obesity, and diabetes mellitus, which are linked to dietary factors (Figure <xref rid="F1" ref-type="fig">1</xref>)[<xref rid="B2" ref-type="bibr">2</xref>]. Chen <italic>et al</italic>[<xref rid="B3" ref-type="bibr">3</xref>] emphasizes that intestinal microbiome imbalance plays a significant role in the emergence and progression of AF[<xref rid="B3" ref-type="bibr">3</xref>]. The gut microbiota, a complex community of bacteria residing in the intestines, is directly influenced by dietary intake and can, when imbalanced, impact cardiovascular health[<xref rid="B4" ref-type="bibr">4</xref>]. Gut microbiome-targeted therapies are key areas for intervention.</p><fig position="float" id="F1"><label>Figure 1</label><caption><p>
+<bold>Gut dysbiosis and its role in atrial fibrillation.</bold> F/B: <italic>Firmicutes</italic>/<italic>Bacteroidetes</italic>.</p></caption><graphic xlink:href="wjc-17-6-107386-g001" position="float"/></fig><p>This review examines the clinical significance of gut microbiota in AF, with a focus on current evidence and future implications. It reviews the mechanisms through which intestinal flora and their metabolites contribute to the onset of AF. We will also examine the bidirectional relationship between gut health and cardiac function. By correlating gut dysbiosis to established risk factors, this review underscores the potential for targeted interventions, the need for clinical evidence, and randomized controlled trials to characterize this association further.</p><p>Despite growing evidence linking gut dysbiosis to AF, a gap remains in clinical studies connecting gut microbiome-modulating therapies with improved AF outcomes[<xref rid="B5" ref-type="bibr">5</xref>]. This review discusses individualized therapeutic interventions to optimize AF management, including dietary modification, microbiome surveillance, and pharmacological strategies. Finally, we will highlight future research directions in this evolving field.</p></sec><sec><title>PATHOGENESIS</title><p>The gut microbiota is a complex community of bacteria, viruses, and fungi in our intestines[<xref rid="B6" ref-type="bibr">6</xref>]. It is primarily composed of <italic>Bacteroidetes</italic>, <italic>Firmicutes</italic>, <italic>Actinobacteria</italic>, and <italic>Proteobacteria</italic>. The F/B ratio is a relative estimate of intestinal microbial health (lower F/B ratio) or disease state (higher F/B ratio)(Figure <xref rid="F1" ref-type="fig">1</xref>)[<xref rid="B7" ref-type="bibr">7</xref>]. This ecosystem develops from birth and changes in response to diet, medication use, and overall health[<xref rid="B8" ref-type="bibr">8</xref>]. It produces substances crucial for the host's immune system development and regulation. Imbalances in the gut microbiota have been linked to various disorders, including cardiovascular diseases[<xref rid="B9" ref-type="bibr">9</xref>,<xref rid="B10" ref-type="bibr">10</xref>].</p><p>The gut microbiome is involved in cardiometabolic disease pathogenesis[<xref rid="B11" ref-type="bibr">11</xref>]. Diabetes, obesity, and hypertension increase AF risk and demonstrate gut dysbiosis[12&#x02013;14]. However, the role of gut microbiota in AF within specific patient populations needs to be explored, and its potential as a therapeutic target warrants further investigation. Gut dysbiosis has been observed in individuals with AF through observational and small cohort studies. Zuo <italic>et al</italic>[<xref rid="B15" ref-type="bibr">15</xref>] found that patients with paroxysmal and persistent AF have distinct gut microbiota and metabolite profiles compared to non-AF individuals[<xref rid="B15" ref-type="bibr">15</xref>].</p><p>Additionally, the composition of gut bacteria varies with AF duration and treatment modality. Persistent AF is linked with a decreased abundance of <italic>Butyricicoccus</italic> and <italic>Paraprevotella</italic> and an increased abundance of <italic>Blautia</italic>, <italic>Dorea</italic>, and <italic>Coprococcus</italic>. However, the exact nature of the causal relationship between AF and gut microbiota requires further exploration.</p><p>Gut dysbiosis contributes to AF through multiple interconnected pathways. Dysbiosis leads to a reduction in beneficial short-chain fatty acid (SCFA), loss of gut integrity, and leakage of harmful metabolites[<xref rid="B10" ref-type="bibr">10</xref>]. These disruptions trigger systemic inflammation, ferroptosis, and atrial remodeling, ultimately promoting AF (Figure <xref rid="F2" ref-type="fig">2</xref>). In the section below, we will discuss the various components involved in these pathways and their clinical relevance.</p><fig position="float" id="F2"><label>Figure 2</label><caption><p>
+<bold>Pathological link between gut dysbiosis and atrial fibrillation.</bold> AF: Atrial Fibrillation; FGF: Fibroblast growth factor; GPCR: G-protein coupled receptor; GPR: G-protein-coupled receptor; IL: Interleukin; LPS: Lipopolysaccharides; NF-&#x003ba;B: Nuclear factor kappa B; NLRP3: Nod-like receptor protein 3; PAGln Phenylacetylglutamine; SCFA: Short-chain fatty acids; TNF: Tumor necrosis factor; TLR: Toll-like receptor; TMAO: Trimethylamine N-oxide.</p></caption><graphic xlink:href="wjc-17-6-107386-g002" position="float"/></fig><sec><title>Gut lining</title><p>Gut dysbiosis damages the gut lining by triggering an inflammatory response and reducing the production of SCFAs. Low SCFA butyrate levels weaken the gut barrier, as butyrate increases tight junction proteins in the gut lining[<xref rid="B10" ref-type="bibr">10</xref>]. Harmful metabolites enter the circulation through dysfunctional mucosa. Reduced mucin production promotes AF through immunomodulation[<xref rid="B16" ref-type="bibr">16</xref>].</p><p>The endocannabinoid system dose-dependently improves gut integrity in mouse models[<xref rid="B17" ref-type="bibr">17</xref>]. It acts similarly on human coronary endothelial cell models. Enhanced integrity due to the endocannabinoid system prevents endothelial damage in response to hyperglycemia[<xref rid="B18" ref-type="bibr">18</xref>]. Dietary fibers and probiotics enhance gut integrity.</p></sec><sec><title>Ferroptosis cell death</title><p>Ferroptosis is a cell death mediated by iron-dependent lipid peroxidation and is involved in AF pathogenesis[<xref rid="B19" ref-type="bibr">19</xref>]. It is regulated by glutathione peroxidase 4 (GPX4), an enzyme that inhibits lipid peroxidation[<xref rid="B20" ref-type="bibr">20</xref>]. Decreased GPX4 promotes iron accumulation, leading to phospholipid membrane dysfunction[<xref rid="B21" ref-type="bibr">21</xref>]. Membrane lipid peroxidation releases reactive oxygen species (ROS) and harmful metabolites, damaging organelles[<xref rid="B20" ref-type="bibr">20</xref>]. Iron buildup in the body upregulates cardiac ferroptosis by increasing the availability of availability of activated iron. Additionally, damage-associated molecular patterns cause immunomodulation.</p><p>Gut bacteria upregulate ferroptosis in response to cell damage or inflammation[<xref rid="B22" ref-type="bibr">22</xref>]. They regulate ferroptosis locally by modulating iron absorption and storage[<xref rid="B23" ref-type="bibr">23</xref>]. Additionally, gut microbiota influences hepcidin[<xref rid="B24" ref-type="bibr">24</xref>].</p><p>Ferroptosis causes mitochondrial dysfunction, oxidative stress, electrical remodeling, ion channel dysregulation, and impaired autophagy, contributing to AF[<xref rid="B19" ref-type="bibr">19</xref>]. Loss of mitochondria depletes the energy available for contraction. Iron-dependent Fenton reactions generate ROS that remodel atria[<xref rid="B25" ref-type="bibr">25</xref>,<xref rid="B26" ref-type="bibr">26</xref>]. Cytoplasmic calcium leakage, rectifier potassium channel upregulation, and alterations in connexin propagate electrical remodeling. Cellular changes reduce conduction velocity and shorten the atrial refractory period[<xref rid="B27" ref-type="bibr">27</xref>]. Additionally, it triggers the interleukin (IL)-6/signal transducer and activator of transcription 3 pathway and plays a role in hypercoagulability[<xref rid="B28" ref-type="bibr">28</xref>].</p><p>
+<bold>Clinical implication:</bold> Probiotics can regulate iron absorption. Probiotics containing <italic>Lactobacillus</italic> alimentarus NKU556 have improved iron absorption[<xref rid="B29" ref-type="bibr">29</xref>]. <italic>Bifidobacteria</italic> and <italic>Lactobacillus</italic> may enhance iron bioavailability by decreasing pondus hydrogenii. Conversely, <italic>Escherichia coli</italic> (<italic>E. coli</italic>) downregulates the Fenton reaction to reduce inflammation[<xref rid="B30" ref-type="bibr">30</xref>]. <italic>Lactobacillus</italic> rhamnosis reduces ROS generation by influencing NADPH oxidase 1 (NOX1), and Butyrate-producing bacteria reduce ROS by inhibiting NOX2.</p></sec></sec><sec><title>GUT METABOLITES</title><p>Gut bacteria contribute to the AF substrate through their influence on metabolite production. These metabolites cross the intestinal lining, modulate immune responses, and function as signaling molecules within the host[<xref rid="B11" ref-type="bibr">11</xref>]. Nod-like receptor protein 3 (NLRP3) inflammasome activation generates a substrate for AF both directly and indirectly[<xref rid="B31" ref-type="bibr">31</xref>,<xref rid="B32" ref-type="bibr">32</xref>]. Inflammasome activation leads to the release of inflammatory cytokines and the development of AF[<xref rid="B33" ref-type="bibr">33</xref>]. Gut dysbiosis activates signaling pathways nuclear factor kappa B (NF-&#x003ba;B), toll-like receptor (TLR)-4, and NLRP3[<xref rid="B34" ref-type="bibr">34</xref>]. These pathways interact with CD40L, leukemia inhibitory factor receptor, IL-2 receptor subunit Beta, and Fms-related tyrosine kinase-3 ligand, resulting in the release of IL-6, IL-7, sulfotransferase 1A1, tumor necrosis factor (TNF), and fibroblast growth factor 5. These molecules potentiate AF risk through complex interactions. Additionally, the autonomic nervous system sustains AF and is a target for research focusing on pulmonary vein and atrial tissue changes[<xref rid="B35" ref-type="bibr">35</xref>,<xref rid="B36" ref-type="bibr">36</xref>].</p><sec><title>Trimethylamine N-oxide</title><p>The gut microbiota plays a crucial role in the production of trimethylamine N-oxide (TMAO). It converts dietary choline or L-carnitine into trimethylamine. This gaseous product enters the circulation and is oxidized into TMAO by hepatic flavin-containing monooxygenases[<xref rid="B37" ref-type="bibr">37</xref>]. MAO triggers inflammatory pathways, increasing autonomic activity and inducing AF. Yu <italic>et al</italic>[<xref rid="B38" ref-type="bibr">38</xref>] injected TMAO into specific nerve clusters in canine hearts, which resulted in rapid electrical changes compared to controls. Increased pro-inflammatory molecules, such as IL-1&#x003b2;, IL-6, and TNF-&#x003b1;, accompanied this. Similarly, elevated TMAO levels increased cardiac dysfunction, heart weight gain, and cardiac fibrosis in mice[<xref rid="B39" ref-type="bibr">39</xref>]. Cardiac changes were attributed to collagen accumulation, higher profibrotic markers, elevated inflammatory factors, and activation of the NLRP3 inflammasome.</p><p>While TMAO is linked to cardiovascular disease, its specific role in AF remains contested due to inconsistent findings across studies[<xref rid="B40" ref-type="bibr">40</xref>]. Svingen <italic>et al</italic>[<xref rid="B41" ref-type="bibr">41</xref>] noted that plasma TMAO levels and AF have a consistent association after adjusting for traditional AF risk factors and dietary choline intake. Conversely, B&#x000fc;ttner <italic>et al</italic>[<xref rid="B42" ref-type="bibr">42</xref>] and Florea <italic>et al</italic>[<xref rid="B43" ref-type="bibr">43</xref>] observed no significant difference in plasma TMAO levels between individuals with and without AF when patients with coronary artery disease were removed from the analysis. The selection of the patients, the number of comorbidities, and the adjustment of confounders could explain the differences between the findings mentioned above.</p><p>
+<bold>Clinical implications:</bold> Due to the common risk factors shared by AF and many cardiac diseases, it is currently challenging to determine whether TMAO is a direct cause of AF or an incidental factor. Further clinical evidence is needed to validate its potential as a therapeutic target in the future.</p></sec><sec><title>SCFAs</title><p>Colonic microbiota ferment glucose and dietary fiber, producing SCFAs. SCFA is an energy source utilized by the gut, resulting in secondary byproducts. The byproducts differentially modulate the host's immune system. Acetate, butyrate, and propionate are the most active and important, accounting for 95% of the SCFA[<xref rid="B44" ref-type="bibr">44</xref>]. Sodium butyrate exhibits anti-inflammatory properties against lipopolysaccharides (LPS), an endotoxin found in Gram-negative bacteria[<xref rid="B45" ref-type="bibr">45</xref>]. Butyrate lowers blood pressure by increasing the levels of nitric oxide synthase.</p><p>SCFA enhances T-cell differentiation into effector T cells, such as T helper (Th) 1 and Th17 cells, while also promoting the coexistence of anti-inflammatory IL-10+ regulatory T cells. SCFAs bind to G-protein-coupled receptor 43 (GPR43), significantly modulating inflammatory responses[<xref rid="B46" ref-type="bibr">46</xref>,<xref rid="B47" ref-type="bibr">47</xref>]. G-protein coupled receptor activation reduces the expression of genes implicated in cardiac hypertrophy, cardiorenal fibrosis, and inflammation[48&#x02013;50]. Animal studies have demonstrated that stimulation of GPR43 by SCFAs is essential for reducing inflammation. Conversely, GPR43-deficient immune cells, particularly leukocytes, exhibit increased production of inflammatory mediators and enhanced immune cell recruitment[<xref rid="B51" ref-type="bibr">51</xref>].</p><p>AF, aging, and gut dysbiosis reduce SCFA production. AF lowers SCFA-producing bacterial species (prevotella), Kyoto Encyclopedia of Genes and Genomes orthologues, and enzymes involved in SCFA synthesis. Leukocyte GPR43/NLRP3 interactions may be utilized for microbiome evaluation, as they mediate the effect of SCFAs on AF[<xref rid="B52" ref-type="bibr">52</xref>,<xref rid="B53" ref-type="bibr">53</xref>]. Fang <italic>et al</italic>[<xref rid="B54" ref-type="bibr">54</xref>] demonstrated that reduced acetic acid disrupted GPR43 and NLRP3 expression in peripheral blood leukocytes and contributed to left atrial enlargement. GPR43 mRNA levels correlate positively with acetic acid levels in the fecal samples and negatively with NLRP3 mRNA expression. Crucially, GPR43 levels are inversely correlated with the diameter of the left atrium.</p><p>
+<bold>Clinical implication:</bold> Direct evidence linking SCFAs to AF is limited. Indirectly, low SCFA levels are associated with traditional AF risk factors such as hypertension, obesity, heart failure (HF), and atherosclerosis[<xref rid="B55" ref-type="bibr">55</xref>]. Gut surveillance through a constructed GPR43&#x02013;NLRP3 score demonstrates the potential for predicting AF.</p></sec><sec><title>LPS</title><p>LPS are an endotoxin found in the outer layer of gram-negative bacteria. LPS-producing microbes are more prevalent in the gut of AF patients. They are implicated in AF development due to their role in immunomodulation, inflammation, and loss of gut integrity. Kong <italic>et al</italic>[<xref rid="B56" ref-type="bibr">56</xref>] noted that a high-fat diet alters gut microbiota and increases LPS production.</p><p>LPS decreases the expression of L-type calcium channel subunits (&#x003b1;1C and &#x003b2;2) and increases the expression of connexin 43. TLR-4 activation upregulates NF-&#x003ba;B activation, which increases pro-inflammatory cytokines in the atria[<xref rid="B10" ref-type="bibr">10</xref>]. These changes shorten the effective refractory period and induce AF[<xref rid="B57" ref-type="bibr">57</xref>,<xref rid="B58" ref-type="bibr">58</xref>]. Aging exerts a similar effect on the atrial tissue as a rise in LPS concentration[<xref rid="B34" ref-type="bibr">34</xref>].</p><p>Incorporating LPS measurements into risk models significantly enhances their ability to predict new-onset AF (NOAF) in specific sub-groups. Ren <italic>et al</italic>[<xref rid="B57" ref-type="bibr">57</xref>] observed that elevated LPS levels in patients with ST-elevation myocardial infarction (MI) predicted the development of NOAF. Similarly, Xu <italic>et al</italic>[<xref rid="B59" ref-type="bibr">59</xref>] correlated the risk of NOAF after lung cancer surgery with LPS elevation.</p><p>
+<bold>Clinical implication:</bold> Incorporating LPS measurement into standard risk assessment models may improve NOAF prediction. Following a Mediterranean diet rich in fruits and legumes reduces circulating LPS levels and warrants further clinical inquiry[<xref rid="B60" ref-type="bibr">60</xref>].</p></sec><sec><title>Primary and secondary bile acids</title><p>Bile acids (BAs) are systemic signaling molecules involved in fat and vitamin absorption[<xref rid="B61" ref-type="bibr">61</xref>]: Taurine and glycine conjugation in the liver results in primary BAs (cholic and chenodeoxycholic acid). Gut microbiota deconjugation produces secondary BAs, including deoxycholic and lithocholic acid, which are then reabsorbed[<xref rid="B62" ref-type="bibr">62</xref>]. Farnesoid X receptor (FXR), a nuclear transcription factor, regulates BAs. It prevents BA overload, reducing bile acid-mediated adverse effects on atrial cardiomyocytes[<xref rid="B63" ref-type="bibr">63</xref>].</p><p>Gut dysbiosis decreases secondary BAs and increases primary BAs. AF patients have elevated chenodeoxycholic acid levels, which are associated with atrial enlargement and electrical abnormalities. BA ratio alteration promotes atrial cardiomyocyte apoptosis[64&#x02013;66]. Additionally, primary BA induces structural remodeling, cardiac fibrosis, and NLRP3 inflammasome activation[<xref rid="B66" ref-type="bibr">66</xref>]. In contrast, secondary BAs, such as ursodeoxycholic acid, exert antiarrhythmic effects through stabilization of the cell membrane potential[<xref rid="B67" ref-type="bibr">67</xref>,<xref rid="B68" ref-type="bibr">68</xref>]. However, specific secondary BAs (glycolithocholate sulfate and glycocholenate sulfate) are linked with AF risk in African-American cohorts, suggesting a complex interaction[<xref rid="B69" ref-type="bibr">69</xref>].</p><p>
+<bold>Clinical implication:</bold> Steroidal and Nonsteroidal FXR agonists are currently the subject of pre-clinical and clinical trials and may have a potential therapeutic role[<xref rid="B63" ref-type="bibr">63</xref>].</p></sec><sec><title>Tryptophan metabolite and indole derivatives</title><p>Tryptophan is an amino acid involved in obesity-mediated inflammation[<xref rid="B70" ref-type="bibr">70</xref>]. The gut microbiome differentially metabolizes tryptophan into either beneficial or harmful metabolites, depending on the available substrate[<xref rid="B71" ref-type="bibr">71</xref>]. Clostridium sporogenes metabolized tryptophan into beneficial indoleacetic acid and indole propionic acid (IPA). Conversely, <italic>E. coli</italic> metabolizes tryptophan into the harmful indole through the tnaA-encodedtryptophanasee enzyme. The microbial composition determines whether tryptophan metabolism is detrimental or beneficial by regulating the metabolites formed. IPA maintains the gut lining by regulating the TLR pathway[<xref rid="B72" ref-type="bibr">72</xref>]. Downstream IPA inhibits atherosclerosis and exhibits an anti-inflammatory effect[<xref rid="B73" ref-type="bibr">73</xref>,<xref rid="B74" ref-type="bibr">74</xref>].</p><p>Indole sulfate is a harmful metabolite formed from indole in the liver and excreted by the kidneys[<xref rid="B75" ref-type="bibr">75</xref>]. It is implicated in arrhythmogenesis. In rabbit models, indoxyl sulfate (IS) promoted arrhythmogenesis in the arrhythmogenesis in the pulmonary veins and left atrium[<xref rid="B76" ref-type="bibr">76</xref>]. Arrhythmias are attributed to disruptions in cardiomyocyte calcium handling, profibrotic signaling, and oxidative stress[<xref rid="B76" ref-type="bibr">76</xref>,<xref rid="B77" ref-type="bibr">77</xref>]. However, discrepantly high IS plasma concentrations identified in animal models require contextual consideration, as humans have significantly lower circulating levels. Finally, kidney function regulates IS clearance; its accumulation in chronic kidney disease patients may create a proarrhythmic environment, as observed in animal models[<xref rid="B75" ref-type="bibr">75</xref>].</p><p>
+<bold>Clinical implication:</bold> The gut microbiome differentially metabolizes tryptophan into beneficial or harmful metabolites based on substrate availability.</p></sec><sec><title>Phenylacetylglutamine</title><p>Post-MI mouse models with gut dysfunction demonstrated Phenylacetylglutamine (PAGln) elevation and correlated it with the risk of NOAF in the cohort. PAGln-producing bacteria impair claudin-1 and occludin gut barrier proteins, resulting in PAGln translocation across the gut. PAGln activates the NLRP3 inflammasome in cardiac tissue, increasing atrial ectopy through the release of IL-1&#x003b2;, IL-6, and TNF-&#x003b1;[<xref rid="B78" ref-type="bibr">78</xref>]. Ferroptosis and PAGln-mediated collagen deposition impair electrical conduction through fibrosis and loss of ion channels[<xref rid="B78" ref-type="bibr">78</xref>].</p><p>
+<bold>Clinical implication:</bold> Improvement in gut integrity can reduce the risk of AF in post-MI patients.</p></sec></sec><sec><title>CLINICAL IMPLICATIONS OF GUT MODULATION IN AF</title><p>Therapy targeting gut dysbiosis can decrease atrial tissue degeneration[<xref rid="B55" ref-type="bibr">55</xref>]. Compared to other cardiovascular diseases, gut microbiome surveillance, dietary alteration, and physical activity are underutilized in AF care. The lack of robust clinical evidence limits their use in clinical practice. Gut modulation therapy includes prebiotics, probiotics, dietary modification, supplementation, weight loss, and fecal microbiota transplantation. However, recent advances based on animal, clinical, and trial data highlight the potential of gut health in the care of AF (Table <xref rid="T1" ref-type="table">1</xref>)[<xref rid="B53" ref-type="bibr">53</xref>,<xref rid="B54" ref-type="bibr">54</xref>,<xref rid="B57" ref-type="bibr">57</xref>,<xref rid="B59" ref-type="bibr">59</xref>,<xref rid="B71" ref-type="bibr">71</xref>,<xref rid="B78" ref-type="bibr">78</xref>,<xref rid="B79" ref-type="bibr">79</xref>].</p><table-wrap position="float" id="T1"><label>Table 1</label><caption><p>Recently published evidence supporting the role of gut microbiome targeted therapy in atrial fibrillation management</p></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1">
+<bold>Ref.</bold>
+<hr/>
+</td><td rowspan="1" colspan="1">
+<bold>Study year</bold>
+<hr/>
+</td><td rowspan="1" colspan="1">
+<bold>Category</bold>
+<hr/>
+</td><td rowspan="1" colspan="1">
+<bold>Index</bold>
+<hr/>
+</td><td rowspan="1" colspan="1">
+<bold>Key findings</bold>
+<hr/>
+</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Ren <italic>et al</italic>[<xref rid="B57" ref-type="bibr">57</xref>]</td><td rowspan="1" colspan="1">2024</td><td rowspan="1" colspan="1">Observational study</td><td rowspan="1" colspan="1">57</td><td rowspan="1" colspan="1">LPS levels associated with NOAF in ST-elevation MI patients</td></tr><tr><td rowspan="1" colspan="1">Xu <italic>et al</italic>[<xref rid="B59" ref-type="bibr">59</xref>]</td><td rowspan="1" colspan="1">2024</td><td rowspan="1" colspan="1">Observational study</td><td rowspan="1" colspan="1">59</td><td rowspan="1" colspan="1">Serum LPS linked to NOAF in cancer patients</td></tr><tr><td rowspan="1" colspan="1">Sinha <italic>et al</italic>[<xref rid="B71" ref-type="bibr">71</xref>]</td><td rowspan="1" colspan="1">2024</td><td rowspan="1" colspan="1">
+<italic>In vivo</italic> and <italic>in vitro</italic></td><td rowspan="1" colspan="1">71</td><td rowspan="1" colspan="1">Gut microbiome alters tryptophan metabolism</td></tr><tr><td rowspan="1" colspan="1">Fang <italic>et al</italic>[<xref rid="B54" ref-type="bibr">54</xref>]</td><td rowspan="1" colspan="1">2024</td><td rowspan="1" colspan="1">Humans</td><td rowspan="1" colspan="1">54</td><td rowspan="1" colspan="1">SCFA-dependent G-protein-coupled receptor 43/Nod-like receptor protein 3 score is associated with AF risk</td></tr><tr><td rowspan="1" colspan="1">Liu <italic>et al</italic>[<xref rid="B53" ref-type="bibr">53</xref>]</td><td rowspan="1" colspan="1">2024</td><td rowspan="1" colspan="1">Animal model</td><td rowspan="1" colspan="1">53</td><td rowspan="1" colspan="1">Relationship between gut dysbiosis, aging, and AF risk. Use of SCFA and fecal microbiota transplant to mitigate damage</td></tr><tr><td rowspan="1" colspan="1">Shi <italic>et al</italic>[<xref rid="B79" ref-type="bibr">79</xref>]</td><td rowspan="1" colspan="1">2025</td><td rowspan="1" colspan="1">Animal model</td><td rowspan="1" colspan="1">126</td><td rowspan="1" colspan="1">
+<italic>Lactobacillus</italic> gasseri prevents ibrutinib-associated AF</td></tr><tr><td rowspan="1" colspan="1">Wang <italic>et al</italic>[<xref rid="B78" ref-type="bibr">78</xref>]</td><td rowspan="1" colspan="1">2025</td><td rowspan="1" colspan="1">Animal model</td><td rowspan="1" colspan="1">78</td><td rowspan="1" colspan="1">Phenylacetylglutamine is associated with increased AF risk in post-MI mice</td></tr></tbody></table><table-wrap-foot><fn><p>AF: Atrial fibrillation; LPS: Lipopolysaccharides; MI: Myocardial infarction; NOAF: New-onset atrial fibrillation; SCFA: Short-chain fatty acids.</p></fn></table-wrap-foot></table-wrap><sec><title>Microbiome assessment techniques</title><p>Microbiome evaluation can be done through fecal sampling. Organism culture, 16S ribosomal sequencing, and mouse models have traditionally been used for assessment but are limited by their precision. Shotgun metagenomic sequencing has revolutionized microbiome assessment[<xref rid="B80" ref-type="bibr">80</xref>]. It leverages computing algorithms for data analysis and can identify species that cannot be cultured in the laboratory. Additionally, metaproteomics and metabolomics help us identify proteins involved and byproducts formed in the gut[<xref rid="B81" ref-type="bibr">81</xref>,<xref rid="B82" ref-type="bibr">82</xref>].</p><p>Metabolite surveillance is central to effective gut modulation. Human studies have noted a decrease in IS after successful catheter ablation. Higher IS levels increase the risk of AF recurrence after ablation[<xref rid="B83" ref-type="bibr">83</xref>]. Notably, kidney function influences IS levels. Future research warrants further investigation in groups stratified by kidney function[<xref rid="B84" ref-type="bibr">84</xref>]. The complex interactions of metabolites with the human body contribute to inaccuracies and limit their use.</p><p>GPX4, a regulator of ferroptosis, can predict AF recurrence. Adding GPX4 levels and TGF-&#x003b2; levels to the Left atrial diameter measurements enhances the predictive ability to detect AF recurrence, based on a study of 249 patients[<xref rid="B85" ref-type="bibr">85</xref>]. Recent advances can help design wearable sensors that continuously monitor the gut microbiome. Ingestible capsules are implantable chemical sensors being investigated to monitor gut health[<xref rid="B86" ref-type="bibr">86</xref>,<xref rid="B87" ref-type="bibr">87</xref>]. These sensors are independent circuits with bioreceptors that can analyze body fluids and provide continuous feedback remotely. A similar wearable biosensor was recently used to monitor C-reactive protein continuously through sweat[<xref rid="B88" ref-type="bibr">88</xref>]. However, no agreement exists on assessing the microbiota composition or dietary patterns. In the future, prediction models may leverage existing clinical evidence, epidemiologic data, and metabolite evaluation to provide recommendations.</p></sec><sec><title>Integration of gut microbiome in personalized AF management</title><p>Personalized AF management identifies patients who benefit from gut modulation based on genetic information and comorbidity clustering (Figure <xref rid="F3" ref-type="fig">3</xref>). Therefore, identifying high-risk or high-benefit groups through microbiome evaluation enables physicians to provide individualized care. Additionally, patients may be divided into subgroups such as older patients, HF patients, post-MI patients, alcohol users, post-ablation patients, or those on certain drugs.</p><fig position="float" id="F3"><label>Figure 3</label><caption><p>
+<bold>Gut modulation-based individualized care in atrial fibrillation.</bold> AF: Atrial fibrillation; GPC: G-protein coupled; HF: Heart failure; MI: Myocardial infarction; SCFA: Short-chain fatty acids.</p></caption><graphic xlink:href="wjc-17-6-107386-g003" position="float"/></fig><p>Age-mediated gut dysbiosis increases the risk of AF in older patients[<xref rid="B34" ref-type="bibr">34</xref>]. Aging contributes to elevated LPS levels, loss of gut integrity, and increased serum levels of harmful metabolites. These patients may benefit from glucose management, tryptophan supplementation, a high-fiber diet, and monitoring of indole-sulfate levels.</p><p>In two recent nested case-control studies, tryptophan supplementation increased the (1) Kynurenine: Tryptophan ratio; and (2) Reduced AF risk[<xref rid="B89" ref-type="bibr">89</xref>,<xref rid="B90" ref-type="bibr">90</xref>]. In mouse models, tryptophan has been shown to protect against age-mediated dysbiosis[<xref rid="B91" ref-type="bibr">91</xref>]. Enhanced gut integrity, improved microbiome diversity, and decreased pro-inflammatory cytokines may explain its beneficial effects[<xref rid="B92" ref-type="bibr">92</xref>].</p><p>Indole sulfate monitoring can guide tryptophan requirements. The oral tryptophan challenge test (OTCT) categorizes patients into low IS or high IS producers by measuring IS levels 48 hours after tryptophan administration[<xref rid="B93" ref-type="bibr">93</xref>]. High IS producers are at an increased AF risk and could benefit from low-tryptophan diets. A high-fiber diet in high IS producers shifts tryptophan metabolism to reduce levels of IS. Further research is needed to explore the clinical applications of OTCT in precision nutrition.</p><p>HF-driven intestinal congestion damages the gut mucosa and alters the gut microbiome[<xref rid="B94" ref-type="bibr">94</xref>,<xref rid="B95" ref-type="bibr">95</xref>]. This congestion gives rise to cardiac cachexia and is associated with poor outcomes[<xref rid="B96" ref-type="bibr">96</xref>]. Gut modulation can reduce gut inflammation and improve integrity. Patients with concomitant AF and HF may benefit from gut microbiome-altering therapy.</p><p>Alcohol displays a strong link with increased AF risk[<xref rid="B97" ref-type="bibr">97</xref>,<xref rid="B98" ref-type="bibr">98</xref>]. In these patients, autonomic nervous system dysfunction, ion channel damage, and fibrosis contribute to atrial remodeling[<xref rid="B99" ref-type="bibr">99</xref>]. SIRT3 signaling and ferroptosis have been identified as potential therapeutic targets for the treatment of various diseases. Ferroptosis inhibition is a novel therapy to reduce the risk of AF in populations with high alcohol consumption[<xref rid="B100" ref-type="bibr">100</xref>].</p></sec><sec><title>Dietary strategies to modulate gut microbiome as part of AF management</title><p>To effectively implement dietary recommendations, healthcare providers must be grounded in clearly defined biochemical pathways that are tailored to specific patient subgroups and supported by evidence[<xref rid="B101" ref-type="bibr">101</xref>]. Clinical evidence suggests that weight loss, physical activity, increased fiber intake, and supplementation can improve gut health[<xref rid="B102" ref-type="bibr">102</xref>-<xref rid="B104" ref-type="bibr">104</xref>]. Clustering patients based on comorbidities and microbiome phenotypes enables targeted modulation of the gut microbiome for therapeutic benefit.</p><p>Weight loss in obese patients restores a healthier F/B ratio and increases beneficial <italic>Rikenellaceae</italic> levels[<xref rid="B102" ref-type="bibr">102</xref>]. The increase in <italic>Rikenellaceae</italic> is crucial, as it mediates IL-6, linking the gut microbiome alteration to obesity-related inflammation. Animal models of Metabolic dysfunction-associated steatotic liver disease consistently demonstrate that a high-fat diet correlates with reduced <italic>Rikenellaceae</italic> levels, whereas low body mass index correlates with increased <italic>Rikenellaceae</italic> levels[<xref rid="B103" ref-type="bibr">103</xref>,<xref rid="B104" ref-type="bibr">104</xref>].</p><p>Moreover, improved glucose control suppresses LPS-driven NLRP3-inflammasome activation, a mechanism central to gut dysbiosis[<xref rid="B34" ref-type="bibr">34</xref>]. Aging-related gut barrier dysfunction permits increased LPS translocation, underscoring the importance of tight glycemic control in mitigating gut dysbiosis, particularly in older adults.</p><p>Fibre slows colon transit time, improves carbohydrate availability, and promotes the microbiome to produce beneficial SCFA-producing metabolites. In contrast, rapid transition limits carbohydrate availability and shifts the substrate to protein, which generates harmful metabolites[<xref rid="B105" ref-type="bibr">105</xref>]. Qi <italic>et al</italic>[<xref rid="B106" ref-type="bibr">106</xref>] followed 9290 patients for 5.7 years and reported that a high-fiber diet shifted tryptophan metabolism toward the beneficial IPA.</p><p>A high-fiber diet offers distinct benefits for AF and HF and positively influences tryptophan metabolism[<xref rid="B71" ref-type="bibr">71</xref>]. At a microbial level, HF is associated with low SCFA producers, such as <italic>Bifidobacterium</italic> and <italic>Lachnospiraceae</italic>[<xref rid="B107" ref-type="bibr">107</xref>]. Dietary Fibre indirectly boosts SCFA-producing species. Higher SCFA consequently counters atherogenesis, dyslipidemia, and neurohormonal activation[<xref rid="B108" ref-type="bibr">108</xref>]. Omega-3 fatty acid (FA), found in fish oil, reduces the harmful metabolites and increases levels of SCFA, such as butyrate[<xref rid="B109" ref-type="bibr">109</xref>,<xref rid="B110" ref-type="bibr">110</xref>]. A pooled analysis of 54799 patients showed a reduced incidence of AF with omega-3 FA supplementation[<xref rid="B111" ref-type="bibr">111</xref>]. Omega-3 FA increased beneficial Akkermansia, restored a healthier F/B ratio, and reduced TMAO, collectively improving endothelial function in a randomized controlled trial[<xref rid="B112" ref-type="bibr">112</xref>]. Additionally, mouse models have shown that Akkermansia reduces AF by lowering TMAO[<xref rid="B113" ref-type="bibr">113</xref>].</p><p>EFA includes FAs such as omega-3 and omega-6 precursors, alpha-linolenic acid (ALA), and linoleic acid (LA). An omega-6/omega-3 ratio of 10/1 to 3/1 is optimal[<xref rid="B114" ref-type="bibr">114</xref>,<xref rid="B115" ref-type="bibr">115</xref>]. However, Western diets commonly exceed this ratio, with a 15:1 ratio. This results in an omega-3 deficiency because omega-3 and omega-6 compete for the same enzyme, delta-6 desaturase.</p><p>ALA supplementation of up to 2.5 g/day reduced AF risk in a cohort of 54260 over a 16-year follow-up[<xref rid="B116" ref-type="bibr">116</xref>]. Despite the substrate&#x02019;s preference for ALA, ALA and LA compete for delta-6-saturation reactions. Low ALA, compared to LA, increases anti-inflammatory Arachidonic acid production. Conversely, high ALA forms cell membranes and exhibits anti-inflammatory effects[<xref rid="B117" ref-type="bibr">117</xref>]. These findings highlight the gut microbiome's role in balancing the omega-3/omega-6 ratio and the benefits of ALA supplementation.</p></sec><sec><title>Pharmacomicrobiomics of AF</title><p>Harm from drugs with narrow therapeutic indexes and arrhythmogenic side effects of medications can be mitigated through gut modulation.</p></sec><sec><title>Warfarin</title><p>Vitamin K production by gut bacteria potentiates the effect of warfarin. Warfarin has a narrow therapeutic index requiring close monitoring. <italic>Enterococcus</italic> is associated with an increased response to warfarin[<xref rid="B118" ref-type="bibr">118</xref>]. Conversely, <italic>Bacteroides</italic>, <italic>Shigella</italic>, and <italic>Klebsiella</italic> are associated with a reduced response. Further exploration of warfarin's relationship with bacteria prevalent in patients with AF can improve individualized treatment regimens and enhance patient safety.</p></sec><sec><title>Colchicine</title><p>Omega-3 FAs are being investigated for their potential to improve gastrointestinal (GI) tolerability by influencing the gut microbiome[<xref rid="B119" ref-type="bibr">119</xref>]. Colchicine prevents AF recurrence after cardiac ablation; however, GI intolerance has limited its use[<xref rid="B120" ref-type="bibr">120</xref>,<xref rid="B121" ref-type="bibr">121</xref>]. GI side effects can be mitigated by using probiotics.</p></sec><sec><title>Digoxin</title><p>
+<italic>Actinobacterium Egerthella</italic> lenta metabolizes digoxin into inactive metabolite dihydro-digoxin through its action at the cardiac glycoside reductase (CGR) operon[<xref rid="B122" ref-type="bibr">122</xref>]. Digoxin has a narrow therapeutic index, with high concentrations correlated with mortality in AF patients[<xref rid="B123" ref-type="bibr">123</xref>,<xref rid="B124" ref-type="bibr">124</xref>]. The CGR protein to <italic>Eggerthella lenta</italic> ratio can predict the amount of digoxin lowered. Enhanced prediction of digoxin levels is critical to patients with HF and AF and requires continued inquiry[<xref rid="B122" ref-type="bibr">122</xref>].</p></sec><sec><title>Amiodarone</title><p>Based on mouse models, the Probiotic <italic>E. coli</italic>-induced cytochrome p450 2C activation alters amiodarone metabolism[<xref rid="B125" ref-type="bibr">125</xref>]. Conversely, amiodarone exhibits antibacterial activity against <italic>E. coli</italic>, highlighting a bidirectional relationship[<xref rid="B126" ref-type="bibr">126</xref>]. Amiodarone is frequently prescribed in AF, and gut modulation may influence its effectiveness in the future.</p></sec><sec><title>Ibrutinib</title><p>SCFA-producer <italic>Lactobacillus</italic> gasseri reduces the risk of Ibrutinib-induced AF[<xref rid="B79" ref-type="bibr">79</xref>]. Ibrutinib is an anti-cancer drug that increases AF risk <italic>via</italic> the C-terminal Src kinase-Src pathway[<xref rid="B127" ref-type="bibr">127</xref>]. It also damages gut integrity. As a result, the gut microbiome mediates Irutinib's effect on atrial tissue and electrophysiology.</p></sec></sec><sec><title>CURRENT CHALLENGES</title><p>Gut modulation therapy is not yet well defined or integrated into standard care. Animal and clinical studies suggest that dysbiosis contributes to AF progression. However, several important issues must be addressed before gut microbiota can be considered a viable target for AF management.</p><p>Specifically, despite the correlation between gut dysbiosis and AF, the safety and efficacy of gut-modulating therapy are yet to be tested robustly in randomized controlled trials.</p><p>Most current studies on gut microbiota and AF have focused on bacteria, overlooking the potential involvement of other microorganisms such as fungi, viruses, archaea, and protists. The contribution of non-bacterial microorganisms, individually or as part of microbial communities, to AF development warrants further exploration. Additionally, extracting, sequencing, and identifying microorganisms with smaller genomes, such as bacteriophages, is challenging[<xref rid="B128" ref-type="bibr">128</xref>]. Instead of focusing on individual microbes, it is essential to explore the combined effects of microbial communities on gut microbiota.</p><p>Dietary habits significantly contribute to long-term changes in gut microbiota, but our understanding of this relationship remains limited. However, research indicates that nutritional patterns modulate the stability of gut microbiota over a six-month period[<xref rid="B129" ref-type="bibr">129</xref>]. More research is needed to determine the duration of dietary interventions required to produce lasting effects on gut microbiota.</p><p>Future studies should also consider whether certain probiotics and postbiotics can influence AF in humans and whether their use could be incorporated into risk factor modification programs for both primary and secondary prevention of AF[<xref rid="B128" ref-type="bibr">128</xref>,<xref rid="B130" ref-type="bibr">130</xref>].</p><p>Studies of association should be investigated through well-designed, randomized clinical trials that incorporate standardized, prospective microbiota analyses to establish causation. Future research should elucidate and characterize both the direct and indirect benefits of gut-modulating therapy in patients with AF.</p></sec><sec><title>FUTURE PERSPECTIVES AND EMERGING THERAPIES</title><sec><title>Endocannabinoid system</title><p>Human research exploring the role of dysbiosis management in AF care is minimal[<xref rid="B131" ref-type="bibr">131</xref>]. The endocannabinoid system enhances gut integrity in mouse models in a dose-dependent manner[<xref rid="B17" ref-type="bibr">17</xref>]. It acts on tight junctions[<xref rid="B132" ref-type="bibr">132</xref>]. Human coronary endothelial cell models exhibit similar effects on membrane permeability at high glucose levels[<xref rid="B18" ref-type="bibr">18</xref>]. Decreased permeability mitigates endothelial damage in response to hyperglycemia. However, this needs human research.</p></sec><sec><title>Photobiomodulation</title><p>Photobiomodulation altered the gut microbiome in obese mouse models[<xref rid="B133" ref-type="bibr">133</xref>]. The infrared and red light projected on mice&#x02019;s abdomens over 2 weeks increased Allobaculum levels. Allobaculum improves gut integrity. Interestingly, exercise also increased Allobaculum levels in obese mice. However, this study was limited in number and requires further inquiry.</p></sec></sec><sec><title>CONCLUSION</title><p>Gut dysbiosis plays a pivotal role in AF pathogenesis through inflammatory, metabolic, and autonomic pathways. Despite growing evidence linking gut microbiome alterations to the risk and progression of AF, clinical applications remain underexplored. Targeted interventions&#x02014;such as dietary modifications, microbiome surveillance, and pharmacological strategies&#x02014;offer promise for the prevention and management of AF.</p><p>Technological advancements in microbiome assessment, including metagenomics and wearable biosensors, offer new opportunities for personalized AF care. However, robust clinical trials are essential for validating gut-modulating therapies and establishing their role in routine AF management. Future research should focus on integrating microbiome-based precision medicine into AF care to bridge the evidence gap and improve patient outcomes.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p>
+<bold>Conflict-of-interest statement:</bold> All authors declare no conflict of interest in publishing the manuscript.</p></fn><fn><p>
+<bold>Provenance and peer review:</bold> Invited article; Externally peer reviewed.</p></fn><fn><p>
+<bold>Peer-review model:</bold> Single blind</p></fn><fn><p>
+<bold>Specialty type:</bold> Cardiac and cardiovascular systems</p></fn><fn><p>
+<bold>Country of origin:</bold> India</p></fn><fn><p>
+<bold>Peer-review report&#x02019;s classification</bold>
+</p></fn><fn><p>
+<bold>Scientific Quality:</bold> Grade B, Grade D</p></fn><fn><p>
+<bold>Novelty:</bold> Grade A, Grade D</p></fn><fn><p>
+<bold>Creativity or Innovation:</bold> Grade B, Grade E</p></fn><fn><p>
+<bold>Scientific Significance:</bold> Grade B, Grade E</p></fn><fn><p>
+<bold>P-Reviewer:</bold> Kumar N <bold>S-Editor:</bold> Luo ML <bold>L-Editor:</bold> A <bold>P-Editor:</bold> Zhang XD</p></fn></fn-group><ref-list><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>S</given-names></name>
+<name><surname>He</surname><given-names>J</given-names></name>
+<name><surname>Han</surname><given-names>Y</given-names></name>
+<name><surname>Han</surname><given-names>S</given-names></name>
+<name><surname>Li</surname><given-names>P</given-names></name>
+<name><surname>Liao</surname><given-names>H</given-names></name>
+<name><surname>Guo</surname><given-names>J</given-names></name>
+</person-group><article-title>Global burden of atrial fibrillation/atrial flutter and its attributable risk factors from 1990 to 2021</article-title><source>Europace</source><year>2024</year><volume>26</volume><fpage>euae195</fpage><pub-id pub-id-type="pmid">38984719</pub-id>
+</element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lau</surname><given-names>DH</given-names></name>
+<name><surname>Nattel</surname><given-names>S</given-names></name>
+<name><surname>Kalman</surname><given-names>JM</given-names></name>
+<name><surname>Sanders</surname><given-names>P</given-names></name>
+</person-group><article-title>Modifiable Risk Factors and Atrial Fibrillation</article-title><source>Circulation</source><year>2017</year><volume>136</volume><fpage>583</fpage><lpage>596</lpage><pub-id pub-id-type="pmid">28784826</pub-id>
+</element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Wang</surname><given-names>K</given-names></name>
+<name><surname>Mei</surname><given-names>Z</given-names></name>
+<name><surname>Wang</surname><given-names>L</given-names></name>
+</person-group><article-title>Exploring the Axis of Gut Microbiota-Inflammatory Cytokine-Atrial Fibrillation in the Pathogenesis of Atrial Fibrillation</article-title><source>J Cell Mol Med</source><year>2025</year><volume>29</volume><fpage>e70379</fpage><pub-id pub-id-type="pmid">39930552</pub-id>
+</element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Martins</surname><given-names>D</given-names></name>
+<name><surname>Silva</surname><given-names>C</given-names></name>
+<name><surname>Ferreira</surname><given-names>AC</given-names></name>
+<name><surname>Dourado</surname><given-names>S</given-names></name>
+<name><surname>Albuquerque</surname><given-names>A</given-names></name>
+<name><surname>Saraiva</surname><given-names>F</given-names></name>
+<name><surname>Batista</surname><given-names>AB</given-names></name>
+<name><surname>Castro</surname><given-names>P</given-names></name>
+<name><surname>Leite-Moreira</surname><given-names>A</given-names></name>
+<name><surname>Barros</surname><given-names>AS</given-names></name>
+<name><surname>Miranda</surname><given-names>IM</given-names></name>
+</person-group><article-title>Unravelling the Gut Microbiome Role in Cardiovascular Disease: A Systematic Review and a Meta-Analysis</article-title><source>Biomolecules</source><year>2024</year><volume>14</volume><fpage>731</fpage><pub-id pub-id-type="pmid">38927134</pub-id>
+</element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Williams</surname><given-names>EG</given-names></name>
+<name><surname>Alissa</surname><given-names>M</given-names></name>
+<name><surname>Alsugoor</surname><given-names>MH</given-names></name>
+<name><surname>Albakri</surname><given-names>GS</given-names></name>
+<name><surname>Altamimi</surname><given-names>AA</given-names></name>
+<name><surname>Alabdullateef</surname><given-names>AA</given-names></name>
+<name><surname>Almansour</surname><given-names>NM</given-names></name>
+<name><surname>Aldakheel</surname><given-names>FM</given-names></name>
+<name><surname>Alessa</surname><given-names>S</given-names></name>
+<name><surname>Marber</surname><given-names>M</given-names></name>
+</person-group><article-title>Integrative approaches to atrial fibrillation prevention and management: Leveraging gut health for improved cardiovascular outcomes in the aging population</article-title><source>Curr Probl Cardiol</source><year>2025</year><volume>50</volume><fpage>102952</fpage><pub-id pub-id-type="pmid">39626858</pub-id>
+</element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ursell</surname><given-names>LK</given-names></name>
+<name><surname>Metcalf</surname><given-names>JL</given-names></name>
+<name><surname>Parfrey</surname><given-names>LW</given-names></name>
+<name><surname>Knight</surname><given-names>R</given-names></name>
+</person-group><article-title>Defining the human microbiome</article-title><source>Nutr Rev</source><year>2012</year><volume>70 Suppl 1</volume><fpage>S38</fpage><lpage>S44</lpage><pub-id pub-id-type="pmid">22861806</pub-id>
+</element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>De</surname><given-names>Filippo C</given-names></name>
+<name><surname>Cavalieri</surname><given-names>D</given-names></name>
+<name><surname>Di</surname><given-names>Paola M</given-names></name>
+<name><surname>Ramazzotti</surname><given-names>M</given-names></name>
+<name><surname>Poullet</surname><given-names>JB</given-names></name>
+<name><surname>Massart</surname><given-names>S</given-names></name>
+<name><surname>Collini</surname><given-names>S</given-names></name>
+<name><surname>Pieraccini</surname><given-names>G</given-names></name>
+<name><surname>Lionetti</surname><given-names>P</given-names></name>
+</person-group><article-title>Impact of diet in shaping gut microbiota revealed by a comparative study in children from Europe and rural Africa</article-title><source>Proc Natl Acad Sci U S A</source><year>2010</year><volume>107</volume><fpage>14691</fpage><lpage>14696</lpage><pub-id pub-id-type="pmid">20679230</pub-id>
+</element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hasan</surname><given-names>N</given-names></name>
+<name><surname>Yang</surname><given-names>H</given-names></name>
+</person-group><article-title>Factors affecting the composition of the gut microbiota, and its modulation</article-title><source>PeerJ</source><year>2019</year><volume>7</volume><fpage>e7502</fpage><pub-id pub-id-type="pmid">31440436</pub-id>
+</element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Emoto</surname><given-names>T</given-names></name>
+<name><surname>Yamashita</surname><given-names>T</given-names></name>
+<name><surname>Sasaki</surname><given-names>N</given-names></name>
+<name><surname>Hirota</surname><given-names>Y</given-names></name>
+<name><surname>Hayashi</surname><given-names>T</given-names></name>
+<name><surname>So</surname><given-names>A</given-names></name>
+<name><surname>Kasahara</surname><given-names>K</given-names></name>
+<name><surname>Yodoi</surname><given-names>K</given-names></name>
+<name><surname>Matsumoto</surname><given-names>T</given-names></name>
+<name><surname>Mizoguchi</surname><given-names>T</given-names></name>
+<name><surname>Ogawa</surname><given-names>W</given-names></name>
+<name><surname>Hirata</surname><given-names>K</given-names></name>
+</person-group><article-title>Analysis of Gut Microbiota in Coronary Artery Disease Patients: a Possible Link between Gut Microbiota and Coronary Artery Disease</article-title><source>J Atheroscler Thromb</source><year>2016</year><volume>23</volume><fpage>908</fpage><lpage>921</lpage><pub-id pub-id-type="pmid">26947598</pub-id>
+</element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Suresh</surname><given-names>MG</given-names></name>
+<name><surname>Mohamed</surname><given-names>S</given-names></name>
+<name><surname>Yukselen</surname><given-names>Z</given-names></name>
+<name><surname>Hatwal</surname><given-names>J</given-names></name>
+<name><surname>Venkatakrishnan</surname><given-names>A</given-names></name>
+<name><surname>Metri</surname><given-names>A</given-names></name>
+<name><surname>Bhardwaj</surname><given-names>A</given-names></name>
+<name><surname>Singh</surname><given-names>A</given-names></name>
+<name><surname>Bush</surname><given-names>N</given-names></name>
+<name><surname>Batta</surname><given-names>A</given-names></name>
+</person-group><article-title>Therapeutic Modulation of Gut Microbiome in Cardiovascular Disease: A Literature Review</article-title><source>Heart Mind</source><year>2025</year><volume>9</volume><fpage>68</fpage><lpage>79</lpage></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vinj&#x000e9;</surname><given-names>S</given-names></name>
+<name><surname>Stroes</surname><given-names>E</given-names></name>
+<name><surname>Nieuwdorp</surname><given-names>M</given-names></name>
+<name><surname>Hazen</surname><given-names>SL</given-names></name>
+</person-group><article-title>The gut microbiome as novel cardio-metabolic target: the time has come!</article-title><source>Eur Heart J</source><year>2014</year><volume>35</volume><fpage>883</fpage><lpage>887</lpage><pub-id pub-id-type="pmid">24216389</pub-id>
+</element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>G</given-names></name>
+<name><surname>Wei</surname><given-names>J</given-names></name>
+<name><surname>Liu</surname><given-names>P</given-names></name>
+<name><surname>Zhang</surname><given-names>Q</given-names></name>
+<name><surname>Tian</surname><given-names>Y</given-names></name>
+<name><surname>Hou</surname><given-names>G</given-names></name>
+<name><surname>Meng</surname><given-names>L</given-names></name>
+<name><surname>Xin</surname><given-names>Y</given-names></name>
+<name><surname>Jiang</surname><given-names>X</given-names></name>
+</person-group><article-title>Role of the gut microbiota in type 2 diabetes and related diseases</article-title><source>Metabolism</source><year>2021</year><volume>117</volume><fpage>154712</fpage><pub-id pub-id-type="pmid">33497712</pub-id>
+</element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Maruvada</surname><given-names>P</given-names></name>
+<name><surname>Leone</surname><given-names>V</given-names></name>
+<name><surname>Kaplan</surname><given-names>LM</given-names></name>
+<name><surname>Chang</surname><given-names>EB</given-names></name>
+</person-group><article-title>The Human Microbiome and Obesity: Moving beyond Associations</article-title><source>Cell Host Microbe</source><year>2017</year><volume>22</volume><fpage>589</fpage><lpage>599</lpage><pub-id pub-id-type="pmid">29120742</pub-id>
+</element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Marques</surname><given-names>FZ</given-names></name>
+<name><surname>Mackay</surname><given-names>CR</given-names></name>
+<name><surname>Kaye</surname><given-names>DM</given-names></name>
+</person-group><article-title>Beyond gut feelings: how the gut microbiota regulates blood pressure</article-title><source>Nat Rev Cardiol</source><year>2018</year><volume>15</volume><fpage>20</fpage><lpage>32</lpage><pub-id pub-id-type="pmid">28836619</pub-id>
+</element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zuo</surname><given-names>K</given-names></name>
+<name><surname>Li</surname><given-names>J</given-names></name>
+<name><surname>Li</surname><given-names>K</given-names></name>
+<name><surname>Hu</surname><given-names>C</given-names></name>
+<name><surname>Gao</surname><given-names>Y</given-names></name>
+<name><surname>Chen</surname><given-names>M</given-names></name>
+<name><surname>Hu</surname><given-names>R</given-names></name>
+<name><surname>Liu</surname><given-names>Y</given-names></name>
+<name><surname>Chi</surname><given-names>H</given-names></name>
+<name><surname>Wang</surname><given-names>H</given-names></name>
+<name><surname>Qin</surname><given-names>Y</given-names></name>
+<name><surname>Liu</surname><given-names>X</given-names></name>
+<name><surname>Li</surname><given-names>S</given-names></name>
+<name><surname>Cai</surname><given-names>J</given-names></name>
+<name><surname>Zhong</surname><given-names>J</given-names></name>
+<name><surname>Yang</surname><given-names>X</given-names></name>
+</person-group><article-title>Disordered gut microbiota and alterations in metabolic patterns are associated with atrial fibrillation</article-title><source>Gigascience</source><year>2019</year><volume>8</volume><fpage>giz058</fpage><pub-id pub-id-type="pmid">31149718</pub-id>
+</element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>DeJong</surname><given-names>EN</given-names></name>
+<name><surname>Surette</surname><given-names>MG</given-names></name>
+<name><surname>Bowdish</surname><given-names>DME</given-names></name>
+</person-group><article-title>The Gut Microbiota and Unhealthy Aging: Disentangling Cause from Consequence</article-title><source>Cell Host Microbe</source><year>2020</year><volume>28</volume><fpage>180</fpage><lpage>189</lpage><pub-id pub-id-type="pmid">32791111</pub-id>
+</element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alhamoruni</surname><given-names>A</given-names></name>
+<name><surname>Lee</surname><given-names>AC</given-names></name>
+<name><surname>Wright</surname><given-names>KL</given-names></name>
+<name><surname>Larvin</surname><given-names>M</given-names></name>
+<name><surname>O'Sullivan</surname><given-names>SE</given-names></name>
+</person-group><article-title>Pharmacological effects of cannabinoids on the Caco-2 cell culture model of intestinal permeability</article-title><source>J Pharmacol Exp Ther</source><year>2010</year><volume>335</volume><fpage>92</fpage><lpage>102</lpage><pub-id pub-id-type="pmid">20592049</pub-id>
+</element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rajesh</surname><given-names>M</given-names></name>
+<name><surname>Mukhopadhyay</surname><given-names>P</given-names></name>
+<name><surname>B&#x000e1;tkai</surname><given-names>S</given-names></name>
+<name><surname>Hask&#x000f3;</surname><given-names>G</given-names></name>
+<name><surname>Liaudet</surname><given-names>L</given-names></name>
+<name><surname>Drel</surname><given-names>VR</given-names></name>
+<name><surname>Obrosova</surname><given-names>IG</given-names></name>
+<name><surname>Pacher</surname><given-names>P</given-names></name>
+</person-group><article-title>Cannabidiol attenuates high glucose-induced endothelial cell inflammatory response and barrier disruption</article-title><source>Am J Physiol Heart Circ Physiol</source><year>2007</year><volume>293</volume><fpage>H610</fpage><lpage>H619</lpage><pub-id pub-id-type="pmid">17384130</pub-id>
+</element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>S</given-names></name>
+<name><surname>Hu</surname><given-names>Y</given-names></name>
+<name><surname>Shi</surname><given-names>J</given-names></name>
+</person-group><article-title>Role of ferroptosis in atrial fibrillation: a review</article-title><source>Front Pharmacol</source><year>2025</year><volume>16</volume><fpage>1362060</fpage><pub-id pub-id-type="pmid">39981174</pub-id>
+</element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Conrad</surname><given-names>M</given-names></name>
+<name><surname>Pratt</surname><given-names>DA</given-names></name>
+</person-group><article-title>The chemical basis of ferroptosis</article-title><source>Nat Chem Biol</source><year>2019</year><volume>15</volume><fpage>1137</fpage><lpage>1147</lpage><pub-id pub-id-type="pmid">31740834</pub-id>
+</element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>LL</given-names></name>
+<name><surname>Liu</surname><given-names>ZK</given-names></name>
+<name><surname>Zhang</surname><given-names>L</given-names></name>
+<name><surname>Li</surname><given-names>N</given-names></name>
+<name><surname>Fang</surname><given-names>T</given-names></name>
+<name><surname>Zhang</surname><given-names>DL</given-names></name>
+<name><surname>Xu</surname><given-names>GZ</given-names></name>
+<name><surname>Zhan</surname><given-names>SY</given-names></name>
+</person-group><article-title>[Epidemiological and etiological characteristics of hand, foot and mouth disease among children aged 5 years and younger in Ningbo (2016 to 2019)]</article-title><source>Beijing Da Xue Xue Bao Yi Xue Ban</source><year>2021</year><volume>53</volume><fpage>491</fpage><lpage>497</lpage><pub-id pub-id-type="pmid">34145850</pub-id>
+</element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>T</given-names></name>
+<name><surname>Li</surname><given-names>L</given-names></name>
+</person-group><article-title>The influence of microbiota on ferroptosis in intestinal diseases</article-title><source>Gut Microbes</source><year>2023</year><volume>15</volume><fpage>2263210</fpage><pub-id pub-id-type="pmid">37795964</pub-id>
+</element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Das</surname><given-names>NK</given-names></name>
+<name><surname>Schwartz</surname><given-names>AJ</given-names></name>
+<name><surname>Barthel</surname><given-names>G</given-names></name>
+<name><surname>Inohara</surname><given-names>N</given-names></name>
+<name><surname>Liu</surname><given-names>Q</given-names></name>
+<name><surname>Sankar</surname><given-names>A</given-names></name>
+<name><surname>Hill</surname><given-names>DR</given-names></name>
+<name><surname>Ma</surname><given-names>X</given-names></name>
+<name><surname>Lamberg</surname><given-names>O</given-names></name>
+<name><surname>Schnizlein</surname><given-names>MK</given-names></name>
+<name><surname>Arqu&#x000e9;s</surname><given-names>JL</given-names></name>
+<name><surname>Spence</surname><given-names>JR</given-names></name>
+<name><surname>Nunez</surname><given-names>G</given-names></name>
+<name><surname>Patterson</surname><given-names>AD</given-names></name>
+<name><surname>Sun</surname><given-names>D</given-names></name>
+<name><surname>Young</surname><given-names>VB</given-names></name>
+<name><surname>Shah</surname><given-names>YM</given-names></name>
+</person-group><article-title>Microbial Metabolite Signaling Is Required for Systemic Iron Homeostasis</article-title><source>Cell Metab</source><year>2020</year><volume>31</volume><fpage>115</fpage><lpage>130.e6</lpage><pub-id pub-id-type="pmid">31708445</pub-id>
+</element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shanmugam</surname><given-names>NK</given-names></name>
+<name><surname>Trebicka</surname><given-names>E</given-names></name>
+<name><surname>Fu</surname><given-names>LL</given-names></name>
+<name><surname>Shi</surname><given-names>HN</given-names></name>
+<name><surname>Cherayil</surname><given-names>BJ</given-names></name>
+</person-group><article-title>Intestinal inflammation modulates expression of the iron-regulating hormone hepcidin depending on erythropoietic activity and the commensal microbiota</article-title><source>J Immunol</source><year>2014</year><volume>193</volume><fpage>1398</fpage><lpage>1407</lpage><pub-id pub-id-type="pmid">24973448</pub-id>
+</element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Clark</surname><given-names>A</given-names></name>
+<name><surname>Mach</surname><given-names>N</given-names></name>
+</person-group><article-title>The Crosstalk between the Gut Microbiota and Mitochondria during Exercise</article-title><source>Front Physiol</source><year>2017</year><volume>8</volume><fpage>319</fpage><pub-id pub-id-type="pmid">28579962</pub-id>
+</element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>S</given-names></name>
+<name><surname>Li</surname><given-names>F</given-names></name>
+<name><surname>Qiao</surname><given-names>R</given-names></name>
+<name><surname>Hu</surname><given-names>X</given-names></name>
+<name><surname>Liao</surname><given-names>H</given-names></name>
+<name><surname>Chen</surname><given-names>L</given-names></name>
+<name><surname>Wu</surname><given-names>J</given-names></name>
+<name><surname>Wu</surname><given-names>H</given-names></name>
+<name><surname>Zhao</surname><given-names>M</given-names></name>
+<name><surname>Liu</surname><given-names>J</given-names></name>
+<name><surname>Chen</surname><given-names>R</given-names></name>
+<name><surname>Ma</surname><given-names>X</given-names></name>
+<name><surname>Kim</surname><given-names>D</given-names></name>
+<name><surname>Sun</surname><given-names>J</given-names></name>
+<name><surname>Davis</surname><given-names>TP</given-names></name>
+<name><surname>Chen</surname><given-names>C</given-names></name>
+<name><surname>Tian</surname><given-names>J</given-names></name>
+<name><surname>Hyeon</surname><given-names>T</given-names></name>
+<name><surname>Ling</surname><given-names>D</given-names></name>
+</person-group><article-title>Arginine-Rich Manganese Silicate Nanobubbles as a Ferroptosis-Inducing Agent for Tumor-Targeted Theranostics</article-title><source>ACS Nano</source><year>2018</year><volume>12</volume><fpage>12380</fpage><lpage>12392</lpage><pub-id pub-id-type="pmid">30495919</pub-id>
+</element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lenaerts</surname><given-names>I</given-names></name>
+<name><surname>Bito</surname><given-names>V</given-names></name>
+<name><surname>Heinzel</surname><given-names>FR</given-names></name>
+<name><surname>Driesen</surname><given-names>RB</given-names></name>
+<name><surname>Holemans</surname><given-names>P</given-names></name>
+<name><surname>D'hooge</surname><given-names>J</given-names></name>
+<name><surname>Heidb&#x000fc;chel</surname><given-names>H</given-names></name>
+<name><surname>Sipido</surname><given-names>KR</given-names></name>
+<name><surname>Willems</surname><given-names>R</given-names></name>
+</person-group><article-title>Ultrastructural and functional remodeling of the coupling between Ca2+ influx and sarcoplasmic reticulum Ca2+ release in right atrial myocytes from experimental persistent atrial fibrillation</article-title><source>Circ Res</source><year>2009</year><volume>105</volume><fpage>876</fpage><lpage>885</lpage><pub-id pub-id-type="pmid">19762679</pub-id>
+</element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yaegashi</surname><given-names>T</given-names></name>
+<name><surname>Kato</surname><given-names>T</given-names></name>
+<name><surname>Usui</surname><given-names>S</given-names></name>
+<name><surname>Kanamori</surname><given-names>N</given-names></name>
+<name><surname>Furusho</surname><given-names>H</given-names></name>
+<name><surname>Takashima</surname><given-names>SI</given-names></name>
+<name><surname>Murai</surname><given-names>H</given-names></name>
+<name><surname>Kaneko</surname><given-names>S</given-names></name>
+<name><surname>Takamura</surname><given-names>M</given-names></name>
+</person-group><article-title>Short-term rapid atrial pacing alters the gene expression profile of rat liver: Cardiohepatic interaction in atrial fibrillation</article-title><source>Heart Rhythm</source><year>2016</year><volume>13</volume><fpage>2368</fpage><lpage>2376</lpage><pub-id pub-id-type="pmid">27574983</pub-id>
+</element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>N</given-names></name>
+<name><surname>Liu</surname><given-names>JM</given-names></name>
+<name><surname>Yang</surname><given-names>FE</given-names></name>
+<name><surname>Ji</surname><given-names>XM</given-names></name>
+<name><surname>Li</surname><given-names>CY</given-names></name>
+<name><surname>Lv</surname><given-names>SW</given-names></name>
+<name><surname>Wang</surname><given-names>S</given-names></name>
+</person-group><article-title>A Novel Mediation Strategy of DSS-Induced Colitis in Mice Based on an Iron-Enriched Probiotic and In Vivo Bioluminescence Tracing</article-title><source>J Agric Food Chem</source><year>2020</year><volume>68</volume><fpage>12028</fpage><lpage>12038</lpage><pub-id pub-id-type="pmid">33052690</pub-id>
+</element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pilarczyk-Zurek</surname><given-names>M</given-names></name>
+<name><surname>Strus</surname><given-names>M</given-names></name>
+<name><surname>Adamski</surname><given-names>P</given-names></name>
+<name><surname>Heczko</surname><given-names>PB</given-names></name>
+</person-group><article-title>The dual role of Escherichia coli in the course of ulcerative colitis</article-title><source>BMC Gastroenterol</source><year>2016</year><volume>16</volume><fpage>128</fpage><pub-id pub-id-type="pmid">27724868</pub-id>
+</element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>C</given-names></name>
+<name><surname>Veleva</surname><given-names>T</given-names></name>
+<name><surname>Scott</surname><given-names>L Jr</given-names></name>
+<name><surname>Cao</surname><given-names>S</given-names></name>
+<name><surname>Li</surname><given-names>L</given-names></name>
+<name><surname>Chen</surname><given-names>G</given-names></name>
+<name><surname>Jeyabal</surname><given-names>P</given-names></name>
+<name><surname>Pan</surname><given-names>X</given-names></name>
+<name><surname>Alsina</surname><given-names>KM</given-names></name>
+<name><surname>Abu-Taha</surname><given-names>I Dr</given-names></name>
+<name><surname>Ghezelbash</surname><given-names>S</given-names></name>
+<name><surname>Reynolds</surname><given-names>CL</given-names></name>
+<name><surname>Shen</surname><given-names>YH</given-names></name>
+<name><surname>LeMaire</surname><given-names>SA</given-names></name>
+<name><surname>Schmitz</surname><given-names>W</given-names></name>
+<name><surname>M&#x000fc;ller</surname><given-names>FU</given-names></name>
+<name><surname>El-Armouche</surname><given-names>A</given-names></name>
+<name><surname>Tony</surname><given-names>Eissa N</given-names></name>
+<name><surname>Beeton</surname><given-names>C</given-names></name>
+<name><surname>Nattel</surname><given-names>S</given-names></name>
+<name><surname>Wehrens</surname><given-names>XHT</given-names></name>
+<name><surname>Dobrev</surname><given-names>D</given-names></name>
+<name><surname>Li</surname><given-names>N</given-names></name>
+</person-group><article-title>Enhanced Cardiomyocyte NLRP3 Inflammasome Signaling Promotes Atrial Fibrillation</article-title><source>Circulation</source><year>2018</year><volume>138</volume><fpage>2227</fpage><lpage>2242</lpage><pub-id pub-id-type="pmid">29802206</pub-id>
+</element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Heijman</surname><given-names>J</given-names></name>
+<name><surname>Muna</surname><given-names>AP</given-names></name>
+<name><surname>Veleva</surname><given-names>T</given-names></name>
+<name><surname>Molina</surname><given-names>CE</given-names></name>
+<name><surname>Sutanto</surname><given-names>H</given-names></name>
+<name><surname>Tekook</surname><given-names>M</given-names></name>
+<name><surname>Wang</surname><given-names>Q</given-names></name>
+<name><surname>Abu-Taha</surname><given-names>IH</given-names></name>
+<name><surname>Gorka</surname><given-names>M</given-names></name>
+<name><surname>K&#x000fc;nzel</surname><given-names>S</given-names></name>
+<name><surname>El-Armouche</surname><given-names>A</given-names></name>
+<name><surname>Reichenspurner</surname><given-names>H</given-names></name>
+<name><surname>Kamler</surname><given-names>M</given-names></name>
+<name><surname>Nikolaev</surname><given-names>V</given-names></name>
+<name><surname>Ravens</surname><given-names>U</given-names></name>
+<name><surname>Li</surname><given-names>N</given-names></name>
+<name><surname>Nattel</surname><given-names>S</given-names></name>
+<name><surname>Wehrens</surname><given-names>XHT</given-names></name>
+<name><surname>Dobrev</surname><given-names>D</given-names></name>
+</person-group><article-title>Atrial Myocyte NLRP3/CaMKII Nexus Forms a Substrate for Postoperative Atrial Fibrillation</article-title><source>Circ Res</source><year>2020</year><volume>127</volume><fpage>1036</fpage><lpage>1055</lpage><pub-id pub-id-type="pmid">32762493</pub-id>
+</element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Liu</surname><given-names>X</given-names></name>
+<name><surname>Shi</surname><given-names>H</given-names></name>
+<name><surname>Yu</surname><given-names>Y</given-names></name>
+<name><surname>Yu</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>M</given-names></name>
+<name><surname>Chen</surname><given-names>R</given-names></name>
+</person-group><article-title>NLRP3 inflammasome, an immune-inflammatory target in pathogenesis and treatment of cardiovascular diseases</article-title><source>Clin Transl Med</source><year>2020</year><volume>10</volume><fpage>91</fpage><lpage>106</lpage><pub-id pub-id-type="pmid">32508013</pub-id>
+</element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>S</given-names></name>
+<name><surname>Li</surname><given-names>B</given-names></name>
+<name><surname>Luo</surname><given-names>Y</given-names></name>
+<name><surname>Gong</surname><given-names>Y</given-names></name>
+<name><surname>Jin</surname><given-names>X</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+<name><surname>Zhou</surname><given-names>Y</given-names></name>
+<name><surname>Zhuo</surname><given-names>X</given-names></name>
+<name><surname>Wang</surname><given-names>Z</given-names></name>
+<name><surname>Zhao</surname><given-names>X</given-names></name>
+<name><surname>Han</surname><given-names>X</given-names></name>
+<name><surname>Gao</surname><given-names>Y</given-names></name>
+<name><surname>Yu</surname><given-names>H</given-names></name>
+<name><surname>Liang</surname><given-names>D</given-names></name>
+<name><surname>Zhao</surname><given-names>S</given-names></name>
+<name><surname>Sun</surname><given-names>D</given-names></name>
+<name><surname>Wang</surname><given-names>D</given-names></name>
+<name><surname>Xu</surname><given-names>W</given-names></name>
+<name><surname>Qu</surname><given-names>G</given-names></name>
+<name><surname>Bo</surname><given-names>W</given-names></name>
+<name><surname>Li</surname><given-names>D</given-names></name>
+<name><surname>Wu</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>Y</given-names></name>
+</person-group><article-title>Gut microbiota dysbiosis promotes age-related atrial fibrillation by lipopolysaccharide and glucose-induced activation of NLRP3-inflammasome</article-title><source>Cardiovasc Res</source><year>2022</year><volume>118</volume><fpage>785</fpage><lpage>797</lpage><pub-id pub-id-type="pmid">33757127</pub-id>
+</element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lau</surname><given-names>DH</given-names></name>
+<name><surname>Linz</surname><given-names>D</given-names></name>
+<name><surname>Schotten</surname><given-names>U</given-names></name>
+<name><surname>Mahajan</surname><given-names>R</given-names></name>
+<name><surname>Sanders</surname><given-names>P</given-names></name>
+<name><surname>Kalman</surname><given-names>JM</given-names></name>
+</person-group><article-title>Pathophysiology of Paroxysmal and Persistent Atrial Fibrillation: Rotors, Foci and Fibrosis</article-title><source>Heart Lung Circ</source><year>2017</year><volume>26</volume><fpage>887</fpage><lpage>893</lpage><pub-id pub-id-type="pmid">28610723</pub-id>
+</element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Al-Kaisey</surname><given-names>AM</given-names></name>
+<name><surname>Kalman</surname><given-names>JM</given-names></name>
+</person-group><article-title>Obesity and Atrial Fibrillation: Epidemiology, Pathogenesis and Effect of Weight Loss</article-title><source>Arrhythm Electrophysiol Rev</source><year>2021</year><volume>10</volume><fpage>159</fpage><lpage>164</lpage><pub-id pub-id-type="pmid">34777820</pub-id>
+</element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>S</given-names></name>
+<name><surname>Li</surname><given-names>X</given-names></name>
+<name><surname>Yang</surname><given-names>F</given-names></name>
+<name><surname>Zhao</surname><given-names>R</given-names></name>
+<name><surname>Pan</surname><given-names>X</given-names></name>
+<name><surname>Liang</surname><given-names>J</given-names></name>
+<name><surname>Tian</surname><given-names>L</given-names></name>
+<name><surname>Li</surname><given-names>X</given-names></name>
+<name><surname>Liu</surname><given-names>L</given-names></name>
+<name><surname>Xing</surname><given-names>Y</given-names></name>
+<name><surname>Wu</surname><given-names>M</given-names></name>
+</person-group><article-title>Gut Microbiota-Dependent Marker TMAO in Promoting Cardiovascular Disease: Inflammation Mechanism, Clinical Prognostic, and Potential as a Therapeutic Target</article-title><source>Front Pharmacol</source><year>2019</year><volume>10</volume><fpage>1360</fpage><pub-id pub-id-type="pmid">31803054</pub-id>
+</element-citation></ref><ref id="B38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>L</given-names></name>
+<name><surname>Meng</surname><given-names>G</given-names></name>
+<name><surname>Huang</surname><given-names>B</given-names></name>
+<name><surname>Zhou</surname><given-names>X</given-names></name>
+<name><surname>Stavrakis</surname><given-names>S</given-names></name>
+<name><surname>Wang</surname><given-names>M</given-names></name>
+<name><surname>Li</surname><given-names>X</given-names></name>
+<name><surname>Zhou</surname><given-names>L</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Wang</surname><given-names>M</given-names></name>
+<name><surname>Wang</surname><given-names>Z</given-names></name>
+<name><surname>Deng</surname><given-names>J</given-names></name>
+<name><surname>Po</surname><given-names>SS</given-names></name>
+<name><surname>Jiang</surname><given-names>H</given-names></name>
+</person-group><article-title>A potential relationship between gut microbes and atrial fibrillation: Trimethylamine N-oxide, a gut microbe-derived metabolite, facilitates the progression of atrial fibrillation</article-title><source>Int J Cardiol</source><year>2018</year><volume>255</volume><fpage>92</fpage><lpage>98</lpage><pub-id pub-id-type="pmid">29425570</pub-id>
+</element-citation></ref><ref id="B39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X</given-names></name>
+<name><surname>Geng</surname><given-names>J</given-names></name>
+<name><surname>Zhao</surname><given-names>J</given-names></name>
+<name><surname>Ni</surname><given-names>Q</given-names></name>
+<name><surname>Zhao</surname><given-names>C</given-names></name>
+<name><surname>Zheng</surname><given-names>Y</given-names></name>
+<name><surname>Chen</surname><given-names>X</given-names></name>
+<name><surname>Wang</surname><given-names>L</given-names></name>
+</person-group><article-title>Trimethylamine N-Oxide Exacerbates Cardiac Fibrosis via Activating the NLRP3 Inflammasome</article-title><source>Front Physiol</source><year>2019</year><volume>10</volume><fpage>866</fpage><pub-id pub-id-type="pmid">31354519</pub-id>
+</element-citation></ref><ref id="B40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Verhaar</surname><given-names>BJH</given-names></name>
+<name><surname>Prodan</surname><given-names>A</given-names></name>
+<name><surname>Nieuwdorp</surname><given-names>M</given-names></name>
+<name><surname>Muller</surname><given-names>M</given-names></name>
+</person-group><article-title>Gut Microbiota in Hypertension and Atherosclerosis: A Review</article-title><source>Nutrients</source><year>2020</year><volume>12</volume><fpage>2982</fpage><pub-id pub-id-type="pmid">33003455</pub-id>
+</element-citation></ref><ref id="B41"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Svingen</surname><given-names>GFT</given-names></name>
+<name><surname>Zuo</surname><given-names>H</given-names></name>
+<name><surname>Ueland</surname><given-names>PM</given-names></name>
+<name><surname>Seifert</surname><given-names>R</given-names></name>
+<name><surname>L&#x000f8;land</surname><given-names>KH</given-names></name>
+<name><surname>Pedersen</surname><given-names>ER</given-names></name>
+<name><surname>Schuster</surname><given-names>PM</given-names></name>
+<name><surname>Karlsson</surname><given-names>T</given-names></name>
+<name><surname>Tell</surname><given-names>GS</given-names></name>
+<name><surname>Schartum-Hansen</surname><given-names>H</given-names></name>
+<name><surname>Olset</surname><given-names>H</given-names></name>
+<name><surname>Svenningsson</surname><given-names>M</given-names></name>
+<name><surname>Strand</surname><given-names>E</given-names></name>
+<name><surname>Nilsen</surname><given-names>DW</given-names></name>
+<name><surname>Nordrehaug</surname><given-names>JE</given-names></name>
+<name><surname>Dhar</surname><given-names>I</given-names></name>
+<name><surname>Nyg&#x000e5;rd</surname><given-names>O</given-names></name>
+</person-group><article-title>Increased plasma trimethylamine-N-oxide is associated with incident atrial fibrillation</article-title><source>Int J Cardiol</source><year>2018</year><volume>267</volume><fpage>100</fpage><lpage>106</lpage><pub-id pub-id-type="pmid">29957250</pub-id>
+</element-citation></ref><ref id="B42"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>B&#x000fc;ttner</surname><given-names>P</given-names></name>
+<name><surname>Okun</surname><given-names>JG</given-names></name>
+<name><surname>Hauke</surname><given-names>J</given-names></name>
+<name><surname>Holzwirth</surname><given-names>E</given-names></name>
+<name><surname>Obradovic</surname><given-names>D</given-names></name>
+<name><surname>Hindricks</surname><given-names>G</given-names></name>
+<name><surname>Thiele</surname><given-names>H</given-names></name>
+<name><surname>Kornej</surname><given-names>J</given-names></name>
+</person-group><article-title>Trimethylamine N-oxide in atrial fibrillation progression</article-title><source>Int J Cardiol Heart Vasc</source><year>2020</year><volume>29</volume><fpage>100554</fpage><pub-id pub-id-type="pmid">32885030</pub-id>
+</element-citation></ref><ref id="B43"><label>43</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Florea</surname><given-names>CM</given-names></name>
+<name><surname>Rosu</surname><given-names>RO</given-names></name>
+<name><surname>Minciuna</surname><given-names>IA</given-names></name>
+<name><surname>Cismaru</surname><given-names>G</given-names></name>
+<name><surname>Pop</surname><given-names>D</given-names></name>
+<name><surname>Vlase</surname><given-names>AM</given-names></name>
+<name><surname>Nenu</surname><given-names>I</given-names></name>
+<name><surname>Filip</surname><given-names>GA</given-names></name>
+</person-group><article-title>The Impact of Trimethylamine N-Oxide on Atrial Fibrillation Presence in Patients with Cardiovascular Disease</article-title><source>J Xenobiot</source><year>2025</year><volume>15</volume><fpage>28</fpage><pub-id pub-id-type="pmid">39997371</pub-id>
+</element-citation></ref><ref id="B44"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>WHW</given-names></name>
+<name><surname>Li</surname><given-names>DY</given-names></name>
+<name><surname>Hazen</surname><given-names>SL</given-names></name>
+</person-group><article-title>Dietary metabolism, the gut microbiome, and heart failure</article-title><source>Nat Rev Cardiol</source><year>2019</year><volume>16</volume><fpage>137</fpage><lpage>154</lpage><pub-id pub-id-type="pmid">30410105</pub-id>
+</element-citation></ref><ref id="B45"><label>45</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huuskonen</surname><given-names>J</given-names></name>
+<name><surname>Suuronen</surname><given-names>T</given-names></name>
+<name><surname>Nuutinen</surname><given-names>T</given-names></name>
+<name><surname>Kyrylenko</surname><given-names>S</given-names></name>
+<name><surname>Salminen</surname><given-names>A</given-names></name>
+</person-group><article-title>Regulation of microglial inflammatory response by sodium butyrate and short-chain fatty acids</article-title><source>Br J Pharmacol</source><year>2004</year><volume>141</volume><fpage>874</fpage><lpage>880</lpage><pub-id pub-id-type="pmid">14744800</pub-id>
+</element-citation></ref><ref id="B46"><label>46</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>J</given-names></name>
+<name><surname>Kim</surname><given-names>M</given-names></name>
+<name><surname>Kang</surname><given-names>SG</given-names></name>
+<name><surname>Jannasch</surname><given-names>AH</given-names></name>
+<name><surname>Cooper</surname><given-names>B</given-names></name>
+<name><surname>Patterson</surname><given-names>J</given-names></name>
+<name><surname>Kim</surname><given-names>CH</given-names></name>
+</person-group><article-title>Short-chain fatty acids induce both effector and regulatory T cells by suppression of histone deacetylases and regulation of the mTOR-S6K pathway</article-title><source>Mucosal Immunol</source><year>2015</year><volume>8</volume><fpage>80</fpage><lpage>93</lpage><pub-id pub-id-type="pmid">24917457</pub-id>
+</element-citation></ref><ref id="B47"><label>47</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Le</surname><given-names>Poul E</given-names></name>
+<name><surname>Loison</surname><given-names>C</given-names></name>
+<name><surname>Struyf</surname><given-names>S</given-names></name>
+<name><surname>Springael</surname><given-names>JY</given-names></name>
+<name><surname>Lannoy</surname><given-names>V</given-names></name>
+<name><surname>Decobecq</surname><given-names>ME</given-names></name>
+<name><surname>Brezillon</surname><given-names>S</given-names></name>
+<name><surname>Dupriez</surname><given-names>V</given-names></name>
+<name><surname>Vassart</surname><given-names>G</given-names></name>
+<name><surname>Van</surname><given-names>Damme J</given-names></name>
+<name><surname>Parmentier</surname><given-names>M</given-names></name>
+<name><surname>Detheux</surname><given-names>M</given-names></name>
+</person-group><article-title>Functional characterization of human receptors for short chain fatty acids and their role in polymorphonuclear cell activation</article-title><source>J Biol Chem</source><year>2003</year><volume>278</volume><fpage>25481</fpage><lpage>25489</lpage><pub-id pub-id-type="pmid">12711604</pub-id>
+</element-citation></ref><ref id="B48"><label>48</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Natarajan</surname><given-names>N</given-names></name>
+<name><surname>Hori</surname><given-names>D</given-names></name>
+<name><surname>Flavahan</surname><given-names>S</given-names></name>
+<name><surname>Steppan</surname><given-names>J</given-names></name>
+<name><surname>Flavahan</surname><given-names>NA</given-names></name>
+<name><surname>Berkowitz</surname><given-names>DE</given-names></name>
+<name><surname>Pluznick</surname><given-names>JL</given-names></name>
+</person-group><article-title>Microbial short chain fatty acid metabolites lower blood pressure via endothelial G protein-coupled receptor 41</article-title><source>Physiol Genomics</source><year>2016</year><volume>48</volume><fpage>826</fpage><lpage>834</lpage><pub-id pub-id-type="pmid">27664183</pub-id>
+</element-citation></ref><ref id="B49"><label>49</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>J</given-names></name>
+<name><surname>Wang</surname><given-names>Q</given-names></name>
+<name><surname>Wu</surname><given-names>Q</given-names></name>
+<name><surname>Mao-Draayer</surname><given-names>Y</given-names></name>
+<name><surname>Kim</surname><given-names>CH</given-names></name>
+</person-group><article-title>Bidirectional regulatory potentials of short-chain fatty acids and their G-protein-coupled receptors in autoimmune neuroinflammation</article-title><source>Sci Rep</source><year>2019</year><volume>9</volume><fpage>8837</fpage><pub-id pub-id-type="pmid">31222050</pub-id>
+</element-citation></ref><ref id="B50"><label>50</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Marques</surname><given-names>FZ</given-names></name>
+<name><surname>Nelson</surname><given-names>E</given-names></name>
+<name><surname>Chu</surname><given-names>PY</given-names></name>
+<name><surname>Horlock</surname><given-names>D</given-names></name>
+<name><surname>Fiedler</surname><given-names>A</given-names></name>
+<name><surname>Ziemann</surname><given-names>M</given-names></name>
+<name><surname>Tan</surname><given-names>JK</given-names></name>
+<name><surname>Kuruppu</surname><given-names>S</given-names></name>
+<name><surname>Rajapakse</surname><given-names>NW</given-names></name>
+<name><surname>El-Osta</surname><given-names>A</given-names></name>
+<name><surname>Mackay</surname><given-names>CR</given-names></name>
+<name><surname>Kaye</surname><given-names>DM</given-names></name>
+</person-group><article-title>High-Fiber Diet and Acetate Supplementation Change the Gut Microbiota and Prevent the Development of Hypertension and Heart Failure in Hypertensive Mice</article-title><source>Circulation</source><year>2017</year><volume>135</volume><fpage>964</fpage><lpage>977</lpage><pub-id pub-id-type="pmid">27927713</pub-id>
+</element-citation></ref><ref id="B51"><label>51</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Maslowski</surname><given-names>KM</given-names></name>
+<name><surname>Vieira</surname><given-names>AT</given-names></name>
+<name><surname>Ng</surname><given-names>A</given-names></name>
+<name><surname>Kranich</surname><given-names>J</given-names></name>
+<name><surname>Sierro</surname><given-names>F</given-names></name>
+<name><surname>Yu</surname><given-names>D</given-names></name>
+<name><surname>Schilter</surname><given-names>HC</given-names></name>
+<name><surname>Rolph</surname><given-names>MS</given-names></name>
+<name><surname>Mackay</surname><given-names>F</given-names></name>
+<name><surname>Artis</surname><given-names>D</given-names></name>
+<name><surname>Xavier</surname><given-names>RJ</given-names></name>
+<name><surname>Teixeira</surname><given-names>MM</given-names></name>
+<name><surname>Mackay</surname><given-names>CR</given-names></name>
+</person-group><article-title>Regulation of inflammatory responses by gut microbiota and chemoattractant receptor GPR43</article-title><source>Nature</source><year>2009</year><volume>461</volume><fpage>1282</fpage><lpage>1286</lpage><pub-id pub-id-type="pmid">19865172</pub-id>
+</element-citation></ref><ref id="B52"><label>52</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+<name><surname>Zuo</surname><given-names>K</given-names></name>
+<name><surname>Fang</surname><given-names>C</given-names></name>
+<name><surname>Yin</surname><given-names>X</given-names></name>
+<name><surname>Liu</surname><given-names>X</given-names></name>
+<name><surname>Zhong</surname><given-names>J</given-names></name>
+<name><surname>Li</surname><given-names>K</given-names></name>
+<name><surname>Li</surname><given-names>J</given-names></name>
+<name><surname>Xu</surname><given-names>L</given-names></name>
+<name><surname>Yang</surname><given-names>X</given-names></name>
+</person-group><article-title>Altered synthesis of genes associated with short-chain fatty acids in the gut of patients with atrial fibrillation</article-title><source>BMC Genomics</source><year>2021</year><volume>22</volume><fpage>634</fpage><pub-id pub-id-type="pmid">34465304</pub-id>
+</element-citation></ref><ref id="B53"><label>53</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>L</given-names></name>
+<name><surname>Yi</surname><given-names>Y</given-names></name>
+<name><surname>Yan</surname><given-names>R</given-names></name>
+<name><surname>Hu</surname><given-names>R</given-names></name>
+<name><surname>Sun</surname><given-names>W</given-names></name>
+<name><surname>Zhou</surname><given-names>W</given-names></name>
+<name><surname>Zhou</surname><given-names>H</given-names></name>
+<name><surname>Si</surname><given-names>X</given-names></name>
+<name><surname>Ye</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>W</given-names></name>
+<name><surname>Chen</surname><given-names>J</given-names></name>
+</person-group><article-title>Impact of age-related gut microbiota dysbiosis and reduced short-chain fatty acids on the autonomic nervous system and atrial fibrillation in rats</article-title><source>Front Cardiovasc Med</source><year>2024</year><volume>11</volume><fpage>1394929</fpage><pub-id pub-id-type="pmid">38932988</pub-id>
+</element-citation></ref><ref id="B54"><label>54</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fang</surname><given-names>C</given-names></name>
+<name><surname>Zuo</surname><given-names>K</given-names></name>
+<name><surname>Liu</surname><given-names>Z</given-names></name>
+<name><surname>Xu</surname><given-names>L</given-names></name>
+<name><surname>Yang</surname><given-names>X</given-names></name>
+</person-group><article-title>Disordered GPR43/NLRP3 expression in peripheral leukocytes of patients with atrial fibrillation is associated with intestinal short chain fatty acids levels</article-title><source>Eur J Med Res</source><year>2024</year><volume>29</volume><fpage>233</fpage><pub-id pub-id-type="pmid">38622672</pub-id>
+</element-citation></ref><ref id="B55"><label>55</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gawa&#x00142;ko</surname><given-names>M</given-names></name>
+<name><surname>Agbaedeng</surname><given-names>TA</given-names></name>
+<name><surname>Saljic</surname><given-names>A</given-names></name>
+<name><surname>M&#x000fc;ller</surname><given-names>DN</given-names></name>
+<name><surname>Wilck</surname><given-names>N</given-names></name>
+<name><surname>Schnabel</surname><given-names>R</given-names></name>
+<name><surname>Penders</surname><given-names>J</given-names></name>
+<name><surname>Rienstra</surname><given-names>M</given-names></name>
+<name><surname>van</surname><given-names>Gelder I</given-names></name>
+<name><surname>Jespersen</surname><given-names>T</given-names></name>
+<name><surname>Schotten</surname><given-names>U</given-names></name>
+<name><surname>Crijns</surname><given-names>HJGM</given-names></name>
+<name><surname>Kalman</surname><given-names>JM</given-names></name>
+<name><surname>Sanders</surname><given-names>P</given-names></name>
+<name><surname>Nattel</surname><given-names>S</given-names></name>
+<name><surname>Dobrev</surname><given-names>D</given-names></name>
+<name><surname>Linz</surname><given-names>D</given-names></name>
+</person-group><article-title>Gut microbiota, dysbiosis and atrial fibrillation. Arrhythmogenic mechanisms and potential clinical implications</article-title><source>Cardiovasc Res</source><year>2022</year><volume>118</volume><fpage>2415</fpage><lpage>2427</lpage><pub-id pub-id-type="pmid">34550344</pub-id>
+</element-citation></ref><ref id="B56"><label>56</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kong</surname><given-names>B</given-names></name>
+<name><surname>Fu</surname><given-names>H</given-names></name>
+<name><surname>Xiao</surname><given-names>Z</given-names></name>
+<name><surname>Zhou</surname><given-names>Y</given-names></name>
+<name><surname>Shuai</surname><given-names>W</given-names></name>
+<name><surname>Huang</surname><given-names>H</given-names></name>
+</person-group><article-title>Gut Microbiota Dysbiosis Induced by a High-Fat Diet Increases Susceptibility to Atrial Fibrillation</article-title><source>Can J Cardiol</source><year>2022</year><volume>38</volume><fpage>1962</fpage><lpage>1975</lpage><pub-id pub-id-type="pmid">36084771</pub-id>
+</element-citation></ref><ref id="B57"><label>57</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ren</surname><given-names>H</given-names></name>
+<name><surname>Wang</surname><given-names>Z</given-names></name>
+<name><surname>Li</surname><given-names>Y</given-names></name>
+<name><surname>Liu</surname><given-names>J</given-names></name>
+</person-group><article-title>Association of lipopolysaccharide with new-onset atrial fibrillation in ST-segment elevation myocardial infarction</article-title><source>Heliyon</source><year>2024</year><volume>10</volume><fpage>e27552</fpage><pub-id pub-id-type="pmid">38496897</pub-id>
+</element-citation></ref><ref id="B58"><label>58</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>YY</given-names></name>
+<name><surname>Sun</surname><given-names>ZW</given-names></name>
+<name><surname>Jiang</surname><given-names>JP</given-names></name>
+<name><surname>Kang</surname><given-names>XD</given-names></name>
+<name><surname>Wang</surname><given-names>LL</given-names></name>
+<name><surname>Shen</surname><given-names>YL</given-names></name>
+<name><surname>Xie</surname><given-names>XD</given-names></name>
+<name><surname>Zheng</surname><given-names>LR</given-names></name>
+</person-group><article-title>&#x003b1;-adrenoceptor-mediated enhanced inducibility of atrial fibrillation in a canine system inflammation model</article-title><source>Mol Med Rep</source><year>2017</year><volume>15</volume><fpage>3767</fpage><lpage>3774</lpage><pub-id pub-id-type="pmid">28440455</pub-id>
+</element-citation></ref><ref id="B59"><label>59</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>H</given-names></name>
+<name><surname>Zhou</surname><given-names>J</given-names></name>
+<name><surname>Ye</surname><given-names>F</given-names></name>
+<name><surname>Gao</surname><given-names>Y</given-names></name>
+</person-group><article-title>Serum lipopolysaccharide associated with new-onset atrial fibrillation in patients with non-small-cell lung cancer a retrospective observational study</article-title><source>Front Surg</source><year>2024</year><volume>11</volume><fpage>1404450</fpage><pub-id pub-id-type="pmid">38783859</pub-id>
+</element-citation></ref><ref id="B60"><label>60</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pastori</surname><given-names>D</given-names></name>
+<name><surname>Carnevale</surname><given-names>R</given-names></name>
+<name><surname>Nocella</surname><given-names>C</given-names></name>
+<name><surname>Novo</surname><given-names>M</given-names></name>
+<name><surname>Santulli</surname><given-names>M</given-names></name>
+<name><surname>Cammisotto</surname><given-names>V</given-names></name>
+<name><surname>Menichelli</surname><given-names>D</given-names></name>
+<name><surname>Pignatelli</surname><given-names>P</given-names></name>
+<name><surname>Violi</surname><given-names>F</given-names></name>
+</person-group><article-title>Gut-Derived Serum Lipopolysaccharide is Associated With Enhanced Risk of Major Adverse Cardiovascular Events in Atrial Fibrillation: Effect of Adherence to Mediterranean Diet</article-title><source>J Am Heart Assoc</source><year>2017</year><volume>6</volume><fpage>e005784</fpage><pub-id pub-id-type="pmid">28584074</pub-id>
+</element-citation></ref><ref id="B61"><label>61</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Desai</surname><given-names>MS</given-names></name>
+<name><surname>Penny</surname><given-names>DJ</given-names></name>
+</person-group><article-title>Bile acids induce arrhythmias: old metabolite, new tricks</article-title><source>Heart</source><year>2013</year><volume>99</volume><fpage>1629</fpage><lpage>1630</lpage><pub-id pub-id-type="pmid">23969477</pub-id>
+</element-citation></ref><ref id="B62"><label>62</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Watanabe</surname><given-names>M</given-names></name>
+<name><surname>Houten</surname><given-names>SM</given-names></name>
+<name><surname>Mataki</surname><given-names>C</given-names></name>
+<name><surname>Christoffolete</surname><given-names>MA</given-names></name>
+<name><surname>Kim</surname><given-names>BW</given-names></name>
+<name><surname>Sato</surname><given-names>H</given-names></name>
+<name><surname>Messaddeq</surname><given-names>N</given-names></name>
+<name><surname>Harney</surname><given-names>JW</given-names></name>
+<name><surname>Ezaki</surname><given-names>O</given-names></name>
+<name><surname>Kodama</surname><given-names>T</given-names></name>
+<name><surname>Schoonjans</surname><given-names>K</given-names></name>
+<name><surname>Bianco</surname><given-names>AC</given-names></name>
+<name><surname>Auwerx</surname><given-names>J</given-names></name>
+</person-group><article-title>Bile acids induce energy expenditure by promoting intracellular thyroid hormone activation</article-title><source>Nature</source><year>2006</year><volume>439</volume><fpage>484</fpage><lpage>489</lpage><pub-id pub-id-type="pmid">16400329</pub-id>
+</element-citation></ref><ref id="B63"><label>63</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fleishman</surname><given-names>JS</given-names></name>
+<name><surname>Kumar</surname><given-names>S</given-names></name>
+</person-group><article-title>Bile acid metabolism and signaling in health and disease: molecular mechanisms and therapeutic targets</article-title><source>Signal Transduct Target Ther</source><year>2024</year><volume>9</volume><fpage>97</fpage><pub-id pub-id-type="pmid">38664391</pub-id>
+</element-citation></ref><ref id="B64"><label>64</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>XH</given-names></name>
+<name><surname>Li</surname><given-names>Z</given-names></name>
+<name><surname>Zang</surname><given-names>MH</given-names></name>
+<name><surname>Yao</surname><given-names>TB</given-names></name>
+<name><surname>Mao</surname><given-names>JL</given-names></name>
+<name><surname>Pu</surname><given-names>J</given-names></name>
+</person-group><article-title>Circulating primary bile acid is correlated with structural remodeling in atrial fibrillation</article-title><source>J Interv Card Electrophysiol</source><year>2020</year><volume>57</volume><fpage>371</fpage><lpage>377</lpage><pub-id pub-id-type="pmid">30915593</pub-id>
+</element-citation></ref><ref id="B65"><label>65</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pu</surname><given-names>J</given-names></name>
+<name><surname>Yuan</surname><given-names>A</given-names></name>
+<name><surname>Shan</surname><given-names>P</given-names></name>
+<name><surname>Gao</surname><given-names>E</given-names></name>
+<name><surname>Wang</surname><given-names>X</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Lau</surname><given-names>WB</given-names></name>
+<name><surname>Koch</surname><given-names>W</given-names></name>
+<name><surname>Ma</surname><given-names>XL</given-names></name>
+<name><surname>He</surname><given-names>B</given-names></name>
+</person-group><article-title>Cardiomyocyte-expressed farnesoid-X-receptor is a novel apoptosis mediator and contributes to myocardial ischaemia/reperfusion injury</article-title><source>Eur Heart J</source><year>2013</year><volume>34</volume><fpage>1834</fpage><lpage>1845</lpage><pub-id pub-id-type="pmid">22307460</pub-id>
+</element-citation></ref><ref id="B66"><label>66</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gong</surname><given-names>Z</given-names></name>
+<name><surname>Zhou</surname><given-names>J</given-names></name>
+<name><surname>Zhao</surname><given-names>S</given-names></name>
+<name><surname>Tian</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>P</given-names></name>
+<name><surname>Xu</surname><given-names>C</given-names></name>
+<name><surname>Chen</surname><given-names>Y</given-names></name>
+<name><surname>Cai</surname><given-names>W</given-names></name>
+<name><surname>Wu</surname><given-names>J</given-names></name>
+</person-group><article-title>Chenodeoxycholic acid activates NLRP3 inflammasome and contributes to cholestatic liver fibrosis</article-title><source>Oncotarget</source><year>2016</year><volume>7</volume><fpage>83951</fpage><lpage>83963</lpage><pub-id pub-id-type="pmid">27924062</pub-id>
+</element-citation></ref><ref id="B67"><label>67</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>Y</given-names></name>
+<name><surname>Shui</surname><given-names>X</given-names></name>
+<name><surname>Liang</surname><given-names>Z</given-names></name>
+<name><surname>Huang</surname><given-names>Z</given-names></name>
+<name><surname>Qi</surname><given-names>Y</given-names></name>
+<name><surname>He</surname><given-names>Y</given-names></name>
+<name><surname>Chen</surname><given-names>C</given-names></name>
+<name><surname>Luo</surname><given-names>H</given-names></name>
+<name><surname>Lei</surname><given-names>W</given-names></name>
+</person-group><article-title>Gut microbiota metabolites as integral mediators in cardiovascular diseases (Review)</article-title><source>Int J Mol Med</source><year>2020</year><volume>46</volume><fpage>936</fpage><lpage>948</lpage><pub-id pub-id-type="pmid">32705240</pub-id>
+</element-citation></ref><ref id="B68"><label>68</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lofthouse</surname><given-names>EM</given-names></name>
+<name><surname>Torrens</surname><given-names>C</given-names></name>
+<name><surname>Manousopoulou</surname><given-names>A</given-names></name>
+<name><surname>Nahar</surname><given-names>M</given-names></name>
+<name><surname>Cleal</surname><given-names>JK</given-names></name>
+<name><surname>O'Kelly</surname><given-names>IM</given-names></name>
+<name><surname>Sengers</surname><given-names>BG</given-names></name>
+<name><surname>Garbis</surname><given-names>SD</given-names></name>
+<name><surname>Lewis</surname><given-names>RM</given-names></name>
+</person-group><article-title>Ursodeoxycholic acid inhibits uptake and vasoconstrictor effects of taurocholate in human placenta</article-title><source>FASEB J</source><year>2019</year><volume>33</volume><fpage>8211</fpage><lpage>8220</lpage><pub-id pub-id-type="pmid">30922127</pub-id>
+</element-citation></ref><ref id="B69"><label>69</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alonso</surname><given-names>A</given-names></name>
+<name><surname>Yu</surname><given-names>B</given-names></name>
+<name><surname>Qureshi</surname><given-names>WT</given-names></name>
+<name><surname>Grams</surname><given-names>ME</given-names></name>
+<name><surname>Selvin</surname><given-names>E</given-names></name>
+<name><surname>Soliman</surname><given-names>EZ</given-names></name>
+<name><surname>Loehr</surname><given-names>LR</given-names></name>
+<name><surname>Chen</surname><given-names>LY</given-names></name>
+<name><surname>Agarwal</surname><given-names>SK</given-names></name>
+<name><surname>Alexander</surname><given-names>D</given-names></name>
+<name><surname>Boerwinkle</surname><given-names>E</given-names></name>
+</person-group><article-title>Metabolomics and Incidence of Atrial Fibrillation in African Americans: The Atherosclerosis Risk in Communities (ARIC) Study</article-title><source>PLoS One</source><year>2015</year><volume>10</volume><fpage>e0142610</fpage><pub-id pub-id-type="pmid">26544570</pub-id>
+</element-citation></ref><ref id="B70"><label>70</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Favennec</surname><given-names>M</given-names></name>
+<name><surname>Hennart</surname><given-names>B</given-names></name>
+<name><surname>Caiazzo</surname><given-names>R</given-names></name>
+<name><surname>Leloire</surname><given-names>A</given-names></name>
+<name><surname>Yengo</surname><given-names>L</given-names></name>
+<name><surname>Verbanck</surname><given-names>M</given-names></name>
+<name><surname>Arredouani</surname><given-names>A</given-names></name>
+<name><surname>Marre</surname><given-names>M</given-names></name>
+<name><surname>Pigeyre</surname><given-names>M</given-names></name>
+<name><surname>Bessede</surname><given-names>A</given-names></name>
+<name><surname>Guillemin</surname><given-names>GJ</given-names></name>
+<name><surname>Chinetti</surname><given-names>G</given-names></name>
+<name><surname>Staels</surname><given-names>B</given-names></name>
+<name><surname>Pattou</surname><given-names>F</given-names></name>
+<name><surname>Balkau</surname><given-names>B</given-names></name>
+<name><surname>Allorge</surname><given-names>D</given-names></name>
+<name><surname>Froguel</surname><given-names>P</given-names></name>
+<name><surname>Poulain-Godefroy</surname><given-names>O</given-names></name>
+</person-group><article-title>Erratum: The kynurenine pathway is activated in human obesity and shifted toward kynurenine monooxygenase activation</article-title><source>Obesity (Silver Spring)</source><year>2016</year><volume>24</volume><fpage>1821</fpage><pub-id pub-id-type="pmid">27460717</pub-id>
+</element-citation></ref><ref id="B71"><label>71</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sinha</surname><given-names>AK</given-names></name>
+<name><surname>Laursen</surname><given-names>MF</given-names></name>
+<name><surname>Brinck</surname><given-names>JE</given-names></name>
+<name><surname>Rybtke</surname><given-names>ML</given-names></name>
+<name><surname>Hj&#x000f8;rne</surname><given-names>AP</given-names></name>
+<name><surname>Proch&#x000e1;zkov&#x000e1;</surname><given-names>N</given-names></name>
+<name><surname>Pedersen</surname><given-names>M</given-names></name>
+<name><surname>Roager</surname><given-names>HM</given-names></name>
+<name><surname>Licht</surname><given-names>TR</given-names></name>
+</person-group><article-title>Dietary fibre directs microbial tryptophan metabolism via metabolic interactions in the gut microbiota</article-title><source>Nat Microbiol</source><year>2024</year><volume>9</volume><fpage>1964</fpage><lpage>1978</lpage><pub-id pub-id-type="pmid">38918470</pub-id>
+</element-citation></ref><ref id="B72"><label>72</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Venkatesh</surname><given-names>M</given-names></name>
+<name><surname>Mukherjee</surname><given-names>S</given-names></name>
+<name><surname>Wang</surname><given-names>H</given-names></name>
+<name><surname>Li</surname><given-names>H</given-names></name>
+<name><surname>Sun</surname><given-names>K</given-names></name>
+<name><surname>Benechet</surname><given-names>AP</given-names></name>
+<name><surname>Qiu</surname><given-names>Z</given-names></name>
+<name><surname>Maher</surname><given-names>L</given-names></name>
+<name><surname>Redinbo</surname><given-names>MR</given-names></name>
+<name><surname>Phillips</surname><given-names>RS</given-names></name>
+<name><surname>Fleet</surname><given-names>JC</given-names></name>
+<name><surname>Kortagere</surname><given-names>S</given-names></name>
+<name><surname>Mukherjee</surname><given-names>P</given-names></name>
+<name><surname>Fasano</surname><given-names>A</given-names></name>
+<name><surname>Le</surname><given-names>Ven J</given-names></name>
+<name><surname>Nicholson</surname><given-names>JK</given-names></name>
+<name><surname>Dumas</surname><given-names>ME</given-names></name>
+<name><surname>Khanna</surname><given-names>KM</given-names></name>
+<name><surname>Mani</surname><given-names>S</given-names></name>
+</person-group><article-title>Symbiotic bacterial metabolites regulate gastrointestinal barrier function via the xenobiotic sensor PXR and Toll-like receptor 4</article-title><source>Immunity</source><year>2014</year><volume>41</volume><fpage>296</fpage><lpage>310</lpage><pub-id pub-id-type="pmid">25065623</pub-id>
+</element-citation></ref><ref id="B73"><label>73</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>H</given-names></name>
+<name><surname>Chen</surname><given-names>X</given-names></name>
+<name><surname>Yu</surname><given-names>C</given-names></name>
+<name><surname>Deng</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Chen</surname><given-names>S</given-names></name>
+<name><surname>Chen</surname><given-names>X</given-names></name>
+<name><surname>Chen</surname><given-names>K</given-names></name>
+<name><surname>Yang</surname><given-names>Y</given-names></name>
+<name><surname>Ling</surname><given-names>W</given-names></name>
+</person-group><article-title>Gut Microbially Produced Indole-3-Propionic Acid Inhibits Atherosclerosis by Promoting Reverse Cholesterol Transport and Its Deficiency Is Causally Related to Atherosclerotic Cardiovascular Disease</article-title><source>Circ Res</source><year>2022</year><volume>131</volume><fpage>404</fpage><lpage>420</lpage><pub-id pub-id-type="pmid">35893593</pub-id>
+</element-citation></ref><ref id="B74"><label>74</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>B</given-names></name>
+<name><surname>Jiang</surname><given-names>M</given-names></name>
+<name><surname>Zhao</surname><given-names>J</given-names></name>
+<name><surname>Song</surname><given-names>Y</given-names></name>
+<name><surname>Du</surname><given-names>W</given-names></name>
+<name><surname>Shi</surname><given-names>J</given-names></name>
+</person-group><article-title>The Mechanism Underlying the Influence of Indole-3-Propionic Acid: A Relevance to Metabolic Disorders</article-title><source>Front Endocrinol (Lausanne)</source><year>2022</year><volume>13</volume><fpage>841703</fpage><pub-id pub-id-type="pmid">35370963</pub-id>
+</element-citation></ref><ref id="B75"><label>75</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Leong</surname><given-names>SC</given-names></name>
+<name><surname>Sirich</surname><given-names>TL</given-names></name>
+</person-group><article-title>Indoxyl Sulfate-Review of Toxicity and Therapeutic Strategies</article-title><source>Toxins (Basel)</source><year>2016</year><volume>8</volume><fpage>358</fpage><pub-id pub-id-type="pmid">27916890</pub-id>
+</element-citation></ref><ref id="B76"><label>76</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>WT</given-names></name>
+<name><surname>Chen</surname><given-names>YC</given-names></name>
+<name><surname>Hsieh</surname><given-names>MH</given-names></name>
+<name><surname>Huang</surname><given-names>SY</given-names></name>
+<name><surname>Kao</surname><given-names>YH</given-names></name>
+<name><surname>Chen</surname><given-names>YA</given-names></name>
+<name><surname>Lin</surname><given-names>YK</given-names></name>
+<name><surname>Chen</surname><given-names>SA</given-names></name>
+<name><surname>Chen</surname><given-names>YJ</given-names></name>
+</person-group><article-title>The uremic toxin indoxyl sulfate increases pulmonary vein and atrial arrhythmogenesis</article-title><source>J Cardiovasc Electrophysiol</source><year>2015</year><volume>26</volume><fpage>203</fpage><lpage>210</lpage><pub-id pub-id-type="pmid">25244538</pub-id>
+</element-citation></ref><ref id="B77"><label>77</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Aoki</surname><given-names>K</given-names></name>
+<name><surname>Teshima</surname><given-names>Y</given-names></name>
+<name><surname>Kondo</surname><given-names>H</given-names></name>
+<name><surname>Saito</surname><given-names>S</given-names></name>
+<name><surname>Fukui</surname><given-names>A</given-names></name>
+<name><surname>Fukunaga</surname><given-names>N</given-names></name>
+<name><surname>Nawata</surname><given-names>T</given-names></name>
+<name><surname>Shimada</surname><given-names>T</given-names></name>
+<name><surname>Takahashi</surname><given-names>N</given-names></name>
+<name><surname>Shibata</surname><given-names>H</given-names></name>
+</person-group><article-title>Role of Indoxyl Sulfate as a Predisposing Factor for Atrial Fibrillation in Renal Dysfunction</article-title><source>J Am Heart Assoc</source><year>2015</year><volume>4</volume><fpage>e002023</fpage><pub-id pub-id-type="pmid">26452986</pub-id>
+</element-citation></ref><ref id="B78"><label>78</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>G</given-names></name>
+<name><surname>He</surname><given-names>Q</given-names></name>
+<name><surname>Shuai</surname><given-names>W</given-names></name>
+<name><surname>Yang</surname><given-names>H</given-names></name>
+<name><surname>Kong</surname><given-names>B</given-names></name>
+<name><surname>Lu</surname><given-names>S</given-names></name>
+<name><surname>Gong</surname><given-names>Y</given-names></name>
+</person-group><article-title>The gut microbial metabolite phenylacetylglutamine increases susceptibility to atrial fibrillation after myocardial infarction through ferroptosis and NLRP3 inflammasome</article-title><source>Apoptosis</source><year>2025</year><volume>30</volume><fpage>210</fpage><lpage>225</lpage><pub-id pub-id-type="pmid">39627575</pub-id>
+</element-citation></ref><ref id="B79"><label>79</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>L</given-names></name>
+<name><surname>Duan</surname><given-names>Y</given-names></name>
+<name><surname>Fang</surname><given-names>N</given-names></name>
+<name><surname>Zhang</surname><given-names>N</given-names></name>
+<name><surname>Yan</surname><given-names>S</given-names></name>
+<name><surname>Wang</surname><given-names>K</given-names></name>
+<name><surname>Hou</surname><given-names>T</given-names></name>
+<name><surname>Wang</surname><given-names>Z</given-names></name>
+<name><surname>Jiang</surname><given-names>X</given-names></name>
+<name><surname>Gao</surname><given-names>Q</given-names></name>
+<name><surname>Zhang</surname><given-names>S</given-names></name>
+<name><surname>Li</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Gong</surname><given-names>Y</given-names></name>
+</person-group><article-title>Lactobacillus gasseri prevents ibrutinib-associated atrial fibrillation through butyrate</article-title><source>Europace</source><year>2025</year><volume>27</volume><fpage>euaf018</fpage><pub-id pub-id-type="pmid">39821305</pub-id>
+</element-citation></ref><ref id="B80"><label>80</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zaheer</surname><given-names>R</given-names></name>
+<name><surname>Noyes</surname><given-names>N</given-names></name>
+<name><surname>Ortega</surname><given-names>Polo R</given-names></name>
+<name><surname>Cook</surname><given-names>SR</given-names></name>
+<name><surname>Marinier</surname><given-names>E</given-names></name>
+<name><surname>Van</surname><given-names>Domselaar G</given-names></name>
+<name><surname>Belk</surname><given-names>KE</given-names></name>
+<name><surname>Morley</surname><given-names>PS</given-names></name>
+<name><surname>McAllister</surname><given-names>TA</given-names></name>
+</person-group><article-title>Impact of sequencing depth on the characterization of the microbiome and resistome</article-title><source>Sci Rep</source><year>2018</year><volume>8</volume><fpage>5890</fpage><pub-id pub-id-type="pmid">29651035</pub-id>
+</element-citation></ref><ref id="B81"><label>81</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Verberkmoes</surname><given-names>NC</given-names></name>
+<name><surname>Russell</surname><given-names>AL</given-names></name>
+<name><surname>Shah</surname><given-names>M</given-names></name>
+<name><surname>Godzik</surname><given-names>A</given-names></name>
+<name><surname>Rosenquist</surname><given-names>M</given-names></name>
+<name><surname>Halfvarson</surname><given-names>J</given-names></name>
+<name><surname>Lefsrud</surname><given-names>MG</given-names></name>
+<name><surname>Apajalahti</surname><given-names>J</given-names></name>
+<name><surname>Tysk</surname><given-names>C</given-names></name>
+<name><surname>Hettich</surname><given-names>RL</given-names></name>
+<name><surname>Jansson</surname><given-names>JK</given-names></name>
+</person-group><article-title>Shotgun metaproteomics of the human distal gut microbiota</article-title><source>ISME J</source><year>2009</year><volume>3</volume><fpage>179</fpage><lpage>189</lpage><pub-id pub-id-type="pmid">18971961</pub-id>
+</element-citation></ref><ref id="B82"><label>82</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vojinovic</surname><given-names>D</given-names></name>
+<name><surname>Radjabzadeh</surname><given-names>D</given-names></name>
+<name><surname>Kurilshikov</surname><given-names>A</given-names></name>
+<name><surname>Amin</surname><given-names>N</given-names></name>
+<name><surname>Wijmenga</surname><given-names>C</given-names></name>
+<name><surname>Franke</surname><given-names>L</given-names></name>
+<name><surname>Ikram</surname><given-names>MA</given-names></name>
+<name><surname>Uitterlinden</surname><given-names>AG</given-names></name>
+<name><surname>Zhernakova</surname><given-names>A</given-names></name>
+<name><surname>Fu</surname><given-names>J</given-names></name>
+<name><surname>Kraaij</surname><given-names>R</given-names></name>
+<name><surname>van</surname><given-names>Duijn CM</given-names></name>
+</person-group><article-title>Relationship between gut microbiota and circulating metabolites in population-based cohorts</article-title><source>Nat Commun</source><year>2019</year><volume>10</volume><fpage>5813</fpage><pub-id pub-id-type="pmid">31862950</pub-id>
+</element-citation></ref><ref id="B83"><label>83</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yamagami</surname><given-names>F</given-names></name>
+<name><surname>Tajiri</surname><given-names>K</given-names></name>
+<name><surname>Yumino</surname><given-names>D</given-names></name>
+<name><surname>Ieda</surname><given-names>M</given-names></name>
+</person-group><article-title>Uremic Toxins and Atrial Fibrillation: Mechanisms and Therapeutic Implications</article-title><source>Toxins (Basel)</source><year>2019</year><volume>11</volume><fpage>597</fpage><pub-id pub-id-type="pmid">31614923</pub-id>
+</element-citation></ref><ref id="B84"><label>84</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>J</given-names></name>
+<name><surname>Li</surname><given-names>H</given-names></name>
+<name><surname>Zhang</surname><given-names>C</given-names></name>
+<name><surname>Zhou</surname><given-names>Y</given-names></name>
+</person-group><article-title>Indoxyl sulfate reduces Ito,f by activating ROS/MAPK and NF-&#x003ba;B signaling pathways</article-title><source>JCI Insight</source><year>2022</year><volume>7</volume><fpage>e145475</fpage><pub-id pub-id-type="pmid">35132967</pub-id>
+</element-citation></ref><ref id="B85"><label>85</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>T</given-names></name>
+<name><surname>Zhou</surname><given-names>D</given-names></name>
+<name><surname>Liu</surname><given-names>F</given-names></name>
+<name><surname>Long</surname><given-names>D</given-names></name>
+<name><surname>Yang</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>M</given-names></name>
+<name><surname>Zhao</surname><given-names>X</given-names></name>
+<name><surname>Li</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>W</given-names></name>
+<name><surname>Jiang</surname><given-names>C</given-names></name>
+<name><surname>Tang</surname><given-names>R</given-names></name>
+</person-group><article-title>Glutathione peroxidase 4 as a potential biomarker for atrial fibrosis and recurrence of atrial fibrillation</article-title><source>Heart Rhythm O2</source><year>2025</year></element-citation></ref><ref id="B86"><label>86</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Brasier</surname><given-names>N</given-names></name>
+<name><surname>Wang</surname><given-names>J</given-names></name>
+<name><surname>Gao</surname><given-names>W</given-names></name>
+<name><surname>Sempionatto</surname><given-names>JR</given-names></name>
+<name><surname>Dincer</surname><given-names>C</given-names></name>
+<name><surname>Ates</surname><given-names>HC</given-names></name>
+<name><surname>G&#x000fc;der</surname><given-names>F</given-names></name>
+<name><surname>Olenik</surname><given-names>S</given-names></name>
+<name><surname>Schauwecker</surname><given-names>I</given-names></name>
+<name><surname>Schaffarczyk</surname><given-names>D</given-names></name>
+<name><surname>Vayena</surname><given-names>E</given-names></name>
+<name><surname>Ritz</surname><given-names>N</given-names></name>
+<name><surname>Weisser</surname><given-names>M</given-names></name>
+<name><surname>Mtenga</surname><given-names>S</given-names></name>
+<name><surname>Ghaffari</surname><given-names>R</given-names></name>
+<name><surname>Rogers</surname><given-names>JA</given-names></name>
+<name><surname>Goldhahn</surname><given-names>J</given-names></name>
+</person-group><article-title>Applied body-fluid analysis by wearable devices</article-title><source>Nature</source><year>2024</year><volume>636</volume><fpage>57</fpage><lpage>68</lpage><pub-id pub-id-type="pmid">39633192</pub-id>
+</element-citation></ref><ref id="B87"><label>87</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>L</given-names></name>
+<name><surname>Liu</surname><given-names>S</given-names></name>
+<name><surname>Sheng</surname><given-names>X</given-names></name>
+<name><surname>Yin</surname><given-names>L</given-names></name>
+</person-group><article-title>Recent Development of Implantable Chemical Sensors Utilizing Flexible and Biodegradable Materials for Biomedical Applications</article-title><source>ACS Nano</source><year>2024</year><volume>18</volume><fpage>3969</fpage><lpage>3995</lpage><pub-id pub-id-type="pmid">38271679</pub-id>
+</element-citation></ref><ref id="B88"><label>88</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tu</surname><given-names>J</given-names></name>
+<name><surname>Min</surname><given-names>J</given-names></name>
+<name><surname>Song</surname><given-names>Y</given-names></name>
+<name><surname>Xu</surname><given-names>C</given-names></name>
+<name><surname>Li</surname><given-names>J</given-names></name>
+<name><surname>Moore</surname><given-names>J</given-names></name>
+<name><surname>Hanson</surname><given-names>J</given-names></name>
+<name><surname>Hu</surname><given-names>E</given-names></name>
+<name><surname>Parimon</surname><given-names>T</given-names></name>
+<name><surname>Wang</surname><given-names>TY</given-names></name>
+<name><surname>Davoodi</surname><given-names>E</given-names></name>
+<name><surname>Chou</surname><given-names>TF</given-names></name>
+<name><surname>Chen</surname><given-names>P</given-names></name>
+<name><surname>Hsu</surname><given-names>JJ</given-names></name>
+<name><surname>Rossiter</surname><given-names>HB</given-names></name>
+<name><surname>Gao</surname><given-names>W</given-names></name>
+</person-group><article-title>A wireless patch for the monitoring of C-reactive protein in sweat</article-title><source>Nat Biomed Eng</source><year>2023</year><volume>7</volume><fpage>1293</fpage><lpage>1306</lpage><pub-id pub-id-type="pmid">37349389</pub-id>
+</element-citation></ref><ref id="B89"><label>89</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Purton</surname><given-names>T</given-names></name>
+<name><surname>Staskova</surname><given-names>L</given-names></name>
+<name><surname>Lane</surname><given-names>MM</given-names></name>
+<name><surname>Dawson</surname><given-names>SL</given-names></name>
+<name><surname>West</surname><given-names>M</given-names></name>
+<name><surname>Firth</surname><given-names>J</given-names></name>
+<name><surname>Clarke</surname><given-names>G</given-names></name>
+<name><surname>Cryan</surname><given-names>JF</given-names></name>
+<name><surname>Berk</surname><given-names>M</given-names></name>
+<name><surname>O'Neil</surname><given-names>A</given-names></name>
+<name><surname>Dean</surname><given-names>O</given-names></name>
+<name><surname>Hadi</surname><given-names>A</given-names></name>
+<name><surname>Honan</surname><given-names>C</given-names></name>
+<name><surname>Marx</surname><given-names>W</given-names></name>
+</person-group><article-title>Prebiotic and probiotic supplementation and the tryptophan-kynurenine pathway: A systematic review and meta analysis</article-title><source>Neurosci Biobehav Rev</source><year>2021</year><volume>123</volume><fpage>1</fpage><lpage>13</lpage><pub-id pub-id-type="pmid">33482244</pub-id>
+</element-citation></ref><ref id="B90"><label>90</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Razquin</surname><given-names>C</given-names></name>
+<name><surname>Ruiz-Canela</surname><given-names>M</given-names></name>
+<name><surname>Toledo</surname><given-names>E</given-names></name>
+<name><surname>Hern&#x000e1;ndez-Alonso</surname><given-names>P</given-names></name>
+<name><surname>Clish</surname><given-names>CB</given-names></name>
+<name><surname>Guasch-Ferr&#x000e9;</surname><given-names>M</given-names></name>
+<name><surname>Li</surname><given-names>J</given-names></name>
+<name><surname>Wittenbecher</surname><given-names>C</given-names></name>
+<name><surname>Dennis</surname><given-names>C</given-names></name>
+<name><surname>Alonso-G&#x000f3;mez</surname><given-names>A</given-names></name>
+<name><surname>Fit&#x000f3;</surname><given-names>M</given-names></name>
+<name><surname>Liang</surname><given-names>L</given-names></name>
+<name><surname>Corella</surname><given-names>D</given-names></name>
+<name><surname>G&#x000f3;mez-Gracia</surname><given-names>E</given-names></name>
+<name><surname>Estruch</surname><given-names>R</given-names></name>
+<name><surname>Fiol</surname><given-names>M</given-names></name>
+<name><surname>Lapetra</surname><given-names>J</given-names></name>
+<name><surname>Serra-Majem</surname><given-names>L</given-names></name>
+<name><surname>Ros</surname><given-names>E</given-names></name>
+<name><surname>Aros</surname><given-names>F</given-names></name>
+<name><surname>Salas-Salvad&#x000f3;</surname><given-names>J</given-names></name>
+<name><surname>Hu</surname><given-names>FB</given-names></name>
+<name><surname>Mart&#x000ed;nez-Gonz&#x000e1;lez</surname><given-names>MA</given-names></name>
+</person-group><article-title>Metabolomics of the tryptophan-kynurenine degradation pathway and risk of atrial fibrillation and heart failure: potential modification effect of Mediterranean diet</article-title><source>Am J Clin Nutr</source><year>2021</year><volume>114</volume><fpage>1646</fpage><lpage>1654</lpage><pub-id pub-id-type="pmid">34291275</pub-id>
+</element-citation></ref><ref id="B91"><label>91</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yusufu</surname><given-names>I</given-names></name>
+<name><surname>Ding</surname><given-names>K</given-names></name>
+<name><surname>Smith</surname><given-names>K</given-names></name>
+<name><surname>Wankhade</surname><given-names>UD</given-names></name>
+<name><surname>Sahay</surname><given-names>B</given-names></name>
+<name><surname>Patterson</surname><given-names>GT</given-names></name>
+<name><surname>Pacholczyk</surname><given-names>R</given-names></name>
+<name><surname>Adusumilli</surname><given-names>S</given-names></name>
+<name><surname>Hamrick</surname><given-names>MW</given-names></name>
+<name><surname>Hill</surname><given-names>WD</given-names></name>
+<name><surname>Isales</surname><given-names>CM</given-names></name>
+<name><surname>Fulzele</surname><given-names>S</given-names></name>
+</person-group><article-title>A Tryptophan-Deficient Diet Induces Gut Microbiota Dysbiosis and Increases Systemic Inflammation in Aged Mice</article-title><source>Int J Mol Sci</source><year>2021</year><volume>22</volume><fpage>5005</fpage><pub-id pub-id-type="pmid">34066870</pub-id>
+</element-citation></ref><ref id="B92"><label>92</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sorgdrager</surname><given-names>FJH</given-names></name>
+<name><surname>Naud&#x000e9;</surname><given-names>PJW</given-names></name>
+<name><surname>Kema</surname><given-names>IP</given-names></name>
+<name><surname>Nollen</surname><given-names>EA</given-names></name>
+<name><surname>Deyn</surname><given-names>PP</given-names></name>
+</person-group><article-title>Tryptophan Metabolism in Inflammaging: From Biomarker to Therapeutic Target</article-title><source>Front Immunol</source><year>2019</year><volume>10</volume><fpage>2565</fpage><pub-id pub-id-type="pmid">31736978</pub-id>
+</element-citation></ref><ref id="B93"><label>93</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>TY</given-names></name>
+<name><surname>Wu</surname><given-names>WK</given-names></name>
+<name><surname>Hung</surname><given-names>SC</given-names></name>
+</person-group><article-title>High interindividual variability of indoxyl sulfate production identified by an oral tryptophan challenge test</article-title><source>NPJ Biofilms Microbiomes</source><year>2025</year><volume>11</volume><fpage>15</fpage><pub-id pub-id-type="pmid">39805824</pub-id>
+</element-citation></ref><ref id="B94"><label>94</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mocan</surname><given-names>D</given-names></name>
+<name><surname>Jipa</surname><given-names>R</given-names></name>
+<name><surname>Jipa</surname><given-names>DA</given-names></name>
+<name><surname>Lala</surname><given-names>RI</given-names></name>
+<name><surname>Rasinar</surname><given-names>FC</given-names></name>
+<name><surname>Groza</surname><given-names>I</given-names></name>
+<name><surname>Sabau</surname><given-names>R</given-names></name>
+<name><surname>Sulea</surname><given-names>Bratu D</given-names></name>
+<name><surname>Balta</surname><given-names>DF</given-names></name>
+<name><surname>Cioban</surname><given-names>ST</given-names></name>
+<name><surname>Puschita</surname><given-names>M</given-names></name>
+</person-group><article-title>Unveiling the Systemic Impact of Congestion in Heart Failure: A Narrative Review of Multisystem Pathophysiology and Clinical Implications</article-title><source>J Cardiovasc Dev Dis</source><year>2025</year><volume>12</volume><fpage>124</fpage><pub-id pub-id-type="pmid">40278183</pub-id>
+</element-citation></ref><ref id="B95"><label>95</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sandek</surname><given-names>A</given-names></name>
+<name><surname>Bauditz</surname><given-names>J</given-names></name>
+<name><surname>Swidsinski</surname><given-names>A</given-names></name>
+<name><surname>Buhner</surname><given-names>S</given-names></name>
+<name><surname>Weber-Eibel</surname><given-names>J</given-names></name>
+<name><surname>von</surname><given-names>Haehling S</given-names></name>
+<name><surname>Schroedl</surname><given-names>W</given-names></name>
+<name><surname>Karhausen</surname><given-names>T</given-names></name>
+<name><surname>Doehner</surname><given-names>W</given-names></name>
+<name><surname>Rauchhaus</surname><given-names>M</given-names></name>
+<name><surname>Poole-Wilson</surname><given-names>P</given-names></name>
+<name><surname>Volk</surname><given-names>HD</given-names></name>
+<name><surname>Lochs</surname><given-names>H</given-names></name>
+<name><surname>Anker</surname><given-names>SD</given-names></name>
+</person-group><article-title>Altered intestinal function in patients with chronic heart failure</article-title><source>J Am Coll Cardiol</source><year>2007</year><volume>50</volume><fpage>1561</fpage><lpage>1569</lpage><pub-id pub-id-type="pmid">17936155</pub-id>
+</element-citation></ref><ref id="B96"><label>96</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Anderson</surname><given-names>K</given-names></name>
+<name><surname>Schmitt</surname><given-names>A</given-names></name>
+<name><surname>Weintraub</surname><given-names>W</given-names></name>
+<name><surname>Scally</surname><given-names>R</given-names></name>
+<name><surname>Steen</surname><given-names>T</given-names></name>
+</person-group><article-title>Cardiac Cachexia and the Associations to the Microbiome: State&#x02010;of&#x02010;the&#x02010;Science Review</article-title><source>JCSM Communications</source><year>2025</year><volume>8</volume></element-citation></ref><ref id="B97"><label>97</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pathak</surname><given-names>RK</given-names></name>
+<name><surname>Middeldorp</surname><given-names>ME</given-names></name>
+<name><surname>Lau</surname><given-names>DH</given-names></name>
+<name><surname>Mehta</surname><given-names>AB</given-names></name>
+<name><surname>Mahajan</surname><given-names>R</given-names></name>
+<name><surname>Twomey</surname><given-names>D</given-names></name>
+<name><surname>Alasady</surname><given-names>M</given-names></name>
+<name><surname>Hanley</surname><given-names>L</given-names></name>
+<name><surname>Antic</surname><given-names>NA</given-names></name>
+<name><surname>McEvoy</surname><given-names>RD</given-names></name>
+<name><surname>Kalman</surname><given-names>JM</given-names></name>
+<name><surname>Abhayaratna</surname><given-names>WP</given-names></name>
+<name><surname>Sanders</surname><given-names>P</given-names></name>
+</person-group><article-title>Aggressive risk factor reduction study for atrial fibrillation and implications for the outcome of ablation: the ARREST-AF cohort study</article-title><source>J Am Coll Cardiol</source><year>2014</year><volume>64</volume><fpage>2222</fpage><lpage>2231</lpage><pub-id pub-id-type="pmid">25456757</pub-id>
+</element-citation></ref><ref id="B98"><label>98</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Voskoboinik</surname><given-names>A</given-names></name>
+<name><surname>Kalman</surname><given-names>JM</given-names></name>
+<name><surname>De</surname><given-names>Silva A</given-names></name>
+<name><surname>Nicholls</surname><given-names>T</given-names></name>
+<name><surname>Costello</surname><given-names>B</given-names></name>
+<name><surname>Nanayakkara</surname><given-names>S</given-names></name>
+<name><surname>Prabhu</surname><given-names>S</given-names></name>
+<name><surname>Stub</surname><given-names>D</given-names></name>
+<name><surname>Azzopardi</surname><given-names>S</given-names></name>
+<name><surname>Vizi</surname><given-names>D</given-names></name>
+<name><surname>Wong</surname><given-names>G</given-names></name>
+<name><surname>Nalliah</surname><given-names>C</given-names></name>
+<name><surname>Sugumar</surname><given-names>H</given-names></name>
+<name><surname>Wong</surname><given-names>M</given-names></name>
+<name><surname>Kotschet</surname><given-names>E</given-names></name>
+<name><surname>Kaye</surname><given-names>D</given-names></name>
+<name><surname>Taylor</surname><given-names>AJ</given-names></name>
+<name><surname>Kistler</surname><given-names>PM</given-names></name>
+</person-group><article-title>Alcohol Abstinence in Drinkers with Atrial Fibrillation</article-title><source>N Engl J Med</source><year>2020</year><volume>382</volume><fpage>20</fpage><lpage>28</lpage><pub-id pub-id-type="pmid">31893513</pub-id>
+</element-citation></ref><ref id="B99"><label>99</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H</given-names></name>
+<name><surname>Ruan</surname><given-names>H</given-names></name>
+<name><surname>Rahmutula</surname><given-names>D</given-names></name>
+<name><surname>Wilson</surname><given-names>E</given-names></name>
+<name><surname>Marcus</surname><given-names>GM</given-names></name>
+<name><surname>Vedantham</surname><given-names>V</given-names></name>
+<name><surname>Olgin</surname><given-names>JE</given-names></name>
+</person-group><article-title>Effect of acute and chronic ethanol on atrial fibrillation vulnerability in rats</article-title><source>Heart Rhythm</source><year>2020</year><volume>17</volume><fpage>654</fpage><lpage>660</lpage><pub-id pub-id-type="pmid">31756527</pub-id>
+</element-citation></ref><ref id="B100"><label>100</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>LM</given-names></name>
+<name><surname>Dong</surname><given-names>X</given-names></name>
+<name><surname>Xu</surname><given-names>YL</given-names></name>
+<name><surname>Zhou</surname><given-names>ZJ</given-names></name>
+<name><surname>Huang</surname><given-names>YT</given-names></name>
+<name><surname>Zhao</surname><given-names>JK</given-names></name>
+<name><surname>Xu</surname><given-names>DY</given-names></name>
+<name><surname>Xue</surname><given-names>XD</given-names></name>
+<name><surname>Zhao</surname><given-names>QS</given-names></name>
+<name><surname>Liu</surname><given-names>T</given-names></name>
+<name><surname>Yin</surname><given-names>ZT</given-names></name>
+<name><surname>Jiang</surname><given-names>H</given-names></name>
+<name><surname>Wang</surname><given-names>HS</given-names></name>
+</person-group><article-title>Icariin attenuates excessive alcohol consumption-induced susceptibility to atrial fibrillation through SIRT3 signaling</article-title><source>Biochim Biophys Acta Mol Basis Dis</source><year>2022</year><volume>1868</volume><fpage>166483</fpage><pub-id pub-id-type="pmid">35798229</pub-id>
+</element-citation></ref><ref id="B101"><label>101</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Heymsfield</surname><given-names>SB</given-names></name>
+<name><surname>Shapses</surname><given-names>SA</given-names></name>
+</person-group><article-title>Guidance on Energy and Macronutrients across the Life Span</article-title><source>N Engl J Med</source><year>2024</year><volume>390</volume><fpage>1299</fpage><lpage>1310</lpage><pub-id pub-id-type="pmid">38598796</pub-id>
+</element-citation></ref><ref id="B102"><label>102</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Boursier</surname><given-names>J</given-names></name>
+<name><surname>Mueller</surname><given-names>O</given-names></name>
+<name><surname>Barret</surname><given-names>M</given-names></name>
+<name><surname>Machado</surname><given-names>M</given-names></name>
+<name><surname>Fizanne</surname><given-names>L</given-names></name>
+<name><surname>Araujo-Perez</surname><given-names>F</given-names></name>
+<name><surname>Guy</surname><given-names>CD</given-names></name>
+<name><surname>Seed</surname><given-names>PC</given-names></name>
+<name><surname>Rawls</surname><given-names>JF</given-names></name>
+<name><surname>David</surname><given-names>LA</given-names></name>
+<name><surname>Hunault</surname><given-names>G</given-names></name>
+<name><surname>Oberti</surname><given-names>F</given-names></name>
+<name><surname>Cal&#x000e8;s</surname><given-names>P</given-names></name>
+<name><surname>Diehl</surname><given-names>AM</given-names></name>
+</person-group><article-title>The severity of nonalcoholic fatty liver disease is associated with gut dysbiosis and shift in the metabolic function of the gut microbiota</article-title><source>Hepatology</source><year>2016</year><volume>63</volume><fpage>764</fpage><lpage>775</lpage><pub-id pub-id-type="pmid">26600078</pub-id>
+</element-citation></ref><ref id="B103"><label>103</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dai</surname><given-names>XC</given-names></name>
+<name><surname>Yu</surname><given-names>Y</given-names></name>
+<name><surname>Zhou</surname><given-names>SY</given-names></name>
+<name><surname>Yu</surname><given-names>S</given-names></name>
+<name><surname>Xiang</surname><given-names>MX</given-names></name>
+<name><surname>Ma</surname><given-names>H</given-names></name>
+</person-group><article-title>Assessment of the causal relationship between gut microbiota and cardiovascular diseases: a bidirectional Mendelian randomization analysis</article-title><source>BioData Min</source><year>2024</year><volume>17</volume><fpage>6</fpage><pub-id pub-id-type="pmid">38408995</pub-id>
+</element-citation></ref><ref id="B104"><label>104</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Oki</surname><given-names>K</given-names></name>
+<name><surname>Toyama</surname><given-names>M</given-names></name>
+<name><surname>Banno</surname><given-names>T</given-names></name>
+<name><surname>Chonan</surname><given-names>O</given-names></name>
+<name><surname>Benno</surname><given-names>Y</given-names></name>
+<name><surname>Watanabe</surname><given-names>K</given-names></name>
+</person-group><article-title>Comprehensive analysis of the fecal microbiota of healthy Japanese adults reveals a new bacterial lineage associated with a phenotype characterized by a high frequency of bowel movements and a lean body type</article-title><source>BMC Microbiol</source><year>2016</year><volume>16</volume><fpage>284</fpage><pub-id pub-id-type="pmid">27894251</pub-id>
+</element-citation></ref><ref id="B105"><label>105</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Roager</surname><given-names>HM</given-names></name>
+<name><surname>Hansen</surname><given-names>LB</given-names></name>
+<name><surname>Bahl</surname><given-names>MI</given-names></name>
+<name><surname>Frandsen</surname><given-names>HL</given-names></name>
+<name><surname>Carvalho</surname><given-names>V</given-names></name>
+<name><surname>G&#x000f8;bel</surname><given-names>RJ</given-names></name>
+<name><surname>Dalgaard</surname><given-names>MD</given-names></name>
+<name><surname>Plichta</surname><given-names>DR</given-names></name>
+<name><surname>Sparholt</surname><given-names>MH</given-names></name>
+<name><surname>Vestergaard</surname><given-names>H</given-names></name>
+<name><surname>Hansen</surname><given-names>T</given-names></name>
+<name><surname>Sicheritz-Pont&#x000e9;n</surname><given-names>T</given-names></name>
+<name><surname>Nielsen</surname><given-names>HB</given-names></name>
+<name><surname>Pedersen</surname><given-names>O</given-names></name>
+<name><surname>Lauritzen</surname><given-names>L</given-names></name>
+<name><surname>Kristensen</surname><given-names>M</given-names></name>
+<name><surname>Gupta</surname><given-names>R</given-names></name>
+<name><surname>Licht</surname><given-names>TR</given-names></name>
+</person-group><article-title>Colonic transit time is related to bacterial metabolism and mucosal turnover in the gut</article-title><source>Nat Microbiol</source><year>2016</year><volume>1</volume><fpage>16093</fpage><pub-id pub-id-type="pmid">27562254</pub-id>
+</element-citation></ref><ref id="B106"><label>106</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Qi</surname><given-names>Q</given-names></name>
+<name><surname>Li</surname><given-names>J</given-names></name>
+<name><surname>Yu</surname><given-names>B</given-names></name>
+<name><surname>Moon</surname><given-names>JY</given-names></name>
+<name><surname>Chai</surname><given-names>JC</given-names></name>
+<name><surname>Merino</surname><given-names>J</given-names></name>
+<name><surname>Hu</surname><given-names>J</given-names></name>
+<name><surname>Ruiz-Canela</surname><given-names>M</given-names></name>
+<name><surname>Rebholz</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>Z</given-names></name>
+<name><surname>Usyk</surname><given-names>M</given-names></name>
+<name><surname>Chen</surname><given-names>GC</given-names></name>
+<name><surname>Porneala</surname><given-names>BC</given-names></name>
+<name><surname>Wang</surname><given-names>W</given-names></name>
+<name><surname>Nguyen</surname><given-names>NQ</given-names></name>
+<name><surname>Feofanova</surname><given-names>EV</given-names></name>
+<name><surname>Grove</surname><given-names>ML</given-names></name>
+<name><surname>Wang</surname><given-names>TJ</given-names></name>
+<name><surname>Gerszten</surname><given-names>RE</given-names></name>
+<name><surname>Dupuis</surname><given-names>J</given-names></name>
+<name><surname>Salas-Salvad&#x000f3;</surname><given-names>J</given-names></name>
+<name><surname>Bao</surname><given-names>W</given-names></name>
+<name><surname>Perkins</surname><given-names>DL</given-names></name>
+<name><surname>Daviglus</surname><given-names>ML</given-names></name>
+<name><surname>Thyagarajan</surname><given-names>B</given-names></name>
+<name><surname>Cai</surname><given-names>J</given-names></name>
+<name><surname>Wang</surname><given-names>T</given-names></name>
+<name><surname>Manson</surname><given-names>JE</given-names></name>
+<name><surname>Mart&#x000ed;nez-Gonz&#x000e1;lez</surname><given-names>MA</given-names></name>
+<name><surname>Selvin</surname><given-names>E</given-names></name>
+<name><surname>Rexrode</surname><given-names>KM</given-names></name>
+<name><surname>Clish</surname><given-names>CB</given-names></name>
+<name><surname>Hu</surname><given-names>FB</given-names></name>
+<name><surname>Meigs</surname><given-names>JB</given-names></name>
+<name><surname>Knight</surname><given-names>R</given-names></name>
+<name><surname>Burk</surname><given-names>RD</given-names></name>
+<name><surname>Boerwinkle</surname><given-names>E</given-names></name>
+<name><surname>Kaplan</surname><given-names>RC</given-names></name>
+</person-group><article-title>Host and gut microbial tryptophan metabolism and type 2 diabetes: an integrative analysis of host genetics, diet, gut microbiome and circulating metabolites in cohort studies</article-title><source>Gut</source><year>2022</year><volume>71</volume><fpage>1095</fpage><lpage>1105</lpage><pub-id pub-id-type="pmid">34127525</pub-id>
+</element-citation></ref><ref id="B107"><label>107</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mayerhofer</surname><given-names>CCK</given-names></name>
+<name><surname>Kummen</surname><given-names>M</given-names></name>
+<name><surname>Holm</surname><given-names>K</given-names></name>
+<name><surname>Broch</surname><given-names>K</given-names></name>
+<name><surname>Awoyemi</surname><given-names>A</given-names></name>
+<name><surname>Vestad</surname><given-names>B</given-names></name>
+<name><surname>Storm-Larsen</surname><given-names>C</given-names></name>
+<name><surname>Seljeflot</surname><given-names>I</given-names></name>
+<name><surname>Ueland</surname><given-names>T</given-names></name>
+<name><surname>Bohov</surname><given-names>P</given-names></name>
+<name><surname>Berge</surname><given-names>RK</given-names></name>
+<name><surname>Svardal</surname><given-names>A</given-names></name>
+<name><surname>Gullestad</surname><given-names>L</given-names></name>
+<name><surname>Yndestad</surname><given-names>A</given-names></name>
+<name><surname>Aukrust</surname><given-names>P</given-names></name>
+<name><surname>Hov</surname><given-names>JR</given-names></name>
+<name><surname>Tr&#x000f8;seid</surname><given-names>M</given-names></name>
+</person-group><article-title>Low fibre intake is associated with gut microbiota alterations in chronic heart failure</article-title><source>ESC Heart Fail</source><year>2020</year><volume>7</volume><fpage>456</fpage><lpage>466</lpage><pub-id pub-id-type="pmid">31978943</pub-id>
+</element-citation></ref><ref id="B108"><label>108</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J</given-names></name>
+<name><surname>An</surname><given-names>N</given-names></name>
+<name><surname>Ma</surname><given-names>C</given-names></name>
+<name><surname>Li</surname><given-names>X</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+<name><surname>Zhu</surname><given-names>W</given-names></name>
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>J</given-names></name>
+</person-group><article-title>Correlation analysis of intestinal flora with hypertension</article-title><source>Exp Ther Med</source><year>2018</year><volume>16</volume><fpage>2325</fpage><lpage>2330</lpage><pub-id pub-id-type="pmid">30210587</pub-id>
+</element-citation></ref><ref id="B109"><label>109</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>Z</given-names></name>
+<name><surname>Lee</surname><given-names>SC</given-names></name>
+<name><surname>Chen</surname><given-names>S</given-names></name>
+<name><surname>Li</surname><given-names>F</given-names></name>
+</person-group><article-title>Akkermansia muciniphila: promises and pitfallsfor next-generation beneficial microorganisms</article-title><source>Arch Microbiol</source><year>2025</year><volume>207</volume><fpage>76</fpage><pub-id pub-id-type="pmid">40032707</pub-id>
+</element-citation></ref><ref id="B110"><label>110</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Costantini</surname><given-names>L</given-names></name>
+<name><surname>Molinari</surname><given-names>R</given-names></name>
+<name><surname>Farinon</surname><given-names>B</given-names></name>
+<name><surname>Merendino</surname><given-names>N</given-names></name>
+</person-group><article-title>Impact of Omega-3 Fatty Acids on the Gut Microbiota</article-title><source>Int J Mol Sci</source><year>2017</year><volume>18</volume><fpage>2645</fpage><pub-id pub-id-type="pmid">29215589</pub-id>
+</element-citation></ref><ref id="B111"><label>111</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Qian</surname><given-names>F</given-names></name>
+<name><surname>Tintle</surname><given-names>N</given-names></name>
+<name><surname>Jensen</surname><given-names>PN</given-names></name>
+<name><surname>Lemaitre</surname><given-names>RN</given-names></name>
+<name><surname>Imamura</surname><given-names>F</given-names></name>
+<name><surname>Feldreich</surname><given-names>TR</given-names></name>
+<name><surname>Nomura</surname><given-names>SO</given-names></name>
+<name><surname>Guan</surname><given-names>W</given-names></name>
+<name><surname>Laguzzi</surname><given-names>F</given-names></name>
+<name><surname>Kim</surname><given-names>E</given-names></name>
+<name><surname>Virtanen</surname><given-names>JK</given-names></name>
+<name><surname>Steur</surname><given-names>M</given-names></name>
+<name><surname>Bork</surname><given-names>CS</given-names></name>
+<name><surname>Hirakawa</surname><given-names>Y</given-names></name>
+<name><surname>O'Donoghue</surname><given-names>ML</given-names></name>
+<name><surname>Sala-Vila</surname><given-names>A</given-names></name>
+<name><surname>Ardisson</surname><given-names>Korat AV</given-names></name>
+<name><surname>Sun</surname><given-names>Q</given-names></name>
+<name><surname>Rimm</surname><given-names>EB</given-names></name>
+<name><surname>Psaty</surname><given-names>BM</given-names></name>
+<name><surname>Heckbert</surname><given-names>SR</given-names></name>
+<name><surname>Forouhi</surname><given-names>NG</given-names></name>
+<name><surname>Wareham</surname><given-names>NJ</given-names></name>
+<name><surname>Marklund</surname><given-names>M</given-names></name>
+<name><surname>Ris&#x000e9;rus</surname><given-names>U</given-names></name>
+<name><surname>Lind</surname><given-names>L</given-names></name>
+<name><surname>&#x000c4;rnl&#x000f6;v</surname><given-names>J</given-names></name>
+<name><surname>Garg</surname><given-names>P</given-names></name>
+<name><surname>Tsai</surname><given-names>MY</given-names></name>
+<name><surname>Pankow</surname><given-names>J</given-names></name>
+<name><surname>Misialek</surname><given-names>JR</given-names></name>
+<name><surname>Gigante</surname><given-names>B</given-names></name>
+<name><surname>Leander</surname><given-names>K</given-names></name>
+<name><surname>Pester</surname><given-names>JA</given-names></name>
+<name><surname>Albert</surname><given-names>CM</given-names></name>
+<name><surname>Kavousi</surname><given-names>M</given-names></name>
+<name><surname>Ikram</surname><given-names>A</given-names></name>
+<name><surname>Voortman</surname><given-names>T</given-names></name>
+<name><surname>Schmidt</surname><given-names>EB</given-names></name>
+<name><surname>Ninomiya</surname><given-names>T</given-names></name>
+<name><surname>Morrow</surname><given-names>DA</given-names></name>
+<name><surname>Bay&#x000e9;s-Gen&#x000ed;s</surname><given-names>A</given-names></name>
+<name><surname>O'Keefe</surname><given-names>JH</given-names></name>
+<name><surname>Ong</surname><given-names>KL</given-names></name>
+<name><surname>Wu</surname><given-names>JHY</given-names></name>
+<name><surname>Mozaffarian</surname><given-names>D</given-names></name>
+<name><surname>Harris</surname><given-names>WS</given-names></name>
+<name><surname>Siscovick</surname><given-names>DS</given-names></name>
+</person-group><collab>Fatty Acids and Outcomes Research Consortium (FORCE)</collab><article-title>Omega-3 Fatty Acid Biomarkers and Incident Atrial Fibrillation</article-title><source>J Am Coll Cardiol</source><year>2023</year><volume>82</volume><fpage>336</fpage><lpage>349</lpage><pub-id pub-id-type="pmid">37468189</pub-id>
+</element-citation></ref><ref id="B112"><label>112</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tsutsumi</surname><given-names>R</given-names></name>
+<name><surname>Yamasaki</surname><given-names>Y</given-names></name>
+<name><surname>Takeo</surname><given-names>J</given-names></name>
+<name><surname>Miyahara</surname><given-names>H</given-names></name>
+<name><surname>Sebe</surname><given-names>M</given-names></name>
+<name><surname>Bando</surname><given-names>M</given-names></name>
+<name><surname>Tanba</surname><given-names>Y</given-names></name>
+<name><surname>Mishima</surname><given-names>Y</given-names></name>
+<name><surname>Takeji</surname><given-names>K</given-names></name>
+<name><surname>Ueshima</surname><given-names>N</given-names></name>
+<name><surname>Kuroda</surname><given-names>M</given-names></name>
+<name><surname>Masumoto</surname><given-names>S</given-names></name>
+<name><surname>Harada</surname><given-names>N</given-names></name>
+<name><surname>Fukuda</surname><given-names>D</given-names></name>
+<name><surname>Yoshimoto</surname><given-names>R</given-names></name>
+<name><surname>Tsutsumi</surname><given-names>YM</given-names></name>
+<name><surname>Aihara</surname><given-names>KI</given-names></name>
+<name><surname>Sata</surname><given-names>M</given-names></name>
+<name><surname>Sakaue</surname><given-names>H</given-names></name>
+</person-group><article-title>Long-chain monounsaturated fatty acids improve endothelial function with altering microbial flora</article-title><source>Transl Res</source><year>2021</year><volume>237</volume><fpage>16</fpage><lpage>30</lpage><pub-id pub-id-type="pmid">33775867</pub-id>
+</element-citation></ref><ref id="B113"><label>113</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Han</surname><given-names>X</given-names></name>
+<name><surname>Yuan</surname><given-names>Y</given-names></name>
+<name><surname>Zhou</surname><given-names>Y</given-names></name>
+<name><surname>Gao</surname><given-names>Y</given-names></name>
+<name><surname>Yu</surname><given-names>H</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+<name><surname>Shi</surname><given-names>Y</given-names></name>
+<name><surname>Duan</surname><given-names>Y</given-names></name>
+<name><surname>Zhao</surname><given-names>X</given-names></name>
+<name><surname>Yan</surname><given-names>S</given-names></name>
+<name><surname>Hao</surname><given-names>H</given-names></name>
+<name><surname>Dai</surname><given-names>C</given-names></name>
+<name><surname>Zhao</surname><given-names>S</given-names></name>
+<name><surname>Shi</surname><given-names>J</given-names></name>
+<name><surname>Li</surname><given-names>W</given-names></name>
+<name><surname>Zhang</surname><given-names>S</given-names></name>
+<name><surname>Xu</surname><given-names>W</given-names></name>
+<name><surname>Fang</surname><given-names>N</given-names></name>
+<name><surname>Gong</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>Y</given-names></name>
+</person-group><article-title>Akkermansia muciniphila prevents cold-related atrial fibrillation in rats by modulation of TMAO induced cardiac pyroptosis</article-title><source>EBioMedicine</source><year>2022</year><volume>82</volume><fpage>104087</fpage><pub-id pub-id-type="pmid">35797768</pub-id>
+</element-citation></ref><ref id="B114"><label>114</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bertoni</surname><given-names>C</given-names></name>
+<name><surname>Abodi</surname><given-names>M</given-names></name>
+<name><surname>D'Oria</surname><given-names>V</given-names></name>
+<name><surname>Milani</surname><given-names>GP</given-names></name>
+<name><surname>Agostoni</surname><given-names>C</given-names></name>
+<name><surname>Mazzocchi</surname><given-names>A</given-names></name>
+</person-group><article-title>Alpha-Linolenic Acid and Cardiovascular Events: A Narrative Review</article-title><source>Int J Mol Sci</source><year>2023</year><volume>24</volume><fpage>14319</fpage><pub-id pub-id-type="pmid">37762621</pub-id>
+</element-citation></ref><ref id="B115"><label>115</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Simopoulos</surname><given-names>AP</given-names></name>
+</person-group><article-title>The importance of the omega-6/omega-3 fatty acid ratio in cardiovascular disease and other chronic diseases</article-title><source>Exp Biol Med (Maywood)</source><year>2008</year><volume>233</volume><fpage>674</fpage><lpage>688</lpage><pub-id pub-id-type="pmid">18408140</pub-id>
+</element-citation></ref><ref id="B116"><label>116</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bork</surname><given-names>CS</given-names></name>
+<name><surname>Larsen</surname><given-names>JM</given-names></name>
+<name><surname>Lundbye-Christensen</surname><given-names>S</given-names></name>
+<name><surname>Olsen</surname><given-names>A</given-names></name>
+<name><surname>Dahm</surname><given-names>CC</given-names></name>
+<name><surname>Riahi</surname><given-names>S</given-names></name>
+<name><surname>Overvad</surname><given-names>K</given-names></name>
+<name><surname>Schmidt</surname><given-names>EB</given-names></name>
+</person-group><article-title>Plant Omega-3 Fatty Acids May Lower Risk of Atrial Fibrillation in Individuals with a Low Intake of Marine Omega-3 Fatty Acids</article-title><source>J Nutr</source><year>2024</year><volume>154</volume><fpage>2827</fpage><lpage>2833</lpage><pub-id pub-id-type="pmid">39019166</pub-id>
+</element-citation></ref><ref id="B117"><label>117</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mej&#x000ed;a-Zepeda</surname><given-names>R</given-names></name>
+<name><surname>P&#x000e9;rez-Hern&#x000e1;ndez</surname><given-names>IH</given-names></name>
+</person-group><article-title>Effect of alpha linolenic acid on membrane fluidity and respiration of liver mitochondria in normoglycemic and diabetic Wistar rats</article-title><source>J Bioenerg Biomembr</source><year>2020</year><volume>52</volume><fpage>421</fpage><lpage>430</lpage><pub-id pub-id-type="pmid">33156468</pub-id>
+</element-citation></ref><ref id="B118"><label>118</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>L</given-names></name>
+<name><surname>Liu</surname><given-names>L</given-names></name>
+<name><surname>Liu</surname><given-names>X</given-names></name>
+<name><surname>Xiang</surname><given-names>M</given-names></name>
+<name><surname>Zhou</surname><given-names>L</given-names></name>
+<name><surname>Huang</surname><given-names>C</given-names></name>
+<name><surname>Shen</surname><given-names>Z</given-names></name>
+<name><surname>Miao</surname><given-names>L</given-names></name>
+</person-group><article-title>The gut microbes, Enterococcus and Escherichia-Shigella, affect the responses of heart valve replacement patients to the anticoagulant warfarin</article-title><source>Pharmacol Res</source><year>2020</year><volume>159</volume><fpage>104979</fpage><pub-id pub-id-type="pmid">32505835</pub-id>
+</element-citation></ref><ref id="B119"><label>119</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>ZX</given-names></name>
+<name><surname>Xu</surname><given-names>XF</given-names></name>
+<name><surname>Yang</surname><given-names>CJ</given-names></name>
+</person-group><article-title>Combination of colchicine and omega-3 fatty acids for reducing the recurrence of atrial fibrillation: A promising approach?</article-title><source>Int J Cardiol</source><year>2025</year><volume>426</volume><fpage>133100</fpage><pub-id pub-id-type="pmid">40021018</pub-id>
+</element-citation></ref><ref id="B120"><label>120</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Al-Sadawi</surname><given-names>M</given-names></name>
+<name><surname>Aslam</surname><given-names>F</given-names></name>
+<name><surname>Henriques</surname><given-names>MD</given-names></name>
+<name><surname>Alsaiqali</surname><given-names>M</given-names></name>
+<name><surname>Gier</surname><given-names>C</given-names></name>
+<name><surname>Kim</surname><given-names>P</given-names></name>
+<name><surname>Almasry</surname><given-names>I</given-names></name>
+<name><surname>Singh</surname><given-names>A</given-names></name>
+<name><surname>Fan</surname><given-names>R</given-names></name>
+<name><surname>Rashba</surname><given-names>E</given-names></name>
+</person-group><article-title>Effect of low dose colchicine on long term recurrence after atrial fibrillation ablation</article-title><source>Int J Cardiol</source><year>2025</year><volume>423</volume><fpage>132972</fpage><pub-id pub-id-type="pmid">39793763</pub-id>
+</element-citation></ref><ref id="B121"><label>121</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mohanty</surname><given-names>S</given-names></name>
+<name><surname>Mohanty</surname><given-names>P</given-names></name>
+<name><surname>Kessler</surname><given-names>D</given-names></name>
+<name><surname>Gianni</surname><given-names>C</given-names></name>
+<name><surname>Baho</surname><given-names>KK</given-names></name>
+<name><surname>Morris</surname><given-names>T</given-names></name>
+<name><surname>Yildiz</surname><given-names>T</given-names></name>
+<name><surname>Quintero</surname><given-names>Mayedo A</given-names></name>
+<name><surname>MacDonald</surname><given-names>B</given-names></name>
+<name><surname>Della</surname><given-names>Rocca DG</given-names></name>
+<name><surname>Al-Ahmad</surname><given-names>A</given-names></name>
+<name><surname>Bassiouny</surname><given-names>M</given-names></name>
+<name><surname>Gallinghouse</surname><given-names>GJ</given-names></name>
+<name><surname>Horton</surname><given-names>R</given-names></name>
+<name><surname>Burkhardt</surname><given-names>JD</given-names></name>
+<name><surname>di</surname><given-names>Biase L</given-names></name>
+<name><surname>Natale</surname><given-names>A</given-names></name>
+</person-group><article-title>Impact of Colchicine Monotherapy on the Risk of Acute Pericarditis Following Atrial Fibrillation Ablation</article-title><source>JACC Clin Electrophysiol</source><year>2023</year><volume>9</volume><fpage>1051</fpage><lpage>1059</lpage><pub-id pub-id-type="pmid">37086226</pub-id>
+</element-citation></ref><ref id="B122"><label>122</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Haiser</surname><given-names>HJ</given-names></name>
+<name><surname>Gootenberg</surname><given-names>DB</given-names></name>
+<name><surname>Chatman</surname><given-names>K</given-names></name>
+<name><surname>Sirasani</surname><given-names>G</given-names></name>
+<name><surname>Balskus</surname><given-names>EP</given-names></name>
+<name><surname>Turnbaugh</surname><given-names>PJ</given-names></name>
+</person-group><article-title>Predicting and manipulating cardiac drug inactivation by the human gut bacterium Eggerthella lenta</article-title><source>Science</source><year>2013</year><volume>341</volume><fpage>295</fpage><lpage>298</lpage><pub-id pub-id-type="pmid">23869020</pub-id>
+</element-citation></ref><ref id="B123"><label>123</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lopes</surname><given-names>RD</given-names></name>
+<name><surname>Rordorf</surname><given-names>R</given-names></name>
+<name><surname>De</surname><given-names>Ferrari GM</given-names></name>
+<name><surname>Leonardi</surname><given-names>S</given-names></name>
+<name><surname>Thomas</surname><given-names>L</given-names></name>
+<name><surname>Wojdyla</surname><given-names>DM</given-names></name>
+<name><surname>Ridefelt</surname><given-names>P</given-names></name>
+<name><surname>Lawrence</surname><given-names>JH</given-names></name>
+<name><surname>De</surname><given-names>Caterina R</given-names></name>
+<name><surname>Vinereanu</surname><given-names>D</given-names></name>
+<name><surname>Hanna</surname><given-names>M</given-names></name>
+<name><surname>Flaker</surname><given-names>G</given-names></name>
+<name><surname>Al-Khatib</surname><given-names>SM</given-names></name>
+<name><surname>Hohnloser</surname><given-names>SH</given-names></name>
+<name><surname>Alexander</surname><given-names>JH</given-names></name>
+<name><surname>Granger</surname><given-names>CB</given-names></name>
+<name><surname>Wallentin</surname><given-names>L</given-names></name>
+</person-group><collab>ARISTOTLE Committees and Investigators</collab><article-title>Digoxin and Mortality in Patients With Atrial Fibrillation</article-title><source>J Am Coll Cardiol</source><year>2018</year><volume>71</volume><fpage>1063</fpage><lpage>1074</lpage><pub-id pub-id-type="pmid">29519345</pub-id>
+</element-citation></ref><ref id="B124"><label>124</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Virgadamo</surname><given-names>S</given-names></name>
+<name><surname>Charnigo</surname><given-names>R</given-names></name>
+<name><surname>Darrat</surname><given-names>Y</given-names></name>
+<name><surname>Morales</surname><given-names>G</given-names></name>
+<name><surname>Elayi</surname><given-names>CS</given-names></name>
+</person-group><article-title>Digoxin: A systematic review in atrial fibrillation, congestive heart failure and post myocardial infarction</article-title><source>World J Cardiol</source><year>2015</year><volume>7</volume><fpage>808</fpage><lpage>816</lpage><pub-id pub-id-type="pmid">26635929</pub-id>
+</element-citation></ref><ref id="B125"><label>125</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Matuskova</surname><given-names>Z</given-names></name>
+<name><surname>Anzenbacherova</surname><given-names>E</given-names></name>
+<name><surname>Vecera</surname><given-names>R</given-names></name>
+<name><surname>Tlaskalova-Hogenova</surname><given-names>H</given-names></name>
+<name><surname>Kolar</surname><given-names>M</given-names></name>
+<name><surname>Anzenbacher</surname><given-names>P</given-names></name>
+</person-group><article-title>Administration of a probiotic can change drug pharmacokinetics: effect of E. coli Nissle 1917 on amidarone absorption in rats</article-title><source>PLoS One</source><year>2014</year><volume>9</volume><fpage>e87150</fpage><pub-id pub-id-type="pmid">24505278</pub-id>
+</element-citation></ref><ref id="B126"><label>126</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ittzes</surname><given-names>B</given-names></name>
+<name><surname>Szentkiralyi</surname><given-names>E</given-names></name>
+<name><surname>Szabo</surname><given-names>Z</given-names></name>
+<name><surname>Batai</surname><given-names>IZ</given-names></name>
+<name><surname>Gyorffy</surname><given-names>O</given-names></name>
+<name><surname>Kovacs</surname><given-names>T</given-names></name>
+<name><surname>Batai</surname><given-names>I</given-names></name>
+<name><surname>Kerenyi</surname><given-names>M</given-names></name>
+</person-group><article-title>Amiodarone that has antibacterial effect against human pathogens may represent a novel catheter lock</article-title><source>Acta Microbiol Immunol Hung</source><year>2020</year><volume>67</volume><fpage>133</fpage><lpage>137</lpage><pub-id pub-id-type="pmid">32634110</pub-id>
+</element-citation></ref><ref id="B127"><label>127</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>S</given-names></name>
+<name><surname>Xu</surname><given-names>W</given-names></name>
+<name><surname>Fang</surname><given-names>N</given-names></name>
+<name><surname>Li</surname><given-names>L</given-names></name>
+<name><surname>Yang</surname><given-names>N</given-names></name>
+<name><surname>Zhao</surname><given-names>X</given-names></name>
+<name><surname>Hao</surname><given-names>H</given-names></name>
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Liang</surname><given-names>Q</given-names></name>
+<name><surname>Wang</surname><given-names>Z</given-names></name>
+<name><surname>Duan</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>S</given-names></name>
+<name><surname>Gong</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>Y</given-names></name>
+</person-group><article-title>Ibrutinib-induced pulmonary angiotensin-converting enzyme activation promotes atrial fibrillation in rats</article-title><source>iScience</source><year>2024</year><volume>27</volume><fpage>108926</fpage><pub-id pub-id-type="pmid">38357670</pub-id>
+</element-citation></ref><ref id="B128"><label>128</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sutton</surname><given-names>TDS</given-names></name>
+<name><surname>Hill</surname><given-names>C</given-names></name>
+</person-group><article-title>Gut Bacteriophage: Current Understanding and Challenges</article-title><source>Front Endocrinol (Lausanne)</source><year>2019</year><volume>10</volume><fpage>784</fpage><pub-id pub-id-type="pmid">31849833</pub-id>
+</element-citation></ref><ref id="B129"><label>129</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Roager</surname><given-names>HM</given-names></name>
+<name><surname>Licht</surname><given-names>TR</given-names></name>
+<name><surname>Poulsen</surname><given-names>SK</given-names></name>
+<name><surname>Larsen</surname><given-names>TM</given-names></name>
+<name><surname>Bahl</surname><given-names>MI</given-names></name>
+</person-group><article-title>Microbial enterotypes, inferred by the prevotella-to-bacteroides ratio, remained stable during a 6-month randomized controlled diet intervention with the new nordic diet</article-title><source>Appl Environ Microbiol</source><year>2014</year><volume>80</volume><fpage>1142</fpage><lpage>1149</lpage><pub-id pub-id-type="pmid">24296500</pub-id>
+</element-citation></ref><ref id="B130"><label>130</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>&#x0017b;&#x000f3;&#x00142;kiewicz</surname><given-names>J</given-names></name>
+<name><surname>Marzec</surname><given-names>A</given-names></name>
+<name><surname>Ruszczy&#x00144;ski</surname><given-names>M</given-names></name>
+<name><surname>Feleszko</surname><given-names>W</given-names></name>
+</person-group><article-title>Postbiotics-A Step Beyond Pre- and Probiotics</article-title><source>Nutrients</source><year>2020</year><volume>12</volume><fpage>2189</fpage><pub-id pub-id-type="pmid">32717965</pub-id>
+</element-citation></ref><ref id="B131"><label>131</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rahman</surname><given-names>MM</given-names></name>
+<name><surname>Islam</surname><given-names>F</given-names></name>
+<name><surname>-Or-Rashid</surname><given-names>MH</given-names></name>
+<name><surname>Mamun</surname><given-names>AA</given-names></name>
+<name><surname>Rahaman</surname><given-names>MS</given-names></name>
+<name><surname>Islam</surname><given-names>MM</given-names></name>
+<name><surname>Meem</surname><given-names>AFK</given-names></name>
+<name><surname>Sutradhar</surname><given-names>PR</given-names></name>
+<name><surname>Mitra</surname><given-names>S</given-names></name>
+<name><surname>Mimi</surname><given-names>AA</given-names></name>
+<name><surname>Emran</surname><given-names>TB</given-names></name>
+<name><surname>Fatimawali</surname></name>
+<name><surname>Idroes</surname><given-names>R</given-names></name>
+<name><surname>Tallei</surname><given-names>TE</given-names></name>
+<name><surname>Ahmed</surname><given-names>M</given-names></name>
+<name><surname>Cavalu</surname><given-names>S</given-names></name>
+</person-group><article-title>The Gut Microbiota (Microbiome) in Cardiovascular Disease and Its Therapeutic Regulation</article-title><source>Front Cell Infect Microbiol</source><year>2022</year><volume>12</volume><fpage>903570</fpage><pub-id pub-id-type="pmid">35795187</pub-id>
+</element-citation></ref><ref id="B132"><label>132</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tilg</surname><given-names>H</given-names></name>
+<name><surname>Kaser</surname><given-names>A</given-names></name>
+</person-group><article-title>Gut microbiome, obesity, and metabolic dysfunction</article-title><source>J Clin Invest</source><year>2011</year><volume>121</volume><fpage>2126</fpage><lpage>2132</lpage><pub-id pub-id-type="pmid">21633181</pub-id>
+</element-citation></ref><ref id="B133"><label>133</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bicknell</surname><given-names>B</given-names></name>
+<name><surname>Liebert</surname><given-names>A</given-names></name>
+<name><surname>Johnstone</surname><given-names>D</given-names></name>
+<name><surname>Kiat</surname><given-names>H</given-names></name>
+</person-group><article-title>Photobiomodulation of the microbiome: implications for metabolic and inflammatory diseases</article-title><source>Lasers Med Sci</source><year>2019</year><volume>34</volume><fpage>317</fpage><lpage>327</lpage><pub-id pub-id-type="pmid">30074108</pub-id>
+</element-citation></ref></ref-list></back></article>

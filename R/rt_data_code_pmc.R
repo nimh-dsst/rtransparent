@@ -200,7 +200,7 @@
 
 
 # Runs 3x faster than sensitive (median: 1.4s vs 3.5s)
-rt_data_pmc_specific <- function(filename) {
+rt_data_pmc_specific <- function(article_xml) {
 
   xpath <- c(
     "front/article-meta/article-id[@pub-id-type = 'pmid']",
@@ -234,8 +234,6 @@ rt_data_pmc_specific <- function(filename) {
     is_relevant_data = NA,
     is_relevant_code = NA
   )
-
-  article_xml <- xml2::read_xml(filename) %>% xml2::xml_ns_strip()
 
   out %<>% purrr::list_modify(!!!purrr::map(xpath, ~ .get_text(article_xml, .x, T)))
 

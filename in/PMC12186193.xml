@@ -1,0 +1,339 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">World J Cardiol</journal-id><journal-id journal-id-type="publisher-id">WJC</journal-id><journal-title-group><journal-title>World Journal of Cardiology</journal-title></journal-title-group><issn pub-type="epub">1949-8462</issn><publisher><publisher-name>Baishideng Publishing Group Inc</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmc">PMC12186193</article-id><article-id pub-id-type="other">jWJC.v17.i6.eid107102</article-id><article-id pub-id-type="doi">10.4330/wjc.v17.i6.107102</article-id><article-id pub-id-type="publisher-manuscript">107102</article-id><article-categories><subj-group subj-group-type="heading"><subject>Prospective Study</subject></subj-group></article-categories><title-group><article-title>Impact of optimal medical therapy in heart failure certification for hospitalists on guideline-directed medical therapy utilization</article-title><alt-title>Ishaq F <italic>et al</italic>. OMT-HF GDMT hospitalists</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Ishaq</surname><given-names>Farhan</given-names></name><aff>Department of Cardiology, Houston Methodist Hospital, Houston, TX 77030, United States</aff></contrib><contrib contrib-type="author"><name><surname>Nguyen</surname><given-names>Duc T</given-names></name><aff>Department of Pediatrics, Baylor College of Medicine, Houston, TX 77030, United States</aff></contrib><contrib contrib-type="author"><name><surname>Graviss</surname><given-names>Edward A</given-names></name><aff>Division of Medicine, Department of Pathology and Genomic Medicine, Houston Methodist Research Institute, Institute for Academic Medicine, Houston, TX 77030, United States</aff></contrib><contrib contrib-type="author"><name><surname>Ebunlomo</surname><given-names>Ebun</given-names></name><aff>Department of Cardiology, Houston Methodist Hospital, Houston, TX 77030, United States</aff></contrib><contrib contrib-type="author"><name><surname>Bhimaraj</surname><given-names>Arvind</given-names></name><aff>Department of Cardiology, Houston Methodist Hospital, Houston, TX 77030, United States</aff></contrib><contrib contrib-type="author"><name><surname>Fida</surname><given-names>Nadia</given-names></name><aff>Department of Cardiology, Houston Methodist Hospital, Houston, TX 77030, United States</aff><aff>Department of Cardiology, Houston Methodist Baytown Hospital, Baytown, TX 77521, United States. <email>nfida@houstonmethodist.org</email></aff></contrib></contrib-group><author-notes><fn><p>Author contributions: Ishaq F, Ebunlomo E, Bhimaraj A, and Fida N designed the study; Ishaq F and Fida N performed the research and wrote the manuscript; Nguyen DT and Graviss EA analyzed the data; Nguyen DT, Graviss EA, Ebunlomo E, and Bhimaraj A revised the manuscript; all authors have read and approved the final manuscript.</p><p>Supported by Houston Methodist DeBakey Heart and Vascular Center Grant.</p><p>Corresponding author: Nadia Fida, MD, Assistant Professor, Director, Department of Cardiology, Houston Methodist Baytown Hospital, 4301 Garth Road, Baytown, TX 77521, United States. <email>nfida@houstonmethodist.org</email></p></fn></author-notes><pub-date pub-type="ppub"><day>26</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="epub"><day>26</day><month>6</month><year>2025</year></pub-date><volume>17</volume><issue>6</issue><elocation-id>107102</elocation-id><history><date date-type="received"><day>17</day><month>3</month><year>2025</year></date><date date-type="rev-recd"><day>6</day><month>4</month><year>2025</year></date><date date-type="accepted"><day>27</day><month>5</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9;The Author(s) 2025. Published by Baishideng Publishing Group Inc. All rights reserved.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is an open-access article that was selected by an in-house editor and fully peer-reviewed by external reviewers. It is distributed in accordance with the Creative Commons Attribution NonCommercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See: <uri xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/Licenses/by-nc/4.0/</uri></license-p></license></permissions><abstract><sec><title>BACKGROUND</title><p>Significant gaps in guideline-directed medical therapy (GDMT) for heart failure (HF) stem from shortages of cardiologists and advanced HF providers, as well as a lack of optimal HF management knowledge among hospitalists. This study compared the impact of optimal medical therapy in HF (OMT-HF) certification on GDMT implementation and patient outcomes between an intervention group (IG) of hospitalists and a standard-of-care comparison group (SOC-CG).</p></sec><sec><title>AIM</title><p>To evaluate if OMT-HF has a difference in GDMT and patients in outcomes between IG and SOC-CG.</p></sec><sec><title>METHODS</title><p>This study was implemented from November 2022 to May 2023. Hospitalized cardiology patients with HF and left ventricular ejection fraction &#x02264; 40% were randomized to IG or SOC-CG. Exclusion criteria included patients in cardiogenic shock, unable to consent, or at high risk. Follow-up was at 30 days post-discharge. Differences between groups were analyzed using Fisher&#x02019;s exact test for categorical variables and Wilcoxon rank-sum or unpaired <italic>t</italic>-test for continuous variables. Changes in Minnesota Living with Heart Failure Questionnaire (MLWHFQ) scores were evaluated using a paired <italic>t</italic>-test.</p></sec><sec><title>RESULTS</title><p>IG patients had lower readmission rates [(9 (42.85%) <italic>vs</italic> 11 (17.46%), <italic>P</italic> = 0.03] and a decreased trend in mortality 30-day post discharge. IG patients also showed greater mean improvements in total (-27.03 &#x000b1; 24.59 <italic>vs</italic> -5.85 &#x000b1; 23.52, <italic>P</italic> &#x0003c; 0.001), physical (-13.8 &#x000b1; 12.3 <italic>vs</italic> -2.71 &#x000b1; 11.16, <italic>P</italic> &#x0003c; 0.001) and emotional (-4.76 &#x000b1; 8.10 <italic>vs</italic> -1.42 &#x000b1; 5.98) dimensions on the MLWHFQ compared to SOC-CG, however, change in emotional dimension did not reach statistical significance.</p></sec><sec><title>CONCLUSION</title><p>Hospitalist OMT-HF certification may lead to better 30-day outcomes in hospitalized HF patients including quality of life, mortality and readmission rates. Larger prospective studies are warranted to validate these findings.</p></sec></abstract><kwd-group><kwd>Heart failure education optimization</kwd><kwd>Guideline directed medical therapy</kwd><kwd>Heart failure</kwd><kwd>Quality of Life</kwd><kwd>Optimal medical therapy in heart failure</kwd></kwd-group></article-meta></front><body><p>
+<bold>Core Tip:</bold> In patients with heart failure (HF) with reduced ejection fraction who are admitted to the hospital, seeing an optimal medical therapy in HF (OMT-HF) certified hospitalist can lead to improved guideline directed medical therapy scores, improved quality of life scores on the Milwaukee Living with Heart Failure Questionnaire 30 days post-discharge and lower 30-day readmission rates compared to those who did not see an OMT-HF certified hospitalist.</p><sec><title>INTRODUCTION</title><p>Heart failure (HF) is a public health issue that significantly impacts morbidity, mortality, and healthcare costs in the United States, with HF with reduced ejection fraction (HFrEF) representing about 50% of cases. HF is a leading cause of hospitalization in the United States[<xref rid="B1" ref-type="bibr">1</xref>]. A significant portion of HF patients are readmitted to the hospital, with 25 percent readmission within 30 days after discharge[<xref rid="B2" ref-type="bibr">2</xref>,<xref rid="B3" ref-type="bibr">3</xref>]. The mortality rate for patients admitted with HF is between 10% and 15%[<xref rid="B4" ref-type="bibr">4</xref>]. There are significant gaps in implementing evidence-based therapies, with less than 25% of HFrEF patients receiving all recommended guideline medications[<xref rid="B5" ref-type="bibr">5</xref>]. Hospitalization offers a key opportunity to optimize medications in HF patients; yet disparities remain. Data from Get With the Guidelines-Heart Failure registry show that patients from low-performing hospitals have a higher risk of mortality[<xref rid="B6" ref-type="bibr">6</xref>]. As hospitalists manage a large portion of HF admissions and face an increasing responsibility due to a projected shortage of cardiologists, their crucial role can be empowered through a Heart Failure Society of America (HFSA) initiative-optimal medical therapy in HF (OMT-HF) certification. OMT-HF offers online, evidence-based training for non-HF clinicians to optimize guideline-directed medical therapy. It emphasizes a comprehensive multidisciplinary approach and shared decision-making to improve medication compliance, quality of life (QoL), and reduce hospitalizations and mortality.</p></sec><sec sec-type="methods"><title>MATERIALS AND METHODS</title><p>This prospective, single-center study was implemented at Houston Methodist Baytown Hospital from November 2022 to May 2023. It is approximately a 320-bed multi-specialty hospital, sees approximately 800 HF admissions per year. The study was internally funded and approved by the Institutional Review Board (No. PRO00035436). The study protocol conforms to the ethical guidelines of the 1975 Declaration of Helsinki as reflected in a priori approval by the Institution's Human Research Committee.</p><p>A type-2 hybrid effectiveness-implementation study with a quasi-experimental design was used, including an interrupted time-series analysis to compare the impact of OMT-HF certification between intervention group (IG) and standard-of-care comparison group (SOC-CG). OMT-HF was offered to one of the two practicing hospitalist groups and their respective mid-level providers-(hospitalists IG), with the other group considered to be the SOC-CG (Figure <xref rid="F1" ref-type="fig">1</xref>). The IG group operates with cohorted staffing, assigning 2-3 physicians and 2-3 advanced practice providers (APPs) per quarter based on disease specialty. Typically, APPs manage patient admissions, while follow-ups are conducted by physicians. In contrast, the SOC-GC team staffs 2-3 medical doctors and 1-2 APPs at any time but covers patients hospital-wide without specialty cohorting. APPs admit patients, and physicians manage follow-ups. A total of 19 physicians and eight mid-level providers in the IG completed the three-module course and rigorous post module assessment. These are: (1) Module 1: Available Medical Therapy for Heart Failure; (2) Module 2: Managing OMT to Target Doses; and (3) Module 3: Management Across the Care Continuum. Patients were naturally randomized to the two groups based on the hospital&#x02019;s predefined admission algorithm.</p><fig position="float" id="F1"><label>Figure 1</label><caption><p>
+<bold>Central Illustration.</bold> IG: Intervention group; SOC-CG: Standard-of-care comparison group.</p></caption><graphic xlink:href="wjc-17-6-107102-g001" position="float"/></fig><sec><title>Patient enrollment</title><p>All patients were screened daily <italic>via</italic> electronic health record system [Epic (Epic Systems, Verona, WI)] and database maintained in REDCap (Nashville, TN, United States). Adult patients with left ventricular ejection fraction &#x02264; 40% were included in the study. Patients who were in cardiogenic shock, unable to consent, at high risk per Acute Decompensated Heart Failure National Registry (systolic blood pressure &#x0003c; 115 mmHg, blood urea nitrogen &#x02265; 43 md/dL, creatine &#x02265; 2.75 mg/dL) criteria[<xref rid="B7" ref-type="bibr">7</xref>], or being considered for advanced HF therapies were excluded. Informed consent was obtained according to institution guidelines.</p></sec><sec><title>Implementation</title><p>Implementation science shows that contextual factors affect the adoption of programs such as guideline-directed medical therapy (GDMT) optimization during HF hospitalization. We conducted an implementation needs assessment[<xref rid="B8" ref-type="bibr">8</xref>], identifying key stakeholders and summarizing personnel and process needs. After securing buy-in from leadership at Houston Methodist Baytown and collaboration with HFSA for a discounted certification course, hospitalists became OMT-HF certified, enhancing their credentials.</p></sec><sec><title>Statistical analysis</title><p>Data was collected at three key time points: (1) At baseline for what GDMT patients are on at home; (2) Within 48 hours of hospital admission; and (3) At discharge. We compared difference in GDMT scores between the IG and SOC-CG groups at discharge (and change from baseline to discharge) and evaluated outcomes of length of stay (LOS), 30-day mortality, readmission, and changes in QoL from baselines to 30-days post discharge.</p><p>The GDMT scores at discharge were categorized as sub-optimal (&#x0003c; 3), acceptable (3&#x02013;4), and optimal (&#x02265; 5), as previously described[<xref rid="B9" ref-type="bibr">9</xref>,<xref rid="B10" ref-type="bibr">10</xref>]. Minnesota Living with Heart Failure Questionnaire (MLWHFQ) responses were used for physical and emotional dimension scores on admission and at 30 days post-discharge[<xref rid="B11" ref-type="bibr">11</xref>]. Continuous variables were assessed for normality, with categorical variables reported as frequencies and proportions, and continuous variables reported as median and interquartile range (IQR). Differences between groups and physician certification status were analyzed using Fisher&#x02019;s exact test for categorical variables and Wilcoxon rank-sum or unpaired <italic>t</italic>-test for continuous variables. Changes in MLWHFQ scores from admission to 30 days post-discharge were evaluated using a paired <italic>t</italic>-test. A decreased score from baseline to 30-days post discharge signified improvement in QoL. Analyses were conducted using Stata version 17.0, with a <italic>P</italic> value &#x0003c; 0.05 considered statistically significant.</p></sec></sec><sec><title>RESULTS</title><sec><title>Primary outcomes</title><p>A total of 84 patients with complete data and follow-up were included (63 IG, 21 SOC-CG). There was no statistical difference in the baseline demographics of the patients between the two groups. These include a median age of 62.5 years (IQR: 53.0&#x02013;71.0 years), BMI of 30.44 kg/m<sup>2</sup> &#x000b1; 8.120 kg/m<sup>2</sup>, 55% male, 25% Black, and 24% Hispanic. Comorbidities included coronary artery disease (39%), atrial fibrillation (30%), diabetes (41%), hypertension (79%), hyperlipidemia (47%), sleep-disordered breathing (16%), chronic kidney disease (60%) and chronic obstructive airway disease (21%). A total of 16% had prior implantable cardioverter-defibrillator placement. Most patients were identified as New York Heart Association class 3. A total of 66% of the patients had Medicare/Medicaid, while 14% were uninsured.</p><p>Acute on chronic HFrEF was the most common diagnosis, with atrial fibrillation and non-ST-segment elevation myocardial infarction, being the most frequent conditions in that order.</p><p>The GDMT mean total score at admission was not significantly different between the two groups. IG patients were prescribed a higher average number of core medications at discharge than were SOC-CG patients (2.26 &#x000b1; 1.2 <italic>vs</italic> 2 &#x000b1; 0.95, <italic>P</italic> &#x02264; 0.01). At discharge, more IG patients (36, 57.1%) were prescribed mineralocorticoid receptor antagonist compared to SOC-CG patients (6, 28.57%) (<italic>P</italic> = 0.042). The differences in the prescription of other core GDMT medication groups were not significant. There was no statistically significant difference in the GDMT scores between the two groups (SOC-CG: 2.8 &#x000b1; 1.7 <italic>vs</italic> IG: 3.4 &#x000b1; 2.0, <italic>P</italic> = 0.19) (Table <xref rid="T1" ref-type="table">1</xref>).</p><table-wrap position="float" id="T1"><label>Table 1</label><caption><p>Baseline score, <italic>n</italic> (%)</p></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="2" colspan="1"/><td colspan="3" rowspan="1">
+<bold>Did patient see an optimal medical therapy in heart failure certified provider</bold>
+<hr/>
+</td></tr><tr><td rowspan="1" colspan="1">
+<bold>No (<italic>n</italic> = 21)</bold>
+<hr/>
+</td><td rowspan="1" colspan="1">
+<bold>Yes (<italic>n</italic> = 63)</bold>
+<hr/>
+</td><td rowspan="1" colspan="1">
+<bold>
+<italic>P</italic> value</bold>
+<hr/>
+</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">GDMT score at discharge</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Number of core medications at discharge (mean &#x000b1; SD)</td><td rowspan="1" colspan="1">2 &#x000b1; 0.95</td><td rowspan="1" colspan="1">2.26 &#x000b1; 1.2</td><td rowspan="1" colspan="1">&#x0003c; 0.001</td></tr><tr><td rowspan="1" colspan="1">Number of core medications at discharge</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.43</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;0</td><td rowspan="1" colspan="1">1 (4.76)</td><td rowspan="1" colspan="1">6 (9.52)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;1</td><td rowspan="1" colspan="1">5 (23.81)</td><td rowspan="1" colspan="1">10 (15.87)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;2</td><td rowspan="1" colspan="1">9 (42.86)</td><td rowspan="1" colspan="1">16 (25.39)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;3</td><td rowspan="1" colspan="1">5 (23.81)</td><td rowspan="1" colspan="1">23 (36.50)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;4</td><td rowspan="1" colspan="1">1 (4.76)</td><td rowspan="1" colspan="1">8 (12.7)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">On at least one core medication at discharge</td><td rowspan="1" colspan="1">20 (95.7)</td><td rowspan="1" colspan="1">57 (88.5)</td><td rowspan="1" colspan="1">0.67</td></tr><tr><td rowspan="1" colspan="1">GDMT total score, mean at admission (mean &#x000b1; SD)</td><td rowspan="1" colspan="1">1.29 &#x000b1; 1.8</td><td rowspan="1" colspan="1">1.32 &#x000b1; 1.7</td><td rowspan="1" colspan="1">0.65</td></tr><tr><td rowspan="1" colspan="1">GDMT total score, mean at discharge (mean &#x000b1; SD)</td><td rowspan="1" colspan="1">2.8 &#x000b1; 1.7</td><td rowspan="1" colspan="1">3.44 &#x000b1; 2.0</td><td rowspan="1" colspan="1">0.18</td></tr><tr><td rowspan="1" colspan="1">Optimal dosing of core medications at discharge</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.11</td></tr><tr><td rowspan="1" colspan="1">Sub-optimal (GDMT total score &#x0003c; 3)</td><td rowspan="1" colspan="1">13 (56.5)</td><td rowspan="1" colspan="1">19 (31.1)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Acceptable (GDMT total score 3&#x02013;4)</td><td rowspan="1" colspan="1">5 (21.7)</td><td rowspan="1" colspan="1">25 (41.0)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Optimal (GDMT total score &#x02265; 5)</td><td rowspan="1" colspan="1">5 (21.7)</td><td rowspan="1" colspan="1">17 (27.9)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Individual core medication used at discharge</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Beta-blocker</td><td rowspan="1" colspan="1">20 (95.2)</td><td rowspan="1" colspan="1">55 (87.3)</td><td rowspan="1" colspan="1">0.44</td></tr><tr><td rowspan="1" colspan="1">Mineralocorticoid receptor antagonist </td><td rowspan="1" colspan="1">6 (28.57)</td><td rowspan="1" colspan="1">36 (57.1)</td><td rowspan="1" colspan="1">0.04</td></tr><tr><td rowspan="1" colspan="1">Ace inhibitor, angiotensin receptor blocker or angiotensin receptor/neprilysin inhibitor </td><td rowspan="1" colspan="1">14 (66.6)</td><td rowspan="1" colspan="1">41(65.07)</td><td rowspan="1" colspan="1">1.00</td></tr><tr><td rowspan="1" colspan="1">Sodium-glucose cotransporter-2 inhibitor </td><td rowspan="1" colspan="1">2 (9.52)</td><td rowspan="1" colspan="1">11 (17.46)</td><td rowspan="1" colspan="1">0.50</td></tr><tr><td rowspan="1" colspan="1">Ivabradine</td><td rowspan="1" colspan="1">0 (0.0)</td><td rowspan="1" colspan="1">0 (0.0)</td><td rowspan="1" colspan="1">--</td></tr><tr><td rowspan="1" colspan="1">Vericiguat</td><td rowspan="1" colspan="1">0 (0.0)</td><td rowspan="1" colspan="1">0 (0.0)</td><td rowspan="1" colspan="1">--</td></tr><tr><td rowspan="1" colspan="1">Hydralazine/nitrates</td><td rowspan="1" colspan="1">4 (15.87)</td><td rowspan="1" colspan="1">10 (15.87)</td><td rowspan="1" colspan="1">0.74</td></tr><tr><td rowspan="1" colspan="1">Minnesota Living with Heart Failure Questionnaire</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Mean scores at admission</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Total score (mean &#x000b1; SD)</td><td rowspan="1" colspan="1">53.09 &#x000b1; 27.3</td><td rowspan="1" colspan="1">55.80 &#x000b1; 26.5</td><td rowspan="1" colspan="1">0.69</td></tr><tr><td rowspan="1" colspan="1">Physical dimension score (items 2, 3, 4, 5, 6, 7, 12, 13) (mean &#x000b1; SD)</td><td rowspan="1" colspan="1">25 &#x000b1; 11.22</td><td rowspan="1" colspan="1">26.35 &#x000b1; 12.11</td><td rowspan="1" colspan="1">0.65</td></tr><tr><td rowspan="1" colspan="1">Emotional dimension score (items 17, 18, 19, 20, 21) (mean &#x000b1; SD)</td><td rowspan="1" colspan="1">12.76 &#x000b1; 9.0</td><td rowspan="1" colspan="1">12.71 &#x000b1; 7.4</td><td rowspan="1" colspan="1">0.98</td></tr><tr><td rowspan="1" colspan="1">Mean scores at 30 days after discharge</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Total score (mean &#x000b1; SD)</td><td rowspan="1" colspan="1">47.23 &#x000b1; 27.5</td><td rowspan="1" colspan="1">28.7 &#x000b1; 25.93</td><td rowspan="1" colspan="1">&#x0003c; 0.001</td></tr><tr><td rowspan="1" colspan="1">Physical dimension score (items 2, 3, 4, 5, 6, 7, 12, 13) (mean &#x000b1; SD)</td><td rowspan="1" colspan="1">22.28 &#x000b1; 15.15</td><td rowspan="1" colspan="1">12.4 &#x000b1; 12.3</td><td rowspan="1" colspan="1">&#x0003c; 0.01</td></tr><tr><td rowspan="1" colspan="1">Emotional dimension score (items 17, 18, 19, 20, 21) (mean &#x000b1; SD)</td><td rowspan="1" colspan="1">11.33 &#x000b1; 7.08</td><td rowspan="1" colspan="1">7.9 &#x000b1; 7.8</td><td rowspan="1" colspan="1">0.08</td></tr><tr><td rowspan="1" colspan="1">Mean delta change from admission to 30 days after discharge</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Total score delta (mean &#x000b1; SD)</td><td rowspan="1" colspan="1">-5.85 &#x000b1; 23.52</td><td rowspan="1" colspan="1">-27.03 &#x000b1; 24.59</td><td rowspan="1" colspan="1">&#x0003c; 0.001</td></tr><tr><td rowspan="1" colspan="1">Physical dimension score delta (items 2, 3, 4, 5, 6, 7, 12, 13) (mean &#x000b1; SD)</td><td rowspan="1" colspan="1">-2.71 &#x000b1; 11.16</td><td rowspan="1" colspan="1">-13.8 &#x000b1; 12.3</td><td rowspan="1" colspan="1">&#x0003c; 0.001</td></tr><tr><td rowspan="1" colspan="1">Emotional dimension score delta (items 17, 18, 19, 20, 21) (mean &#x000b1; SD)</td><td rowspan="1" colspan="1">-1.42 &#x000b1; 5.98</td><td rowspan="1" colspan="1">-4.76 &#x000b1; 8.10</td><td rowspan="1" colspan="1">0.09</td></tr></tbody></table><table-wrap-foot><fn><p>GDMT: Guideline-directed medical therapy.</p></fn></table-wrap-foot></table-wrap><p>At admission, MLWHFQ scores were similar between SOC-CG and IG groups for total (53.09 &#x000b1; 27.3 <italic>vs</italic> 55.80 &#x000b1; 26.5, <italic>P</italic> = 0.69), physical (25 &#x000b1; 11.22 <italic>vs</italic> 26.35 &#x000b1; 12.11, <italic>P</italic> = 0.65), and emotional dimensions (12.76 &#x000b1; 9.0 <italic>vs</italic> 12.71 &#x000b1; 7.4, <italic>P</italic> = 0.98). At 30 days post-discharge, the IG group showed greater reductions in total (-27.03 &#x000b1; 24.59 <italic>vs</italic> -5.85 &#x000b1; 23.52, <italic>P</italic> &#x0003c; 0.001) (Figure <xref rid="F2" ref-type="fig">2</xref>) and physical scores (-13.8 &#x000b1; 12.3 <italic>vs</italic> -2.71 &#x000b1; 11.16, <italic>P</italic> &#x0003c; 0.001), while emotional score changes were not significant (-4.76 &#x000b1; 8.10 <italic>vs</italic> -1.42 &#x000b1; 5.98, <italic>P</italic> = 0.09). As lower MLWHFQ scores reflect better QoL, these results highlight significant improvements in the IG group.</p><fig position="float" id="F2"><label>Figure 2</label><caption><p>
+<bold>Delta change in Minnesota Living with Heart Failure Questionnaire.</bold> Changes in mean scores across emotional, physical, and total dimensions for the Standard of Care Group (SOC-CG) versus the Intervention Group (IG). The IG showed significantly greater declines in total score (&#x02212;27.03 &#x000b1; 24.59 <italic>vs</italic> &#x02212;5.85 &#x000b1; 23.52; <italic>P</italic> &#x0003c; 0.001) and physical dimension score (&#x02212;13.80 &#x000b1; 12.30 <italic>vs</italic> &#x02212;2.71 &#x000b1; 11.16; <italic>P</italic> &#x0003c; 0.001) compared to the SOC-CG. While the emotional dimension score also declined more in the IG (&#x02212;4.76 &#x000b1; 8.10 <italic>vs</italic> &#x02212;1.42 &#x000b1; 5.98), this difference was not statistically significant (<italic>P</italic> = 0.09). IG: Intervention group; SOC-CG: Standard-of-care comparison group.</p></caption><graphic xlink:href="wjc-17-6-107102-g002" position="float"/></fig><p>Compared with SOC-CG patients, IG patients showed a greater improvement in the mean delta of their total (27.03 &#x000b1; 24.59 <italic>vs</italic> -5.85 &#x000b1; 23.52, <italic>P</italic> &#x0003c; 0.001), physical dimension (-13.8 &#x000b1; 12.3 <italic>vs</italic> -2.71 &#x000b1; 11.6, <italic>P</italic> &#x0003c; 0.001) and emotional dimension scores (-4.76 &#x000b1; 8.10 <italic>vs</italic> -1.42 &#x000b1; 5.98, <italic>P</italic> = 0.09) (Table <xref rid="T1" ref-type="table">1</xref>).</p></sec><sec><title>Provider assessment</title><p>Twelve physicians and seven mid-level providers completed the post OMT-HF course module feedback survey. Ten providers were early-career (0&#x02013;5 years), three mid-career (6&#x02013;15 years), and six senior-career (&#x02265; 15 years). Provider demographics and receptiveness of this program initiative were evaluated per module assessment. This revealed 100% of the providers thought this initiative was helpful.</p></sec><sec><title>Secondary outcomes</title><p>In the total cohort, the LOS was longer for patients who saw the IG group compared to those who did not [median (IQR): 6.0 (3.0&#x02013;8.0) <italic>vs</italic> 5.0 (3.0&#x02013;6.0), <italic>P</italic> &#x02264; 0.01] however, the 30-day readmission rate was lower for patients in the IG group [9 (42.85%) <italic>vs</italic> 11 (17.46%), <italic>P</italic> = 0.03].</p><p>We observed a trend toward higher 30-day all-cause mortality in SOC-CG patients compared to IG patients [1 (4.8%) <italic>vs</italic> 0 (0%), <italic>P</italic> = 0.25], though this difference was not statistically significant due to the low number of events.</p></sec></sec><sec><title>DISCUSSION</title><p>Our study leverages hospitalists to optimize GDMT in HF patients during hospitalization which affords a critical opportunity to implement GDMT while the patient is being decongested and allows monitoring.</p><p>Cardiologists, given their focused expertise, often provide higher-quality HF care compared to internists, who may face challenges staying current with evolving management strategies across multiple chronic conditions[<xref rid="B12" ref-type="bibr">12</xref>,<xref rid="B13" ref-type="bibr">13</xref>]. Barriers to GDMT include clinician knowledge, patient and caregiver awareness, medication costs, and trials not fully representing real-world HF patients[<xref rid="B14" ref-type="bibr">14</xref>]. To address provider knowledge and workforce challenges, we equipped hospitalists with an OMT-HF certification focusing on GDMT fundamentals.</p><p>Participants responded positively to the program, with HFSA leadership, hospital administration and hospitalists collaborating to identify barriers and shaping implementation. Our study demonstrated improved trends in GDMT use, higher core medication prescriptions, and better QoL scores for patients treated by the IG. The IG also had a significantly lower 30-day readmission rate (<italic>P</italic> = 0.035), suggesting the OMT-HF course as a cost-effective method to bridge GDMT knowledge gaps, leading to improved outcomes. Prior studies have shown complex relationship between LOS and both readmission rate and mortality[<xref rid="B15" ref-type="bibr">15</xref>,<xref rid="B16" ref-type="bibr">16</xref>]. Extended LOS in IG patients may reflect the severity of illness or more mindful treatment, leading to improved decongestion[<xref rid="B17" ref-type="bibr">17</xref>,<xref rid="B18" ref-type="bibr">18</xref>], though this was difficult to evaluate[<xref rid="B19" ref-type="bibr">19</xref>]. A short LOS may lead to missed opportunities for up-titration of GDMT, patient education and post discharge planning, including early follow-up and care coordination[<xref rid="B5" ref-type="bibr">5</xref>,<xref rid="B20" ref-type="bibr">20</xref>]. Studies have shown that 57% of patients remain congested at 5 days of hospitalization, and premature discharge corelate with increased risk of cardiovascular death or rehospitalization within 180 days[<xref rid="B19" ref-type="bibr">19</xref>]. As mortality and readmission rates were lower in the IG group, it may reflect that a longer LOS with mindful treatment, in conjunction with optimal care across the continuum of care post discharge, can improve outcomes[<xref rid="B20" ref-type="bibr">20</xref>-<xref rid="B23" ref-type="bibr">23</xref>]. The mean delta in the emotional score on MLWHFQ did not reach statistical significance. This may be due to variance in resources available or adherence to the continuum of care. It may also be due to the emotional burden that HF and hospitalization for HF can cause[<xref rid="B24" ref-type="bibr">24</xref>].</p><p>The MLHFQ is a widely used tool that assesses the physical and emotional dimensions of health-related QoL in HF patients. Higher scores indicate poorer QoL, and several studies have linked elevated scores to worse clinical outcomes[<xref rid="B10" ref-type="bibr">10</xref>]. Our results suggest that empowering hospitalists through focused programs such as OMT-HF can expedite patient care without the need to wait for a specialist; its application should be explored through other providers and settings. We did not exclude real-life conditions, such as consultation with cardiology, for external validity.</p><sec><title>Limitations</title><p>The study faced several limitations: (1) A delayed start due to the severe acute respiratory syndrome coronavirus 2 pandemic; and (2) High staff turnover during the pandemic. However, the primary limitation of this study was the small sample size, which resulted in insufficient statistical power to draw conclusive data. Unfortunately, in the face of the pandemic our original projected sample size calculations could not hold; we remain committed to methodological rigor and hope these findings prompt further investigation.</p><p>Additionally, data contamination would have been difficult to prevent had natural randomization between groups not occurred. Second, data on sodium-glucose cotransporter 2 inhibitors were not available, as these therapies were incorporated into guideline-directed management after the study period began. Third, our sample size was limited, which may have contributed to some findings such as the impact of GDMT not reaching statistical significance. These results should therefore be interpreted with caution.</p><p>Audits and feedback were delivered through a single virtual seminar, which potentially may not have fully captured participant engagement or reception. While both hospitalist groups were well-established, we cannot exclude inherent differences in clinical practice that may have influenced outcomes.</p><p>Lastly, although the MLWHFQ is a widely validated tool, it remains a qualitative assessment. Improvements in perceived QoL may have been influenced by unmeasured factors such as additional provider time, education on care adherence, more complete diuresis, or increased use of medications&#x02014;beyond actual clinical change.</p><p>Despite these limitations, we believe our initiative is replicable across other institutions and hope it inspires implementation and evaluation efforts in diverse settings and by a broad range of providers.</p></sec></sec><sec><title>CONCLUSION</title><p>This study suggests that OMT-HF certification may contribute to improved GDMT adherence and QoL. Although the findings are encouraging, they are limited by the small sample size. Larger studies are needed to confirm these results, assess long-term outcomes, and explore strategies such as electronic health record alerts and structured feedback to optimize implementation. The results support the potential of hospitalist HF certification programs to help bridge gaps in care.</p></sec><sec><title>ACKNOWLEDGEMENTS</title><p>We extend our heartfelt thanks to John Barnes, CEO of Heart Failure Society of America, and the education staff for facilitating the course and their collaboration.</p></sec></body><back><fn-group><fn><p>
+<bold>Institutional review board statement:</bold> The study was reviewed and approved by the Institutional Review Board (No. PRO00035436).</p></fn><fn><p>
+<bold>Clinical trial registration statement:</bold> This study is registered at Houston Methodist Hospital&#x02019;s institutional registry.</p></fn><fn><p>
+<bold>Informed consent statement:</bold> All study participants, or their legal guardian, provided informed written consent prior to study enrollment.</p></fn><fn fn-type="COI-statement"><p>
+<bold>Conflict-of-interest statement:</bold> The authors have no conflict of interest to declare.</p></fn><fn><p>
+<bold>CONSORT 2010 statement:</bold> The authors have read the CONSORT 2010 Statement, and the manuscript was prepared and revised according to the CONSORT 2010 Statement.</p></fn><fn><p>
+<bold>Provenance and peer review:</bold> Unsolicited article; Externally peer reviewed.</p></fn><fn><p>
+<bold>Peer-review model:</bold> Single blind</p></fn><fn><p>
+<bold>Specialty type:</bold> Cardiac and cardiovascular systems</p></fn><fn><p>
+<bold>Country of origin:</bold> United States</p></fn><fn><p>
+<bold>Peer-review report&#x02019;s classification</bold>
+</p></fn><fn><p>
+<bold>Scientific Quality:</bold> Grade B, Grade B, Grade B, Grade C</p></fn><fn><p>
+<bold>Novelty:</bold> Grade A, Grade B, Grade B, Grade C</p></fn><fn><p>
+<bold>Creativity or Innovation:</bold> Grade B, Grade B, Grade C, Grade C</p></fn><fn><p>
+<bold>Scientific Significance:</bold> Grade A, Grade B, Grade B, Grade B</p></fn><fn><p>
+<bold>P-Reviewer:</bold> Li Z; Liu YQ <bold>S-Editor:</bold> Luo ML <bold>L-Editor:</bold> A <bold>P-Editor:</bold> Wang WB</p></fn></fn-group><ref-list><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Agarwal</surname><given-names>MA</given-names></name>
+<name><surname>Fonarow</surname><given-names>GC</given-names></name>
+<name><surname>Ziaeian</surname><given-names>B</given-names></name>
+</person-group><article-title>National Trends in Heart Failure Hospitalizations and Readmissions From 2010 to 2017</article-title><source>JAMA Cardiol</source><year>2021</year><volume>6</volume><fpage>952</fpage><lpage>956</lpage><pub-id pub-id-type="pmid">33566058</pub-id>
+</element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Foroutan</surname><given-names>F</given-names></name>
+<name><surname>Rayner</surname><given-names>DG</given-names></name>
+<name><surname>Ross</surname><given-names>HJ</given-names></name>
+<name><surname>Ehler</surname><given-names>T</given-names></name>
+<name><surname>Srivastava</surname><given-names>A</given-names></name>
+<name><surname>Shin</surname><given-names>S</given-names></name>
+<name><surname>Malik</surname><given-names>A</given-names></name>
+<name><surname>Benipal</surname><given-names>H</given-names></name>
+<name><surname>Yu</surname><given-names>C</given-names></name>
+<name><surname>Alexander</surname><given-names>Lau TH</given-names></name>
+<name><surname>Lee</surname><given-names>JG</given-names></name>
+<name><surname>Rocha</surname><given-names>R</given-names></name>
+<name><surname>Austin</surname><given-names>PC</given-names></name>
+<name><surname>Levy</surname><given-names>D</given-names></name>
+<name><surname>Ho</surname><given-names>JE</given-names></name>
+<name><surname>McMurray</surname><given-names>JJV</given-names></name>
+<name><surname>Zannad</surname><given-names>F</given-names></name>
+<name><surname>Tomlinson</surname><given-names>G</given-names></name>
+<name><surname>Spertus</surname><given-names>JA</given-names></name>
+<name><surname>Lee</surname><given-names>DS</given-names></name>
+</person-group><article-title>Global Comparison of Readmission Rates for Patients With Heart Failure</article-title><source>J Am Coll Cardiol</source><year>2023</year><volume>82</volume><fpage>430</fpage><lpage>444</lpage><pub-id pub-id-type="pmid">37495280</pub-id>
+</element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Khan</surname><given-names>MS</given-names></name>
+<name><surname>Sreenivasan</surname><given-names>J</given-names></name>
+<name><surname>Lateef</surname><given-names>N</given-names></name>
+<name><surname>Abougergi</surname><given-names>MS</given-names></name>
+<name><surname>Greene</surname><given-names>SJ</given-names></name>
+<name><surname>Ahmad</surname><given-names>T</given-names></name>
+<name><surname>Anker</surname><given-names>SD</given-names></name>
+<name><surname>Fonarow</surname><given-names>GC</given-names></name>
+<name><surname>Butler</surname><given-names>J</given-names></name>
+</person-group><article-title>Trends in 30- and 90-Day Readmission Rates for Heart Failure</article-title><source>Circ Heart Fail</source><year>2021</year><volume>14</volume><fpage>e008335</fpage><pub-id pub-id-type="pmid">33866827</pub-id>
+</element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alnomasy</surname><given-names>N</given-names></name>
+<name><surname>Still</surname><given-names>CH</given-names></name>
+</person-group><article-title>Nonpharmacological Interventions for Preventing Rehospitalization Among Patients with Heart Failure: A Systematic Review and Meta-Analysis</article-title><source>SAGE Open Nurs</source><year>2023</year><volume>9</volume><fpage>23779608231209220</fpage><pub-id pub-id-type="pmid">37901613</pub-id>
+</element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Greene</surname><given-names>SJ</given-names></name>
+<name><surname>Butler</surname><given-names>J</given-names></name>
+<name><surname>Albert</surname><given-names>NM</given-names></name>
+<name><surname>DeVore</surname><given-names>AD</given-names></name>
+<name><surname>Sharma</surname><given-names>PP</given-names></name>
+<name><surname>Duffy</surname><given-names>CI</given-names></name>
+<name><surname>Hill</surname><given-names>CL</given-names></name>
+<name><surname>McCague</surname><given-names>K</given-names></name>
+<name><surname>Mi</surname><given-names>X</given-names></name>
+<name><surname>Patterson</surname><given-names>JH</given-names></name>
+<name><surname>Spertus</surname><given-names>JA</given-names></name>
+<name><surname>Thomas</surname><given-names>L</given-names></name>
+<name><surname>Williams</surname><given-names>FB</given-names></name>
+<name><surname>Hernandez</surname><given-names>AF</given-names></name>
+<name><surname>Fonarow</surname><given-names>GC</given-names></name>
+</person-group><article-title>Medical Therapy for Heart Failure With Reduced Ejection Fraction: The CHAMP-HF Registry</article-title><source>J Am Coll Cardiol</source><year>2018</year><volume>72</volume><fpage>351</fpage><lpage>366</lpage><pub-id pub-id-type="pmid">30025570</pub-id>
+</element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yamaguchi</surname><given-names>T</given-names></name>
+<name><surname>Kitai</surname><given-names>T</given-names></name>
+<name><surname>Miyamoto</surname><given-names>T</given-names></name>
+<name><surname>Kagiyama</surname><given-names>N</given-names></name>
+<name><surname>Okumura</surname><given-names>T</given-names></name>
+<name><surname>Kida</surname><given-names>K</given-names></name>
+<name><surname>Oishi</surname><given-names>S</given-names></name>
+<name><surname>Akiyama</surname><given-names>E</given-names></name>
+<name><surname>Suzuki</surname><given-names>S</given-names></name>
+<name><surname>Yamamoto</surname><given-names>M</given-names></name>
+<name><surname>Yamaguchi</surname><given-names>J</given-names></name>
+<name><surname>Iwai</surname><given-names>T</given-names></name>
+<name><surname>Hijikata</surname><given-names>S</given-names></name>
+<name><surname>Masuda</surname><given-names>R</given-names></name>
+<name><surname>Miyazaki</surname><given-names>R</given-names></name>
+<name><surname>Hara</surname><given-names>N</given-names></name>
+<name><surname>Nagata</surname><given-names>Y</given-names></name>
+<name><surname>Nozato</surname><given-names>T</given-names></name>
+<name><surname>Matsue</surname><given-names>Y</given-names></name>
+</person-group><article-title>Effect of Optimizing Guideline-Directed Medical Therapy Before Discharge on Mortality and Heart Failure Readmission in Patients Hospitalized With Heart Failure With Reduced Ejection Fraction</article-title><source>Am J Cardiol</source><year>2018</year><volume>121</volume><fpage>969</fpage><lpage>974</lpage><pub-id pub-id-type="pmid">29477488</pub-id>
+</element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fonarow</surname><given-names>GC</given-names></name>
+</person-group><collab>ADHERE Scientific Advisory Committee</collab><article-title>The Acute Decompensated Heart Failure National Registry (ADHERE): opportunities to improve care of patients hospitalized with acute decompensated heart failure</article-title><source>Rev Cardiovasc Med</source><year>2003</year><volume>4 Suppl 7</volume><fpage>S21</fpage><lpage>S30</lpage></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fernandez</surname><given-names>ME</given-names></name>
+<name><surname>Ten</surname><given-names>Hoor GA</given-names></name>
+<name><surname>van</surname><given-names>Lieshout S</given-names></name>
+<name><surname>Rodriguez</surname><given-names>SA</given-names></name>
+<name><surname>Beidas</surname><given-names>RS</given-names></name>
+<name><surname>Parcel</surname><given-names>G</given-names></name>
+<name><surname>Ruiter</surname><given-names>RAC</given-names></name>
+<name><surname>Markham</surname><given-names>CM</given-names></name>
+<name><surname>Kok</surname><given-names>G</given-names></name>
+</person-group><article-title>Implementation Mapping: Using Intervention Mapping to Develop Implementation Strategies</article-title><source>Front Public Health</source><year>2019</year><volume>7</volume><fpage>158</fpage><pub-id pub-id-type="pmid">31275915</pub-id>
+</element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fiuzat</surname><given-names>M</given-names></name>
+<name><surname>Hamo</surname><given-names>CE</given-names></name>
+<name><surname>Butler</surname><given-names>J</given-names></name>
+<name><surname>Abraham</surname><given-names>WT</given-names></name>
+<name><surname>DeFilippis</surname><given-names>EM</given-names></name>
+<name><surname>Fonarow</surname><given-names>GC</given-names></name>
+<name><surname>Lindenfeld</surname><given-names>J</given-names></name>
+<name><surname>Mentz</surname><given-names>RJ</given-names></name>
+<name><surname>Psotka</surname><given-names>MA</given-names></name>
+<name><surname>Solomon</surname><given-names>SD</given-names></name>
+<name><surname>Teerlink</surname><given-names>JR</given-names></name>
+<name><surname>Vaduganathan</surname><given-names>M</given-names></name>
+<name><surname>Vardeny</surname><given-names>O</given-names></name>
+<name><surname>McMurray</surname><given-names>JJV</given-names></name>
+<name><surname>O'Connor</surname><given-names>CM</given-names></name>
+</person-group><article-title>Optimal Background Pharmacological Therapy for Heart Failure Patients in Clinical Trials: JACC Review Topic of the Week</article-title><source>J Am Coll Cardiol</source><year>2022</year><volume>79</volume><fpage>504</fpage><lpage>510</lpage><pub-id pub-id-type="pmid">35115106</pub-id>
+</element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Abraham</surname><given-names>WT</given-names></name>
+<name><surname>Psotka</surname><given-names>MA</given-names></name>
+<name><surname>Fiuzat</surname><given-names>M</given-names></name>
+<name><surname>Filippatos</surname><given-names>G</given-names></name>
+<name><surname>Lindenfeld</surname><given-names>J</given-names></name>
+<name><surname>Mehran</surname><given-names>R</given-names></name>
+<name><surname>Ambardekar</surname><given-names>AV</given-names></name>
+<name><surname>Carson</surname><given-names>PE</given-names></name>
+<name><surname>Jacob</surname><given-names>R</given-names></name>
+<name><surname>Januzzi</surname><given-names>JL Jr</given-names></name>
+<name><surname>Konstam</surname><given-names>MA</given-names></name>
+<name><surname>Krucoff</surname><given-names>MW</given-names></name>
+<name><surname>Lewis</surname><given-names>EF</given-names></name>
+<name><surname>Piccini</surname><given-names>JP</given-names></name>
+<name><surname>Solomon</surname><given-names>SD</given-names></name>
+<name><surname>Stockbridge</surname><given-names>N</given-names></name>
+<name><surname>Teerlink</surname><given-names>JR</given-names></name>
+<name><surname>Unger</surname><given-names>EF</given-names></name>
+<name><surname>Zeitler</surname><given-names>EP</given-names></name>
+<name><surname>Anker</surname><given-names>SD</given-names></name>
+<name><surname>O'Connor</surname><given-names>CM</given-names></name>
+</person-group><article-title>Standardized definitions for evaluation of heart failure therapies: scientific expert panel from the Heart Failure Collaboratory and Academic Research Consortium</article-title><source>Eur J Heart Fail</source><year>2020</year><volume>22</volume><fpage>2175</fpage><lpage>2186</lpage><pub-id pub-id-type="pmid">33017862</pub-id>
+</element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bilbao</surname><given-names>A</given-names></name>
+<name><surname>Escobar</surname><given-names>A</given-names></name>
+<name><surname>Garc&#x000ed;a-Perez</surname><given-names>L</given-names></name>
+<name><surname>Navarro</surname><given-names>G</given-names></name>
+<name><surname>Quir&#x000f3;s</surname><given-names>R</given-names></name>
+</person-group><article-title>The Minnesota living with heart failure questionnaire: comparison of different factor structures</article-title><source>Health Qual Life Outcomes</source><year>2016</year><volume>14</volume><fpage>23</fpage><pub-id pub-id-type="pmid">26887590</pub-id>
+</element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bazmpani</surname><given-names>MA</given-names></name>
+<name><surname>Papanastasiou</surname><given-names>CA</given-names></name>
+<name><surname>Giampatzis</surname><given-names>V</given-names></name>
+<name><surname>Kamperidis</surname><given-names>V</given-names></name>
+<name><surname>Zegkos</surname><given-names>T</given-names></name>
+<name><surname>Zebekakis</surname><given-names>P</given-names></name>
+<name><surname>Savopoulos</surname><given-names>C</given-names></name>
+<name><surname>Karvounis</surname><given-names>H</given-names></name>
+<name><surname>Efthimiadis</surname><given-names>GK</given-names></name>
+<name><surname>Ziakas</surname><given-names>A</given-names></name>
+<name><surname>Karamitsos</surname><given-names>TD</given-names></name>
+</person-group><article-title>Differences in Demographics, in-Hospital Management and Short-Term Prognosis in Admissions for Acutely Decompensated Heart Failure to Cardiology vs. Internal Medicine Departments: A Prospective Study</article-title><source>J Cardiovasc Dev Dis</source><year>2023</year><volume>10</volume><fpage>315</fpage><pub-id pub-id-type="pmid">37623328</pub-id>
+</element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Edep</surname><given-names>ME</given-names></name>
+<name><surname>Shah</surname><given-names>NB</given-names></name>
+<name><surname>Tateo</surname><given-names>IM</given-names></name>
+<name><surname>Massie</surname><given-names>BM</given-names></name>
+</person-group><article-title>Differences between primary care physicians and cardiologists in management of congestive heart failure: relation to practice guidelines</article-title><source>J Am Coll Cardiol</source><year>1997</year><volume>30</volume><fpage>518</fpage><lpage>526</lpage><pub-id pub-id-type="pmid">9247527</pub-id>
+</element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>DeVore</surname><given-names>AD</given-names></name>
+<name><surname>Bosworth</surname><given-names>HB</given-names></name>
+<name><surname>Granger</surname><given-names>BB</given-names></name>
+</person-group><article-title>Improving implementation of evidence-based therapies for heart failure</article-title><source>Clin Cardiol</source><year>2022</year><volume>45 Suppl 1</volume><fpage>S52</fpage><lpage>S59</lpage><pub-id pub-id-type="pmid">35789019</pub-id>
+</element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sud</surname><given-names>M</given-names></name>
+<name><surname>Yu</surname><given-names>B</given-names></name>
+<name><surname>Wijeysundera</surname><given-names>HC</given-names></name>
+<name><surname>Austin</surname><given-names>PC</given-names></name>
+<name><surname>Ko</surname><given-names>DT</given-names></name>
+<name><surname>Braga</surname><given-names>J</given-names></name>
+<name><surname>Cram</surname><given-names>P</given-names></name>
+<name><surname>Spertus</surname><given-names>JA</given-names></name>
+<name><surname>Domanski</surname><given-names>M</given-names></name>
+<name><surname>Lee</surname><given-names>DS</given-names></name>
+</person-group><article-title>Associations Between Short or Long Length of Stay and 30-Day Readmission and Mortality in Hospitalized Patients With Heart Failure</article-title><source>JACC Heart Fail</source><year>2017</year><volume>5</volume><fpage>578</fpage><lpage>588</lpage><pub-id pub-id-type="pmid">28501521</pub-id>
+</element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Arundel</surname><given-names>C</given-names></name>
+<name><surname>Lam</surname><given-names>PH</given-names></name>
+<name><surname>Faselis</surname><given-names>C</given-names></name>
+<name><surname>Sheriff</surname><given-names>HM</given-names></name>
+<name><surname>Dooley</surname><given-names>DJ</given-names></name>
+<name><surname>Morgan</surname><given-names>C</given-names></name>
+<name><surname>Fonarow</surname><given-names>GC</given-names></name>
+<name><surname>Aronow</surname><given-names>WS</given-names></name>
+<name><surname>Allman</surname><given-names>RM</given-names></name>
+<name><surname>Ahmed</surname><given-names>A</given-names></name>
+</person-group><article-title>Length of stay and readmission in older adults hospitalized for heart failure</article-title><source>Arch Med Sci</source><year>2021</year><volume>17</volume><fpage>891</fpage><lpage>899</lpage><pub-id pub-id-type="pmid">34336017</pub-id>
+</element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mebazaa</surname><given-names>A</given-names></name>
+<name><surname>Davison</surname><given-names>B</given-names></name>
+<name><surname>Chioncel</surname><given-names>O</given-names></name>
+<name><surname>Cohen-Solal</surname><given-names>A</given-names></name>
+<name><surname>Diaz</surname><given-names>R</given-names></name>
+<name><surname>Filippatos</surname><given-names>G</given-names></name>
+<name><surname>Metra</surname><given-names>M</given-names></name>
+<name><surname>Ponikowski</surname><given-names>P</given-names></name>
+<name><surname>Sliwa</surname><given-names>K</given-names></name>
+<name><surname>Voors</surname><given-names>AA</given-names></name>
+<name><surname>Edwards</surname><given-names>C</given-names></name>
+<name><surname>Novosadova</surname><given-names>M</given-names></name>
+<name><surname>Takagi</surname><given-names>K</given-names></name>
+<name><surname>Damasceno</surname><given-names>A</given-names></name>
+<name><surname>Saidu</surname><given-names>H</given-names></name>
+<name><surname>Gayat</surname><given-names>E</given-names></name>
+<name><surname>Pang</surname><given-names>PS</given-names></name>
+<name><surname>Celutkiene</surname><given-names>J</given-names></name>
+<name><surname>Cotter</surname><given-names>G</given-names></name>
+</person-group><article-title>Safety, tolerability and efficacy of up-titration of guideline-directed medical therapies for acute heart failure (STRONG-HF): a multinational, open-label, randomised, trial</article-title><source>Lancet</source><year>2022</year><volume>400</volume><fpage>1938</fpage><lpage>1952</lpage><pub-id pub-id-type="pmid">36356631</pub-id>
+</element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mocan</surname><given-names>D</given-names></name>
+<name><surname>Lala</surname><given-names>RI</given-names></name>
+<name><surname>Puschita</surname><given-names>M</given-names></name>
+<name><surname>Pilat</surname><given-names>L</given-names></name>
+<name><surname>Darabantiu</surname><given-names>DA</given-names></name>
+<name><surname>Pop-Moldovan</surname><given-names>A</given-names></name>
+</person-group><article-title>The Congestion "Pandemic" in Acute Heart Failure Patients</article-title><source>Biomedicines</source><year>2024</year><volume>12</volume><fpage>951</fpage><pub-id pub-id-type="pmid">38790913</pub-id>
+</element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pagnesi</surname><given-names>M</given-names></name>
+<name><surname>Staal</surname><given-names>L</given-names></name>
+<name><surname>Ter</surname><given-names>Maaten JM</given-names></name>
+<name><surname>Beldhuis</surname><given-names>IE</given-names></name>
+<name><surname>Cotter</surname><given-names>G</given-names></name>
+<name><surname>Davison</surname><given-names>BA</given-names></name>
+<name><surname>Jongs</surname><given-names>N</given-names></name>
+<name><surname>Felker</surname><given-names>GM</given-names></name>
+<name><surname>Filippatos</surname><given-names>G</given-names></name>
+<name><surname>Greenberg</surname><given-names>BH</given-names></name>
+<name><surname>Pang</surname><given-names>PS</given-names></name>
+<name><surname>Ponikowski</surname><given-names>P</given-names></name>
+<name><surname>Lombardi</surname><given-names>CM</given-names></name>
+<name><surname>Adamo</surname><given-names>M</given-names></name>
+<name><surname>Severin</surname><given-names>T</given-names></name>
+<name><surname>Gimpelewicz</surname><given-names>C</given-names></name>
+<name><surname>Voors</surname><given-names>AA</given-names></name>
+<name><surname>Teerlink</surname><given-names>JR</given-names></name>
+<name><surname>Metra</surname><given-names>M</given-names></name>
+</person-group><article-title>Decongestion and Outcomes in Patients Hospitalized for Acute Heart Failure: Insights From the RELAX-AHF-2 Trial</article-title><source>JACC Heart Fail</source><year>2025</year><volume>13</volume><fpage>414</fpage><lpage>429</lpage><pub-id pub-id-type="pmid">39614837</pub-id>
+</element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chang</surname><given-names>GM</given-names></name>
+<name><surname>Tung</surname><given-names>YC</given-names></name>
+</person-group><article-title>Impact of care coordination on 30-day readmission, mortality, and costs for heart failure</article-title><source>Am J Manag Care</source><year>2024</year><volume>30</volume><fpage>e116</fpage><lpage>e123</lpage><pub-id pub-id-type="pmid">38603537</pub-id>
+</element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Metra</surname><given-names>M</given-names></name>
+<name><surname>Adamo</surname><given-names>M</given-names></name>
+<name><surname>Tomasoni</surname><given-names>D</given-names></name>
+<name><surname>Mebazaa</surname><given-names>A</given-names></name>
+<name><surname>Bayes-Genis</surname><given-names>A</given-names></name>
+<name><surname>Abdelhamid</surname><given-names>M</given-names></name>
+<name><surname>Adamopoulos</surname><given-names>S</given-names></name>
+<name><surname>Anker</surname><given-names>SD</given-names></name>
+<name><surname>Bauersachs</surname><given-names>J</given-names></name>
+<name><surname>Belenkov</surname><given-names>Y</given-names></name>
+<name><surname>B&#x000f6;hm</surname><given-names>M</given-names></name>
+<name><surname>Gal</surname><given-names>TB</given-names></name>
+<name><surname>Butler</surname><given-names>J</given-names></name>
+<name><surname>Cohen-Solal</surname><given-names>A</given-names></name>
+<name><surname>Filippatos</surname><given-names>G</given-names></name>
+<name><surname>Gustafsson</surname><given-names>F</given-names></name>
+<name><surname>Hill</surname><given-names>L</given-names></name>
+<name><surname>Jaarsma</surname><given-names>T</given-names></name>
+<name><surname>Jankowska</surname><given-names>EA</given-names></name>
+<name><surname>Lainscak</surname><given-names>M</given-names></name>
+<name><surname>Lopatin</surname><given-names>Y</given-names></name>
+<name><surname>Lund</surname><given-names>LH</given-names></name>
+<name><surname>McDonagh</surname><given-names>T</given-names></name>
+<name><surname>Milicic</surname><given-names>D</given-names></name>
+<name><surname>Moura</surname><given-names>B</given-names></name>
+<name><surname>Mullens</surname><given-names>W</given-names></name>
+<name><surname>Piepoli</surname><given-names>M</given-names></name>
+<name><surname>Polovina</surname><given-names>M</given-names></name>
+<name><surname>Ponikowski</surname><given-names>P</given-names></name>
+<name><surname>Rakisheva</surname><given-names>A</given-names></name>
+<name><surname>Ristic</surname><given-names>A</given-names></name>
+<name><surname>Savarese</surname><given-names>G</given-names></name>
+<name><surname>Seferovic</surname><given-names>P</given-names></name>
+<name><surname>Sharma</surname><given-names>R</given-names></name>
+<name><surname>Thum</surname><given-names>T</given-names></name>
+<name><surname>Tocchetti</surname><given-names>CG</given-names></name>
+<name><surname>Van</surname><given-names>Linthout S</given-names></name>
+<name><surname>Vitale</surname><given-names>C</given-names></name>
+<name><surname>Von</surname><given-names>Haehling S</given-names></name>
+<name><surname>Volterrani</surname><given-names>M</given-names></name>
+<name><surname>Coats</surname><given-names>AJS</given-names></name>
+<name><surname>Chioncel</surname><given-names>O</given-names></name>
+<name><surname>Rosano</surname><given-names>G</given-names></name>
+</person-group><article-title>Pre-discharge and early post-discharge management of patients hospitalized for acute heart failure: A scientific statement by the Heart Failure Association of the ESC</article-title><source>Eur J Heart Fail</source><year>2023</year><volume>25</volume><fpage>1115</fpage><lpage>1131</lpage><pub-id pub-id-type="pmid">37448210</pub-id>
+</element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Krishna</surname><given-names>P</given-names></name>
+</person-group><article-title>Assuring a Continuum of Care for Heart Failure Patients Through Postacute Care Collaboration: An Integrative Review</article-title><source>Prof Case Manag</source><year>2022</year><volume>28</volume><fpage>3</fpage><lpage>10</lpage><pub-id pub-id-type="pmid">36394854</pub-id>
+</element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chang</surname><given-names>GM</given-names></name>
+<name><surname>Chen</surname><given-names>JY</given-names></name>
+<name><surname>Kuo</surname><given-names>WY</given-names></name>
+<name><surname>Tung</surname><given-names>YC</given-names></name>
+</person-group><article-title>Associations of continuity and coordination of care with outcomes and costs after discharge among patients with heart failure: A nationwide population-based study</article-title><source>Int J Cardiol</source><year>2022</year><volume>353</volume><fpage>54</fpage><lpage>61</lpage><pub-id pub-id-type="pmid">35065156</pub-id>
+</element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Celano</surname><given-names>CM</given-names></name>
+<name><surname>Villegas</surname><given-names>AC</given-names></name>
+<name><surname>Albanese</surname><given-names>AM</given-names></name>
+<name><surname>Gaggin</surname><given-names>HK</given-names></name>
+<name><surname>Huffman</surname><given-names>JC</given-names></name>
+</person-group><article-title>Depression and Anxiety in Heart Failure: A Review</article-title><source>Harv Rev Psychiatry</source><year>2018</year><volume>26</volume><fpage>175</fpage><lpage>184</lpage><pub-id pub-id-type="pmid">29975336</pub-id>
+</element-citation></ref></ref-list><sec sec-type="data-availability"><title>Data sharing statement</title><p>Additional data available on request, consent was not obtained but the presented data are anonymized, and risk of identification is low.</p></sec></back></article>

@@ -1,0 +1,1437 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Chem Sci</journal-id><journal-id journal-id-type="iso-abbrev">Chem Sci</journal-id><journal-id journal-id-type="publisher-id">SC</journal-id><journal-id journal-id-type="coden">CSHCBM</journal-id><journal-title-group><journal-title>Chemical Science</journal-title></journal-title-group><issn pub-type="ppub">2041-6520</issn><issn pub-type="epub">2041-6539</issn><publisher><publisher-name>The Royal Society of Chemistry</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40443992</article-id><article-id pub-id-type="pmc">PMC12117579</article-id>
+<article-id pub-id-type="publisher-id">d5sc01431j</article-id><article-id pub-id-type="doi">10.1039/d5sc01431j</article-id><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>Synthesis of polysubstituted cyclobutanes through a photoredox strain-release/[3,3]-rearrangement cascade<xref rid="fn1" ref-type="fn">&#x02020;</xref></article-title><fn-group><fn id="fn1"><label>&#x02020;</label><p>Electronic supplementary information (ESI) available. CCDC <uri>2403838</uri> and <uri>2403839</uri>. For ESI and crystallographic data in CIF or other electronic format see DOI: <uri xlink:href="https://doi.org/10.1039/d5sc01431j">https://doi.org/10.1039/d5sc01431j</uri></p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Fangqing</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="affb" ref-type="aff">b</xref><xref rid="fn2" ref-type="author-notes">&#x02021;</xref></contrib><contrib contrib-type="author"><name><surname>Xu</surname><given-names>Chun</given-names></name><xref rid="affb" ref-type="aff">b</xref><xref rid="affc" ref-type="aff">c</xref><xref rid="fn2" ref-type="author-notes">&#x02021;</xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Zichun</given-names></name><xref rid="affb" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><name><surname>Yang</surname><given-names>Zhuang</given-names></name><xref rid="affd" ref-type="aff">d</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5578-5314</contrib-id><name><surname>Peng</surname><given-names>Tao</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5427-079X</contrib-id><name><surname>Shao</surname><given-names>Wen</given-names></name><xref rid="affc" ref-type="aff">c</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4507-0478</contrib-id><name><surname>Feng</surname><given-names>Xiaoming</given-names></name><xref rid="affb" ref-type="aff">b</xref><xref rid="affe" ref-type="aff">e</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1274-6104</contrib-id><name><surname>Liu</surname><given-names>Yangbin</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="affb" ref-type="aff">b</xref></contrib><aff id="affa">
+<label>a</label>
+<institution>State Key Laboratory of Chemical Oncogenomics, Guangdong Provincial Key Laboratory of Chemical Genomics, Peking University Shenzhen Graduate School</institution>
+<city>Shenzhen</city>
+<state>Guangdong</state>
+<postal-code>518055</postal-code>
+<country>China</country>
+</aff><aff id="affb">
+<label>b</label>
+<institution>Institute of Chemical Biology, Shenzhen Bay Laboratory</institution>
+<city>Shenzhen</city>
+<postal-code>518055</postal-code>
+<country>China</country>
+<email>liuyb@szbl.ac.cn</email>
+</aff><aff id="affc">
+<label>c</label>
+<institution>Key Laboratory for Green Organic Synthesis and Application of Hunan Province, Key Laboratory of Environmentally Friendly Chemistry and Application of Ministry of Education, College of Chemistry, Xiangtan University</institution>
+<city>Xiangtan 411105</city>
+<country>China</country>
+<email>shaowen@xtu.edu.cn</email>
+</aff><aff id="affd">
+<label>d</label>
+<institution>Laboratory of Natural and Targeted Small Molecule Drugs, State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University and Collaborative Innovation Center of Biotherapy</institution>
+<city>Chengdu 610041</city>
+<country>China</country>
+</aff><aff id="affe">
+<label>e</label>
+<institution>Key Laboratory of Green Chemistry &#x00026; Technology, Ministry of Education, College of Chemistry, Sichuan University</institution>
+<city>Chengdu</city>
+<postal-code>610064</postal-code>
+<country>China</country>
+<email>xmfeng@scu.edu.cn</email>
+</aff></contrib-group><author-notes><fn id="fn2"><label>&#x02021;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2025-05-14"><day>14</day><month>5</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2025-06-25"><day>25</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="pmc-release"><day>14</day><month>5</month><year>2025</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>16</volume><issue>25</issue><fpage>11508</fpage><lpage>11518</lpage><history><date date-type="received" iso-8601-date="2025-02-22"><day>22</day><month>2</month><year>2025</year></date><date date-type="accepted" iso-8601-date="2025-05-13"><day>13</day><month>5</month><year>2025</year></date></history><permissions><copyright-statement>This journal is &#x000a9; The Royal Society of Chemistry</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2025-05-14">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This article is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-Non Commercial 3.0 Unported Licence</ext-link>. You can use material from this article in other publications without requesting further permissions from the RSC, provided that the correct acknowledgement is given and it is not used for commercial purposes.</license-p></license></permissions><abstract><p>Small saturated carbocycles, such as cyclobutanes, with elevated three-dimensionality and rich C<sub>sp3</sub> centers are privileged scaffolds in naturally occurring molecules and drug discovery. It remains highly desirable and challenging to develop modular and straightforward strategies to craft densely substituted cyclobutanes. Herein, a photoredox-catalyzed radical strain-release/[3,3]-rearrangement cascade (SRRC) strategy for efficient synthesis of polysubstituted cyclobutanes is disclosed. This protocol operates with readily available &#x003b1;-silylamines as radical precursors, and strained bicyclo[1.1.0]butanes (BCBs) and cyclobutenes as radical acceptors, to access an array of structurally diverse 1,1,3- and 1,1,2-trisubstituted cyclobutanes containing a unique non-natural amino acid scaffold. Mechanistic studies reveal the pivotal reactivity of the silylketene acetal intermediate and the origin of diastereoselectivity. The power and utility of this method are illustrated with diverse transformations and preliminary anticancer assessment.</p></abstract><abstract abstract-type="toc"><p>A photoredox nucleophilic radical strain-release/[3,3]-rearrangement cascade has been established for the synthesis of polysubstituted cyclobutanes by using bicyclo[1.1.0]butanes/cyclobutenes as radical acceptors and &#x003b1;-silylamines as radical donors.<graphic xlink:href="d5sc01431j-ga.jpg" id="ga" position="float"/></p></abstract><funding-group><award-group><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>22471174</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>Shenzhen Bay Laboratory</institution><institution-id institution-id-type="doi">10.13039/501100021177</institution-id></institution-wrap>
+</funding-source><award-id>S201100003</award-id><award-id>S211101001-4</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>Natural Science Foundation of Guangdong Province</institution><institution-id institution-id-type="doi">10.13039/501100003453</institution-id></institution-wrap>
+</funding-source><award-id>2024A1515012381</award-id></award-group></funding-group><counts><page-count count="11"/></counts><custom-meta-group><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Introduction</title><p>Polysubstituted cyclobutanes are not only prevalent in natural products, but also serve as privileged motifs in drug molecules (<xref rid="fig1" ref-type="fig">Fig. 1a</xref>).<sup><xref rid="cit1" ref-type="bibr">1</xref></sup> Compared to the common planar systems, cyclobutane cores possess a more rigid three-dimensionality and an increased content of C<sub>sp3</sub> centers, thus exhibiting a greater structural modularity and enhanced pharmacologically relevant properties.<sup><xref rid="cit2" ref-type="bibr">2</xref></sup> As such, angiotensin (1&#x02013;7) analogs containing a non-natural amino acid [<italic toggle="yes">cis</italic>-3-(aminomethyl)cyclobutanecarboxylic acid (ACCA)] are used as effective therapeutic compositions to treat or prevent a broader range of diseases.<sup><xref rid="cit1e" ref-type="bibr">1<italic toggle="yes">e</italic></xref></sup> Consequently, development of efficient and modular strategies to construct polysubstituted cyclobutanes remains a fundamentally important research topic and has attracted substantial attention from synthetic chemists.</p><fig position="float" id="fig1"><label>Fig. 1</label><caption><title>Importance and chemistry of cyclobutanes. (a) Privileged cyclobutane scaffold in drug molecules and natural products. (b) Representative synthetic strategies for constructing cyclobutanes. (c) Selected SRRC examples to enable difunctionalization of strained BCBs. (d) This work: development of a photoredox radical SRRC method to access site-divergent synthesis of 1,3-/1,2-difunctionalized cyclobutanes. Cy, cyclohexyl. EWG, electron withdrawing group. MG, migration group. [Si], silyl group.</title></caption><graphic xlink:href="d5sc01431j-f1" position="float"/></fig><p>Among various approaches to prepare cyclobutanes (<xref rid="fig1" ref-type="fig">Fig. 1b</xref>), such as [2 + 2] cycloaddition,<sup><xref rid="cit3" ref-type="bibr">3</xref></sup> C&#x02013;H functionalization<sup><xref rid="cit4" ref-type="bibr">4</xref></sup> and ring contraction/expansion,<sup><xref rid="cit5" ref-type="bibr">5</xref></sup> strain-release-driven syntheses have been popularized and emerged as a divergent strategy to build complex cyclobutanes. Particularly, bicyclo[1.1.0]butanes (BCBs) and cyclobutenes are two privileged building blocks in efficient access to cyclobutane scaffolds under mild conditions due to their relatively high ring-strain energies.<sup><xref rid="cit6" ref-type="bibr">6&#x02013;13</xref></sup> However, developing straightforward and potent strategies for the simultaneous installation of two functional groups into these strained rings to rapidly assemble polysubstituted cyclobutanes still poses significant challenges.<sup><xref rid="cit14" ref-type="bibr">14,15</xref></sup></p><p>The strain-release/rearrangement cascade (SRRC) strategy provides an effective approach for achieving regioselective difunctionalization of BCBs, thereby affording more densely polysubstituted cyclobutanes (<xref rid="fig1" ref-type="fig">Fig. 1c</xref>). For example, Aggarwal and coworkers reported the addition of electron-deficient species (aryl palladium, allyl iridium, electrophilic radicals) to the strained C&#x02013;C &#x003c3;-bond, triggering a 1,2-boronate rearrangement to produce 1,1,3-trisubstituted cyclobutanes.<sup><xref rid="cit16" ref-type="bibr">16</xref></sup> Glorius and coworkers described the addition of sulfur radical cations to BCBs and subsequent alkynyl rearrangement by C&#x02013;S &#x003c3;-bond scission, leading to the thio-alkynyl difunctionalization of BCBs.<sup><xref rid="cit17" ref-type="bibr">17</xref></sup> Although such advances have been made in the SRRC strategy, they are still limited to electrophilic species as initiators. Additionally, BCBs as highly strained molecules can undergo thermally driven ring-opening reactions with nucleophiles,<sup><xref rid="cit4e" ref-type="bibr">4<italic toggle="yes">e</italic>,8,18</xref></sup> and can also couple with single-electron radical nucleophiles for the ring-opening processes.<sup><xref rid="cit9b" ref-type="bibr">9<italic toggle="yes">b</italic>&#x02013;<italic toggle="yes">d</italic>,19</xref></sup> This reactivity was exemplified by the pioneering works of Cintrat and Jui,<sup><xref rid="cit9c" ref-type="bibr">9<italic toggle="yes">c</italic>,19<italic toggle="yes">a</italic></xref></sup> who independently reported the addition of nucleophilic &#x003b1;-amino radicals to BCBs, yielding hydroalkylated cyclobutanes in moderate to good yields. Nevertheless, the combination of nucleophilic strain-release and rearrangement cascade transformations in BCBs to achieve difunctionalization and produce polysubstituted cyclobutanes remains unexplored.</p><p>Recently, our group has disclosed a photocatalytic radical dearomatization of indoles and [3,3]-rearrangement cascade reaction to produce valuable prenylated indolines.<sup><xref rid="cit20" ref-type="bibr">20</xref></sup> Inspired by this precedent, we envisioned that the nucleophilic radicals (for instance, &#x003b1;-aminoalkyl radicals) could add to the central C&#x02013;C &#x003c3;-bond of BCBs driven by strain-release force. Subsequent single-electron reduction could generate a ketene acetal intermediate and trigger an intramolecular Claisen-type [3,3]-rearrangement, thus enabling regioselective synthesis of 1,1,3-trisubstituted cyclobutanes (<xref rid="fig1" ref-type="fig">Fig. 1d</xref>, left). Should this approach prove successful, it would conveniently incorporate two privileged motifs, amino and allyl, into a saturated carbocycle to produce novel non-natural amino acids containing the polysubstituted cyclobutane skeleton. Moreover, the complementary 1,1,2-trisubstituted cyclobutanes could be easily accessed by trapping with cyclobutene partners, followed by a similar procedure (<xref rid="fig1" ref-type="fig">Fig. 1d</xref>, right). A major challenge of this cascade process would be the competition between [3,3]-rearrangement and protonation of the active ketene acetal intermediate. Herein, we report a nucleophilic radical-induced SRRC reaction of BCBs and cyclobutenes to forge 1,1,3- and 1,1,2-trisubstituted cyclobutane products, respectively. This protocol covers a range of readily available amines with high functional group tolerance and a variety of allyl fragments, such as geranyl, farnesyl and allenyl. The synthetic utility of the resulting products is also demonstrated by further transformations to form versatile building blocks.</p></sec><sec><title>Results and discussion</title><sec><title>Reaction development</title><p>Given that prenyl and reverse-prenyl motifs are widely found in bioactive natural products and medicinal compounds,<sup><xref rid="cit21" ref-type="bibr">21</xref></sup> our design plan began with a prenyl bicyclo[1.1.0]butane-1-carboxylate 1 as the radical acceptor, potentially producing reverse-prenyl-functionalized cyclobutanecarboxylic acid after the desired radical SRRC process. For radical donors, tertiary amines containing a trimethylsilyl (TMS) functionality are suitable precursors (2) in photoredox reactions:<sup><xref rid="cit22" ref-type="bibr">22,23</xref></sup> (1) they have relatively low oxidation potentials to readily generate highly nucleophilic &#x003b1;-aminoalkyl radicals; (2) the fragment TMS can combine with the ketene acetal species and promote the subsequent [3,3]-rearrangement; (3) organic amines have a rich structural diversity in FDA approved drugs, thus making the amine-functionalized cyclobutanes even more valuable in drug discovery. Preliminary optimization experiments highlighted PC1 as the optimal photocatalyst with a moderate oxidation potential, providing the amino- and reverse-prenyl 1,3-difunctionalized cyclobutane product 3 in 30% yield (<xref rid="fig2" ref-type="fig">Fig. 2</xref>). Notably, such congested vicinal quaternary centers in product 3 were constructed smoothly due to the inherent intramolecular advantages of [3,3]-sigmatropic rearrangement. Further investigation of other photocatalysts with a higher or lower oxidation potential led to an unproductive reaction (PC2-4). During the selection of the ideal PC, we found that amine 2 was almost fully consumed and the majority of BCB 1 was left. It is assumed that the desired radical strain-release addition of BCB is slower than the decomposition rate of the &#x003b1;-aminoalkyl radical. Thus, we changed the ratio between 1 and 2 to achieve a higher yield (from 30% to 50%) as the amount of BCB increased (2.0 equiv.). Examination of different solvents identified CH<sub>3</sub>CN as the optimal solvent for this transformation. Delightedly, fine-tuning of the reaction parameters revealed that a higher concentration was the most beneficial to improve reactivity (86% yield at 0.8 M). Additional control experiments confirmed that both the photocatalyst and visible light were essential for the desired product.</p><fig position="float" id="fig2"><label>Fig. 2</label><caption><title>Investigation of the photocatalytic SRRC reaction of BCB. Reaction conditions: unless otherwise noted, 1 (0.1 mmol), 2 (0.12 mmol), PC (1.5 mol%) in CH<sub>3</sub>CN (0.1 M), 24 h, 450 nm at 40 &#x000b0;C. The yields are determined by <sup>1</sup>H NMR analysis of the crude product mixtures. In all cases, the product d.r. is approximately 1.4&#x02009;:&#x02009;1. Excited photocatalyst half potentials are given against SCE. (a) Changing the substrate ratio as 1 (0.2 mmol), 2 (0.1 mmol). (b) For ease of separation, the carboxylic acid is converted to its methyl ester by TMSCHN<sub>2</sub>. The isolated yield of the two-step process is reported.</title></caption><graphic xlink:href="d5sc01431j-f2" position="float"/></fig></sec><sec><title>Substrate scope for the synthesis of 1,1,3-trisubstituted cyclobutanes</title><p>With the optimized conditions in hand, we next evaluated the substrate scope of this photocatalytic SRRC reaction of BCBs to afford 1,1,3-trisubstituted cyclobutanes (<xref rid="fig3" ref-type="fig">Fig. 3</xref>). Various substituted <italic toggle="yes">N</italic>,<italic toggle="yes">N</italic>-dimethyl anilines (5&#x02013;13) were well tolerated to give the corresponding cyclobutane products in moderate to good yields. A series of functional groups including electron-withdrawing and electron-donating groups on the aromatic ring, such as halogens, cyano and methoxy groups, were well tolerated. Altering the substituent on the nitrogen atom, ethyl (14), isopropyl (15), allyl (16), and phenyl (17 and 18) groups were also compatible with this protocol. Under the same conditions, carbazole (19) and 5<italic toggle="yes">H</italic>-dibenzo[<italic toggle="yes">b</italic>,<italic toggle="yes">f</italic>]azepine (20) were incorporated into the cyclobutane scaffold, albeit in slightly lower yields. Additionally, alkyl amines as substrates were shown to perform similarly, delivering the corresponding cyclobutylated amino acid products in good yields (21&#x02013;24). Given the frequency and importance of nitrogen-containing saturated heterocycles in drug development, we sought to evaluate the tolerance of various <italic toggle="yes">N</italic>-heterocyclic functionalities. As such, piperidines bearing functional groups, 1<italic toggle="yes">H</italic>-azepine, morpholine, piperazine, 1,4-diazepane, and tetrahydroquinoline readily participated in the radical addition/rearrangement cascade transformation, providing the desired products smoothly (25&#x02013;33). The structure and relative configuration were unambiguously confirmed by X-ray crystallographic analysis of 31. Next, we turned our attention to BCB acceptors. By varying diverse allylic esters as substrates, this protocol was successfully extended to achieve allyl segment diversification beyond the reverse-prenyl group, such as unsubstituted allyl (34), 2-methyl substituted allyl (35), valuable allenyl group (36, from propargylic esters), geranyl (37), and even more complex farnesyl (38). Further generality for the developed method was demonstrated in more systems with biologically relevant scaffolds. Remarkably, such core amino-fragments in flunarizine (39), bepotastine (40) and serotonin reuptake inhibitor duloxetine (41) underwent this transformation smoothly, affording the corresponding cyclobutylated amino acid products in moderate yields.</p><fig position="float" id="fig3"><label>Fig. 3</label><caption><title>Substrate scope for the synthesis of 1,1,3-trisubstituted cyclobutanes. Reaction conditions: unless otherwise noted, 1 (0.4 mmol, 2.0 equiv.), 2 (0.2 mmol, 1.0 equiv.), PC1 (1.5 mol%) in CH<sub>3</sub>CN (0.8 M), 24 h, 450 nm at 40 &#x000b0;C. Some products are transferred into their methyl ester for the ease of separation. Methyl esterification conditions: TMSCHN<sub>2</sub> (4.0 equiv.), Et<sub>2</sub>O/MeOH (4&#x02009;:&#x02009;1), 2 h, room temperature. Isolated yields are reported. In most cases, the product d.r. is approximately 1.4&#x02009;:&#x02009;1.</title></caption><graphic xlink:href="d5sc01431j-f3" position="float"/></fig></sec><sec><title>Substrate scope for the synthesis of 1,1,2-trisubstituted cyclobutanes</title><p>Having established the above process for accessing C3-aminoalkyl-type cyclobutanes <italic toggle="yes">via</italic> the radical addition to the central C&#x02013;C &#x003c3;-bond of BCBs, we wondered if the complementary site-isomers, C2-aminoalkyl-functionalized cyclobutanes, would be obtained through the radical addition to the C<private-char name="DOUBLE BOND, LENGTH AS M-DASH" description="double bond, length as m-dash"><!-- PBM data was replaced with SVG by xgml2pxml:
+<glyph-data id="z.dbd" format="PBM" resolution="300" x-size="8" y-size="10" xml:space="preserve">
+00000000
+00000000
+00000000
+00000000
+11111111
+00000000
+11111111
+00000000
+00000000
+00000000
+</glyph-data>
+-->
+<glyph-data id="z.dbd" format="SVG" resolution="300" x-size="8" y-size="10" xml:space="preserve">
+<![CDATA[
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="13.200000pt" height="16.000000pt" viewBox="0 0 13.200000 16.000000" preserveAspectRatio="xMidYMid meet"><metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata><g transform="translate(1.000000,15.000000) scale(0.017500,-0.017500)" fill="currentColor" stroke="none"><path d="M0 440 l0 -40 320 0 320 0 0 40 0 40 -320 0 -320 0 0 -40z M0 280 l0 -40 320 0 320 0 0 40 0 40 -320 0 -320 0 0 -40z"/></g></svg>
+]]>
+</glyph-data></private-char>C bond of cyclobutenes, followed by a [3,3]-rearrangement reaction. Pleasingly, this protocol was compatible to access 1,2-difunctionalization of cyclobutenes with minor adjustments in the reaction setup (<xref rid="fig4" ref-type="fig">Fig. 4</xref>). Aniline and <italic toggle="yes">N</italic>-heterocyclic amine derivatives could be well tolerated, such as piperidine, morpholine, piperazine, and complex bioactive motifs (42&#x02013;47). It is worth mentioning that aminoalkyl and reverse-prenyl were incorporated into cyclobutanes in an <italic toggle="yes">anti</italic>-selective manner, providing 1,1,2-trisubstituted cyclobutane products in excellent diastereoselectivities (20&#x02009;:&#x02009;1 d.r. for most cases). Moreover, different cyclobutene derivatives bearing diverse allylic esters were also reactive, providing the corresponding allenyl, simple allyl, or 2-methyl-allyl products in good yields (48&#x02013;53).</p><fig position="float" id="fig4"><label>Fig. 4</label><caption><title>Substrate scope for the synthesis of 1,1,2-trisubstituted cyclobutanes. Reaction conditions: unless otherwise noted, 4 (0.2 mmol, 1.0 equiv.), 2 (0.4 mmol, 2.0 equiv), PC1 (1.5 mol%) in CH<sub>3</sub>CN (0.8 M), 12 h, 450 nm at 40 &#x000b0;C. Isolated yields are reported.</title></caption><graphic xlink:href="d5sc01431j-f4" position="float"/></fig></sec><sec><title>Mechanistic investigation</title><p>As shown in <xref rid="fig5" ref-type="fig">Fig. 5a</xref>, possible mechanistic details on the photoredox radical SRRC process are proposed. Firstly, single-electron transfer (SET) between the excited Ir(<sc>iii</sc>) photocatalyst PC1 and &#x003b1;-silylaniline 2 should generate radical cation I that undergoes fragmentation to form an &#x003b1;-aminoalkyl radical II and a trimethylsilylium ion stabilized by acetonitrile solvent. Then, the strain-release addition of this highly nucleophilic species II to the BCB (1) would produce &#x003b1;-ester radical III. The subsequent reduction by the Ir(<sc>ii</sc>) catalyst would give enolate IV, which could combine with a trimethylsilylium ion to form the key silylketene acetal intermediate V. Then, the Claisen-type [3,3]-rearrangement of V would furnish the 1,1,3-trisubstituted cyclobutane product 3. Similarly, the synthesis of 1,1,2-trisubstituted cyclobutanes could be achieved through a radical addition to cyclobutene followed by the corresponding rearrangement pathway.</p><fig position="float" id="fig5"><label>Fig. 5</label><caption><title>Mechanistic investigations and control experiment. (a) Proposed mechanism to explain the reaction pathway. (b) light on/off experiment. (c) Stern&#x02013;Volmer plot showing &#x003b1;-silylaniline 2 as the quencher. (d) radical-inhibition using TEMPO. (e) control experiment by adding H<sub>2</sub>O to capture &#x003b1;-ester anion species. (f) competition experiment between BCB 1 and cyclobutene 4.</title></caption><graphic xlink:href="d5sc01431j-f5" position="float"/></fig><p>To gain insights into the above mechanism, a series of control experiments and spectroscopy studies were conducted. First, a light on/off experiment showed that continuous irradiation was essential for product formation (<xref rid="fig5" ref-type="fig">Fig. 5b</xref>). UV/vis absorption experiments confirmed the primary absorption of the photocatalyst at the irradiated wavelength (for details, see the ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Stern&#x02212;Volmer luminescence quenching revealed that the excited state of PC1 was significantly quenched by the &#x003b1;-silylaniline (<xref rid="fig5" ref-type="fig">Fig. 5c</xref>). Then, such a radical addition/rearrangement process was completely inhibited in the presence of 2,2,6,6-tetramethylpiperidinyloxy (TEMPO) and the corresponding TEMPO-aminoalkyl adduct was confirmed by HRMS (<xref rid="fig5" ref-type="fig">Fig. 5d</xref>, for details, see the ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>), suggesting the involvement of aminoalkyl radical species in product formation. Moreover, when the reaction was carried out with the addition of external water, the aminoalkylation-protonation products 54 and 55 were detected exclusively, while the [3,3]-rearrangement process was completely interrupted, which supports the generation of &#x003b1;-ester anion species IV (<xref rid="fig5" ref-type="fig">Fig. 5e</xref>). Interestingly, we also compared the reactivity difference between the BCB and cyclobutene by an intermolecular competition experiment. The cyclobutene 4 was proved to be more reactive than BCB 1, affording the corresponding rearrangement product 42 in 63% yield (<xref rid="fig5" ref-type="fig">Fig. 5f</xref>).</p><p>To further evaluate the reaction's energy profile and rationalize the observed reaction outcome, we performed density functional theory (DFT) calculations. As shown in <xref rid="fig6" ref-type="fig">Fig. 6a</xref>, the relative energies for morpholine radical (INT) addition to BCB 1 and cyclobutene 4 have been computed. It is found that the BCB as the radical acceptor with 20.4 kcal mol<sup>&#x02212;1</sup> free energy of activation is energetically much higher than the cyclobutene scenario with a modest activation barrier (12.8 kcal mol<sup>&#x02212;1</sup>, <xref rid="fig6" ref-type="fig">Fig. 6a</xref>). This result is in good accordance with the competition experiment observation that radical addition to the BCB is less kinetically favored than to the cyclobutene. To elucidate the observed reactivity difference, we conducted a comparative analysis of strain energies between BCBs and cyclobutenes. It is found that BCBs display a remarkable ring strain energy (64 kcal mol<sup>&#x02212;1</sup>), which is much higher than that of cyclobutenes (28.7 kcal mol<sup>&#x02212;1</sup>).<sup><xref rid="cit6b" ref-type="bibr">6<italic toggle="yes">b</italic></xref></sup> As such, the strain energy is not the key factor leading to the enhanced reactivity of cyclobutenes. Further geometric analysis demonstrates distinct structural reorganization pathways: the BCB-to-cyclobutane conversion requires substantial geometric distortion, while the cyclobutene-to-cyclobutane transformation proceeds with minimal conformational changes (as evidenced by bond angle analysis). These structural insights suggest that the reduced geometric perturbation during cyclobutene activation may contribute to the observed preference for radical addition to cyclobutenes over BCBs.</p><fig position="float" id="fig6"><label>Fig. 6</label><caption><title>Insights from DFT calculations. (a) aminoalkyl radical addition to BCB and cyclobutene. (b) relative energies for [3,3]-rearrangement of the BCB-TMS intermediate. (c) relative energies for [3,3]-rearrangement of the (<italic toggle="yes">E</italic>)-cyclobutene-TMS intermediate. Calculations were performed at the B3LYP/6-31G(d,p)/SMD (acetonitrile) level of theory. More details on the [3,3]-rearrangement of cyclobutene-radical intermediate (<italic toggle="yes">Z</italic>)-INT-TMS-B are provided in ESI Fig. S7.<xref rid="fn1" ref-type="fn">&#x02020;</xref></title></caption><graphic xlink:href="d5sc01431j-f6" position="float"/></fig><p>To gain insight into the origin of diastereoselectivity, possible [3,3]-rearrangement transition states of the silylketene acetal intermediate were also investigated. The computational analysis of BCB-radical intermediate INT-TMS-A suggests that it can undergo two transition states TS-A1 and TS-A2 with very close Gibbs free-energy (&#x00394;<italic toggle="yes">G</italic> = 18.0 kcal mol<sup>&#x02212;1</sup><italic toggle="yes">vs.</italic> 18.2 kcal mol<sup>&#x02212;1</sup>), thus resulting in a similar ratio of <italic toggle="yes">anti</italic>-INT-C1 and <italic toggle="yes">syn</italic>-INT-C2 rearrangement products (<xref rid="fig6" ref-type="fig">Fig. 6b</xref>). These calculations explain why the SRRC process of BCBs tends to give the product in a low diastereomeric ratio (1.4&#x02009;:&#x02009;1 d.r., <xref rid="fig3" ref-type="fig">Fig. 3</xref>). Comparatively, the computational analysis of [3,3]-rearrangement involving the 2-aminoalkyl substituted cyclobutane was also conducted (<xref rid="fig6" ref-type="fig">Fig. 6c</xref>). By taking (<italic toggle="yes">E</italic>)-INT-TMS-B as an example, the transition state TS-B1 that leads to the formation of the observed diastereomer <italic toggle="yes">anti</italic>-INT-D1 is more kinetically favorable than the other transition state TS-B1 by at least 3.9 kcal mol<sup>&#x02212;1</sup>, which generates the diastereomer <italic toggle="yes">syn</italic>-INT-D2. This substantial energy difference suggests that the prenyl group prefers to approach the four-membered ring from the opposite direction of the morpholine substituent. The scenario of the (<italic toggle="yes">Z</italic>)-INT-TMS-B intermediate is also considered (see the SI for details).</p><p>Furthermore, Hirshfeld partition of molecular density (IGMH) analysis was performed to investigate the non-covalent interactions in both transition states TS-B1 and TS-B2. Notably, TS-B2 suffers from the obvious steric repulsion due to the stronger CH&#x000b7;&#x000b7;&#x000b7;HC and CH&#x022ef;N interactions between the terminal methyl on the ally moiety and the morpholine fragment. Thus, the corresponding diastereomer bearing the reverse-prenyl and the morpholine in a <italic toggle="yes">syn</italic>-manner is unfavorable. These results are consistent with the experimental findings in <xref rid="fig4" ref-type="fig">Fig. 4</xref>, wherein the SRRC process of cyclobutene often affords an enhanced diastereoselectivity (for most cases 20&#x02009;:&#x02009;1 d.r).</p></sec><sec><title>Synthetic utility and biological activity evaluation</title><p>We next performed divergent synthetic manipulations of cyclobutane products to further reveal the potential utility of the enclosed functionalization protocol by taking advantage of the functionalities, including carboxylic acid, terminal olefin and amino groups (<xref rid="fig7" ref-type="fig">Fig. 7a</xref>). Structurally appealing tripeptides 56 and 57 containing 1,3- and 1,2-cyclobutylated amino acids were readily achieved under the classical condensation conditions. The carboxylic acid group was also amenable to deliver primary alcohol 58 by LiAlH<sub>4</sub> reduction and to engage in Schmidt rearrangement, giving rise to the cyclobutylated amine 59. Iodine-mediated lactonization led to more complex cyclobutylated spirolactone 60 in 50% yield. Interestingly, when targeting the preparation of an acyl chloride intermediate through the oxalyl chloride and DMF procedure, we obtained the unexpected yet attractive cyclobutane ring-fused lactam scaffold 61 in a single step. Lastly, the hydrogenation of the reverse-prenyl to a bulky <italic toggle="yes">tert</italic>-amyl group was furnished with a Pd/C catalyst (62). A sequential hydroboration-oxidation of the terminal olefin could formally introduce the isopentyl alcohol motif to cyclobutane (63).</p><fig position="float" id="fig7"><label>Fig. 7</label><caption><title>Diversification of cyclobutane products and biological activity study. (a) extension of the synthetic applications of the functionalized products. (b) TMD-8 inhibition induced by selected compounds at 10 &#x003bc;M for 72 h; IC<sub>50</sub> values of compound 31 in different cancer cell lines, including TMD-8, KPC and HCT-116. Human diffuse large B-cell lymphoma (TMD-8); mouse pancreatic ductal adenocarcinoma (KPC); human colorectal adenocarcinoma (HCT-116).</title></caption><graphic xlink:href="d5sc01431j-f7" position="float"/></fig><p>Given that cyclobutanes are privileged in pharmaceuticals, we decided to evaluate the anticancer activity of selected products by detecting the <italic toggle="yes">in vitro</italic> cytotoxicity against the human diffuse large B-cell lymphoma (TMD-8) cell line (<xref rid="fig7" ref-type="fig">Fig. 7b</xref>). Pleasingly, a series of cyclobutane products showcased preliminary inhibitory activity at 10 &#x003bc;M. Among these candidates, cyclobutylated amino acid 31 bearing a piperazine motif displayed superior cytotoxicity to inhibit diverse cancer cell lines, including TMD-8, mouse pancreatic ductal adenocarcinoma (KPC) and human colorectal adenocarcinoma (HCT-116), with IC<sub>50</sub> values ranging from 5.7 to 8.2 &#x003bc;M. This indicates such cyclobutane compounds have potential applications in medicinal chemistry.</p></sec></sec><sec><title>Conclusions</title><p>In summary, we have established a photoredox-mediated radical strain-release/[3,3]-rearrangement cascade strategy to achieve polysubstituted cyclobutanes, with the utility of bicyclo[1.1.0]butanes and cyclobutenes as radical acceptors and readily available tertiary amines as radical donors. An array of structurally diverse 1,1,3- and 1,1,2-trisubstituted cyclobutanes containing a non-natural amino acid scaffold were smoothly accessed in moderate to good yields. This protocol features mild reaction conditions, good functional group tolerance, and an extremely wide range of amine precursors and allyl fragments. Mechanistic investigations reveal that the pivotal reactivity of the silylketene acetal intermediate is generated by the strain-release radical addition and subsequent single electron reduction. The origin of the <italic toggle="yes">anti</italic>-selective formation of densely substituted cyclobutanes <italic toggle="yes">via</italic> the steric repulsion effect in the transition states of [3,3]-rearrangement is explained by computational calculations. The synthetic applications and anticancer activity assessment further substantiate the potential of this photocatalytic SRRC protocol. We anticipate that the development of other types of transformations based on the SRRC strategy will expand the synthetic chemical space of saturated carbocycles.</p></sec><sec><title>Author contributions</title><p>F. Q. Z. performed the experiments and prepared the ESI.<xref rid="fn1" ref-type="fn">&#x02020;</xref> C. X. investigated several substrates and performed some experiments. Z. C. Z. performed the DFT calculations. Z. Y. performed the biological experiments. T. P. helped with the Stern&#x02013;Volmer luminescence quenching experiment. W. S. supported the project. X. M. F. supported the project. Y. B. L. designed and supervised the project, and wrote the manuscript. All the authors contributed to the manuscript revisions.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>There are no conflicts to declare.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="SC-016-D5SC01431J-s001" position="float" content-type="local-data"><label>SC-016-D5SC01431J-s001</label><media xlink:href="SC-016-D5SC01431J-s001.pdf" id="d67e656" position="anchor"/></supplementary-material><supplementary-material id="SC-016-D5SC01431J-s002" position="float" content-type="local-data"><label>SC-016-D5SC01431J-s002</label><media xlink:href="SC-016-D5SC01431J-s002.cif" id="d67e659" position="anchor"/></supplementary-material></sec></body><back><ack><p>We appreciate the National Natural Science Foundation of China (22471174), Shenzhen Bay Laboratory (S201100003 and S211101001-4), Shenzhen Bay Qihang Fellow Program (QH23001), Guangdong Pearl River Talent Program (2021QN020268) and the Natural Science Foundation of Guangdong Province (2024A1515012381) for generous financial support.</p></ack><sec sec-type="data-availability"><title>Data availability</title><p>The data that support the findings of this study are available in the ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref> of this article.</p></sec><ref-list><title>Notes and references</title><ref id="cit1"><element-citation publication-type="journal" id="cit1a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Chung</surname><given-names>H.-M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>M.-R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>J.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>W.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sung</surname><given-names>P.-J.</given-names></name>
+</person-group><source>Tetrahedron Lett.</source><year>2010</year><volume>51</volume><fpage>6025</fpage><lpage>6027</lpage><pub-id pub-id-type="doi">10.1016/j.tetlet.2010.09.032</pub-id></element-citation><element-citation publication-type="journal" id="cit1b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Dembitsky</surname><given-names>V. M.</given-names></name>
+</person-group><source>Phytomedicine</source><year>2014</year><volume>21</volume><fpage>1559</fpage><lpage>1581</lpage><pub-id pub-id-type="doi">10.1016/j.phymed.2014.07.005</pub-id><pub-id pub-id-type="pmid">25442265</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit1c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Tricklebank</surname><given-names>M. D.</given-names></name>
+</person-group><source>Drugs</source><year>2000</year><volume>3</volume><fpage>228</fpage><lpage>231</lpage></element-citation><element-citation publication-type="journal" id="cit1d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Van Der Kolk</surname><given-names>M. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Janssen</surname><given-names>M. A. C. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rutjes</surname><given-names>F. P. J. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Blanco-Ania</surname><given-names>D.</given-names></name>
+</person-group><source>ChemMedChem</source><year>2022</year><volume>17</volume><fpage>e202200020</fpage><pub-id pub-id-type="doi">10.1002/cmdc.202200020</pub-id><pub-id pub-id-type="pmid">35263505</pub-id>
+</element-citation><mixed-citation publication-type="patent" id="cit1e">
+<label> (e) </label>
+<person-group person-group-type="author">
+<name><surname>Gallagher</surname><given-names>P.</given-names></name>
+</person-group>, <person-group person-group-type="author"><name><surname>Tallant</surname><given-names>A.</given-names></name></person-group>, <person-group person-group-type="author"><name><surname>Yohannes</surname><given-names>D.</given-names></name></person-group> and <person-group person-group-type="author"><name><surname>Gruber</surname><given-names>K. A.</given-names></name></person-group>, PCT Int. Patent Appl. US2016/066181, <year>2017</year></mixed-citation></ref><ref id="cit2"><element-citation publication-type="journal" id="cit2a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Lovering</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bikker</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Humblet</surname><given-names>C.</given-names></name>
+</person-group><source>J. Med. Chem.</source><year>2009</year><volume>52</volume><fpage>6752</fpage><lpage>6756</lpage><pub-id pub-id-type="doi">10.1021/jm901241e</pub-id><pub-id pub-id-type="pmid">19827778</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit2b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Lovering</surname><given-names>F.</given-names></name>
+</person-group><source>MedChemComm</source><year>2013</year><volume>4</volume><fpage>515</fpage><lpage>519</lpage><pub-id pub-id-type="doi">10.1039/C2MD20347B</pub-id></element-citation></ref><ref id="cit3"><note><p>For selected examples of construction of cyclobutanes by [2 + 2] cycloaddition, see: </p></note><element-citation publication-type="journal" id="cit3a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Poplata</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tr&#x000f6;ster</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>Y.-Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bach</surname><given-names>T.</given-names></name>
+</person-group><source>Chem. Rev.</source><year>2016</year><volume>116</volume><fpage>9748</fpage><lpage>9815</lpage><pub-id pub-id-type="pmid">27018601</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit3b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Strieth-Kalthoff</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>James</surname><given-names>M. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Teders</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pitzer</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Glorius</surname><given-names>F.</given-names></name>
+</person-group><source>Chem. Soc. Rev.</source><year>2018</year><volume>47</volume><fpage>7190</fpage><lpage>7202</lpage><pub-id pub-id-type="pmid">30088504</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit3c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Fructos</surname><given-names>M. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Prieto</surname><given-names>A.</given-names></name>
+</person-group><source>Tetrahedron</source><year>2016</year><volume>72</volume><fpage>355</fpage><lpage>369</lpage><pub-id pub-id-type="doi">10.1016/j.tet.2015.11.031</pub-id></element-citation><element-citation publication-type="journal" id="cit3d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Das</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Demirbas</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bill</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>De</surname><given-names>C. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>List</surname><given-names>B.</given-names></name>
+</person-group><source>Science</source><year>2023</year><volume>379</volume><fpage>494</fpage><lpage>499</lpage><pub-id pub-id-type="doi">10.1126/science.ade8190</pub-id><pub-id pub-id-type="pmid">36656920</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit3e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ni</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Brown</surname><given-names>M. K.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2022</year><volume>144</volume><fpage>18790</fpage><lpage>18796</lpage><pub-id pub-id-type="doi">10.1021/jacs.2c08777</pub-id><pub-id pub-id-type="pmid">36200833</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit3f"><label> (f) </label><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lei</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nan</surname><given-names>X.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tung</surname><given-names>C.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>L.-Z.</given-names></name>
+</person-group><source>CCS Chem.</source><year>2020</year><volume>2</volume><fpage>582</fpage><lpage>588</lpage><pub-id pub-id-type="doi">10.31635/ccschem.019.201900049</pub-id></element-citation><element-citation publication-type="journal" id="cit3g"><label> (g) </label><person-group person-group-type="author">
+<name><surname>Girvin</surname><given-names>Z. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cotter</surname><given-names>L. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yoon</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chapman</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mayer</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yoon</surname><given-names>T. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Miller</surname><given-names>S. J.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2022</year><volume>144</volume><fpage>20109</fpage><lpage>20117</lpage><pub-id pub-id-type="doi">10.1021/jacs.2c09690</pub-id><pub-id pub-id-type="pmid">36264837</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit3h"><label> (h) </label><person-group person-group-type="author">
+<name><surname>Pecho</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sempere</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gram&#x000fc;ller</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>H&#x000f6;rmann</surname><given-names>F. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gschwind</surname><given-names>R. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bach</surname><given-names>T.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2021</year><volume>143</volume><fpage>9350</fpage><lpage>9354</lpage><pub-id pub-id-type="doi">10.1021/jacs.1c05240</pub-id><pub-id pub-id-type="pmid">34156845</pub-id>
+</element-citation></ref><ref id="cit4"><element-citation publication-type="journal" id="cit4a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>K.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>D. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Miura</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>R.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gong</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wasa</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>J.-Q.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2014</year><volume>136</volume><fpage>8138</fpage><lpage>8142</lpage><pub-id pub-id-type="doi">10.1021/ja504196j</pub-id><pub-id pub-id-type="pmid">24815880</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit4b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Gutekunst</surname><given-names>W. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Baran</surname><given-names>P. S.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2011</year><volume>133</volume><fpage>19076</fpage><lpage>19079</lpage><pub-id pub-id-type="doi">10.1021/ja209205x</pub-id><pub-id pub-id-type="pmid">22066860</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit4c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Chapman</surname><given-names>L. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Beck</surname><given-names>J. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Reisman</surname><given-names>S. E.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2016</year><volume>138</volume><fpage>9803</fpage><lpage>9806</lpage><pub-id pub-id-type="doi">10.1021/jacs.6b07229</pub-id><pub-id pub-id-type="pmid">27452034</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit4d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Fr&#x000e9;bault</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Maulide</surname><given-names>N.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2012</year><volume>51</volume><fpage>2815</fpage><lpage>2817</lpage><pub-id pub-id-type="doi">10.1002/anie.201108592</pub-id><pub-id pub-id-type="pmid">22331562</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit4e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Panish</surname><given-names>R. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chintala</surname><given-names>S. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fox</surname><given-names>J. M.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2016</year><volume>55</volume><fpage>4983</fpage><lpage>4987</lpage><pub-id pub-id-type="doi">10.1002/anie.201600766</pub-id><pub-id pub-id-type="pmid">26991451</pub-id>
+</element-citation></ref><ref id="cit5"><element-citation publication-type="journal" id="cit5a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hua</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2017</year><volume>56</volume><fpage>8187</fpage><lpage>8190</lpage><pub-id pub-id-type="doi">10.1002/anie.201703803</pub-id><pub-id pub-id-type="pmid">28467008</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit5b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Meier</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Trauner</surname><given-names>D.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2016</year><volume>55</volume><fpage>11251</fpage><lpage>11255</lpage><pub-id pub-id-type="doi">10.1002/anie.201604102</pub-id><pub-id pub-id-type="pmid">27356849</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit5c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Hui</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Brieger</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Strohmann</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Antonchick</surname><given-names>A. P.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2021</year><volume>143</volume><fpage>18864</fpage><lpage>18870</lpage><pub-id pub-id-type="doi">10.1021/jacs.1c10175</pub-id><pub-id pub-id-type="pmid">34748319</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit5d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Kleinbeck</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Toste</surname><given-names>F. D.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2009</year><volume>131</volume><fpage>9178</fpage><lpage>9179</lpage><pub-id pub-id-type="doi">10.1021/ja904055z</pub-id><pub-id pub-id-type="pmid">19530649</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit5e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Shu</surname><given-names>X.-Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Frei</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Toste</surname><given-names>F. D.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2014</year><volume>136</volume><fpage>5844</fpage><lpage>5847</lpage><pub-id pub-id-type="doi">10.1021/ja500716j</pub-id><pub-id pub-id-type="pmid">24730447</pub-id>
+</element-citation></ref><ref id="cit6"><element-citation publication-type="journal" id="cit6a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Wiberg</surname><given-names>K. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lampman</surname><given-names>G. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ciula</surname><given-names>R. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Connor</surname><given-names>D. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Schertler</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lavanish</surname><given-names>J.</given-names></name>
+</person-group><source>Tetrahedron</source><year>1965</year><volume>21</volume><fpage>2749</fpage><lpage>2769</lpage><pub-id pub-id-type="doi">10.1016/S0040-4020(01)98361-9</pub-id></element-citation><element-citation publication-type="journal" id="cit6b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Qi</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>O'Neill</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Reddy Dubbaka</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ting Ang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>J.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2025</year><volume>64</volume><fpage>e202413723</fpage><pub-id pub-id-type="doi">10.1002/anie.202413723</pub-id><pub-id pub-id-type="pmid">39264356</pub-id>
+</element-citation></ref><ref id="cit7"><note><p>For selected reviews on the functionalization of BCBs and cyclobutenes: </p></note><element-citation publication-type="journal" id="cit7a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>P.</given-names></name>
+</person-group><source>Chin. J. Chem.</source><year>2022</year><volume>40</volume><fpage>1346</fpage><lpage>1358</lpage><pub-id pub-id-type="doi">10.1002/cjoc.202100879</pub-id></element-citation><element-citation publication-type="journal" id="cit7b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Zhan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>H.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Peng</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>J.-J.</given-names></name>
+</person-group><source>Synthesis</source><year>2024</year><volume>56</volume><fpage>3829</fpage><lpage>3848</lpage><pub-id pub-id-type="doi">10.1055/a-2402-6920</pub-id></element-citation><element-citation publication-type="journal" id="cit7c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Golfmann</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Walker</surname><given-names>J. C. L.</given-names></name>
+</person-group><source>Commun. Chem.</source><year>2023</year><volume>6</volume><fpage>9</fpage><pub-id pub-id-type="doi">10.1038/s42004-022-00811-3</pub-id><pub-id pub-id-type="pmid">36697911</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit7d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>N.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>W.-P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>J.-J.</given-names></name>
+</person-group><source>CCS Chem.</source><year>2025</year><ext-link xlink:href="10.31635/ccschem.025.202505825" ext-link-type="doi">https://dx.doi.org/10.31635/ccschem.025.202505825</ext-link></element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Panish</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chintala</surname><given-names>S. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Boruta</surname><given-names>D. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Taylor</surname><given-names>M. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fox</surname><given-names>J. M.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2013</year><volume>135</volume><fpage>9283</fpage><lpage>9286</lpage><pub-id pub-id-type="doi">10.1021/ja403811t</pub-id><pub-id pub-id-type="pmid">23758288</pub-id>
+</element-citation></ref><ref id="cit9"><element-citation publication-type="journal" id="cit9a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Gianatassio</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lopchuk</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>C.-M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Malins</surname><given-names>L. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Prieto</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Brandt</surname><given-names>T. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Collins</surname><given-names>M. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gallego</surname><given-names>G. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sach</surname><given-names>N. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Spangler</surname><given-names>J. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Baran</surname><given-names>P. S.</given-names></name>
+</person-group><source>Science</source><year>2016</year><volume>351</volume><fpage>241</fpage><lpage>246</lpage><pub-id pub-id-type="doi">10.1126/science.aad6252</pub-id><pub-id pub-id-type="pmid">26816372</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hao</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ye</surname><given-names>K.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pombar</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>S.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2018</year><volume>140</volume><fpage>14836</fpage><lpage>14843</lpage><pub-id pub-id-type="doi">10.1021/jacs.8b08605</pub-id><pub-id pub-id-type="pmid">30303379</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Ernouf</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chirkin</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rhyman</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ramasami</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cintrat</surname><given-names>J.-C.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2020</year><volume>59</volume><fpage>2618</fpage><lpage>2622</lpage><pub-id pub-id-type="doi">10.1002/anie.201908951</pub-id><pub-id pub-id-type="pmid">31599038</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>L&#x000fc;bbesmeyer</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Studer</surname><given-names>A.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2021</year><volume>60</volume><fpage>675</fpage><lpage>679</lpage><pub-id pub-id-type="doi">10.1002/anie.202011738</pub-id><pub-id pub-id-type="pmid">32929798</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Ociepa</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wierzba</surname><given-names>A. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Turkowska</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gryko</surname><given-names>D.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2020</year><volume>142</volume><fpage>5355</fpage><lpage>5361</lpage><pub-id pub-id-type="doi">10.1021/jacs.0c00245</pub-id><pub-id pub-id-type="pmid">32105464</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9f"><label> (f) </label><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Q.-N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>J.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>T.-T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>W.-B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>J.-J.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2023</year><volume>14</volume><fpage>9696</fpage><lpage>9703</lpage><pub-id pub-id-type="doi">10.1039/D3SC03258B</pub-id><pub-id pub-id-type="pmid">37736637</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9g"><label> (g) </label><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H.-J.</given-names></name>
+</person-group><source>ACS Catal.</source><year>2024</year><volume>14</volume><fpage>14928</fpage><lpage>14936</lpage><pub-id pub-id-type="doi">10.1021/acscatal.4c04837</pub-id></element-citation><element-citation publication-type="journal" id="cit9h"><label> (h) </label><person-group person-group-type="author">
+<name><surname>Guin</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bhattacharjee</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Harariya</surname><given-names>M. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Biju</surname><given-names>A. T.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2023</year><volume>14</volume><fpage>6585</fpage><lpage>6591</lpage><pub-id pub-id-type="doi">10.1039/D3SC01373A</pub-id><pub-id pub-id-type="pmid">37350821</pub-id>
+</element-citation></ref><ref id="cit10"><element-citation publication-type="journal" id="cit10a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>T.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>C.-G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>G.-Q.</given-names></name>
+</person-group><source>Chem. Commun.</source><year>2015</year><volume>51</volume><fpage>8773</fpage><lpage>8776</lpage><pub-id pub-id-type="doi">10.1039/C5CC02023A</pub-id><pub-id pub-id-type="pmid">25912603</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit10b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Guis&#x000e1;n-Ceinos</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Parra</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mart&#x000ed;n-Heras</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tortosa</surname><given-names>M.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2016</year><volume>55</volume><fpage>6969</fpage><lpage>6972</lpage><pub-id pub-id-type="doi">10.1002/anie.201601976</pub-id><pub-id pub-id-type="pmid">27159674</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit10c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hao</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Buchwald</surname><given-names>S. L.</given-names></name>
+</person-group><source>ACS Catal.</source><year>2020</year><volume>10</volume><fpage>282</fpage><lpage>291</lpage><pub-id pub-id-type="doi">10.1021/acscatal.9b04871</pub-id><pub-id pub-id-type="pmid">33664986</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit10d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Goetzke</surname><given-names>F. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hell</surname><given-names>A. M. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>van Dijk</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fletcher</surname><given-names>S. P.</given-names></name>
+</person-group><source>Nat. Chem.</source><year>2021</year><volume>13</volume><fpage>880</fpage><lpage>886</lpage><pub-id pub-id-type="doi">10.1038/s41557-021-00725-y</pub-id><pub-id pub-id-type="pmid">34211118</pub-id>
+</element-citation></ref><ref id="cit11"><note><p>For selected examples of racemic peripheral cyclization of BCBs, see: </p></note><element-citation publication-type="journal" id="cit11a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Kleinmans</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pinkert</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dutta</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Paulisch</surname><given-names>T. O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Keum</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Daniliuc</surname><given-names>C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Glorius</surname><given-names>F.</given-names></name>
+</person-group><source>Nature</source><year>2022</year><volume>605</volume><fpage>477</fpage><lpage>482</lpage><pub-id pub-id-type="doi">10.1038/s41586-022-04636-x</pub-id><pub-id pub-id-type="pmid">35314833</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Dhake</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Woelk</surname><given-names>K. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Becica</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Un</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jenny</surname><given-names>S. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Leitch</surname><given-names>D. C.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2022</year><volume>61</volume><fpage>e202204719</fpage><pub-id pub-id-type="doi">10.1002/anie.202204719</pub-id><pub-id pub-id-type="pmid">35442565</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kleinmans</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Daniliuc</surname><given-names>C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Glorius</surname><given-names>F.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2022</year><volume>144</volume><fpage>20207</fpage><lpage>20213</lpage><pub-id pub-id-type="doi">10.1021/jacs.2c09248</pub-id><pub-id pub-id-type="pmid">36301322</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chang</surname><given-names>Y.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Herter</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Salome</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Braley</surname><given-names>S. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fessard</surname><given-names>T. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Brown</surname><given-names>M. K.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2022</year><volume>144</volume><fpage>7988</fpage><lpage>7994</lpage><pub-id pub-id-type="doi">10.1021/jacs.2c02976</pub-id><pub-id pub-id-type="pmid">35476547</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dhungana</surname><given-names>R. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Granados</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Keess</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Makvandi</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Molander</surname><given-names>G. A.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2022</year><volume>144</volume><fpage>23685</fpage><lpage>23690</lpage><pub-id pub-id-type="doi">10.1021/jacs.2c11501</pub-id><pub-id pub-id-type="pmid">36523116</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11f"><label> (f) </label><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Paulus</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Daniliuc</surname><given-names>C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Glorius</surname><given-names>F.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2023</year><volume>62</volume><fpage>e202305043</fpage><pub-id pub-id-type="doi">10.1002/anie.202305043</pub-id><pub-id pub-id-type="pmid">37307521</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11g"><label> (g) </label><person-group person-group-type="author">
+<name><surname>Ni</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>L.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2023</year><volume>62</volume><fpage>e202308606</fpage><pub-id pub-id-type="doi">10.1002/anie.202308606</pub-id><pub-id pub-id-type="pmid">37583090</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11h"><label> (h) </label><person-group person-group-type="author">
+<name><surname>Kleinmans</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dutta</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ozols</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shao</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sch&#x000e4;fer</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Thielemann</surname><given-names>R. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chan</surname><given-names>H. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Daniliuc</surname><given-names>C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Houk</surname><given-names>K. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Glorius</surname><given-names>F.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2023</year><volume>145</volume><fpage>12324</fpage><lpage>12332</lpage><pub-id pub-id-type="doi">10.1021/jacs.3c02961</pub-id><pub-id pub-id-type="pmid">37232562</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11i"><label> (i) </label><person-group person-group-type="author">
+<name><surname>Agasti</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Beltran</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pye</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kaltsoyannis</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Crisenza</surname><given-names>G. E. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Procter</surname><given-names>D. J.</given-names></name>
+</person-group><source>Nat. Chem.</source><year>2023</year><volume>15</volume><fpage>535</fpage><lpage>541</lpage><pub-id pub-id-type="doi">10.1038/s41557-023-01135-y</pub-id><pub-id pub-id-type="pmid">36781910</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11j"><label> (j) </label><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>J.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><source>ACS Catal.</source><year>2023</year><volume>13</volume><fpage>5096</fpage><lpage>5103</lpage><pub-id pub-id-type="doi">10.1021/acscatal.3c00305</pub-id></element-citation><element-citation publication-type="journal" id="cit11k"><label> (k) </label><person-group person-group-type="author">
+<name><surname>Radhoff</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Daniliuc</surname><given-names>C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Studer</surname><given-names>A.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2023</year><volume>62</volume><fpage>e202304771</fpage><pub-id pub-id-type="doi">10.1002/anie.202304771</pub-id><pub-id pub-id-type="pmid">37166141</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11l"><label> (l) </label><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>W.-B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>J.-J.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2024</year><volume>63</volume><fpage>e202405222</fpage><pub-id pub-id-type="doi">10.1002/anie.202405222</pub-id><pub-id pub-id-type="pmid">38729920</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11m"><label> (m) </label><person-group person-group-type="author">
+<name><surname>Tyler</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sch&#x000e4;fer</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shao</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Stein</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wong</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Daniliuc</surname><given-names>C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Houk</surname><given-names>K. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Glorius</surname><given-names>F.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2024</year><volume>146</volume><fpage>16237</fpage><lpage>16247</lpage><pub-id pub-id-type="doi">10.1021/jacs.4c04403</pub-id><pub-id pub-id-type="pmid">38811005</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11n"><label> (n) </label><person-group person-group-type="author">
+<name><surname>Dutta</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>Y.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Erchinger</surname><given-names>J. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shao</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Studer</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sch&#x000e4;fer</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rana</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Daniliuc</surname><given-names>C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Houk</surname><given-names>K. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Glorius</surname><given-names>F.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2024</year><volume>146</volume><fpage>5232</fpage><lpage>5241</lpage><pub-id pub-id-type="doi">10.1021/jacs.3c11563</pub-id><pub-id pub-id-type="pmid">38350439</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11o"><label> (o) </label><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>J.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>X.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>W.-B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>J.-J.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2024</year><volume>146</volume><fpage>19621</fpage><lpage>19628</lpage><pub-id pub-id-type="doi">10.1021/jacs.4c01851</pub-id><pub-id pub-id-type="pmid">38739092</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11p"><label> (p) </label><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ni</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>L.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2024</year><volume>15</volume><fpage>6128</fpage><pub-id pub-id-type="doi">10.1038/s41467-024-50434-6</pub-id><pub-id pub-id-type="pmid">39033172</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11q"><label> (q) </label><person-group person-group-type="author">
+<name><surname>Dutta</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ozols</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Daniliuc</surname><given-names>C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shintani</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Glorius</surname><given-names>F.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2024</year><volume>146</volume><fpage>2789</fpage><lpage>2797</lpage><pub-id pub-id-type="doi">10.1021/jacs.3c12894</pub-id><pub-id pub-id-type="pmid">38236061</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11r"><label> (r) </label><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shan</surname><given-names>J.-R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hao</surname><given-names>E.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>L.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2024</year><volume>15</volume><fpage>4374</fpage><pub-id pub-id-type="doi">10.1038/s41467-024-48494-9</pub-id><pub-id pub-id-type="pmid">38782978</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11s"><label> (s) </label><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>J.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>T.-T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>J.-J.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2023</year><volume>62</volume><fpage>e202310066</fpage><pub-id pub-id-type="doi">10.1002/anie.202310066</pub-id><pub-id pub-id-type="pmid">37822277</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11t"><label> (t) </label><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>J.-J.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2024</year><volume>63</volume><fpage>e202408578</fpage><pub-id pub-id-type="doi">10.1002/anie.202408578</pub-id></element-citation><element-citation publication-type="journal" id="cit11u"><label> (u) </label><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ouyang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ding</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>P.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2022</year><volume>61</volume><fpage>e202214507</fpage><pub-id pub-id-type="doi">10.1002/anie.202214507</pub-id><pub-id pub-id-type="pmid">36344444</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11v"><label> (v) </label><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ding</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wen</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>P.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2023</year><volume>145</volume><fpage>4304</fpage><lpage>4310</lpage><pub-id pub-id-type="doi">10.1021/jacs.2c13740</pub-id><pub-id pub-id-type="pmid">36763965</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11w"><label> (w) </label><person-group person-group-type="author">
+<name><surname>Sarkar</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deswal</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chandra Das</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Biju</surname><given-names>A. T.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2024</year><volume>15</volume><fpage>16243</fpage><lpage>16249</lpage><pub-id pub-id-type="doi">10.1039/D4SC03893B</pub-id><pub-id pub-id-type="pmid">39296999</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit11x"><label> (x) </label><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ding</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>Y.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>J.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><source>Chem</source><year>2024</year><volume>10</volume><fpage>3699</fpage><lpage>3708</lpage><pub-id pub-id-type="doi">10.1016/j.chempr.2024.08.010</pub-id></element-citation><element-citation publication-type="journal" id="cit11y"><label> (y) </label><person-group person-group-type="author">
+<name><surname>Nicolai</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Waser</surname><given-names>J.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2024</year><volume>15</volume><fpage>10823</fpage><lpage>10829</lpage><pub-id pub-id-type="doi">10.1039/D4SC02767A</pub-id><pub-id pub-id-type="pmid">39027289</pub-id>
+</element-citation></ref><ref id="cit12"><element-citation publication-type="journal" id="cit12a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>J.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>W.-P.</given-names></name>
+</person-group><source>ACS Catal.</source><year>2024</year><volume>14</volume><fpage>17837</fpage><lpage>17849</lpage></element-citation><element-citation publication-type="journal" id="cit12b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xia</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>X.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>L.-N.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2025</year><volume>16</volume><fpage>1411</fpage><lpage>1416</lpage><pub-id pub-id-type="pmid">39713756</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit12c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Liao</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dong</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lv</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lei</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>D.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2025</year><volume>16</volume><fpage>4654</fpage><lpage>4660</lpage><pub-id pub-id-type="doi">10.1039/D4SC08280J</pub-id><pub-id pub-id-type="pmid">39968285</pub-id>
+</element-citation></ref><ref id="cit13"><note><p>For selected examples of asymmetric peripheral cyclization of BCBs, see: </p></note><element-citation publication-type="journal" id="cit13a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>de Robichon</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kratz</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Beyer</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zuber</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Merten</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bach</surname><given-names>T.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2023</year><volume>145</volume><fpage>24466</fpage><lpage>24470</lpage></element-citation><element-citation publication-type="journal" id="cit13b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Jeong</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kang</surname><given-names>H.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yoon</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shin</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hong</surname><given-names>S.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2024</year><volume>146</volume><fpage>27830</fpage><lpage>27842</lpage><pub-id pub-id-type="pmid">39348293</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit13c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Fu</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lv</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Z.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2024</year><volume>146</volume><fpage>8372</fpage><lpage>8380</lpage><pub-id pub-id-type="doi">10.1021/jacs.3c14077</pub-id><pub-id pub-id-type="pmid">38499472</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit13d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>W.-B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>H.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>T.-T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tao</surname><given-names>J.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>J.-J.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2024</year><volume>63</volume><fpage>e202406548</fpage><pub-id pub-id-type="doi">10.1002/anie.202406548</pub-id><pub-id pub-id-type="pmid">39218783</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit13e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>W.-B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>H.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>J.-J.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2024</year><volume>15</volume><fpage>8005</fpage><pub-id pub-id-type="doi">10.1038/s41467-024-52419-x</pub-id><pub-id pub-id-type="pmid">39266575</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit13f"><label> (f) </label><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2024</year><volume>146</volume><fpage>21069</fpage><lpage>21077</lpage><pub-id pub-id-type="doi">10.1021/jacs.4c06436</pub-id><pub-id pub-id-type="pmid">39011580</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit13g"><label> (g) </label><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.-G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>Z.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>Q.-L.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2024</year><volume>146</volume><fpage>27274</fpage><lpage>27281</lpage><pub-id pub-id-type="doi">10.1021/jacs.4c10123</pub-id><pub-id pub-id-type="pmid">39321390</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit13h"><label> (h) </label><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Z.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gu</surname><given-names>Q.-S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>M.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.-T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>J.-P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fu</surname><given-names>F.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Peng</surname><given-names>A.-T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>J.-S.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2024</year><volume>146</volume><fpage>34427</fpage><lpage>34441</lpage><pub-id pub-id-type="doi">10.1021/jacs.4c10968</pub-id><pub-id pub-id-type="pmid">39626122</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit13i"><label> (i) </label><person-group person-group-type="author">
+<name><surname>Plachinski</surname><given-names>E. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qian</surname><given-names>R. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Villanueva</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Poole</surname><given-names>D. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rosenthal</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yoon</surname><given-names>T. P.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2024</year><volume>146</volume><fpage>31400</fpage><lpage>31404</lpage><pub-id pub-id-type="pmid">39508316</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit13j"><label> (j) </label><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>W.-B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>J.-J.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2024</year><volume>15</volume><fpage>19488</fpage><lpage>19495</lpage><pub-id pub-id-type="pmid">39568897</pub-id>
+</element-citation></ref><ref id="cit14"><note><p>For selected examples of the difunctionalization of BCBs: </p></note><element-citation publication-type="journal" id="cit14a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Majhi</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dhungana</surname><given-names>R. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Renter&#x000ed;a-G&#x000f3;mez</surname><given-names>&#x000c1;.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sharique</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dong</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gutierrez</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Molander</surname><given-names>G. A.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2022</year><volume>144</volume><fpage>15871</fpage><lpage>15878</lpage><pub-id pub-id-type="doi">10.1021/jacs.2c07170</pub-id><pub-id pub-id-type="pmid">35984388</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit14b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Das</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pedada</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Singha</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hari</surname><given-names>D. P.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2024</year><volume>15</volume><fpage>3182</fpage><lpage>3191</lpage><pub-id pub-id-type="doi">10.1039/D3SC05700C</pub-id><pub-id pub-id-type="pmid">38425517</pub-id>
+</element-citation></ref><ref id="cit15"><note><p>For selected examples of the difunctionalization of cyclobutenes: </p></note><element-citation publication-type="journal" id="cit15a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Simlandy</surname><given-names>A. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lyu</surname><given-names>M.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Brown</surname><given-names>M. K.</given-names></name>
+</person-group><source>ACS Catal.</source><year>2021</year><volume>11</volume><fpage>12815</fpage><lpage>12820</lpage><pub-id pub-id-type="doi">10.1021/acscatal.1c03491</pub-id><pub-id pub-id-type="pmid">35464106</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit15b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>N&#x000f3;voa</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Trulli</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Parra</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tortosa</surname><given-names>M.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2021</year><volume>60</volume><fpage>11763</fpage><lpage>11768</lpage></element-citation><element-citation publication-type="journal" id="cit15c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>P.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2024</year><volume>146</volume><fpage>12691</fpage><lpage>12701</lpage><pub-id pub-id-type="doi">10.1021/jacs.4c02215</pub-id><pub-id pub-id-type="pmid">38676653</pub-id>
+</element-citation></ref><ref id="cit16"><element-citation publication-type="journal" id="cit16a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Silvi</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Aggarwal</surname><given-names>V. K.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2019</year><volume>141</volume><fpage>9511</fpage><lpage>9515</lpage><pub-id pub-id-type="pmid">31142107</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit16b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Fawcett</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Biberger</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Aggarwal</surname><given-names>V. K.</given-names></name>
+</person-group><source>Nat. Chem.</source><year>2019</year><volume>11</volume><fpage>117</fpage><lpage>122</lpage><pub-id pub-id-type="pmid">30532013</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit16c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Bennett</surname><given-names>S. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fawcett</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Denton</surname><given-names>E. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Biberger</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fasano</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Winter</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Aggarwal</surname><given-names>V. K.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2020</year><volume>142</volume><fpage>16766</fpage><lpage>16775</lpage><pub-id pub-id-type="doi">10.1021/jacs.0c07357</pub-id><pub-id pub-id-type="pmid">32885974</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit16d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>H.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Popescu</surname><given-names>M. V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z.-S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>de Lescure</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Noble</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Paton</surname><given-names>R. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Aggarwal</surname><given-names>V. K.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2023</year><volume>145</volume><fpage>16508</fpage><lpage>16516</lpage><pub-id pub-id-type="doi">10.1021/jacs.3c03248</pub-id><pub-id pub-id-type="pmid">37471704</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit16e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Noble</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Aggarwal</surname><given-names>V. K.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2021</year><volume>60</volume><fpage>212</fpage><lpage>216</lpage><pub-id pub-id-type="doi">10.1002/anie.202011739</pub-id><pub-id pub-id-type="pmid">32956541</pub-id>
+</element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Erchinger</surname><given-names>J. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lenz</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dutta</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Daniliuc</surname><given-names>C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Glorius</surname><given-names>F.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2023</year><volume>145</volume><fpage>23771</fpage><lpage>23780</lpage><pub-id pub-id-type="pmid">37852210</pub-id>
+</element-citation></ref><ref id="cit18"><element-citation publication-type="journal" id="cit18a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Gaoni</surname><given-names>Y.</given-names></name>
+</person-group><source>Tetrahedron Lett.</source><year>1982</year><volume>23</volume><fpage>5215</fpage><lpage>5218</lpage><pub-id pub-id-type="doi">10.1016/S0040-4039(00)85801-3</pub-id></element-citation><element-citation publication-type="journal" id="cit18b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Hoz</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Azran</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sella</surname><given-names>A.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>1996</year><volume>118</volume><fpage>5456</fpage><lpage>5461</lpage><pub-id pub-id-type="doi">10.1021/ja960370g</pub-id></element-citation><element-citation publication-type="journal" id="cit18c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Gaoni</surname><given-names>Y.</given-names></name>
+</person-group><source>Tetrahedron Lett.</source><year>1982</year><volume>23</volume><fpage>5219</fpage><lpage>5220</lpage></element-citation><element-citation publication-type="journal" id="cit18d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Gaoni</surname><given-names>Y.</given-names></name>
+</person-group><source>Tetrahedron Lett.</source><year>1988</year><volume>29</volume><fpage>1591</fpage><lpage>1594</lpage></element-citation><element-citation publication-type="journal" id="cit18e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Gaoni</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tomazic</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Potgieter</surname><given-names>E.</given-names></name>
+</person-group><source>J. Org. Chem.</source><year>1985</year><volume>50</volume><fpage>2943</fpage><lpage>2947</lpage></element-citation><element-citation publication-type="journal" id="cit18f"><label> (f) </label><person-group person-group-type="author">
+<name><surname>Gaoni</surname><given-names>Y.</given-names></name>
+</person-group><source>Tetrahedron</source><year>1989</year><volume>45</volume><fpage>2819</fpage><lpage>2840</lpage><pub-id pub-id-type="doi">10.1016/S0040-4020(01)80112-5</pub-id></element-citation><element-citation publication-type="journal" id="cit18g"><label> (g) </label><person-group person-group-type="author">
+<name><surname>Lopchuk</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fjelbye</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kawamata</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Malins</surname><given-names>L. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>C.-M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gianatassio</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Prieto</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bradow</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Brandt</surname><given-names>T. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Collins</surname><given-names>M. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Elleraas</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ewanicki</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Farrell</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fadeyi</surname><given-names>O. O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gallego</surname><given-names>G. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mousseau</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Oliver</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sach</surname><given-names>N. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Smith</surname><given-names>J. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Spangler</surname><given-names>J. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Baran</surname><given-names>P. S.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2017</year><volume>139</volume><fpage>3209</fpage><lpage>3226</lpage><pub-id pub-id-type="doi">10.1021/jacs.6b13229</pub-id><pub-id pub-id-type="pmid">28140573</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit18h"><label> (h) </label><person-group person-group-type="author">
+<name><surname>Milligan</surname><given-names>J. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Busacca</surname><given-names>C. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Senanayake</surname><given-names>C. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wipf</surname><given-names>P.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2016</year><volume>18</volume><fpage>4300</fpage><lpage>4303</lpage><pub-id pub-id-type="doi">10.1021/acs.orglett.6b02051</pub-id><pub-id pub-id-type="pmid">27518583</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit18i"><label> (i) </label><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhuang</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><source>Bioconjugate Chem.</source><year>2018</year><volume>29</volume><fpage>467</fpage><lpage>472</lpage><pub-id pub-id-type="doi">10.1021/acs.bioconjchem.7b00790</pub-id><pub-id pub-id-type="pmid">29376327</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit18j"><label> (j) </label><person-group person-group-type="author">
+<name><surname>Schwartz</surname><given-names>B. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>M. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Attard</surname><given-names>R. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gardiner</surname><given-names>M. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Malins</surname><given-names>L. R.</given-names></name>
+</person-group><source>Chem. Eur. J.</source><year>2020</year><volume>26</volume><fpage>2808</fpage><lpage>2812</lpage><pub-id pub-id-type="doi">10.1002/chem.201905539</pub-id><pub-id pub-id-type="pmid">31823414</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit18k"><label> (k) </label><person-group person-group-type="author">
+<name><surname>Tokunaga</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sato</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kuwata</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Miura</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fuchida</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Matsunaga</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Koyanagi</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ohdo</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shindo</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ojida</surname><given-names>A.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2020</year><volume>142</volume><fpage>18522</fpage><lpage>18531</lpage><pub-id pub-id-type="doi">10.1021/jacs.0c07490</pub-id><pub-id pub-id-type="pmid">33047956</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit18l"><label> (l) </label><person-group person-group-type="author">
+<name><surname>Kaur</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dovhalyuk</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Driutti</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Di Martino</surname><given-names>M. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vujasinovic</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>L&#x000f6;hr</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sellin</surname><given-names>M. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Globisch</surname><given-names>D.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2023</year><volume>14</volume><fpage>5291</fpage><lpage>5301</lpage><pub-id pub-id-type="doi">10.1039/D3SC00224A</pub-id><pub-id pub-id-type="pmid">37234898</pub-id>
+</element-citation></ref><ref id="cit19"><element-citation publication-type="journal" id="cit19a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Pratt</surname><given-names>C. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Aycock</surname><given-names>R. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>King</surname><given-names>M. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jui</surname><given-names>N. T.</given-names></name>
+</person-group><source>Synlett</source><year>2020</year><volume>31</volume><fpage>51</fpage><lpage>54</lpage><pub-id pub-id-type="doi">10.1055/s-0039-1690197</pub-id><pub-id pub-id-type="pmid">32103861</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit19b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xia</surname><given-names>W.</given-names></name>
+</person-group><source>Adv. Synth. Catal.</source><year>2022</year><volume>364</volume><fpage>2140</fpage><lpage>2145</lpage><pub-id pub-id-type="doi">10.1002/adsc.202200281</pub-id></element-citation><element-citation publication-type="journal" id="cit19c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>P.-F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>D.-S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ou</surname><given-names>W.-T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>H.-P.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2023</year><volume>25</volume><fpage>6184</fpage><lpage>6188</lpage><pub-id pub-id-type="doi">10.1021/acs.orglett.3c02332</pub-id><pub-id pub-id-type="pmid">37559181</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit19d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Keess</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Molander</surname><given-names>G. A.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2023</year><volume>145</volume><fpage>5363</fpage><lpage>5369</lpage><pub-id pub-id-type="doi">10.1021/jacs.2c13298</pub-id><pub-id pub-id-type="pmid">36802571</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit19e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>T.-T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>J.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>R.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>W.-B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>J.-J.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2023</year><volume>14</volume><fpage>13060</fpage><lpage>13066</lpage><pub-id pub-id-type="doi">10.1039/D3SC04457B</pub-id><pub-id pub-id-type="pmid">38023515</pub-id>
+</element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chang</surname><given-names>X. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>F. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>S. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>X. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y. B.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2023</year><volume>14</volume><fpage>3876</fpage><pub-id pub-id-type="doi">10.1038/s41467-023-39633-9</pub-id><pub-id pub-id-type="pmid">37391418</pub-id>
+</element-citation></ref><ref id="cit21"><element-citation publication-type="journal" id="cit21a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.-j.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gloer</surname><given-names>J. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wicklow</surname><given-names>D. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dowd</surname><given-names>P. F.</given-names></name>
+</person-group><source>J. Nat. Prod.</source><year>1998</year><volume>61</volume><fpage>804</fpage><lpage>807</lpage><pub-id pub-id-type="doi">10.1021/np9704056</pub-id><pub-id pub-id-type="pmid">9644070</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit21b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>S.-M.</given-names></name>
+</person-group><source>Nat. Prod. Rep.</source><year>2010</year><volume>27</volume><fpage>57</fpage><lpage>78</lpage><pub-id pub-id-type="doi">10.1039/B909987P</pub-id><pub-id pub-id-type="pmid">20024094</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit21c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Gu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>F.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C.-P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>L.-T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>M.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kong</surname><given-names>L.-Y.</given-names></name>
+</person-group><source>Phytochem. Lett.</source><year>2021</year><volume>42</volume><fpage>77</fpage><lpage>81</lpage><pub-id pub-id-type="doi">10.1016/j.phytol.2021.02.007</pub-id></element-citation><element-citation publication-type="journal" id="cit21d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qian</surname><given-names>Z.-J.</given-names></name>
+</person-group><source>Int. Immunopharmacol.</source><year>2022</year><volume>109</volume><fpage>108931</fpage><pub-id pub-id-type="doi">10.1016/j.intimp.2022.108931</pub-id><pub-id pub-id-type="pmid">35704971</pub-id>
+</element-citation></ref><ref id="cit22"><note><p>For
+selected reviews on &#x003b1;-silylamines as radical precursors: </p></note><element-citation publication-type="journal" id="cit22a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Nakajima</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Miyake</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nishibayashi</surname><given-names>Y.</given-names></name>
+</person-group><source>Acc. Chem. Res.</source><year>2016</year><volume>49</volume><fpage>1946</fpage><lpage>1956</lpage><pub-id pub-id-type="doi">10.1021/acs.accounts.6b00251</pub-id><pub-id pub-id-type="pmid">27505299</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit22b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Gant Kanegusuku</surname><given-names>A. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Roizen</surname><given-names>J. L.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2021</year><volume>60</volume><fpage>21116</fpage><lpage>21149</lpage><pub-id pub-id-type="doi">10.1002/anie.202016666</pub-id><pub-id pub-id-type="pmid">33629454</pub-id>
+</element-citation></ref><ref id="cit23"><note><p>For selected examples of &#x003b1;-silylamines as radical precursors: </p></note><element-citation publication-type="journal" id="cit23a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Ruiz Espelt</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>McPherson</surname><given-names>I. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wiensch</surname><given-names>E. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yoon</surname><given-names>T. P.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2015</year><volume>137</volume><fpage>2452</fpage><lpage>2455</lpage><pub-id pub-id-type="pmid">25668687</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit23b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Kleinmans</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Will</surname><given-names>L. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Schwarz</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Glorius</surname><given-names>F.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2021</year><volume>12</volume><fpage>2816</fpage><lpage>2822</lpage><pub-id pub-id-type="doi">10.1039/D0SC06385A</pub-id><pub-id pub-id-type="pmid">34164045</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit23c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>W.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2022</year><volume>144</volume><fpage>17776</fpage><lpage>17782</lpage><pub-id pub-id-type="doi">10.1021/jacs.2c08039</pub-id><pub-id pub-id-type="pmid">36136777</pub-id>
+</element-citation></ref></ref-list></back></article>

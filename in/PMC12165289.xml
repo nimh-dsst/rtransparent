@@ -1,0 +1,344 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Chem Sci</journal-id><journal-id journal-id-type="iso-abbrev">Chem Sci</journal-id><journal-id journal-id-type="publisher-id">SC</journal-id><journal-id journal-id-type="coden">CSHCBM</journal-id><journal-title-group><journal-title>Chemical Science</journal-title></journal-title-group><issn pub-type="ppub">2041-6520</issn><issn pub-type="epub">2041-6539</issn><publisher><publisher-name>The Royal Society of Chemistry</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40521111</article-id><article-id pub-id-type="pmc">PMC12165289</article-id>
+<article-id pub-id-type="publisher-id">d5sc02952j</article-id><article-id pub-id-type="doi">10.1039/d5sc02952j</article-id><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>Concise total synthesis of the cage-like sesquiterpenoid (+)-daphnepapytone A<xref rid="fn1" ref-type="fn">&#x02020;</xref></article-title><fn-group><fn id="fn1"><label>&#x02020;</label><p>Electronic supplementary information (ESI) available: Experimental procedures, <sup>1</sup>H NMR, <sup>13</sup>C NMR, and IR spectra, supplementary crystallographic data. CCDC <uri>2432244</uri> &#x02013;<uri>2432246</uri>. For ESI and crystallographic data in CIF or other electronic format see DOI: <uri xlink:href="https://doi.org/10.1039/d5sc02952j">https://doi.org/10.1039/d5sc02952j</uri></p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5032-0454</contrib-id><name><surname>Gonzalez</surname><given-names>Elijah C.</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0001-4181-1876</contrib-id><name><surname>de la Torre Roehl</surname><given-names>Isabel M.</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9837-1528</contrib-id><name><surname>Stoltz</surname><given-names>Brian M.</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><aff id="affa">
+<label>a</label>
+<institution>Warren and Katharine Schlinger Laboratory for Chemistry and Chemical Engineering, Division of Chemistry and Chemical Engineering, California Institute of Technology</institution>
+<city>Pasadena</city>
+<state>CA</state>
+<postal-code>91125</postal-code>
+<country>USA</country>
+<email>stoltz@caltech.edu</email>
+</aff></contrib-group><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2025-06-04"><day>4</day><month>6</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2025-06-25"><day>25</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="pmc-release"><day>4</day><month>6</month><year>2025</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>16</volume><issue>25</issue><fpage>11381</fpage><lpage>11385</lpage><history><date date-type="received" iso-8601-date="2025-04-22"><day>22</day><month>4</month><year>2025</year></date><date date-type="accepted" iso-8601-date="2025-06-04"><day>4</day><month>6</month><year>2025</year></date></history><permissions><copyright-statement>This journal is &#x000a9; The Royal Society of Chemistry</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2025-06-04">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This article is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-Non Commercial 3.0 Unported Licence</ext-link>. You can use material from this article in other publications without requesting further permissions from the RSC, provided that the correct acknowledgement is given and it is not used for commercial purposes.</license-p></license></permissions><abstract><p>We report a non-biomimetic total synthesis of (+)-daphnepapytone A, an unprecedented member of the guaiane-derived sesquiterpenoids that displays moderate inhibitory activity against &#x003b1;-glycosidase (IC<sub>50</sub> = 159 &#x000b1; 2.1 &#x003bc;M) and possesses a highly strained bridging cyclobutane motif. Our <italic toggle="yes">de novo</italic> approach provided expedient access to the tetracyclic core of (+)-daphnepapytone A through an intramolecular allenyl thermal [2 + 2] cycloaddition and a Pauson&#x02013;Khand reaction with a labile cyclobutane. Finally, a late-stage oxidation/reduction sequence delivered (+)-daphnepapytone A with striking chemoselectivity and excellent diastereoselectivity.</p></abstract><abstract abstract-type="toc"><p>A non-biomimetic total synthesis of (+)-daphnepapytone A is disclosed. The tetracyclic core was rapidly accessed through a thermal [2 + 2] cycloaddition and a subsequent intramolecular Pauson&#x02013;Khand reaction with a cage-like substrate.<graphic xlink:href="d5sc02952j-ga.jpg" id="ga" position="float"/></p></abstract><funding-group><award-group><funding-source>
+<institution-wrap><institution>National Institute of General Medical Sciences</institution><institution-id institution-id-type="doi">10.13039/100000057</institution-id></institution-wrap>
+</funding-source><award-id>R35GM145239</award-id></award-group></funding-group><counts><page-count count="5"/></counts><custom-meta-group><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Introduction</title><p>The guaiane-derived sesquiterpenoids (GDSs) are a diverse and expansive class of natural products with potent bioactivities such as anti-cancer activity,<sup><xref rid="cit1" ref-type="bibr">1</xref></sup> neuroprotective effects,<sup><xref rid="cit2" ref-type="bibr">2</xref></sup> and anti-microbial activity.<sup><xref rid="cit3" ref-type="bibr">3</xref></sup> Many GDSs possess a planar 5,7-fused ring system, while other congeners in this family exhibit more complex tricarbocyclic skeletons arising from the linkage of a single C&#x02013;C bond from the guaiane core &#x02013; such as the patchoulanes and aromadendranes (<xref rid="fig1" ref-type="fig">Fig. 1A</xref>). However, only a few GDSs have been isolated to date which contain cage-like polycarbocyclic bridging ring systems resulting from the linkage of multiple C&#x02013;C bonds in the guaiane core. These include molecules such as artatrovirenols A and B,<sup><xref rid="cit4" ref-type="bibr">4</xref></sup> and daphnenoid A,<sup><xref rid="cit5" ref-type="bibr">5</xref></sup> which all possess identical carbon skeletons resulting from additional C&#x02013;C bond linkages at C1/C11 and C4/12 of the guaiane core (<xref rid="fig1" ref-type="fig">Fig. 1A</xref>). Because of their unique cage-like architecture and topological complexity, these natural products have captured the attention of synthetic chemists, and elegant synthetic approaches to these members of the GDS family have recently been disclosed.<sup><xref rid="cit6" ref-type="bibr">6</xref></sup></p><fig position="float" id="fig1"><label>Fig. 1</label><caption><title>(A) Representative guaiane-derived sesquiterpenoids with varying carbon skeletons. (B) Key information regarding (+)-daphnepapytone A. (C) Retrosynthetic strategy.</title></caption><graphic xlink:href="d5sc02952j-f1" position="float"/></fig><p>Daphnepapytone A (1), recently isolated in 2022 by Zhao, Dai and coworkers,<sup><xref rid="cit7" ref-type="bibr">7</xref></sup> is an unprecedented member of the guaiane-derived sesquiterpenoids that possesses a novel tetracarbocyclic skeleton formed through C&#x02013;C bond linkage at C1/C12 and C10/C11 of the guaiane core. This gives rise to a highly congested and unusual cyclobutane motif that is structurally distinct from any GDS monomer isolated to date. From a synthetic perspective, the strained cage-like topology, dense stereochemical complexity, and potentially labile cyclobutane moiety all pose challenges. In addition, daphnepapytone A (1) displays moderate inhibitory activity against &#x003b1;-glycosidase (IC<sub>50</sub> = 159 &#x000b1; 2.1 &#x003bc;M), suggesting its potential as a lead compound for the treatment of diabetes. Because of its promising bioactivity and unprecedented skeleton among the guaiane-derived sesquiterpenoids, we were motivated to pursue a total synthesis of daphnepapytone A (1).</p></sec><sec><title>Results and discussion</title><p>Biosynthetically, daphnepapytone A (1) is proposed to arise from the guaiane-type sesquiterpenoid oleodaphnone (2)<sup><xref rid="cit8" ref-type="bibr">8</xref></sup><italic toggle="yes">via</italic> an allylic oxidation and [2 + 2] cycloaddition sequence (<xref rid="fig1" ref-type="fig">Fig. 1C</xref>), where the exact order of these events remains unknown. In our initial synthetic efforts toward daphnepapytone A (1) we had limited success with this strategy, deeming the late-stage [2 + 2] cycloaddition to be a difficult disconnection. During the preparation of our manuscript, an elegant synthesis of 1 was preliminarily disclosed by Nay and coworkers wherein they successfully achieved this biomimetic approach.<sup><xref rid="cit9" ref-type="bibr">9</xref></sup> Because this strategy had proved challenging in our hands, we had devised a <italic toggle="yes">de novo</italic> approach to daphnepapytone A (1), wherein we proposed that daphnepapytone A (1) could be traced back to 6-<italic toggle="yes">des</italic>-hydroxy daphnepapytone A (3) through a late-stage C&#x02013;H oxidation. We hypothesized that the cage-like tetracyclic core of 1 could be assembled using a Pauson&#x02013;Khand reaction (PKR)<sup><xref rid="cit10" ref-type="bibr">10</xref></sup> on cyclobutane-containing enyne 4, which could be accessed through a fragmentation and allenylation/[2 + 2] cycloaddition sequence from (&#x02212;)-carvone (5), allowing us to repurpose intermediates from our initial biomimetic synthetic approach to daphnepapytone A (1) (<xref rid="sch1" ref-type="fig">Scheme 1</xref>).</p><fig position="float" id="sch1" fig-type="scheme"><label>Scheme 1</label><caption><title>Synthesis of the tetracyclic core of (+)-daphnepapytone A (1).</title></caption><graphic xlink:href="d5sc02952j-s1" position="float"/></fig><p>Thus, our synthetic investigations began with the epoxidation and subsequent Eschenmoser&#x02013;Tanabe fragmentation of (&#x02212;)-carvone (5).<sup><xref rid="cit11" ref-type="bibr">11</xref></sup> The resultant ynal 7 proved challenging to purify in our hands, so we chose to advance the crude reaction mixture through subsequent allenylation by subjecting the incipient ynal 7 to a Barbier-type reaction using 1-bromo-2-butyne and indium metal.<sup><xref rid="cit12" ref-type="bibr">12</xref></sup> This delivered alcohol 8 as a separable mixture of diastereomers in a modest yield over two steps. Oxidation of alcohol 8 with Dess&#x02013;Martin periodinane (DMP) smoothly delivered allenylic ketone 9 in 65% yield. At this point, the stage was set to construct cyclobutane 4 through a [2 + 2] cycloaddition. Disappointingly, allenylic ketone 9 was unreactive under various photocycloaddition conditions, however turning to the literature, we were delighted to find precedent for the intramolecular thermal [2 + 2] cycloaddition of activated allenes with olefins.<sup><xref rid="cit13" ref-type="bibr">13</xref></sup> Gratifyingly, heating allenylic ketone 9 to 140 &#x000b0;C in xylenes afforded the desired PKR precursor 4 and its diastereomer 13 in a combined 66% yield (1&#x02009;:&#x02009;1.6 dr), and we were able to confirm the absolute stereochemistry of the major diastereomer 11 through X-ray crystallography.<sup><xref rid="cit14" ref-type="bibr">14</xref></sup> To our surprise, we observed exclusive cycloaddition across the proximal allene double bond, despite the possibility of thermal [2 + 2] cycloaddition across the distal allene double bond.<sup><xref rid="cit13a" ref-type="bibr">13<italic toggle="yes">a</italic>&#x02013;<italic toggle="yes">c</italic></xref></sup> Based on previous studies of intramolecular thermal allenyl [2 + 2] cycloadditions, we hypothesize that this transformation proceeds stepwise beginning with homolysis of the allene double bond to generate a vinyl radical and resonance-stabilized allyl radical. The more nucleophilic vinyl radical then undergoes 7-<italic toggle="yes">endo-trig</italic> cyclization with the olefin cycloaddition partner to generate intermediate 10 possessing a tertiary radical that furnishes bicycle 4/11 upon radical recombination. Given that the alternative 6-<italic toggle="yes">exo-trig</italic> cyclization would forge an unstable primary radical, we hypothesize that the substitution pattern of the olefin cycloaddition partner is responsible for the periselectivity of this transformation.</p><p>With the requisite cyclobutane now installed at an early stage in our synthetic sequence, we focused our attention on the key Pauson&#x02013;Khand reaction of bicycle 4. Initial treatment of 4 with stoichiometric Co<sub>2</sub>(CO)<sub>8</sub> at 70 &#x000b0;C resulted in isolation of the cobalt-complexed alkyne species and no conversion to the desired carbonylated PKR product. To our surprise, heating cobalt-complexed 4 in toluene (0.05 M) at reflux delivered an unexpected rearranged product 12 and only trace amounts of the desired PKR product 3. This rearranged product likely results from the desired PKR product through enolization and subsequent [1,5] sigmatropic rearrangement. This hypothesis was later supported by subjecting 3 to DBU, which resulted in quantitative rearrangement to 12 (<xref rid="sch2" ref-type="fig">Scheme 2</xref>). After extensive optimization (Table SI-1<xref rid="fn1" ref-type="fn">&#x02020;</xref>), we identified that the concentration of the PKR was crucial in suppressing the formation of rearranged product 12.<sup><xref rid="cit15" ref-type="bibr">15</xref></sup> We hypothesize that any unreacted, cobalt-complexed starting material can act as a Lewis acid to promote the rearrangement of the desired PKR product 3. This hypothesis was supported by the fact that despite the similar overall yields of the PKR across various reaction concentrations, the best product distribution arises when Co<sub>2</sub>(CO)<sub>8</sub> is added portion-wise to the reaction mixture. That is, this portion-wise addition ensures that the concentration of Lewis acidic cobalt-complexed 4 is kept exceedingly low throughout the course of the reaction, and a carbon monoxide atmosphere likely inhibits the formation of excess coordinatively unsaturated cobalt species. Thus, conducting the Pauson&#x02013;Khand reaction at 0.01 M with portion-wise addition of Co<sub>2</sub>(CO)<sub>8</sub> at 110 &#x000b0;C in toluene under a CO atmosphere afforded a 1&#x02009;:&#x02009;3.3 ratio of rearranged product 12 and desired product 3 in a combined yield of 40%.</p><fig position="float" id="sch2" fig-type="scheme"><label>Scheme 2</label><caption><title>Unexpected late-stage rearrangements and completion of the total synthesis of (+)-daphnepapytone A (1).</title></caption><graphic xlink:href="d5sc02952j-s2" position="float"/></fig><p>At this stage, construction of the carbon skeleton of daphnepapytone A (1) was complete, and the last synthetic transformation necessary was C6 hydroxylation. We initially anticipated that the stereochemical bias of substrate 3 might lead to a mixture of hydroxylated diastereomers at C6 resulting from a steric mismatch between the convex (&#x003b2;-) face of the bridging ring system and the nearby cyclobutane methylene. Our preliminary investigations into hydroxylation conditions using anionic aerobic oxidation conditions<sup><xref rid="cit16" ref-type="bibr">16</xref></sup> quickly revealed the propensity of 6-<italic toggle="yes">des</italic>-hydroxy daphnepapytone A (3) to rearrange in the presence of base to enone 12. Disappointingly, this rearrangement pathway ruled out many canonical conditions for the &#x003b3;-hydroxylation of enones &#x02013; including vinylogous Rubottom/Davis oxidations &#x02013; as we were unable to generate extended enolate products without concomitant rearrangement under basic conditions. Attempting to access other vinylogous oxidation precursors such as an alkoxy diene using Lewis acidic conditions simply resulted in recovered starting material. With these observations in hand, we looked towards Riley oxidation conditions, and we found that treatment of 3 with selenium dioxide and TBHP led to successful C6 hydroxylation, however we observed exclusive formation of the undesired diastereomer 6-<italic toggle="yes">epi</italic>-daphnepapytone A (15) with no detected formation of daphnepapytone A (1). Similarly, employing recently developed enone-directed hydroxylation conditions<sup><xref rid="cit17" ref-type="bibr">17</xref></sup> resulted in an identical stereochemical outcome albeit in higher yield (35% over two cycles).</p><p>Ultimately, we recognized that the neighboring cyclobutane had little effect on overturning the stereochemical bias for the convex (&#x003b2;-) face of the system. Correspondingly, we turned our attention toward identifying reaction conditions that could invert the C6 stereochemistry of alcohol 15. In our initial attempts to invert 15, we were surprised to find that the mesylation and subsequent attempted hydrolysis<sup><xref rid="cit18" ref-type="bibr">18</xref></sup> of 15 resulted in 3-<italic toggle="yes">exo-tet</italic> cyclization to form a highly strained cyclopropane 18 in good yield (61%, two steps).<sup><xref rid="cit19" ref-type="bibr">19</xref></sup> We reasoned that this cyclization may arise from the unusually large overlap between the C6 &#x003c3;-anti-bonding orbital of mesylate 17 with the nearby C8 enolate &#x003c0;-bond as a consequence of the constrained geometry of this system. Additionally, in our initial attempts toward allylic oxidation of 3, we found that an allylic bromination/hydrolysis sequence afforded a complex reaction profile which included the formation of 18 in 5% yield, likely proceeding through an analogous pathway (<xref rid="sch2" ref-type="fig">Scheme 2</xref>). Later attempts to subject 6-<italic toggle="yes">epi</italic>-daphnepapytone A (15) to Mitsunobu inversion conditions yielded an unexpected benzoic ester with retention of configuration at C6, which we hypothesize results from either direct esterification or from the transient formation of cyclopropane 18 followed by benzoate addition in an SN2&#x02032;-type fashion, which is supported by the presence of trace 18 in the reaction profile. In addition, our attempts to employ recently developed conditions for radical-mediated inversion of axially disposed hydroxyl groups<sup><xref rid="cit20" ref-type="bibr">20</xref></sup> also proved unsuccessful in our hands.</p><p>With the challenge of undesired substrate stereochemical bias and the unsuccessful attempts at inversion of 6-<italic toggle="yes">epi</italic>-daphnepapytone A (15), we wondered whether we might be able to leverage the inherent bias of the system in an over-oxidation/reduction sequence. To this end, we subjected 3 to allylic oxidation conditions using Mn(OAc)<sub>3</sub> and TBHP,<sup><xref rid="cit21" ref-type="bibr">21</xref></sup> which delivered a distribution of products which included the C6 peroxide 14,<sup><xref rid="cit22" ref-type="bibr">22</xref></sup> 6-<italic toggle="yes">epi</italic>-daphnepapytone A (15),<sup><xref rid="cit23" ref-type="bibr">23</xref></sup> and 6-<italic toggle="yes">oxo</italic>-daphnepapytone A (16). With 6-<italic toggle="yes">oxo</italic>-daphnepapytone A (16) in hand, we attempted a final late-stage Luche reduction. Despite the presence of three unprotected ketones in our system, we were delighted to successfully isolate (+)-daphnepapytone A (1) in a satisfactory yield (43%).<sup><xref rid="cit24" ref-type="bibr">24</xref></sup> Putatively, we reason this selectivity may arise from a cerium-activated hydrogen bonding network between the C6 and C9 ketones within the <italic toggle="yes">endo</italic> (&#x003b1;-) face of this system.</p></sec><sec><title>Conclusions</title><p>We have completed a non-biomimetic total synthesis of (+)-daphnepapytone A (1), an unprecedented member of the guaiane-derived sesquiterpenoids, in eight steps starting from commercially available (&#x02212;)-carvone. In constructing this strained, cage-like natural product we encountered unusual rearrangements, such as the [1,5] sigmatropic rearrangement of 6-<italic toggle="yes">des</italic>-hydroxy daphnepapytone A (3), which afforded enone 12. We also encountered the unexpected ring closure of 6-<italic toggle="yes">epi</italic>-daphnepapytone A (15) to the cyclopropane containing compound 18 during attempts at inversion through hydrolysis. These unusual and facile transformations may hint at the existence of related, undiscovered natural products which arise from analogous downstream biological transformations.</p></sec><sec><title>Author contributions</title><p>E. C. G. and I. M. T. R. conceived of and performed experiments. B. M. S. supported and supervised the research. E. C. G. wrote the original draft of the manuscript, which was edited by all authors.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>There are no conflicts to declare.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="SC-016-D5SC02952J-s001" position="float" content-type="local-data"><label>SC-016-D5SC02952J-s001</label><media xlink:href="SC-016-D5SC02952J-s001.pdf" id="d67e395" position="anchor"/></supplementary-material><supplementary-material id="SC-016-D5SC02952J-s002" position="float" content-type="local-data"><label>SC-016-D5SC02952J-s002</label><media xlink:href="SC-016-D5SC02952J-s002.cif" id="d67e398" position="anchor"/></supplementary-material></sec></body><back><ack><p>The authors gratefully acknowledge Caltech, the NIH-NIGMS (R35GM145239), and the Heritage Medical Research Investigators Program for financial support of our research program. We thank Dr David VanderVelde (Caltech) for NMR expertise and maintenance; Dr Mona Shagholi (Caltech) for mass spectrometry assistance; Dr Michael Takase (Caltech) for assistance with X-ray crystallography; and Dr Scott C. Virgil (Caltech) for instrumentation and HPLC assistance. Additional thanks to Ben Gross, Hao Yu, Elliot Hicks, and Samir Rezgui, Veronica Hubble, and Melissa Ramirez for many helpful discussions.</p></ack><sec sec-type="data-availability"><title>Data availability</title><p>The data supporting this article have been included as part of the ESI.<xref rid="fn1" ref-type="fn">&#x02020;</xref></p></sec><ref-list><title>Notes and references</title><ref id="cit1"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shao</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>Z.</given-names></name>
+</person-group><source>Sci. Rep.</source><year>2023</year><volume>13</volume><fpage>1384</fpage><pub-id pub-id-type="doi">10.1038/s41598-022-26767-x</pub-id><pub-id pub-id-type="pmid">36697441</pub-id>
+</element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ren</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>W. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>S. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>F. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Q. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>G. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>X. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>S. J.</given-names></name>
+</person-group><source>J. Nat. Prod.</source><year>2019</year><volume>82</volume><fpage>1510</fpage><lpage>1517</lpage><pub-id pub-id-type="doi">10.1021/acs.jnatprod.8b01049</pub-id><pub-id pub-id-type="pmid">31150241</pub-id>
+</element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hao</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><source>Nat. Prod. Res.</source><year>2008</year><volume>22</volume><fpage>569</fpage><lpage>575</lpage><pub-id pub-id-type="doi">10.1080/14786410701592745</pub-id><pub-id pub-id-type="pmid">18569693</pub-id>
+</element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>L. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Geng</surname><given-names>C. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>T. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>Y. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>X. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J. J.</given-names></name>
+</person-group><source>J. Org. Chem.</source><year>2020</year><volume>85</volume><fpage>13466</fpage><lpage>13471</lpage><pub-id pub-id-type="doi">10.1021/acs.joc.0c01491</pub-id><pub-id pub-id-type="pmid">33089682</pub-id>
+</element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qin</surname><given-names>S. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xin</surname><given-names>B. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>G. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>X. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>S. J.</given-names></name>
+</person-group><source>J. Org. Chem.</source><year>2021</year><volume>86</volume><fpage>15298</fpage><lpage>15306</lpage><pub-id pub-id-type="doi">10.1021/acs.joc.1c01880</pub-id><pub-id pub-id-type="pmid">34612634</pub-id>
+</element-citation></ref><ref id="cit6"><note><p>For recent approaches to the synthesis of related cage-like guaiane-derived sesquiterpenoids, see: </p></note><element-citation publication-type="journal" id="cit6a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Lavernhe</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Domke</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>J.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2023</year><volume>145</volume><fpage>24408</fpage><lpage>24415</lpage><pub-id pub-id-type="doi">10.1021/jacs.3c09683</pub-id><pub-id pub-id-type="pmid">37874878</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit6b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huo</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>P. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>She</surname><given-names>X.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2025</year><volume>16</volume><fpage>322</fpage><pub-id pub-id-type="doi">10.1038/s41467-024-55560-9</pub-id><pub-id pub-id-type="pmid">39747073</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit6c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Zong</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Christensen</surname><given-names>K. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Robertson</surname><given-names>J.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2024</year><volume>26</volume><fpage>1556</fpage><lpage>1560</lpage><pub-id pub-id-type="doi">10.1021/acs.orglett.3c04199</pub-id><pub-id pub-id-type="pmid">38373293</pub-id>
+</element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>S. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>J. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>C. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>M&#x000e1;ndi</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kurt&#x000e1;n</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dai</surname><given-names>H. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Y. X.</given-names></name>
+</person-group><source>J. Nat. Prod.</source><year>2022</year><volume>85</volume><fpage>3</fpage><lpage>14</lpage><pub-id pub-id-type="doi">10.1021/acs.jnatprod.0c01394</pub-id><pub-id pub-id-type="pmid">34935371</pub-id>
+</element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Taninaka</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Takaishi</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Honda</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Imakura</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sezik</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yesilada</surname><given-names>E.</given-names></name>
+</person-group><source>Phytochemistry</source><year>1999</year><volume>52</volume><fpage>1525</fpage><lpage>1529</lpage><pub-id pub-id-type="doi">10.1016/S0031-9422(99)00305-2</pub-id></element-citation></ref><ref id="cit9"><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<name><surname>Pereira</surname><given-names>J.</given-names></name>
+</person-group>, <person-group person-group-type="author"><name><surname>Casaretto</surname><given-names>N.</given-names></name></person-group>, <person-group person-group-type="author"><name><surname>Frison</surname><given-names>G.</given-names></name></person-group> and <person-group person-group-type="author"><name><surname>Nay</surname><given-names>B.</given-names></name></person-group>, <italic toggle="yes">ChemRxiv</italic>, <year>2025</year>, preprint, <pub-id pub-id-type="doi">10.26434/chemrxiv-2025-0gds5</pub-id></mixed-citation></ref><ref id="cit10"><note><p>Select examples of the Pauson&#x02013;Khand reaction in the syntheses of cage-like or angular synthetic targets: </p></note><element-citation publication-type="journal" id="cit10a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>E. C. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nevels</surname><given-names>L. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Winkler</surname><given-names>J. D.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2005</year><volume>7</volume><fpage>1489</fpage><lpage>1491</lpage><pub-id pub-id-type="doi">10.1021/ol050103s</pub-id><pub-id pub-id-type="pmid">15816734</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit10b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Qu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Z.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2020</year><volume>142</volume><fpage>6511</fpage><lpage>6515</lpage><pub-id pub-id-type="doi">10.1021/jacs.0c02143</pub-id><pub-id pub-id-type="pmid">32203659</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit10c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Chaung</surname><given-names>K. V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Reisman</surname><given-names>S. E.</given-names></name>
+</person-group><source>Science</source><year>2016</year><volume>353</volume><fpage>912</fpage><lpage>915</lpage><pub-id pub-id-type="doi">10.1126/science.aag1028</pub-id><pub-id pub-id-type="pmid">27563092</pub-id>
+</element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Meng</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>F&#x000fc;rstner</surname><given-names>A.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2019</year><volume>141</volume><fpage>805</fpage><lpage>809</lpage><pub-id pub-id-type="doi">10.1021/jacs.8b12185</pub-id><pub-id pub-id-type="pmid">30572706</pub-id>
+</element-citation></ref><ref id="cit12"><element-citation publication-type="journal" id="cit12a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Isaac</surname><given-names>M. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chan</surname><given-names>T. H.</given-names></name>
+</person-group><source>J. Chem. Soc., Chem. Commun.</source><year>1995</year><fpage>1003</fpage><lpage>1004</lpage><pub-id pub-id-type="doi">10.1039/C39950001003</pub-id></element-citation><element-citation publication-type="journal" id="cit12b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Alcaide</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Almendros</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rodr&#x000ed;guez-Acebes</surname><given-names>R.</given-names></name>
+</person-group><source>J. Org. Chem.</source><year>2005</year><volume>70</volume><fpage>3198</fpage><lpage>3204</lpage><pub-id pub-id-type="doi">10.1021/jo050130w</pub-id><pub-id pub-id-type="pmid">15822982</pub-id>
+</element-citation></ref><ref id="cit13"><element-citation publication-type="journal" id="cit13a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Meske</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Murphree</surname><given-names>S. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Watterson</surname><given-names>S. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ni</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Padwa</surname><given-names>A.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>1995</year><volume>117</volume><fpage>7071</fpage><lpage>7080</lpage><pub-id pub-id-type="doi">10.1021/ja00132a005</pub-id></element-citation><element-citation publication-type="journal" id="cit13b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Filipkowski</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Meske</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Watterson</surname><given-names>S. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ni</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Padwa</surname><given-names>A.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>1993</year><volume>115</volume><fpage>3776</fpage><lpage>3777</lpage><pub-id pub-id-type="doi">10.1021/ja00062a054</pub-id></element-citation><element-citation publication-type="journal" id="cit13c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Yoshida</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hidaka</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nawata</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rudzi&#x00144;ski</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>&#x0014c;sawa</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kanematsu</surname><given-names>K.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>1988</year><volume>110</volume><fpage>1232</fpage><lpage>1238</lpage><pub-id pub-id-type="doi">10.1021/ja00212a036</pub-id></element-citation><element-citation publication-type="journal" id="cit13d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Hansen</surname><given-names>T. V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Skatteb&#x000f8;l</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Stenstr&#x000f8;m</surname><given-names>Y.</given-names></name>
+</person-group><source>Tetrahedron</source><year>2003</year><volume>59</volume><fpage>3461</fpage><lpage>3466</lpage><pub-id pub-id-type="doi">10.1016/S0040-4020(03)00480-0</pub-id></element-citation></ref><ref id="cit14"><note><p>Deposition numbers <uri>2432246</uri> (for 3), <uri>2432244</uri> (for 11), and 2432245 (for 12) contain the supplementary crystallographic data for this paper. These data are provided free of charge by the joint Cambridge Crystallographic Data Centre</p></note></ref><ref id="cit15"><note><p>Similar observations on the influence of concentration and Co<sub>2</sub>(CO)<sub>8</sub> equivalents toward Pauson&#x02013;Khand-type reactivity have been reported; see: </p></note><element-citation publication-type="journal" id="cit15a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>McKerrall</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>J&#x000f8;rgensen</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kuttruff</surname><given-names>C. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ungeheuer</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Baran</surname><given-names>P. S.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2014</year><volume>136</volume><fpage>5799</fpage><lpage>5810</lpage><pub-id pub-id-type="doi">10.1021/ja501881p</pub-id><pub-id pub-id-type="pmid">24712341</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit15b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>T. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>D. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>K. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tong</surname><given-names>B. Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>J. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Y. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y. X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Z.</given-names></name>
+</person-group><source>J. Org. Chem.</source><year>2018</year><volume>83</volume><fpage>6893</fpage><lpage>6906</lpage><pub-id pub-id-type="doi">10.1021/acs.joc.7b02915</pub-id><pub-id pub-id-type="pmid">29508610</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit15c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>J. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Che</surname><given-names>J. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Z.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2020</year><volume>142</volume><fpage>19487</fpage><lpage>19492</lpage><pub-id pub-id-type="doi">10.1021/jacs.0c10122</pub-id><pub-id pub-id-type="pmid">33152240</pub-id>
+</element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gross</surname><given-names>B. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>S. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Virgil</surname><given-names>S. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Stoltz</surname><given-names>B. M.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2023</year><volume>145</volume><fpage>7763</fpage><lpage>7767</lpage><pub-id pub-id-type="doi">10.1021/jacs.3c02142</pub-id><pub-id pub-id-type="pmid">36989438</pub-id>
+</element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>C. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yue</surname><given-names>J. M.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2023</year><volume>14</volume><fpage>2399</fpage><pub-id pub-id-type="doi">10.1038/s41467-023-38154-9</pub-id><pub-id pub-id-type="pmid">37100800</pub-id>
+</element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hung</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Condakes</surname><given-names>M. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Moriwaka</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Maimone</surname><given-names>T. J.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2016</year><volume>138</volume><fpage>16616</fpage><lpage>16619</lpage><pub-id pub-id-type="doi">10.1021/jacs.6b11739</pub-id><pub-id pub-id-type="pmid">27966918</pub-id>
+</element-citation></ref><ref id="cit19"><note><p>Similar strained cyclopropane-containing molecules have been synthesized, see: </p></note><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ravikrishna</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ravikumar</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mehta</surname><given-names>G.</given-names></name>
+</person-group><source>J. Chem. Soc., Chem. Commun.</source><year>1994</year><fpage>2321</fpage><lpage>2322</lpage></element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Carder</surname><given-names>H. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wendlandt</surname><given-names>A. E.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2022</year><volume>144</volume><fpage>11870</fpage><lpage>11877</lpage><pub-id pub-id-type="doi">10.1021/jacs.2c04743</pub-id><pub-id pub-id-type="pmid">35731921</pub-id>
+</element-citation></ref><ref id="cit21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shing</surname><given-names>T. K. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yeung</surname><given-names>Y. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>P. L.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2006</year><volume>8</volume><fpage>3149</fpage><lpage>3151</lpage><pub-id pub-id-type="doi">10.1021/ol0612298</pub-id><pub-id pub-id-type="pmid">16805574</pub-id>
+</element-citation></ref><ref id="cit22"><note><p>Under canonical Kornblum&#x02013;DeLaMare conditions, we could not convert the dialkyl peroxide 14 to ketone 16</p></note></ref><ref id="cit23"><note><p>When trying to oxidize alcohol 15 to ketone 16, we encountered challenges with isolating ketone 16 in any appreciable yields</p></note></ref><ref id="cit24"><note><p>Under similar conditions, Nay and coworkers report 19% yield of the natural product and 16% yield of bis-reduced product. In our protocol, a stock solution of NaBH<sub>4</sub> in MeOH is prepared separately. This likely generates NaBH<sub><italic toggle="yes">n</italic></sub>(OMe)<sub>4&#x02212;<italic toggle="yes">n</italic></sub> prior to addition which acts as a milder active reducing agent. We have separately replicated the result reported by Nay and coworkers upon direct addition of solid NaBH<sub>4</sub> to the reaction mixture</p></note></ref></ref-list></back></article>

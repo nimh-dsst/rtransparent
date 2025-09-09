@@ -1,0 +1,659 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Chem Sci</journal-id><journal-id journal-id-type="iso-abbrev">Chem Sci</journal-id><journal-id journal-id-type="publisher-id">SC</journal-id><journal-id journal-id-type="coden">CSHCBM</journal-id><journal-title-group><journal-title>Chemical Science</journal-title></journal-title-group><issn pub-type="ppub">2041-6520</issn><issn pub-type="epub">2041-6539</issn><publisher><publisher-name>The Royal Society of Chemistry</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40438174</article-id><article-id pub-id-type="pmc">PMC12107478</article-id>
+<article-id pub-id-type="publisher-id">d5sc01759a</article-id><article-id pub-id-type="doi">10.1039/d5sc01759a</article-id><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>Regulating CRISPR/Cas12a trans-cleavage on the hairpin DNA&#x02013;MB nanointerface for enhanced multiplexed sensing application<xref rid="fn1" ref-type="fn">&#x02020;</xref></article-title><fn-group><fn id="fn1"><label>&#x02020;</label><p>Electronic supplementary information (ESI) available. See DOI: <uri xlink:href="https://doi.org/10.1039/d5sc01759a">https://doi.org/10.1039/d5sc01759a</uri></p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Zhao</surname><given-names>Chenxi</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name><surname>Du</surname><given-names>Lijie</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name><surname>Jiang</surname><given-names>Dike</given-names></name><xref rid="affb" ref-type="aff">b</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7544-6205</contrib-id><name><surname>Hu</surname><given-names>Jing</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2488-2063</contrib-id><name><surname>Hou</surname><given-names>Xiandeng</given-names></name><xref rid="affa" ref-type="aff">a</xref><xref rid="affc" ref-type="aff">c</xref></contrib><aff id="affa">
+<label>a</label>
+<institution>Analytical &#x00026; Testing Centre, Sichuan University</institution>
+<city>Chengdu</city>
+<state>Sichuan</state>
+<postal-code>610064</postal-code>
+<country>China</country>
+<email>houxd@scu.edu.cn</email>
+<email>hujing2019@scu.edu.cn</email>
+</aff><aff id="affb">
+<label>b</label>
+<institution>Key Laboratory of Animal Diseases and Human Health of Sichuan Province, College of Veterinary Medicine, Sichuan Agricultural University</institution>
+<city>Chengdu</city>
+<postal-code>611130</postal-code>
+<country>China</country>
+</aff><aff id="affc">
+<label>c</label>
+<institution>Key Lab of Green Chem &#x00026; Tech (MOE) at College of Chemistry, Sichuan University</institution>
+<city>Chengdu</city>
+<state>Sichuan</state>
+<postal-code>610064</postal-code>
+<country>China</country>
+</aff></contrib-group><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2025-05-19"><day>19</day><month>5</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2025-06-25"><day>25</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="pmc-release"><day>19</day><month>5</month><year>2025</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>16</volume><issue>25</issue><fpage>11456</fpage><lpage>11463</lpage><history><date date-type="received" iso-8601-date="2025-03-05"><day>5</day><month>3</month><year>2025</year></date><date date-type="accepted" iso-8601-date="2025-05-17"><day>17</day><month>5</month><year>2025</year></date></history><permissions><copyright-statement>This journal is &#x000a9; The Royal Society of Chemistry</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2025-05-19">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This article is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-Non Commercial 3.0 Unported Licence</ext-link>. You can use material from this article in other publications without requesting further permissions from the RSC, provided that the correct acknowledgement is given and it is not used for commercial purposes.</license-p></license></permissions><abstract><p>RNA-programmed clustered regularly interspaced short palindromic repeats (CRISPR) and CRISPR-associated systems (Cas) have garnered considerable attention in gene editing and molecular diagnostics. However, the precise control over the catalytic activity and cleavage site of Cas12a, a typical subtype of the Cas family, as well as its combination with downstream dynamic DNA technology remains challenging. Here, it was demonstrated that the cleavage activity and site can be modulated by adjusting the root, loop and stem of hairpin DNA reporters attached onto magnetic beads (MBs). The accelerated and controlled Cas12a trans-cleavage on the MB-hairpin DNA nanointerfaces is leveraged to trigger downstream hybridization chain reaction (HCR). Capitalizing on fluorescence (FL) labeling or double-stranded DNA (dsDNA) intercalators (SYBR green I or Ru-dppz), multiplexed detection (label or label-free, single-mode FL or dual-mode FL/ICP-MS) can be realized. Taking porcine pseudorabies virus (PRV) DNA as a model target, the potential application of this approach was demonstrated in clinical diagnosis, which achieves 100% accuracy that rivals the gold standard PCR. This methodology holds promise in a wide array of biological applications.</p></abstract><abstract abstract-type="toc"><p>Controlled CRISPR-Cas12a trans-cleavage with tailored activity on the hairpin DNA&#x02013;MB nanointerface enables a downstream hybridization chain reaction, based on which a multiplexed molecular sensing platform is built for PVR detection.<sup>.</sup><graphic xlink:href="d5sc01759a-ga.jpg" id="ga" position="float"/></p></abstract><funding-group><award-group><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>22476136</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>Overseas Expertise Introduction Center for Discipline Innovation of Food Nutrition and Human Health (111 Center)</institution><institution-id institution-id-type="doi">10.13039/501100018925</institution-id></institution-wrap>
+</funding-source><award-id>B17030</award-id></award-group></funding-group><counts><page-count count="8"/></counts><custom-meta-group><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Introduction</title><p>The efficient trans-cleavage nuclease activity of the RNA-programmed CRISPR-Cas12a system has spurred intense research interest from gene editing to imaging and molecular diagnostics.<sup><xref rid="cit1" ref-type="bibr">1&#x02013;3</xref></sup> Upon the base pairing of a nucleic acid target to the complementary crRNA guide, the trans-cleavage activity of Cas12a nuclease is activated, randomly cleaving single-stranded DNA (ssDNA) fragments.<sup><xref rid="cit4" ref-type="bibr">4</xref></sup> Typically, in the presence of a reporter ssDNA with a fluorophore and a quencher labelled at both ends (FQ-ssDNA), the fluorescence will witness a gradual increase with the degradation of the ssDNA reporter, entailing the signal transduction of molecular recognition events and diagnostics.<sup><xref rid="cit5" ref-type="bibr">5</xref></sup></p><p>Although CRISPR/Cas12a-based technology has demonstrated great potential in molecular diagnostics,<sup><xref rid="cit6" ref-type="bibr">6</xref></sup> limitations become evident when low levels of specific nucleic acid targets in complex real samples are to be rapidly detected. For example, the trans-cleavage activity is highly dependent on the random diffusion and collision between the activated Cas12a protein and the DNA reporter.<sup><xref rid="cit7" ref-type="bibr">7</xref></sup> In the case of free FQ-ssDNA reporters, the binding and interplay with activated Cas12a protein is far from sufficient.<sup><xref rid="cit8" ref-type="bibr">8</xref></sup> Besides, the inefficient quenching of the fluorophore by the quencher leads to a relatively high fluorescence background and compromises the detection sensitivity. Therefore, a reporter ssDNA with a length of less than 30 nt has been usually adopted to ensure proximity and efficient F&#x000f6;rster resonance energy transfer (FRET) between the fluorophore and quencher.<sup><xref rid="cit9" ref-type="bibr">9</xref></sup> The use of short free FQ-ssDNA reporters, however, brings about a new dilemma. That is, the resultant DNA fragments from the arbitrary site of trans-cleavage cannot be leveraged for downstream dynamic DNA nanotechnology (such as hybridization chain reaction or strand displacement amplification), which has considerably limited the flexibility of sensor design and analytical performance. Probably because of this, current signal amplification strategies mainly concentrate on upstream pre-amplification including polymerase chain reaction (PCR) and isothermal techniques (<italic toggle="yes">e.g.</italic> recombinase polymerization amplification, RPA and loop-mediated isothermal amplification, LAMP). Most noteworthy are those that are well-known such as DETECTR,<sup><xref rid="cit10" ref-type="bibr">10</xref></sup> SHERLOCK,<sup><xref rid="cit11" ref-type="bibr">11</xref></sup> HOLMES,<sup><xref rid="cit12" ref-type="bibr">12</xref></sup> Cas12aVDet<sup><xref rid="cit13" ref-type="bibr">13</xref></sup> and so forth. To address these limitations and fulfil the capability of CRISPR-Cas systems, it is imperative to control the kinetics, activity and site of CRISPR-Cas12a cleavage, and bridge the gap with downstream dynamic DNA technology.</p><p>Regarding kinetics, a feasible resolution may be the use of simple three-dimensional scaffolds that colocalize DNA reactants in a confined space, such as loading abundant DNA onto gold nanoparticles (AuNPs) or magnetic beads (MBs).<sup><xref rid="cit14" ref-type="bibr">14&#x02013;16</xref></sup> Accelerated reaction kinetics and enhanced performance have been widely observed in the literature and our previous work.<sup><xref rid="cit17" ref-type="bibr">17,18</xref></sup> Featuring cost-effective and facile magnetic separation, trans-cleavage on the MB-DNA nanointerfaces enables simpler, faster, and improved diagnosis of possible HBV infections. In the pursuit of higher Cas12a trans-cleavage activities, other DNA secondary structures (<italic toggle="yes">e.g.</italic> hairpin,<sup><xref rid="cit19" ref-type="bibr">19</xref></sup> triplex,<sup><xref rid="cit20" ref-type="bibr">20</xref></sup> and G-quadruplexes<sup><xref rid="cit21" ref-type="bibr">21,22</xref></sup>) have been embraced by researchers. The special structural arrangement of these DNA secondary structures has, for some unknown reasons, contributed to faster reaction kinetics and enhanced activities. Molecular dynamics studies have demonstrated that the stem-loop DNA has a higher affinity to the Cas12a catalytic pocket than ssDNA, and hairpins with different loop lengths make a big difference.<sup><xref rid="cit23" ref-type="bibr">23</xref></sup> This has significant implications in the design of CRISPR-Cas systems with controllable activity and site of cleavage, potentially compatible with dynamic DNA nanotechnology and holding promise for an array of biological applications. In terms of signal output, alternative methods, such as electrochemical methodology,<sup><xref rid="cit24" ref-type="bibr">24</xref></sup> visual detection<sup><xref rid="cit25" ref-type="bibr">25,26</xref></sup> and inductively coupled plasma mass spectrometry (ICP-MS),<sup><xref rid="cit27" ref-type="bibr">27,28</xref></sup> have been well established, among which ICP-MS has the advantage of low background, high sensitivity and wide dynamic range. Nonetheless, the developed detection platforms are mostly single-mode methods. The combination of two or more approaches, namely dual-mode or multi-mode detection, could potentially enhance the accuracy and reliability of bioassays by the cross validation between/among different methods.<sup><xref rid="cit29" ref-type="bibr">29&#x02013;31</xref></sup> However, to the best of our knowledge, the rational control of CRISPR-Cas12a trans-cleavage on the MB-hairpin DNA nanointerfaces has not been reported, nor its marriage with downstream dynamic DNA technology, nor have the ICP-MS based dual-mode or multiplexed detection platforms been developed for molecular diagnostic purposes.</p><p>Herein, we proposed the construction of various hairpin DNA-modified MBs and investigated the trans-cleavage behavior on these different 3D nanointerfaces. The use of MB-hairpin DNA probes promises to accelerate the trans-cleavage kinetics, simplify the separation and purification process, and serve as a platform for the implementation of downstream reactions. After a critical evaluation of the impact of the spacer (or root), stem and loop domain, the controlled CRISPR-Cas12a trans-cleavage with desirable catalytic activity and cleavage site was attained. On top of that, the hybridization chain reaction (HCR) was further conducted with the hairpin DNA&#x02013;MB residues after controlled Cas12a cleavage. In addition to fluorescent labelling, capitalizing on the intercalation of SYBR green I or Ru-dipyridophenazine (dppz) to the long dsDNA concatemers from the HCR, label-free fluorescence and/or inductively coupled plasma mass spectrometry (ICP-MS) detection were also described. Taking porcine pseudorabies virus (PRV) DNA as a model target, the potential application of the FL/ICP-MS dual-mode CRISPR-Cas12a detection platform in clinical diagnosis was explored, achieving 100% accuracy that rivals the gold standard PCR. This study attempts to provide a deeper understanding and better control of the Cas12a cleavage that can be used to assist the development of improved diagnostic platforms and holds promise in a wide array of biological applications.</p></sec><sec><title>Results and discussion</title><sec><title>Feasibility of trans-cleavage on the hairpin DNA&#x02013;MB nanointerface</title><p>The feasibility of trans-cleavage on the hairpin DNA&#x02013;MB interface was investigated in the first place employing fluorescence for signal output, and compared to those using a free ssDNA and a free hairpin DNA as substrates (<xref rid="fig1" ref-type="fig">Fig. 1A</xref>). To this end, the two terminals of the free ssDNA and hairpin DNA strands were labeled with a fluorophore (F) and a quencher (Q), respectively, while those of the hairpin DNAs to be assembled on MBs were labeled with biotin (B) and a fluorophore (F), yielding hairpin DNA&#x02013;MB nanointerfaces <italic toggle="yes">via</italic> specific streptavidin&#x02013;biotin interaction. The sequences of the ssDNA-FQ, the hairpin DNA-FQ and the hairpin DNA-FB were listed in Table S1.<xref rid="fn1" ref-type="fn">&#x02020;</xref> Unless otherwise specified, a conserved sequence of PRV DNA containing a 5&#x02032; TTTG protospacer-adjacent motif (PAM) was selected as a model target and used to activate the CRISPR-Cas12a system in a feasibility test and experimental conditions exploration. Once activated, the ssDNA-FQ, the hairpin DNA-FQ, and the hairpin DNA-FB-MBs were degraded with the fluorescence of the labeled fluorophores recovered. The fluorescence emission of 6-FAM at 520 nm (Ex = 480 nm) was recorded at cleavage time of 3, 5, 10, 15 and 20 min for each system. As shown in <xref rid="fig1" ref-type="fig">Fig. 1B</xref> and S1,<xref rid="fn1" ref-type="fn">&#x02020;</xref> in the presence of target PRV DNA, the fluorescence intensities gradually increased with cleavage time, indicating that CRISPR-Cas12a worked well on not only the free ssDNA and the hairpin DNA, but also the hairpin DNA&#x02013;MB nanointerfaces. Note that an H1M microplate reader was used throughout this work for fluorescence detection, and the fluorescence intensities recorded at a specific wavelength (as in <xref rid="fig1" ref-type="fig">Fig. 1B</xref>) were different from those read from the fluorescence spectra (Fig. S1<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Compared with the free ssDNA-FQ, the hairpin-FQ and the hairpin-FB-MB substrates featured a significantly lower fluorescence background due to the close contact between the fluorophore and the quencher, coinciding with previous publications,<sup><xref rid="cit32" ref-type="bibr">32,33</xref></sup> with further advantages such as higher affinity of CRISPR-Cas12a towards hairpin DNA structures and faster rate of trans-cleavage. More importantly, the localized MBs with high hairpin DNA density showed an even faster trans-cleavage rate and higher signal-to-background ratios (Fig. S2<xref rid="fn1" ref-type="fn">&#x02020;</xref>), and this is of great importance for practical applications allowing for the easy separation and purification of the MBs simply using a magnet.</p><fig position="float" id="fig1"><label>Fig. 1</label><caption><title>(A) Schematic illustration of the CRISPR-Cas12a trans-cleavage of the ssDNA-FQ, the hairpin DNA-FQ and the hairpin DNA-FB-MBs; and (B) the fluorescence intensities at different cleavage time using the ssDNA-FQ, the hairpin DNA-FQ and the hairpin DNA-FB-MBs as substrates, respectively.</title></caption><graphic xlink:href="d5sc01759a-f1" position="float"/></fig></sec><sec><title>Exploring controlled cleavage on the hairpin DNA&#x02013;MB nanointerface</title><p>Hairpin DNA, also known as a stem-loop structure, is one of the specific DNA secondary structures consisting of an unpaired loop and a double-stranded stem occasionally with elongated sticky ends (or called root).<sup><xref rid="cit34" ref-type="bibr">34</xref></sup> Since activated Cas12a indistinguishably cleaves single strands, both the loop and root region of the hairpin structure can be cleaved. Therefore, the controlled trans-cleavage of the hairpin DNA on MBs is crucial for biosensor development.</p><p>To evaluate the influence of the root region on the trans-cleavage of CRISPR-Cas12a, a series of hairpin DNA sequences with the same loop but different root length (0, 3, 6, 10 nt) were separately assembled onto the MBs (<xref rid="fig2" ref-type="fig">Fig. 2A</xref>). All the hairpin DNA sequences were labeled with a FAM fluorophore at the 5&#x02032; end. When activated Cas12a cleaved the root, the hairpin DNA will detach from the surface of MBs into the supernatant, generating a fluorescence emission signal; while activated Cas12a cleaved the loop portion, the stem structures remained stable at room temperature due to the high melting temperatures (Tm, Fig. S3<xref rid="fn1" ref-type="fn">&#x02020;</xref>), thereby no fluorescence was detected in the supernatant. As can be clearly seen from <xref rid="fig2" ref-type="fig">Fig. 2B</xref> and S4,<xref rid="fn1" ref-type="fn">&#x02020;</xref> with the increase of the root length, more intense fluorescence was detected in the supernatant, implying higher probability of cleavage occurring at the root region. The proportions of hairpin DNA&#x02013;MBs cleaved at the root region were roughly estimated, which reached approximately 50% when the root length was 10 nt (<xref rid="fig2" ref-type="fig">Fig. 2C</xref>). Presumably, the hairpin DNA&#x02013;MBs with longer roots featured lower steric hindrance and more accessible cleavage sites, thus facilitating the recognition and cleavage of Cas12a to release more fluorophores. In contrast, when the root length was 0 nt, the trans-cleavage towards the root could be largely inhibited and cleavage was confined to the loop section, achieving precise control of the cleavage site.</p><fig position="float" id="fig2"><label>Fig. 2</label><caption><title>(A) Schematic illustration of the CRISPR-Cas12a trans-cleavage of hairpin DNA&#x02013;MBs with different root lengths; (B) the fluorescence intensities of the supernatant solutions from the cleavage of hairpin DNA&#x02013;MBs with different root lengths; and (C) the estimated proportions of cleavage occurring at the root region.</title></caption><graphic xlink:href="d5sc01759a-f2" position="float"/></fig><p>Since the RuvC domain is responsible for the trans-cleavage activity of Cas12, and it has a higher binding affinity towards the hairpin structures than the ssDNA, hairpin sequences with the same stem structure but different loop lengths (0C, 5C, 10C, 15C and 20C, C represents cytosine) were attached to the MBs to investigate the impact of the loop structure. Here, the root and stem lengths were kept at 0 nt and 24 nt, respectively, and the hairpin DNA sequences were all labeled with a FAM fluorophore at the 5&#x02032; end. As expected, in the presence of activated CRISPR-Cas12a, only the loop domain will be cleaved. However, the hairpin DNA with cleaved loops would not dissociate from the MBs as the stem part was rather stable (<italic toggle="yes">T</italic><sub>m</sub> = 69.2 &#x000b0;C, Fig. S5<xref rid="fn1" ref-type="fn">&#x02020;</xref>). To visualize the proportions of hairpin DNA with Cas12a-cleaved loops, two means were adopted to denature the stem dsDNA and release the FAM-labelled ssDNA (<xref rid="fig3" ref-type="fig">Fig. 3A</xref>), heating at 75 &#x000b0;C for 10 min or Exonuclease III (Exo III) digestion. In this manner, the detected fluorescence intensities of FAM could reveal the impact of loop length on the trans-cleavage activity of CRISPR-Cas12a. As demonstrated in <xref rid="fig3" ref-type="fig">Fig. 3B and C</xref>, irrespective of the denaturing method adopted (heating or Exo III), the supernatant fluorescence increased with the loop length, reaching the maximum at a loop length of 15 nt and then levelled off. This suggests a stronger binding of hairpin DNA with greater loop lengths to the Cas12a catalytic pocket, substantiating that the loop length can be used to regulate the trans-cleavage activity.</p><fig position="float" id="fig3"><label>Fig. 3</label><caption><title>(A) Schematic illustration of the CRISPR-Cas12a trans-cleavage of hairpin DNA&#x02013;MBs with different loop lengths. The loop-cleaved hairpin DNA&#x02013;MBs were denatured by either heating at 75 &#x000b0;C for 10 min or digesting with exonuclease III to release the fluorophores; (B) the fluorescence intensities of the supernatant solutions from the cleavage of hairpin DNA&#x02013;MBs with different loop lengths (loop-cleaved hairpin DNA&#x02013;MBs denatured by heating); and (C) the fluorescence intensities of the supernatant solutions from the cleavage of hairpin DNA&#x02013;MBs with different loop lengths (loop-cleaved hairpin DNA&#x02013;MBs denatured by Exo III).</title></caption><graphic xlink:href="d5sc01759a-f3" position="float"/></fig><p>Stem length has a direct impact on the stability of the hairpin structure. Hairpin sequences with the same loop structure (10 nt) but different stem lengths (6, 8, 10, 12 and 14 bp) were then assembled on the MBs (Fig. S6<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Hereafter, the hybridization chain reaction (HCR) was incorporated to facilitate the combination of CRISPR-Cas12a with downstream dynamic DNA technology, and in turn, to evaluate the impact of stem length on the trans-cleavage (<xref rid="fig4" ref-type="fig">Fig. 4A</xref>). Specifically, the ssDNA fragment between the loop and the MBs served as an initiator (H0) to trigger the chain hybridization reaction with H1-FAM and H2 strands. The HCR among H0, H1 and H2 in solution was verified by the polyacrylamide gel electrophoresis (PAGE) analysis of the HCR products (Fig. S7<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Changes in the Gibbs free energy during the HCR simulated by NUPACK software also proved the hybridization of H0, H1 and H2 (Fig. S8<xref rid="fn1" ref-type="fn">&#x02020;</xref>). In addition, the H0-modified MBs became more negative after H1 and H2 were introduced (Fig. S9<xref rid="fn1" ref-type="fn">&#x02020;</xref>), demonstrating the feasibility of the HCR among H0, H1 and H2 on MBs. Since a free poly-C tail may be generated when the hairpin was cleaved by Cas12a, H0 with different lengths of poly-C tail (0, 5C, 10C) were used to trigger the HCR either in solution or on the MBs (Fig. S10<xref rid="fn1" ref-type="fn">&#x02020;</xref>). PAGE analysis demonstrated that long-chain fragments exceptionally occurred in the lanes loaded with the HCR products from H0-<italic toggle="yes">x</italic>C, H1 and H2 (Fig. S10B<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Moreover, the fluorescence intensities originating from the HCR of MBs-H0-<italic toggle="yes">x</italic>C with H1-FAM and H2 were less affected by the length of the poly-C tail (Fig. S10C<xref rid="fn1" ref-type="fn">&#x02020;</xref>), implying that the poly-C tail would not interfere with the HCR reaction.</p><fig position="float" id="fig4"><label>Fig. 4</label><caption><title>(A) Schematic illustration of the CRISPR-Cas12a trans-cleavage of hairpin DNA&#x02013;MBs with different stem lengths. The loop-cleaved hairpin DNA&#x02013;MBs were separated, heated or otherwise, and hybridized with H1-FAM and H2; (B) the fluorescence intensities from the HCR of loop-cleaved hairpin DNA&#x02013;MBs (no heating) with H1-FAM and H2; and (C) the fluorescence intensities from the HCR of loop-cleaved hairpin DNA&#x02013;MBs (heating) with H1-FAM and H2.</title></caption><graphic xlink:href="d5sc01759a-f4" position="float"/></fig><p>The Cas12a trans-cleavage of hairpin DNA&#x02013;MBs with different stem length was studied and the results are presented in <xref rid="fig4" ref-type="fig">Fig. 4</xref> (here the H0 sequence was kept the same for all stem lengths of hairpin DNA&#x02013;MBs). With stems of length 6 or 8 bp, the H0 fragment within the hairpin structure easily hybridized with H1-FAM and H2, yielding intense fluorescence whether in the absence of PRV DNA (inactivated CRISPR-Cas12a, NC, <xref rid="fig4" ref-type="fig">Fig. 4B</xref>) or in the presence of PRV DNA (activated CRISPR-Cas12a, PC, <xref rid="fig4" ref-type="fig">Fig. 4B</xref>); whereas with stems of length 10 bp and longer, the hairpin structure on MBs was so stable that the HCR became rather difficult, generating negligible fluorescence whether the loop was cleaved or not (NC/PC, <xref rid="fig4" ref-type="fig">Fig. 4B</xref>); however, if heating denaturing was implemented on the loop-cleaved hairpin DNA&#x02013;MBs prior to the HCR, significant fluorescence can be observed for those with stem length longer than 10 bp (PC, <xref rid="fig4" ref-type="fig">Fig. 4C</xref>). To better visualize this process, FAM-labeled hairpin DNAs (root length 10 nt, stem length 14 bp, loop length 10 nt) were assembled onto the MBs (Fig. S11A<xref rid="fn1" ref-type="fn">&#x02020;</xref>). In the presence of activated Cas12a, both the loop and the root domain would be cleaved, releasing root-cleaved FAM-hairpin into the solution and loop-cleaved DNA hairpins were retained on MBs. After heating, the loop-cleaved hairpin DNA&#x02013;MBs were denatured and the FAM-labeled ssDNA fragments were further released into the solution. Following the introduction of ROX-labeled H1 (H1-ROX) and H2 strands, the HCR would be initiated on the MBs. The emergence of 6-FAM fluorescence in the solutions from both the root-cleaved hairpin DNA and the heating-denatured loop-cleaved hairpin DNA&#x02013;MBs, as well as the ROX fluorescence after the HCR on MBs, altogether verified the whole process described above (Fig. S11B<xref rid="fn1" ref-type="fn">&#x02020;</xref>). MBs-HP with longer stem lengths allowed further implementation of downstream HCR on the MBs after trans-cleavage and heating denaturing. Of note, the fluorescence from the loop-cleaved hairpin undergoing heating denaturing was higher than that from the root cleaved, which, again, proved the higher binding affinity of Cas12a to the loop domain than the root.</p></sec><sec><title>Leveraging the controlled trans-cleavage on hairpin DNA&#x02013;MB nanointerfaces and the HCR for multiplexed detection of PRV DNA</title><p>From the above discussion, it can be concluded that the stem length and root length would exert a significant impact on the stability of the hairpin structure and the cleavage site, while the cleavage activity was partially affected by the loop domain (higher binding affinity of Cas12a to the loop domain than ssDNA) and undoubtedly, the concentration of activated Cas12a. The controlled trans-cleavage on the hairpin DNA&#x02013;MB nanointerfaces was leveraged for the detection of the model target PRV DNA, combining downstream isothermal HCR amplification and various methods for multiplexed signal readout.</p><p>To this end, hairpin DNA with the same loop sequence (10C) but different stem/root lengths (6 bp/18 nt, 12 bp/12 nt, 14 bp/10 nt, 24 bp/0 nt) was modified on MBs (denoted as MBs-HP-6, MBs-HP-12, MBs-HP-14 and MBs-HP-12, respectively), and subjected to trans-cleavage by the CRISPR-Cas12a activated with different concentrations of PRV dsDNA (<xref rid="fig5" ref-type="fig">Fig. 5A</xref>). The MBs were collected after cleavage, heating denatured or otherwise, followed by the introduction of H1-FAM and H2 strands to initiate possible HCR assembly. In this fashion, the ultimate fluorescence intensities were closely correlated to the concentration of PRV DNA. Since Cas12a specifically cleaves ssDNA instead of RNA, DNA-RNA chimera hairpin structures have been recently used to control the cleavage site of Cas12a and expose the ssRNA sequence for subsequent assays.<sup><xref rid="cit35" ref-type="bibr">35&#x02013;37</xref></sup> Here, DNA-RNA chimera hairpin assembled MBs (denoted as MBs-HP-D-R, 0 nt of root, 24 bp of stem, 10 nt of loop) were prepared in parallel, following the same procedures as DNA hairpin-MBs. Theoretically, the activated Cas12a merely cleaves ssDNA in the DNA-RNA chimera hairpin, generating MBs-ssRNA to trigger the HCR assembly with H1 and H2 strands. The feasibility to use the Cas12a-cleaved DNA-RNA chimera hairpin to initiate the HCR assembly with H1 and H2, both in solution and on MBs, was experimentally verified as shown in Fig. S12 and S13.<xref rid="fn1" ref-type="fn">&#x02020;</xref></p><fig position="float" id="fig5"><label>Fig. 5</label><caption><title>(A) Schematic illustration of CRISPR-Cas12a-mediated detection of PRV DNA employing different MBs-HP as cleaving substrates and the HCR for amplification. The relationship between the fluorescence intensities and the concentrations of PRV DNA using: (B) MBs-HP-6 as trans-cleavage substrates without heating denaturing; (C) MBs-HP-12 as trans-cleavage substrates without heating denaturing; (D) MBs-HP-12 as trans-cleavage substrates with heating denaturing; (E) MBs-HP-14 as trans-cleavage substrates with heating denaturing; (F) MBs-HP-24 as trans-cleavage substrates with heating denaturing; or (G) MBs-HP-D-R as trans-cleavage substrates without heating denaturing.</title></caption><graphic xlink:href="d5sc01759a-f5" position="float"/></fig><p>Parameters affecting the Cas12a trans-cleavage were carefully evaluated, taking MBs-HP-D-R as an exemplified substrate (Fig. S14<xref rid="fn1" ref-type="fn">&#x02020;</xref>). After that, the fluorescence intensities (<xref rid="fig5" ref-type="fig">Fig. 5</xref>) and corresponding fluorescence spectra (Fig. S15<xref rid="fn1" ref-type="fn">&#x02020;</xref>) were recorded for Cas12a activated with different concentrations of PRV DNA using MBs-HP-6, MBs-HP-12, MBs-HP-14, MBs-HP-24 and MBs-HP-D-R as cleaving substrates, respectively. The results are presented in <xref rid="fig5" ref-type="fig">Fig. 5B&#x02013;G</xref>. In the case of HP-6 with a root length of 18 nt and a stem length of 6 bp, the hairpin was ready to initiate the HCR with H1-FAM and H2 in the absence of PRV DNA and without heating denaturing. Note that the CRISPR-Cas12a system was inactivated when no target PRV DNA was added and the ultimate fluorescence in <xref rid="fig5" ref-type="fig">Fig. 5</xref> referred to the portion retained on the MBs. With the increase in the concentration of PRV DNA, the fluorescence from the HCR gradually decreased, likely because the activated Cas12a easily cleaved the root of HP-6 on this occasion, and thus part of the HP-6 was detached from the MBs and subsequent HCR assembly was inhibited. When MBs-HP-12 (stem length 12 bp, root length 12 nt) served as the trans-cleavage substrate, the hairpin structure was stabler due to the greater stem length, and thus the HCR hardly occurred among HP-12, H1-FAM and H2, and much lower fluorescence (&#x0003c;2000 a.u.) was observed when no PRV DNA was added. The fluorescence intensities augmented at low concentrations of PRV DNA but declined at higher concentrations of PRV DNA, regardless of whether heating denaturing was applied or not (<xref rid="fig5" ref-type="fig">Fig. 5B and C</xref>). Presumably, at low concentrations of PRV DNA, the activated Cas12a preferentially cleaved the loop section due to the higher binding affinity, hence favouring the following HCR process and yielding stronger fluorescence; however, when the concentration of PRV DNA further increased, the probability of HP-12 to be cleaved at the root section soared so that less HP-12 was retained on MBs for the ensuing HCR. Note that heating denaturing seemed to facilitate the HCR at low concentrations of PRV DNA in the case of HP-12 and HP-14 (<xref rid="fig5" ref-type="fig">Fig. 5D and E</xref>), probably by exposing more single strands containing the H0 sequence. Furthermore, when MBs-HP-24 with the maximum stem length and minimum root length were to be cleaved, the trend became totally different, and the fluorescence intensities keeping increasing with the concentration of PRV DNA from 0 nM to 20 nM (<xref rid="fig5" ref-type="fig">Fig. 5F</xref>). This clearly indicates that controlled Cas12a trans-cleavage can be attained <italic toggle="yes">via</italic> hairpin DNA structure design and leveraged for biosensing purposes. It should be noted that when the MBs-DNA-RNA chimeric hairpin was used as the cleaving substrates, the HCR assembly could be triggered after Cas12a trans-cleavage of the DNA fragments without heating denaturing, likely due to the instability of DNA-RNA duplexes. The changes in fluorescence intensities <italic toggle="yes">versus</italic> the concentration of PRV DNA resembled that of MBs-HP-14 with heating denaturing (<xref rid="fig5" ref-type="fig">Fig. 5G</xref>). Despite that, DNA-RNA chimera hairpins were high in acquisition costs and low in stability and HCR efficiency, thus highlighting the advantage of using hairpin DNA-assembled MB substrates over their DNA-RNA counterparts in this study.</p><p>Apart from fluorescence labeling, label-free detection methods can be developed by taking advantage of the binding of intercalators (such as DNA-staining dye, SYBR green I, and Ru-dppz complexes) with the long dsDNA concatemers derived from the HCR. Moreover, the fluorescence of Ru-dppz and the considerable Ru atoms embedded into the dsDNA may be further exploited for an FL/ICP-MS dual-mode signal output (Fig. S16<xref rid="fn1" ref-type="fn">&#x02020;</xref>). In this way, the label-free and dual-mode detection of PRV DNA can be realized. As manifested in Fig. S17,<xref rid="fn1" ref-type="fn">&#x02020;</xref> capitalizing on SYBR green I or Ru-dppz for dsDNA staining, the fluorescence intensities of SYBR (single-mode) as well as the fluorescence intensities of Ru-dppz and the ICP-MS intensities of <sup>101</sup>Ru (dual-mode) increased linearly with the concentration of PRV DNA from 0.5 to 10 nM following the procedures described earlier.</p></sec><sec><title>Clinical sample analysis</title><p>To date, various methods have been developed for the diagnosis of PRV DNA,<sup><xref rid="cit38" ref-type="bibr">38&#x02013;40</xref></sup> mostly relying on real-time PCR (RT-PCR). Herein, a dual-mode FL/ICP-MS protocol was employed for the clinical diagnosis of possible PRV infections in swine. Twelve blood samples were collected from healthy and diseased swine, and the PRV-relevant DNA was extracted from the blood samples and identified by RT-qPCR as six PRV-negative and six PRV-positive samples (Table S4<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Meanwhile, the PCR amplicons were analyzed by the dual-mode method established in this work, combining controlled Cas12a trans-cleavage of MBs-HP-24, HCR assembly and Ru-dppz staining (<xref rid="fig6" ref-type="fig">Fig. 6A</xref>). The fluorescence and ICP-MS signals were recorded for these samples and visualized by heatmaps (<xref rid="fig6" ref-type="fig">Fig. 6B and E</xref>) and box plots (<xref rid="fig6" ref-type="fig">Fig. 6C and F</xref>). Evidently, there were significant differences in the FL and ICP-MS intensities between the group of negative and positive samples. Diagnoses by the developed dual-mode approach were in good agreement with those by RT-qPCR (Table S4<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Besides, the receiver operating characteristic (ROC) curve demonstrated that the Area Under the Curve (AUC) of both fluorescence and mass spectrometry methods was 1 (<xref rid="fig6" ref-type="fig">Fig. 6D and G</xref>), suggesting that this method should have important implications in clinical diagnosis with utmost sensitivity, specificity and accuracy of 100% that rivals the gold standard PCR.</p><fig position="float" id="fig6"><label>Fig. 6</label><caption><title>(A) Schematic illustration of the workflow for the clinical diagnosis of PRV infection using the developed protocol, combining controlled Cas12a trans-cleavage of MBs-HP-24, HCR assembly, Ru-dppz staining and FL/ICP-MS dual-mode detection. (B&#x02013;D) Heatmaps, box plots and ROC curves of the PRV-negative and PRV-positive samples by fluorescence detection; and (E&#x02013;G) heatmaps, box plots and ROC curves of the PRV-negative and PRV-positive samples by ICP-MS detection. Data presented as mean &#x000b1; SD (<italic toggle="yes">n</italic> = 3) and compared with a two-tailed paired Student's <italic toggle="yes">t</italic>-test, **<italic toggle="yes">P</italic> &#x0003c; 0.01.</title></caption><graphic xlink:href="d5sc01759a-f6" position="float"/></fig></sec></sec><sec><title>Conclusions</title><p>In summary, the site, activity and kinetics of CRISPR-Cas12a trans-cleavage were regulated by conducting cleavage on the hairpin DNA&#x02013;MB nanointerfaces. The results in this work demonstrated that the root length and stem length determined the cleavage site and stability of the hairpin structure (both uncleaved and loop-cleaved), while the cleavage activity was mainly affected by the loop domain (higher binding affinity of Cas12a to the loop domain than ssDNA) and the concentration of activated Cas12a. The controlled trans-cleavage on the hairpin DNA&#x02013;MB nanointerfaces was leveraged for biosensing and molecular diagnostic combining isothermal HCR assembly, bridging the gap between the CRISPR-Cas system with downstream dynamic DNA technology. Apart from fluorescence labelling, label-free methods adopting dsDNA intercalators such as SYBR Green I and Ru-dppz were also exploited for single-mode or FL/ICP-MS dual-mode signal readout. Label-free detection, together with the cross-validation capability endowed by dual-mode signal readout, permitted simple, reliable and accurate clinical diagnosis of PRV infections that rivalled the gold-standard PCR. Above all, this study provides a deeper understanding and better control of the Cas12a cleavage that can be used to assist the development of improved diagnostic platforms, with significant implications in a wide array of biological applications.</p></sec><sec><title>Author contributions</title><p>Chenxi Zhao, Jing Hu and Xiandeng Hou designed the research; Chenxi Zhao performed the research; Chenxi Zhao, Lijie Du and Jing Hu analysed the data; Dike Jiang collected the clinical samples; Chenxi Zhao drafted the manuscript, and Jing Hu and Xiandeng Hou edited it.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>There are no conflicts to declare.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="SC-016-D5SC01759A-s001" position="float" content-type="local-data"><label>SC-016-D5SC01759A-s001</label><media xlink:href="SC-016-D5SC01759A-s001.pdf" id="d67e561" position="anchor"/></supplementary-material></sec></body><back><ack><p>This work was partially supported by the National Natural Science Foundation of China (Grant No. 22476136) and the &#x0201c;111 Centre&#x0201d; (B17030). We would like to thank Dr Chenghui Li of the Analytical &#x00026; Testing Centre of Sichuan University for helpful assistance with zeta potential tests.</p></ack><sec sec-type="data-availability"><title>Data availability</title><p>Experimental details and additional data can be found in the attached ESI.<xref rid="fn1" ref-type="fn">&#x02020;</xref></p></sec><ref-list><title>References</title><ref id="cit1"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Le</surname><given-names>X. C.</given-names></name>
+</person-group><article-title>The CRISPR&#x02013;Cas toolbox for analytical and diagnostic assay development</article-title><source>Chem. Soc. Rev.</source><year>2021</year><volume>50</volume><fpage>11844</fpage><lpage>11869</lpage><pub-id pub-id-type="doi">10.1039/D1CS00098E</pub-id><pub-id pub-id-type="pmid">34611682</pub-id>
+</element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kaminski</surname><given-names>M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Abudayyeh</surname><given-names>O. O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gootenberg</surname><given-names>J. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Collins</surname><given-names>J. J.</given-names></name>
+</person-group><article-title>CRISPR-based diagnostics</article-title><source>Nat. Biomed. Eng.</source><year>2021</year><volume>5</volume><fpage>643</fpage><lpage>656</lpage><pub-id pub-id-type="doi">10.1038/s41551-021-00760-7</pub-id><pub-id pub-id-type="pmid">34272525</pub-id>
+</element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhuo</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zeng</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiong</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>R.</given-names></name>
+</person-group><article-title>Universal crRNA acylation strategy for robust photo-initiated one-pot CRISPR&#x02013;Cas12a nucleic acid diagnostics</article-title><source>Angew. Chem., Int. Ed.</source><year>2024</year><volume>63</volume><fpage>e202401486</fpage><pub-id pub-id-type="doi">10.1002/anie.202401486</pub-id><pub-id pub-id-type="pmid">38563640</pub-id>
+</element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Naz</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gogo Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><article-title>Regulation of the CRISPR-Cas12a system by methylation and demethylation of guide RNA</article-title><source>Chem. Sci.</source><year>2023</year><volume>14</volume><fpage>5945</fpage><lpage>5955</lpage><pub-id pub-id-type="doi">10.1039/D3SC00629H</pub-id><pub-id pub-id-type="pmid">37293662</pub-id>
+</element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Harrington</surname><given-names>L. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Da Costa</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Palefsky</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Doudna</surname><given-names>J. A.</given-names></name>
+</person-group><article-title>CRISPR-Cas12a target binding unleashes indiscriminate single-stranded DNase activity</article-title><source>Science</source><year>2018</year><volume>360</volume><fpage>436</fpage><lpage>439</lpage><pub-id pub-id-type="pmid">29449511</pub-id>
+</element-citation></ref><ref id="cit6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><article-title>Nonspecific interactions between Cas12a and dsDNA located downstream of the PAM mediate target search and assist AsCas12a for DNA cleavage</article-title><source>Chem. Sci.</source><year>2023</year><volume>14</volume><fpage>3839</fpage><lpage>3851</lpage><pub-id pub-id-type="pmid">37035707</pub-id>
+</element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Peng</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lei</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nie</surname><given-names>Z.</given-names></name>
+</person-group><article-title>PAM-less conditional DNA substrates leverage trans-cleavage of CRISPR-Cas12a for versatile live-cell biosensing</article-title><source>Chem. Sci.</source><year>2022</year><volume>13</volume><fpage>2011</fpage><lpage>2020</lpage><pub-id pub-id-type="doi">10.1039/D1SC05558E</pub-id><pub-id pub-id-type="pmid">35308851</pub-id>
+</element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Du</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mei</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zuo</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>P.</given-names></name>
+</person-group><article-title>Framework-hotspot enhanced trans cleavage of CRISPR-Cas12a for clinical samples detection</article-title><source>Angew. Chem., Int. Ed.</source><year>2023</year><volume>62</volume><fpage>e202305536</fpage><pub-id pub-id-type="doi">10.1002/anie.202305536</pub-id><pub-id pub-id-type="pmid">37278518</pub-id>
+</element-citation></ref><ref id="cit9"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hevekerl</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Spielmann</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chmyrov</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Widengren</surname><given-names>J.</given-names></name>
+</person-group><article-title>F&#x000f6;rster resonance energy transfer beyond 10 nm: Exploiting the triplet state kinetics of organic fluorophores</article-title><source>J. Phys. Chem. B</source><year>2011</year><volume>115</volume><fpage>13360</fpage><lpage>13370</lpage><pub-id pub-id-type="doi">10.1021/jp206770s</pub-id><pub-id pub-id-type="pmid">21928769</pub-id>
+</element-citation></ref><ref id="cit10"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>J. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Harrington</surname><given-names>L. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Da Costa</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Palefsky</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Doudna</surname><given-names>J. A.</given-names></name>
+</person-group><article-title>CRISPR-Cas12a target binding unleashes indiscriminate single-stranded DNase activity</article-title><source>Science</source><year>2018</year><volume>360</volume><fpage>436</fpage><lpage>439</lpage><pub-id pub-id-type="doi">10.1126/science.aar6245</pub-id><pub-id pub-id-type="pmid">29449511</pub-id>
+</element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kellner</surname><given-names>M. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Koob</surname><given-names>J. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gootenberg</surname><given-names>J. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Abudayyeh</surname><given-names>O. O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>F.</given-names></name>
+</person-group><article-title>SHERLOCK: nucleic acid detection with CRISPR nucleases</article-title><source>Nat. Protoc.</source><year>2019</year><volume>14</volume><fpage>2986</fpage><lpage>3012</lpage><pub-id pub-id-type="doi">10.1038/s41596-019-0210-2</pub-id><pub-id pub-id-type="pmid">31548639</pub-id>
+</element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><article-title>CRISPR-Cas12a-assisted nucleic acid detection</article-title><source>Cell Discovery</source><year>2018</year><volume>4</volume><fpage>20</fpage><pub-id pub-id-type="doi">10.1038/s41421-018-0028-z</pub-id><pub-id pub-id-type="pmid">29707234</pub-id>
+</element-citation></ref><ref id="cit13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Cas12aVDet: A CRISPR/Cas12a-based platform for rapid and visual nucleic acid detection</article-title><source>Anal. Chem.</source><year>2019</year><volume>91</volume><fpage>12156</fpage><lpage>12161</lpage><pub-id pub-id-type="doi">10.1021/acs.analchem.9b01526</pub-id><pub-id pub-id-type="pmid">31460749</pub-id>
+</element-citation></ref><ref id="cit14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cutler</surname><given-names>J. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Auyeung</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mirkin</surname><given-names>C. A.</given-names></name>
+</person-group><article-title>Spherical nucleic acids</article-title><source>J. Am. Chem. Soc.</source><year>2012</year><volume>134</volume><fpage>1376</fpage><lpage>1391</lpage><pub-id pub-id-type="doi">10.1021/ja209351u</pub-id><pub-id pub-id-type="pmid">22229439</pub-id>
+</element-citation></ref><ref id="cit15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Prigodich</surname><given-names>A. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Alhasan</surname><given-names>A. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mirkin</surname><given-names>C. A.</given-names></name>
+</person-group><article-title>Selective enhancement of nucleases by polyvalent DNA-functionalized gold nanoparticles</article-title><source>J. Am. Chem. Soc.</source><year>2011</year><volume>133</volume><fpage>2120</fpage><lpage>2123</lpage><pub-id pub-id-type="doi">10.1021/ja110833r</pub-id><pub-id pub-id-type="pmid">21268581</pub-id>
+</element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cutler</surname><given-names>J. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Giljohann</surname><given-names>D. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mirkin</surname><given-names>C. A.</given-names></name>
+</person-group><article-title>Polyvalent oligonucleotide iron oxide nanoparticle &#x0201c;Click&#x0201d; conjugates</article-title><source>Nano Lett.</source><year>2010</year><volume>10</volume><fpage>1477</fpage><lpage>1480</lpage><pub-id pub-id-type="doi">10.1021/nl100477m</pub-id><pub-id pub-id-type="pmid">20307079</pub-id>
+</element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Peng</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ke</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><article-title>Exploring the trans-cleavage activity of CRISPR/Cas12a on gold nanoparticles for stable and sensitive biosensing</article-title><source>Anal. Chem.</source><year>2021</year><volume>93</volume><fpage>4967</fpage><lpage>4974</lpage><pub-id pub-id-type="doi">10.1021/acs.analchem.1c00027</pub-id><pub-id pub-id-type="pmid">33703873</pub-id>
+</element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Du</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hou</surname><given-names>X.</given-names></name>
+</person-group><article-title>Recombinase polymerase amplification and target-triggered CRISPR/Cas12a assay for sensitive and selective Hepatitis B virus DNA analysis based on lanthanide tagging and inductively coupled plasma mass spectrometric detection</article-title><source>Anal. Chem.</source><year>2024</year><volume>96</volume><fpage>15059</fpage><lpage>15065</lpage><pub-id pub-id-type="doi">10.1021/acs.analchem.4c03715</pub-id><pub-id pub-id-type="pmid">39241168</pub-id>
+</element-citation></ref><ref id="cit19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bagheri</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chamorro</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Idili</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Porchetta</surname><given-names>A.</given-names></name>
+</person-group><article-title>PAM-engineered toehold switches as input-responsive activators of CRISPR-Cas12a for sensing applications</article-title><source>Angew. Chem., Int. Ed.</source><year>2024</year><volume>63</volume><fpage>e202319677</fpage><pub-id pub-id-type="doi">10.1002/anie.202319677</pub-id><pub-id pub-id-type="pmid">38284432</pub-id>
+</element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xia</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xi</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>M.</given-names></name>
+</person-group><article-title>G.-triplex: A new type of CRISPR-Cas12a reporter enabling highly sensitive nucleic acid detection</article-title><source>Biosens. Bioelectron.</source><year>2021</year><volume>187</volume><fpage>113292</fpage><pub-id pub-id-type="doi">10.1016/j.bios.2021.113292</pub-id><pub-id pub-id-type="pmid">33991961</pub-id>
+</element-citation></ref><ref id="cit21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>M.</given-names></name>
+</person-group><article-title>CRISPR-Cas12a trans-cleaves DNA G-quadruplexes</article-title><source>Chem. Commun.</source><year>2020</year><volume>56</volume><fpage>12526</fpage><lpage>12529</lpage><pub-id pub-id-type="doi">10.1039/D0CC05540A</pub-id><pub-id pub-id-type="pmid">32966423</pub-id>
+</element-citation></ref><ref id="cit22"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Leveraging Cas13a's trans-cleavage on RNA G-quadruplexes for amplification-free RNA detection</article-title><source>Chem. Commun.</source><year>2024</year><volume>60</volume><fpage>3166</fpage><lpage>3169</lpage><pub-id pub-id-type="doi">10.1039/D3CC06238D</pub-id><pub-id pub-id-type="pmid">38410041</pub-id>
+</element-citation></ref><ref id="cit23"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rossetti</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Merlo</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bagheri</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Moscone</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Valenti</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Saha</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Arantes</surname><given-names>P. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ippodrino</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ricci</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Treglia</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Delibato</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>van der Oost</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Palermo</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Perugino</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Porchetta</surname><given-names>A.</given-names></name>
+</person-group><article-title>Enhancement of CRISPR/Cas12a trans-cleavage activity using hairpin DNA reporters</article-title><source>Nucleic Acids Res.</source><year>2022</year><volume>50</volume><fpage>8377</fpage><lpage>8391</lpage><pub-id pub-id-type="doi">10.1093/nar/gkac578</pub-id><pub-id pub-id-type="pmid">35822842</pub-id>
+</element-citation></ref><ref id="cit24"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dai</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Somoza</surname><given-names>R. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Welter</surname><given-names>J. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Caplan</surname><given-names>A. I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>C. C.</given-names></name>
+</person-group><article-title>Exploring the trans-cleavage activity of CRISPR-Cas12a (cpf1) for the development of a universal electrochemical biosensor</article-title><source>Angew. Chem., Int. Ed.</source><year>2019</year><volume>58</volume><fpage>17399</fpage><lpage>17405</lpage><pub-id pub-id-type="doi">10.1002/anie.201910772</pub-id><pub-id pub-id-type="pmid">31568601</pub-id>
+</element-citation></ref><ref id="cit25"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Peng</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Man</surname><given-names>S.</given-names></name>
+</person-group><article-title>CRISPR-Cas12a-powered dual-mode biosensor for ultrasensitive and cross-validating detection of pathogenic bacteria</article-title><source>ACS Sens.</source><year>2021</year><volume>6</volume><fpage>2920</fpage><lpage>2927</lpage><pub-id pub-id-type="doi">10.1021/acssensors.1c00686</pub-id><pub-id pub-id-type="pmid">34281340</pub-id>
+</element-citation></ref><ref id="cit26"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pang</surname><given-names>D.</given-names></name>
+</person-group><article-title>Detection of SARS-CoV-2 by CRISPR/Cas12a-enhanced colorimetry</article-title><source>ACS Sens.</source><year>2021</year><volume>6</volume><fpage>1086</fpage><lpage>1093</lpage><pub-id pub-id-type="doi">10.1021/acssensors.0c02365</pub-id><pub-id pub-id-type="pmid">33683104</pub-id>
+</element-citation></ref><ref id="cit27"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>B.</given-names></name>
+</person-group><article-title>Dual-amplification single-particle ICP-MS strategy based on strand displacement amplification CRISPR/Cas12a amplification for homogeneous detection of miRNA</article-title><source>Anal. Chem.</source><year>2025</year><volume>97</volume><fpage>811</fpage><lpage>817</lpage><pub-id pub-id-type="doi">10.1021/acs.analchem.4c05385</pub-id><pub-id pub-id-type="pmid">39720925</pub-id>
+</element-citation></ref><ref id="cit28"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lv</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Elemental probe-based CRISPR/Cas12a biosensing for sensitive tobramycin detection</article-title><source>At. Spectrosc.</source><year>2022</year><volume>43</volume><fpage>201</fpage><lpage>206</lpage></element-citation></ref><ref id="cit29"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shao</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>X.</given-names></name>
+</person-group><article-title>ICP-MS and fluorescence dual-mode detection of ZIKV-RNA based on quantum dot labeling with hybridization chain reaction</article-title><source>Talanta</source><year>2024</year><volume>269</volume><fpage>125463</fpage><pub-id pub-id-type="doi">10.1016/j.talanta.2023.125463</pub-id><pub-id pub-id-type="pmid">38016323</pub-id>
+</element-citation></ref><ref id="cit30"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>B.</given-names></name>
+</person-group><article-title>Dual-mode detection of avian influenza virions (H9N2) by ICP-MS and fluorescence after quantum dot labeling with immuno-rolling circle amplification</article-title><source>Anal. Chim. Acta</source><year>2020</year><volume>1096</volume><fpage>18</fpage><lpage>25</lpage><pub-id pub-id-type="doi">10.1016/j.aca.2019.10.063</pub-id><pub-id pub-id-type="pmid">31883585</pub-id>
+</element-citation></ref><ref id="cit31"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>B.</given-names></name>
+</person-group><article-title>Elemental mass spectrometry and fluorescence dual-mode strategy for ultrasensitive label-free detection of HBV DNA</article-title><source>Anal. Chem.</source><year>2021</year><volume>93</volume><fpage>9454</fpage><lpage>9461</lpage><pub-id pub-id-type="doi">10.1021/acs.analchem.1c01180</pub-id><pub-id pub-id-type="pmid">34181411</pub-id>
+</element-citation></ref><ref id="cit32"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pi</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>S.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiang</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Circular DNA enhanced amplification-free CRISPR/Cas12a assays for end-user friendly ultra-sensitive Porphyromonas gingivalis diagnosis</article-title><source>Microchem. J.</source><year>2024</year><volume>207</volume><fpage>111983</fpage><pub-id pub-id-type="doi">10.1016/j.microc.2024.111983</pub-id></element-citation></ref><ref id="cit33"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Paialunga</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bagheri</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rossetti</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fabiani</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Micheli</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chamorro-Garcia</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Porchetta</surname><given-names>A.</given-names></name>
+</person-group><article-title>Leveraging synthetic antibody&#x02013;DNA conjugates to expand the CRISPR-Cas12a biosensing toolbox</article-title><source>ACS Synth. Biol.</source><year>2025</year><volume>14</volume><fpage>171</fpage><lpage>178</lpage><pub-id pub-id-type="doi">10.1021/acssynbio.4c00541</pub-id><pub-id pub-id-type="pmid">39746849</pub-id>
+</element-citation></ref><ref id="cit34"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>D.</given-names></name>
+</person-group><article-title>Design and bioanalytical applications of DNA hairpin-based fluorescent probes</article-title><source>TrAC, Trends Anal. Chem.</source><year>2014</year><volume>53</volume><fpage>11</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1016/j.trac.2013.08.007</pub-id></element-citation></ref><ref id="cit35"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lei</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nie</surname><given-names>Z.</given-names></name>
+</person-group><article-title>A CRISPR-Cas autocatalysis-driven feedback amplification network for supersensitive DNA diagnostics</article-title><source>Sci. Adv.</source><year>2021</year><volume>7</volume><fpage>eabc7802</fpage><pub-id pub-id-type="doi">10.1126/sciadv.abc7802</pub-id><pub-id pub-id-type="pmid">33571114</pub-id>
+</element-citation></ref><ref id="cit36"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Leng</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>An</surname><given-names>G.</given-names></name>
+</person-group><article-title>CRISPR-Cas12a based target recognition initiated duplex-specific nuclease enhanced fluorescence and colorimetric analysis of cell-free DNA (cfDNA)</article-title><source>Talanta</source><year>2024</year><volume>271</volume><fpage>125717</fpage><pub-id pub-id-type="doi">10.1016/j.talanta.2024.125717</pub-id><pub-id pub-id-type="pmid">38281430</pub-id>
+</element-citation></ref><ref id="cit37"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><article-title>CRISPR-Cas12a-activated palindrome-catalytic hairpin assembly for ultrasensitive fluorescence detection of HIV-1 DNA</article-title><source>Anal. Chim. Acta</source><year>2022</year><volume>1227</volume><fpage>340303</fpage><pub-id pub-id-type="doi">10.1016/j.aca.2022.340303</pub-id><pub-id pub-id-type="pmid">36089315</pub-id>
+</element-citation></ref><ref id="cit38"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ge</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>H.</given-names></name>
+</person-group><article-title>Ultrasensitive and visual detection of pseudorabies virus based on CRISPR-Cas12b system</article-title><source>Microb. Pathog.</source><year>2025</year><volume>203</volume><fpage>107447</fpage><pub-id pub-id-type="doi">10.1016/j.micpath.2025.107447</pub-id><pub-id pub-id-type="pmid">40032004</pub-id>
+</element-citation></ref><ref id="cit39"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>K. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>Y. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>Y. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Long</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>S. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z. Q.</given-names></name>
+</person-group><article-title>Development of a triplex crystal digital RT-PCR for the detection of PHEV, PRV, and CSFV</article-title><source>Front. Vet. Sci.</source><year>2024</year><volume>11</volume><fpage>26</fpage><lpage>39</lpage></element-citation></ref><ref id="cit40"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lv</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wen</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>J.</given-names></name>
+</person-group><article-title>A SYBR green I-based multiplex real-time PCR for simultaneous detection of pseudorabies virus, porcine circovirus 3 and porcine parvovirus</article-title><source>BMC Vet. Res.</source><year>2025</year><volume>21</volume><fpage>10</fpage><lpage>19</lpage><pub-id pub-id-type="doi">10.1186/s12917-024-04440-x</pub-id><pub-id pub-id-type="pmid">39773253</pub-id>
+</element-citation></ref></ref-list></back></article>

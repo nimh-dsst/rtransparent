@@ -1,0 +1,1032 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Nano</journal-id><journal-id journal-id-type="iso-abbrev">ACS Nano</journal-id><journal-id journal-id-type="publisher-id">nn</journal-id><journal-id journal-id-type="coden">ancac3</journal-id><journal-title-group><journal-title>ACS Nano</journal-title></journal-title-group><issn pub-type="ppub">1936-0851</issn><issn pub-type="epub">1936-086X</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38925630</article-id><article-id pub-id-type="pmc">PMC11238734</article-id>
+<article-id pub-id-type="doi">10.1021/acsnano.4c04159</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>The Influence of
+Size on the Intracranial Distribution
+of Biomedical Nanoparticles Administered by Convection-enhanced Delivery
+in Minipigs</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0008-7466-8384</contrib-id><name><surname>Amirrashedi</surname><given-names>Mahsa</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><name><surname>Jensen</surname><given-names>Andreas Ingemann</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff4" ref-type="aff">&#x02225;</xref><xref rid="notes2" ref-type="notes">&#x025c6;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Tang</surname><given-names>Qing</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Straathof</surname><given-names>Natan Johannes Willem</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Ravn</surname><given-names>Katharina</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Pedersen</surname><given-names>Christian G.T.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Langhorn</surname><given-names>Louise</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Poulsen</surname><given-names>Frantz Rom</given-names></name><xref rid="aff6" ref-type="aff">#</xref><xref rid="aff7" ref-type="aff">&#x02207;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Woolley</surname><given-names>Max</given-names></name><xref rid="aff8" ref-type="aff">&#x025cb;</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Johnson</surname><given-names>David</given-names></name><xref rid="aff8" ref-type="aff">&#x025cb;</xref></contrib><contrib contrib-type="author" id="ath11"><name><surname>Williams</surname><given-names>Julia</given-names></name><xref rid="aff8" ref-type="aff">&#x025cb;</xref></contrib><contrib contrib-type="author" id="ath12"><name><surname>Kidd</surname><given-names>Charlotte</given-names></name><xref rid="aff8" ref-type="aff">&#x025cb;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath13"><name><surname>Thisgaard</surname><given-names>Helge</given-names></name><xref rid="cor3" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff6" ref-type="aff">#</xref><xref rid="notes2" ref-type="notes">&#x025c6;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath14"><name><surname>Halle</surname><given-names>Bo</given-names></name><xref rid="cor4" ref-type="other">*</xref><xref rid="aff6" ref-type="aff">#</xref><xref rid="aff7" ref-type="aff">&#x02207;</xref><xref rid="notes2" ref-type="notes">&#x025c6;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Nuclear Medicine, <institution>Odense University Hospital</institution>, Odense 5000, <country>Denmark</country></aff><aff id="aff2"><label>&#x02021;</label>Department
+of Applied Mathematics and Computer Science, <institution>Technical University of Denmark</institution>, Lyngby 2800, <country>Denmark</country></aff><aff id="aff3"><label>&#x000a7;</label>Danish
+Research Centre for Magnetic Resonance, Centre for Functional and
+Diagnostic Imaging and Research, <institution>Copenhagen
+University Hospital Amager and Hvidovre</institution>, Copenhagen 2650, <country>Denmark</country></aff><aff id="aff4"><label>&#x02225;</label>The
+Hevesy Laboratory, Department of Health Technology, <institution>Technical University of Denmark</institution>, Roskilde 4000, <country>Denmark</country></aff><aff id="aff5"><label>&#x022a5;</label>Biomedical
+Laboratory, <institution>University of Southern Denmark</institution>, Odense 5000, <country>Denmark</country></aff><aff id="aff6"><label>#</label>Department
+of Clinical Research and BRIDGE (Brain Research - Interdisciplinary
+Guided Excellence), <institution>University of Southern
+Denmark</institution>, Odense 5230, <country>Denmark</country></aff><aff id="aff7"><label>&#x02207;</label>Department
+of Neurosurgery, <institution>Odense University Hospital</institution>, Odense 5000, <country>Denmark</country></aff><aff id="aff8"><label>&#x025cb;</label><institution>Renishaw
+Neuro Solutions Ltd (RNS)</institution>, Gloucestershire GL12 8SP, <country>United Kingdom</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>maami@dtu.dk</email>.</corresp><corresp id="cor2"><label>*</label>Email: <email>atije@dtu.dk</email>.</corresp><corresp id="cor3"><label>*</label>Email: <email>helge.thisgaard@rsyd.dk</email>.</corresp><corresp id="cor4"><label>*</label>Email: <email>bo.halle@rsyd.dk</email>.</corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>06</month><year>2024</year></pub-date><pub-date pub-type="collection"><day>09</day><month>07</month><year>2024</year></pub-date><pub-date pub-type="pmc-release"><day>26</day><month>06</month><year>2025</year></pub-date><volume>18</volume><issue>27</issue><fpage>17869</fpage><lpage>17881</lpage><history><date date-type="received"><day>28</day><month>03</month><year>2024</year></date><date date-type="accepted"><day>10</day><month>06</month><year>2024</year></date><date date-type="rev-recd"><day>25</day><month>05</month><year>2024</year></date></history><permissions><copyright-statement>&#x000a9; 2024 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>Permits non-commercial access and re-use, provided that author attribution and integrity are maintained; but does not permit creation of adaptations or other derivative works (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c04159_0006" id="ab-tgr1"/></p><p>Because of the blood&#x02013;brain barrier (BBB), successful
+drug
+delivery to the brain has long been a key objective for the medical
+community, calling for pioneering technologies to overcome this challenge.
+Convection-enhanced delivery (CED), a form of direct intraparenchymal
+microinfusion, shows promise but requires optimal infusate design
+and real-time distribution monitoring. The size of the infused substances
+appears to be especially critical, with current knowledge being limited.
+Herein, we examined the intracranial administration of polyethylene
+glycol (PEG)-coated nanoparticles (NPs) of various sizes using CED
+in groups of healthy minipigs (<italic>n</italic> = 3). We employed
+stealth liposomes (LIPs, 130 nm) and two gold nanoparticle designs
+(AuNPs) of different diameters (8 and 40 nm). All were labeled with
+copper-64 for quantitative and real-time monitoring of the infusion
+via positron emission tomography (PET). NPs were infused via two catheters
+inserted bilaterally in the putaminal regions of the animals. Our
+results suggest CED with NPs holds promise for precise brain drug
+delivery, with larger LIPs exhibiting superior distribution volumes
+and intracranial retention over smaller AuNPs. PET imaging alongside
+CED enabled dynamic visualization of the process, target coverage,
+timely detection of suboptimal infusion, and quantification of distribution
+volumes and concentration gradients. These findings may augment the
+therapeutic efficacy of the delivery procedure while mitigating unwarranted
+side effects associated with nonvisually monitored delivery approaches.
+This is of vital importance, especially for chronic intermittent infusions
+through implanted catheters, as this information enables informed
+decisions for modulating targeted infusion volumes on a catheter-by-catheter,
+patient-by-patient basis.</p></abstract><kwd-group><kwd>convection-enhanced delivery</kwd><kwd>nanoparticles</kwd><kwd>liposomes</kwd><kwd>gold nanoparticles</kwd><kwd>positron emission
+tomography</kwd><kwd>recessed step</kwd><kwd>neuroinfuse</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>Kr&#x000c3;&#x000a6;ftens Bek&#x000c3;&#x000a6;mpelse</institution><institution-id institution-id-type="doi">10.13039/100008363</institution-id></institution-wrap></funding-source><award-id>R278-Rp21408</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Danmarks Frie Forskningsfond</institution><institution-id institution-id-type="doi">10.13039/501100004836</institution-id></institution-wrap></funding-source><award-id>9063-00067B</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Kr&#x000c3;&#x000a6;ftens Bek&#x000c3;&#x000a6;mpelse</institution><institution-id institution-id-type="doi">10.13039/100008363</institution-id></institution-wrap></funding-source><award-id>R295-A16770</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>nn4c04159</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>nn4c04159</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>It is widely acknowledged that effective
+drug delivery to the brain
+is often hindered by the blood&#x02013;brain barrier (BBB). This anatomical
+hurdle renders systemic drug administration futile against a vast
+spectrum of central nervous system (CNS) disorders and associated
+pathologies.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> In severe medical conditions
+(<italic>e.g.</italic>, glioblastoma multiforme (GBM), diffuse intrinsic
+pontine glioma, and Parkinson&#x02019;s disease), direct administration
+of therapeutics into the affected regions of the brain, thereby bypassing
+the BBB, is highly desirable. One plausible remedy is to employ bulk
+convective flow at the infusion site, using so-called convection-enhanced
+delivery (CED). CED relies on the direct delivery of high drug concentrations
+using a hydrostatic pressure gradient generated through microcatheters
+implanted intracerebrally. Opposed to diffusion-driven strategies,
+CED allows for the expansive distribution of therapeutic agents within
+the brain parenchyma, reaching a larger volume of distribution and
+potentially covering more of the affected brain regions.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref3">3</xref></sup></p><p>The efficacy of CED is reliant upon several factors, chief
+among
+them being the optimal design and size of the infused species.<sup><xref ref-type="bibr" rid="ref4">4</xref>&#x02212;<xref ref-type="bibr" rid="ref6">6</xref></sup> Small molecule therapeutic agents typically have short half-lives
+in the brain, leading to their swift elimination immediately after
+infusion.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> This limitation can be addressed
+using nanoencapsulation, in this way artificially increasing the size
+of the administered compounds and protecting them from rapid clearance.
+Biomedically relevant nanoparticles (NPs) such as small gold nanoparticles
+(AuNPs),<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> polymeric micelles,<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> dendrimers,<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> and liposomes (LIPs)<sup><xref ref-type="bibr" rid="ref12">12</xref>&#x02212;<xref ref-type="bibr" rid="ref14">14</xref></sup> minimize systemic toxicity, improve intracranial retention, and
+facilitate sustained release of their therapeutic cargo.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> Once administered via CED, NPs must navigate
+through the brain&#x02019;s extracellular matrix (ECM). Their physiochemical
+properties, notably their size and surface architecture, are believed
+to play critical roles in determining their distribution within the
+brain. These properties are, therefore, central to aspects like penetration
+depth, distribution volume, and intracranial retention. As such, the
+size dependency of NPs on CED can be thought of as relating both to
+an initial distribution phase and a retention phase once the infusion
+has been terminated. Studies suggest that NPs exceeding diameters
+of 100 nm face challenges when moving through the brain&#x02019;s ECM,
+which typically displays openings of 38&#x02013;64 nm in healthy tissue<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> and can fluctuate between 7 and 100 nm in tumor-affected
+areas.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> As such, larger NPs would be expected
+to show limited distribution but increased retention within the brain,
+given that their size would hinder swift removal, whether through
+cellular absorption, glymphatic clearance, transit through perivascular
+routes, or clearance via capillaries. Conversely, smaller NPs might
+penetrate and distribute more extensively but might not remain in
+the tissue for as long. The small dimensions of such particles may
+accelerate their removal through clearance mechanisms or diffusive
+exits from the target. In this way, the dimension of NPs is likely
+to be a strategic variable that can be fine-tuned to optimize the
+effectiveness of NP delivery via CED, a topic that warrants deeper
+exploration. In addition to size, the surface architecture of the
+NPs is expected to be of key importance. Previous reports support
+that NPs with neutral or slightly negative surface charge (zeta potential)
+and coating with hydrophilic polymers such as polyethylene glycol
+(PEG) facilitate passage through the cerebral interstitium.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> This is in line with established nanomedicine,
+in which such coatings are employed to limit the interaction of NPs
+with biological materials in the living organism.</p><p>In addition
+to delivering drugs, NPs can also serve as tracers
+during the infusion process.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> This feature is of
+utmost importance in CED, which relies on precise and targeted infusion.
+By attaching suitable radionuclides to the NPs, the entire infusion
+process can be tracked and monitored noninvasively via nuclear imaging.
+This provides not only valuable real-time feedback on the effectiveness
+of the delivery method but also permits prompt identification of suboptimal
+infusion and enables optimizable modulation of infusion parameters.
+Despite the wealth of studies utilizing gadolinium (Gd)-enhanced magnetic
+resonance imaging (MRI) to characterize the distribution achieved
+via CED,<sup><xref ref-type="bibr" rid="ref19">19</xref>&#x02212;<xref ref-type="bibr" rid="ref26">26</xref></sup> the potential of nuclear imaging modalities such as positron emission
+tomography (PET) remains largely untapped and has not yet been fully
+elucidated in the context of image-guided intracranial drug delivery.
+PET provides a sensitive alternative to MRI contrast for tracking
+and monitoring the spatiotemporal distribution of radiolabeled therapeutics
+during CED. Moreover, PET-guided delivery provides invaluable insight
+into the pharmacokinetics of the infused substance, including its
+dispersion, elimination, and clearance, adding an additional layer
+of quantitative information to the delivery process-.</p><p>Motivated
+by the promise of using NPs for drug delivery via CED
+and the need for optimized strategies for this, we here report an
+investigation of PET-guided intracranial CED of three different sizes
+of NPs (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>).
+The central objective was to evaluate the impact of NP size on the
+two crucial delivery aspects of CED in the brain: volume of distribution
+(Vd) and intracranial retention. For the largest NP-type, we used
+LIPs with a volume-weighted hydrodynamic diameter (&#x000d8;<sub>vol</sub>) of &#x0223c;130 nm, LIP(130). LIPs are biocompatible and biodegradable
+lipid-based, spherical NPs, which can be readily manufactured by established
+methods with diameters of around 100 nm. In addition, LIPs can be
+readily labeled with PET radionuclides in the lipid bilayer membrane
+as well as in the inner aqueous compartment and used for <italic>in
+vivo</italic> PET imaging.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> However, LIPs are challenging
+to prepare in small sizes. For this reason, we used AuNPs as models
+for the two smaller NP designs, with &#x000d8;<sub>vol</sub> of &#x0223c;8
+nm and &#x0223c;40 nm, AuNP(8) and AuNP(40), respectively. AuNPs are
+biocompatible gold spheres that can be readily synthesized in tailored
+sizes in the 5&#x02013;50 nm range using reported procedures.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref28">28</xref></sup> We recently reported a practical method for surface labeling of
+AuNPs with radiometals for PET imaging, which was also used in the
+current study.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> All three NP designs were
+coated with PEG (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>), ensuring that their interaction with biological matter in the
+brain would be comparable, and were labeled with copper-64 (<sup>64</sup>Cu-NPs), denominated as <sup>64</sup>Cu-AuNP (8), <sup>64</sup>Cu-AuNP
+(40), and <sup>64</sup>Cu-LIP (130), for quantitative PET imaging.
+We tested our delivery platform in pigs, driven by their anatomical
+brain similarities to humans. We used minipigs due to their slow growth
+rate, minimizing the risk of postimplantation catheter dislocation
+during the study. Concurrently, we employed clinical-grade CED devices
+to infuse <sup>64</sup>Cu-NPs into the minipig brain, a strategic
+choice made to uphold the relevance of the study by mimicking the
+conditions and challenges that would be encountered in actual clinical
+scenarios. By integrating clinical tools and large animal models within
+our experimental framework, we sought to enhance the reliability of
+our findings, thereby positioning our study at the forefront of translational
+research, where the insights and knowledge gained have the potential
+for direct implementation into the clinic.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Graphical illustration
+of the different sizes of <sup>64</sup>Cu-NPs
+used in this study. For large NPs, we used LIPs with an average diameter
+of 130 nm, and for small and medium NPs, we used AuNPs with diameters
+of 8 and 40 nm, respectively. Abbreviations: NPs, nanoparticles; <sup>64</sup>Cu-NPs, radiolabeled nanoparticles with copper-64; AuNPs,
+gold nanoparticles; LIPs, liposomes; &#x000d8;<sub>vol-DLS</sub>, the volume-weighted hydrodynamic diameter measured by dynamic light
+scattering.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c04159_0001" id="gr3" position="float"/></fig></sec><sec id="sec2"><title>Results and Discussion</title><sec id="sec2.1"><title>Synthesis and Characterization of Nanoparticles</title><p>To
+investigate the influence of NP size with CED, we prepared two different
+types of copper-64 labeled NPs (<sup>64</sup>Cu-NPs) in three different
+sizes, small and medium AuNPs: <sup>64</sup>Cu-AuNP(8) and <sup>64</sup>Cu-AuNP(40), and large LIPs: <sup>64</sup>Cu-LIP(130) (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). Small and medium AuNPs were
+synthesized as per previously published procedures.<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> In brief, copper-64 was bound to the AuNP surface using a conjugate
+of the macrocyclic chelator DOTA and 1,2-dithiolane, which exhibits
+a disulfide for stable attachment to metallic gold, followed by saturation
+with PEG. We previously reported excellent stability of this radiolabeling
+strategy in both the cerebrospinal fluid and brain homogenate within
+the relevant study period.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> Further, the
+chelate between DOTA and copper-64 is known to be highly stable <italic>in vivo</italic>, and is employed in clinically used radiotracers,
+such as DetectNet (Curium, <sup>64</sup>Cu-dotatate). The synthesis,
+radiolabeling, and characterization of the <sup>64</sup>Cu-NPs are
+detailed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Figures S1&#x02013;S13 and Tables S1 and S2</ext-link>. Using different amounts of HAuCl<sub>4</sub>, with
+and without tannic acid in a citrate buffer (pH = 7) yielded different
+sizes, small and medium, of citrate coated AuNPs, with &#x000d8;<sub>vol-DLS</sub> of 5.4 &#x000b1; 0.9 nm and 13.4 &#x000b1; 0.8 nm
+and polydispersity indices (PDIs) of 0.329 &#x000b1; 0.011 and 0.319
+&#x000b1; 0.005, respectively, as judged by dynamic light scattering
+(DLS) analysis (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). Next, the freshly prepared citrate-coated AuNPs were treated with <sup>64</sup>Cu-DOTA-TA. <sup>64</sup>Cu-DOTA-TA is a complex of [<sup>64</sup>Cu]CuCl<sub>2</sub> in a DOTA (tetraxetan) chelator linked
+to a 1,2-dithiolane (2,2&#x02032;,2&#x02019;&#x02019;-(10-(2-((2-(5-(1,2-dithiolan-3-yl)pentanamido)ethyl)amino)-2-oxoethyl)-1,4,7,10
+tetraazacyclododecane-1,4,7-triyl) triacetic acid) moiety (&#x0201c;TA&#x0201d;). <sup>64</sup>Cu-DOTA-TA was obtained quantitively from complexing [<sup>64</sup>Cu]CuCl<sub>2</sub> with DOTA-TA with radiochemical conversion
+(RCC) of 96.8 &#x000b1; 0.5% (<italic>n</italic> = 4). In all cases,
+both the medium and small AuNPs were successfully coated with the <sup>64</sup>Cu-DOTA-TA complex (RCC = 83.5 &#x000b1; 9.4%, <italic>n</italic> = 4). The radiolabeled AuNPs
+were then treated with a final coating of MeO-PEG<sub>2000</sub>-SH
+in sufficient excess to fully decorate the surface with PEG. It was
+observed that the coating procedure did not displace the already attached <sup>64</sup>Cu-DOTA-TA. The PEG-coated <sup>64</sup>Cu-AuNP were then
+reformulated by removal of the medium using a filtration filter, followed
+by redispersion in saline, then sterile-filtered, and characterized
+to give the final <sup>64</sup>Cu-AuNP dispersion, <sup>64</sup>Cu-AuNP(8)
+and <sup>64</sup>Cu-AuNP(40), ready for the <italic>in vivo</italic> studies in decay corrected (dc.) overall radiochemical yields (RCYs)
+of (57 &#x000b1; 1%, <italic>n</italic> = 2) (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">S2</ext-link>). The
+small <sup>64</sup>Cu-AuNPs were measured by transmission electron
+microscopy (TEM) to be 4.8 &#x000b1; 0.8 nm, and the medium-sized ones
+were measured to be 14.2 &#x000b1; 1.3 nm (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref> and <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>D), which are in agreement with the initial seed size
+of the citrate-coated AuNPs as judged by DLS analysis earlier.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Properties of All Radiolabeled <sup>64</sup>Cu-NPs Administered Intracranially to Minipigs<xref rid="tbl1fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="&#x000b1;"/><col align="char" char="&#x000b1;"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">size classification</th><th style="border:none;" align="center" char="&#x000b1;">small</th><th style="border:none;" align="center" char="&#x000b1;">medium</th><th style="border:none;" align="center">large</th><th style="border:none;" align="center">large</th></tr></thead><tbody><tr><td style="border:none;" align="left">&#x000d8;<sub>vol-DLS</sub>&#x000a0;(nm),&#x000a0;citrate-coated</td><td style="border:none;" align="char" char="&#x000b1;">5.4&#x000a0;&#x000b1;&#x000a0;0.9</td><td style="border:none;" align="char" char="&#x000b1;">13.4&#x000a0;&#x000b1;&#x000a0;0.8</td><td style="border:none;" align="left">n.a.</td><td style="border:none;" align="left">n.a.</td></tr><tr><td style="border:none;" align="left">&#x000d8;<sub>vol-DLS</sub> (nm), PEG-coated</td><td style="border:none;" align="char" char="&#x000b1;">7.5&#x000a0;&#x000b1;&#x000a0;0.4</td><td style="border:none;" align="char" char="&#x000b1;">39.8&#x000a0;&#x000b1;&#x000a0;6.9</td><td style="border:none;" align="left">134&#x000a0;&#x000b1;&#x000a0;9</td><td style="border:none;" align="left">127&#x000a0;&#x000b1;&#x000a0;10</td></tr><tr><td style="border:none;" align="left">&#x000d8;<sub>UV/vis</sub> (nm), PEG-coated</td><td style="border:none;" align="char" char="&#x000b1;">6.6&#x000a0;&#x000b1;&#x000a0;0.6</td><td style="border:none;" align="char" char="&#x000b1;">68&#x000a0;&#x000b1;&#x000a0;8</td><td style="border:none;" align="left">n.a.</td><td style="border:none;" align="left">n.a.</td></tr><tr><td style="border:none;" align="left">&#x000d8;<sub>TEM</sub> (nm)</td><td style="border:none;" align="char" char="&#x000b1;">4.8&#x000a0;&#x000b1;&#x000a0;0.8</td><td style="border:none;" align="char" char="&#x000b1;">14.2&#x000a0;&#x000b1;&#x000a0;1.3</td><td style="border:none;" align="left">n.a.</td><td style="border:none;" align="left">n.a.</td></tr><tr><td style="border:none;" align="left">PDI, PEG-coated</td><td style="border:none;" align="char" char="&#x000b1;">0.22&#x000a0;&#x000b1;&#x000a0;0.01</td><td style="border:none;" align="char" char="&#x000b1;">0.15&#x000a0;&#x000b1;&#x000a0;0.03</td><td style="border:none;" align="left">0.05&#x000a0;&#x000b1;&#x000a0;0.01</td><td style="border:none;" align="left">0.13&#x000a0;&#x000b1;&#x000a0;0.04</td></tr><tr><td style="border:none;" align="left">&#x003b6; pot.
+(mV), PEG-coated</td><td style="border:none;" align="char" char="&#x000b1;">&#x02013;9.55</td><td style="border:none;" align="char" char="&#x000b1;">&#x02013;4.86</td><td style="border:none;" align="left">&#x02013;4.89</td><td style="border:none;" align="left">&#x02013;2.45</td></tr><tr><td style="border:none;" align="left">number of NPs per mL</td><td style="border:none;" align="char" char="&#x000b1;">2.3&#x000a0;&#x000d7;&#x000a0;10<sup>13</sup></td><td style="border:none;" align="char" char="&#x000b1;">2.8&#x000a0;&#x000d7;&#x000a0;10<sup>11</sup></td><td style="border:none;" align="left">6.8&#x000a0;&#x000d7;&#x000a0;10<sup>12</sup></td><td style="border:none;" align="left">6.9&#x000a0;&#x000d7;&#x000a0;10<sup>12</sup></td></tr><tr><td style="border:none;" align="left">specific
+activity per NP (ndc.)</td><td style="border:none;" align="char" char="&#x000b1;">0.021 mBq/NP</td><td style="border:none;" align="char" char="&#x000b1;">1.73
+mBq/NP</td><td style="border:none;" align="left">0.043 mBq/NP</td><td style="border:none;" align="left">0.067 mBq/NP</td></tr><tr><td style="border:none;" align="left">overall RCY (ndc.)</td><td style="border:none;" align="char" char="&#x000b1;">45%</td><td style="border:none;" align="char" char="&#x000b1;">43%</td><td style="border:none;" align="left">48%</td><td style="border:none;" align="left">45%</td></tr><tr><td style="border:none;" align="left">overall RCY (dc.)</td><td style="border:none;" align="char" char="&#x000b1;">56%</td><td style="border:none;" align="char" char="&#x000b1;">58%</td><td style="border:none;" align="left">55%</td><td style="border:none;" align="left">53%</td></tr><tr><td style="border:none;" align="left">NP name</td><td style="border:none;" align="char" char="&#x000b1;"><sup>64</sup>Cu-AuNP(8)</td><td style="border:none;" align="char" char="&#x000b1;"><sup>64</sup>Cu-AuNP(40)</td><td style="border:none;" align="left"><sup>64</sup>Cu-LIP(130)&#x000a0;(experiment&#x000a0;#1)</td><td style="border:none;" align="left"><sup>64</sup>Cu-LIP(130)&#x000a0;(experiment&#x000a0;#2)</td></tr></tbody></table><table-wrap-foot><fn id="tbl1fn1"><label>a</label><p>Reported data are given as mean
+&#x000b1; standard deviation (<italic>n</italic><sub>TEM</sub> = 10, <italic>n</italic><italic>DLS</italic> = 5). Notes: <sup>64</sup>Cu-LIP(130)
+are synthesized and tested twice (experiments #1 and #2). The specific
+activity refers to the radioactivity for a single NP. The overall
+RCY refers to radiochemical yield (RCY) of the entire radiolabeling
+process. Abbreviations: &#x000d8;<sub>vol-DLS</sub>, the volume-weighted
+hydrodynamic diameter measured by DLS; &#x000d8;<sub>TEM</sub>, the diameter
+of the AuNP gold core measured by TEM; &#x000d8;<sub>UV/Vis</sub>, the
+AuNP diameter corresponding to the absorption maximum according to
+ref<sup><xref ref-type="bibr" rid="ref28">28</xref></sup>; PDI, polydispersity index; &#x003b6;,
+zeta potential; DLS, dynamic light scattering analysis; n.a., not
+applicable; TEM, transmission electron microscopy; UV/Vis, ultraviolet&#x02013;visible
+spectroscopy; RCY, radiochemical yield; ndc., non-decay corrected;
+dc., decay corrected; RCC, radio chemical conversion.</p></fn></table-wrap-foot></table-wrap><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Analysis using SEC, ICP-OES, and TEM. Relative abundancy used on
+the <italic>y</italic>-axis, see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Supporting Information</ext-link>for more details. (A) Analysis of <sup>64</sup>Cu-AuNP (8) stability
+on storage at room temperature, analyzed by SEC with quantification
+of <sup>64</sup>Cu by the dose calibrator and Au by ICP-OES. (B) Analysis
+of <sup>64</sup>Cu-AuNP (40) stability on storage at room temperature,
+analyzed by SEC with quantification of <sup>64</sup>Cu by the dose
+calibrator and Au by ICP-OES. (C) Purification of <sup>64</sup>Cu-LIP(130),
+with injected fractions highlighted (light blue box), followed by
+stability and integrity of <sup>64</sup>Cu-LIP(130) by SEC after 24
+h. (D) TEM of <sup>64</sup>Cu-AuNP(8) and <sup>64</sup>Cu-AuNP(40).
+Abbreviations: SEC, size-exclusion chromatography; ICP-OES, inductively
+coupled plasma-optical emission spectrometry; TEM, transmission electron
+microscopy; <sup>64</sup>Cu-AuNP(8), radiolabeled gold nanoparticles
+with an average diameter of 8 nm; <sup>64</sup>Cu-AuNP(40), radiolabeled
+gold nanoparticles with an average diameter of 40 nm; <sup>64</sup>Cu-LIP(130), radiolabeled liposomes with an average diameter of 130
+nm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c04159_0002" id="gr4" position="float"/></fig><p><sup>64</sup>Cu-LIPs were prepared as the large
+NP-type in this
+study. After preparation, the <sup>64</sup>Cu-LIPs were purified by
+size exclusion chromatography (SEC) using a PD-10 column eluted with
+iso-HEPES buffer (pH = 7.4), followed by sterile filtration (0.45
+&#x003bc;m) to give the final <sup>64</sup>Cu-LIP, <sup>64</sup>Cu-LIP(130),
+for the <italic>in vivo</italic> studies (374.5 &#x000b1; 85.5 MBq, RCY
+= 54 &#x000b1; 1% (dc.), <italic>n</italic> = 2) (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">S2</ext-link>).</p><p>The NPs prepared in this study were analyzed for gold (Au), or
+phosphorus (P) content by ICP-OES, relevant for AuNPs or LIPs, respectively.
+For the LIPs, the measured P content directly correlates to the phosphates
+of the phospholipids, which made it possible to calculate the number
+of NPs per milliliter.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> For the AuNPs,
+the concentration of Au was used to calculate the number of AuNPs.
+The number of NPs was hypothesized to be of potential relevance to
+the ability of the administered NPs to penetrate the brain tissue
+and not to saturate or clog available interstitial passageways. The
+NP preparations all contained a comparable number of NPs, in the range
+of 10<sup>11</sup> to 10<sup>13</sup> NPs per milliliter (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). We also monitored
+the stability of the <sup>64</sup>Cu-NPs after 24 h, by analyzing <italic>via</italic> SEC after storage at room temperature (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A&#x02013;C). This was done
+to ensure that the administered <sup>64</sup>Cu-NPs retained their
+integrity and did not lose the radiolabel. All prepared <sup>64</sup>Cu-NPs showed that only less than 1% of the <sup>64</sup>Cu activity
+was observed in the small molecular fractions (cutoff at fraction
+7 and higher), suggesting excellent radiolabel stability after 24
+h, and within the window of transportation and intracranial administration.
+The SEC stability analysis also depicted a clear overlap of the eluted <sup>64</sup>Cu activity, and the fractions containing the gold of the
+AuNPs, as judged by inductively coupled plasma-optical emission spectrometry
+(ICP-EOS) (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, brown versus green bars). It also shows the Au quantities per fraction,
+strongly suggesting that the <sup>64</sup>Cu-radiolabel remained associated
+with the AuNPs in both produced <sup>64</sup>Cu-AuNP (8) and <sup>64</sup>Cu-AuNP(40) (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A,B, respectively), demonstrating high stability of the NPs.
+A similar stability assay was also carried out for the liposomal NPs,
+with the relevant fractions containing <sup>64</sup>Cu-LIP(130) highlighted
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>C, blue bars,
+light blue highlight). No noteworthy degradation of the <sup>64</sup>Cu-LIP(130) was observed after 24 h storage at room temperature,
+strongly indicating excellent radiolabel stability.</p></sec><sec id="sec2.2"><title>CED of Radiolabeled Nanoparticles in the Minipig Brain</title><p>The CED administration of <sup>64</sup>Cu-NPs was well-tolerated
+by all subjects. No adverse reactions to the NPs or neurological sequelae
+were noted following the surgical procedure or during infusion. No
+reflux or leakage was observed during infusion. It is noteworthy to
+mention that the <sup>64</sup>Cu-AuNP(8) and <sup>64</sup>Cu-AuNP(40)
+were examined in all subjects (<italic>n</italic> = 3). However, due
+to insufficient removal of the subcutaneous tissue in relation to
+the bone-anchored port in one subject, attachment of the application
+set was impossible after the initial infusion. This subject was thus
+excluded from the remainder of the study. To ensure sufficient sample
+size in each group of NPs and guarantee the statistical robustness
+of our findings, we repeated the <sup>64</sup>Cu-LIP(130) infusion
+twice in the remaining subjects (<italic>n</italic> = 4). The intermittent
+infusion performance of the neuroinfuse chronic drug delivery catheters
+(Renishaw Neuro Solutions Ltd., Wotton-Under-Edge, Gloucestershire,
+UK; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Figure S14</ext-link>) remained unchanged during
+the whole study period, with no signs of intraparenchymal or subcutaneous
+infection, underlining the robustness of the chronic infusion device.</p><p>Sagittal and transverse PET/MRIs of a representative minipig brain
+illustrating the distribution of three distinct NPs following 120
+min CED infusion are shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>. The administered <sup>64</sup>Cu-NPs were easily
+distinguishable as a region of high signal intensity in the acquired
+PET images. Detailed presentation of dynamic PET frames and real-time
+tracking of <sup>64</sup>Cu-NPs infusions can be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Figure S15&#x02013;S17</ext-link>. During the infusion of
+all three types of <sup>64</sup>Cu-NPs, the Vd demonstrated a gradual
+increase in size over time without reaching a steady state even after
+a 120 min infusion.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>PET/MRI scans of the minipig brain post <sup>64</sup>Cu-NP
+infusion <italic>via</italic> CED. Representative PET/MRI scans of
+a minipig brain
+received <sup>64</sup>Cu-AuNP(40), <sup>64</sup>Cu-AuNP(8), and <sup>64</sup>Cu-LIP(130) upon completion of 2 hour infusion from (A) transverse
+and (B) sagittal views. Administration of <sup>64</sup>Cu-NPs was
+performed through two catheters implanted bilaterally within the putaminal
+regions. Abbreviations: NPs, nanoparticles; CED, convection-enhanced
+delivery; PET, positron emission tomography; MRI, magnetic resonance
+imaging; <sup>64</sup>Cu-AuNP(8), radiolabeled gold nanoparticles
+with an average diameter of 8 nm; <sup>64</sup>Cu-AuNP(40), radiolabeled
+gold nanoparticles with an average diameter of 40 nm; <sup>64</sup>Cu-LIP(130), radiolabeled liposomes with an average diameter of 130
+nm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c04159_0003" id="gr5" position="float"/></fig><p>As illustrated in <xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">S15&#x02013;S17</ext-link>, <sup>64</sup>Cu-LIP(130) exhibited a broader distribution than
+those achieved
+with the AuNPs and covered a more significant portion of the brain
+from both sagittal and transverse views. Moreover, medium-sized <sup>64</sup>Cu-AuNP(40) penetrated less than small-sized <sup>64</sup>Cu-AuNP(8). The results of our observations aligned with the line
+profile outcomes in <xref rid="fig4" ref-type="fig">Figures <xref rid="fig4" ref-type="fig">4</xref></xref>A,B and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">S18</ext-link>, showing that <sup>64</sup>Cu-AuNP(40) remained more localized at the infusion site,
+while interestingly, LIPs and small AuNPs were observed to distribute
+outward more readily. The mean FWHM/FWTM was 8.7 &#x000b1; 0.8/16 &#x000b1;
+1.5 mm for <sup>64</sup>Cu-LIP(130), 8.1 &#x000b1; 0.05/14.8 &#x000b1; 0.1
+mm for <sup>64</sup>Cu-AuNP(8), and 7.01 &#x000b1; 0.5/12.8 &#x000b1; 1
+mm for <sup>64</sup>Cu-AuNP(40) at <italic>T</italic> = 120 min (indicating
+the time when the infusion was completed). While the difference was
+not deemed statistically significant, the area under the FWHM/FWTM
+plots (AUC) indicated that <sup>64</sup>Cu-LIP(130) had a greater
+distribution radius and penetration capacity than the AuNPs. Mean
+(AUC<sub>FWHM</sub>/AUC<sub>FWTM</sub>) was achieved for <sup>64</sup>Cu-LIP(130), yielding around 795.8 &#x000b1; 42.4/1450.5 &#x000b1; 77.2
+mm&#x000b7;min, while the corresponding values were 759.6 &#x000b1; 24/1384
+&#x000b1; 44 mm&#x000b7;min for <sup>64</sup>Cu-AuNP(8) and 684.1 &#x000b1;
+52.5/1247 &#x000b1; 96 mm&#x000b7;min in the case of <sup>64</sup>Cu-AuNP(40).</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Line profile
+and iso-contour analysis for different <sup>64</sup>Cu-NPs. (A) Dynamic
+FWHM analysis of line profiles crossing the center
+of the catheter after infusion with different types of <sup>64</sup>Cu-NPs. (B) Corresponding AUC for FWHM plots. (C) Iso-contours for
+a single catheter (the same animal) infused with different <sup>64</sup>Cu-NPs at the end of a 120-min infusion. The process involved averaging
+three consecutive slices (including the catheter-visible target slice
+and two adjacent slices), normalizing to the maximum value, resampling
+to a finer sample size with a pixel size of 0.29 mm &#x000d7; 0.29 mm,
+and generating iso-contours. Pixels receiving the same percentage
+of infusion activity are shown with the same color (<italic>e.g.</italic>, an area with 0.5&#x02013;0.6 of the maximum value is shown in green). Areas receiving
+&#x0003c;0.1 maximum value are masked out and shown in white. Black arrows
+indicate the approximate catheter direction. Abbreviations: FWHM,
+full-width half-maximum; AUC<sub>FWHM</sub>, area under FWHM curves; <sup>64</sup>Cu-AuNP(8), radiolabeled gold nanoparticles with an average
+diameter of 8 nm; <sup>64</sup>Cu-AuNP(40), radiolabeled gold nanoparticles
+with an average diameter of 40 nm; <sup>64</sup>Cu-LIP(130), radiolabeled
+liposomes with an average diameter of 130 nm. Data are represented
+as mean &#x000b1; standard error of the mean (<italic>n</italic> = 3&#x02013;4).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c04159_0004" id="gr6" position="float"/></fig><p>We also assessed isocontours for a single catheter
+infused with
+different NPs to explore directional bias in the distribution cloud
+generated following infusion. As depicted in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>C, iso-lines elicited slightly anisotropic
+dispersion of NPs, which attributed to both intrinsic properties of
+the infused NPs and the intricate architecture of the targeted region.
+Brain parenchyma is notorious for its heterogeneous cellular density,
+extracellular space, uneven portion of white/gray matter, and tissue
+elasticity across various regions. These differences contribute to
+a slightly nonuniform distribution of the infusate around the cannula
+tip, even in healthy brain tissue.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup></p><p>Vd values attained by varying levels of threshold ranging from
+10% to 90% at <italic>T</italic> = 120 min (the time point when the
+infusion was completed) are summarized in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A. As illustrated, the minimum volume of
+the brain exposed to at least 10% of the maximum obtained activity
+concentrations were calculated to be 2260 &#x000b1; 111 &#x003bc;L for <sup>64</sup>Cu-LIP(130), 1321 &#x000b1; 59 &#x003bc;L for <sup>64</sup>Cu-AuNP(8),
+and 763.5 &#x000b1; 141 &#x003bc;L for <sup>64</sup>Cu--AuNP(40), which
+resulted in Vd<sub>10%</sub> to volume of infusion (<italic>V</italic><sub>i</sub>) ratios of 3.9 &#x000b1; 0.2 for <sup>64</sup>Cu-LIP(130),
+2.9 &#x000b1; 0.3 for <sup>64</sup>Cu-AuNP(8), and 2.1 &#x000b1; 0.2 for <sup>64</sup>Cu-AuNP(40). Considering different threshold levels, the
+Vd values for <sup>64</sup>Cu-LIP(130) were 3.1 &#x000b1; 0.1 and 2.2
+&#x000b1; 0.1 times greater than those for <sup>64</sup>Cu-AuNP(8) and <sup>64</sup>Cu-AuNP(40), respectively. These findings clearly demonstrate
+the superior -performance of <sup>64</sup>Cu-LIP(130) compared to
+the <sup>64</sup>Cu-AuNPs regarding distribution and penetration within
+the surrounding structure.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Vd, TAC, and corresponding AUC analysis for
+different <sup>64</sup>Cu-NPs. (A) Vd calculated for all <sup>64</sup>Cu-NPs using different
+threshold levels (10&#x02013;90%) at the end of infusion (single time
+point). (B) Dynamic assessment of Vd for all -<sup>64</sup>Cu-NPs
+using a 10% threshold and (C) corresponding AUCs for Vd<sub>10%</sub> plots. (D) Normalized TAC plots to total injected activity administered
+to the whole brain VOI and (E) corresponding AUCs for all TAC plots.
+Abbreviations: Vd, volume of distribution; Vd<sub>10%</sub>, volume
+of distribution calculated with a threshold of 10%; <sup>64</sup>Cu-NPs,
+radiolabeled nanoparticles with copper-64; AUC, area under the curve;
+A(t), activity at a specific time point of t; <italic>A</italic><sub>total</sub>, total infused activity; TAC, time activity curve; VOI,
+volume of interest; <sup>64</sup>Cu-AuNP(8), radiolabeled gold nanoparticles
+with an average diameter of 8 nm; <sup>64</sup>Cu-AuNP(40), radiolabeled
+gold nanoparticles with an average diameter of 40 nm; <sup>64</sup>Cu-LIP(130), radiolabeled liposomes with an average diameter of 130
+nm. Data are represented as mean &#x000b1; standard error of the mean
+(<italic>n</italic> = 3&#x02013;4). The significant difference was
+defined as *<italic>p</italic> &#x0003c; 0.05, **<italic>p</italic> &#x0003c;
+0.01, and ***<italic>p</italic> &#x0003c; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c04159_0005" id="gr7" position="float"/></fig><p>To further confirm our findings, we measured Vd
+at different time
+points for the above-mentioned thresholds and compared the corresponding
+area under curve (AUC) values among NPs. Dynamically assessed Vd<sub>10%</sub> and AUC<sub>10%</sub> plots are illustrated in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>B,C. Detailed analysis
+for other thresholds is also presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Figure S19</ext-link>. The statistical comparison of Vd values and AUCs disclosed
+a meaningful difference for threshold levels of 10% up to 50% (<italic>p</italic> &#x0003c; 0.05). However, this discrepancy was not significant
+when we compared higher thresholds (&#x0003e;50%) among NPs, which primarily
+represent the regions located close to the catheter tip.</p><p>Normalized
+time activity curves (TACs) and related AUC values are
+presented in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>D,E and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">S20</ext-link>. Briefly, the AUCs of normalized
+TAC were calculated as 26.3 &#x000b1; 1.4, 39.3 &#x000b1; 1.2, and 53.1
+&#x000b1; 4.1 for <sup>64</sup>Cu-AuNP(40), <sup>64</sup>Cu-AuNP(8),
+and <sup>64</sup>Cu-LIP(130), respectively. Specifically, <sup>64</sup>Cu-LIP(130) displayed a significantly higher retention than both
+types of AuNPs. The slight difference between <sup>64</sup>Cu-AuNP(8)
+and <sup>64</sup>Cu-AuNP(40) also hints at the potential influence
+of NP size on retention.</p></sec><sec id="sec2.3"><title>General Discussion</title><p>Current drug delivery strategies
+to the brain predominantly revolve around crossing the BBB. In addition,
+in the case of brain tumors, current efforts exploit the compromised
+endothelial cell walls of the blood vessels in the blood&#x02013;tumor
+barrier (BTB). Such strategies employ systemic administration, which
+has the immediate advantages of practical intravenous or even oral
+administration. For NPs, however, crossing the BBB has generally been
+of limited success, and while uptake in established tumors across
+the BTB can be achieved, this does not enable the targeting of cancer
+cells that have infiltrated further away from the tumor bulk, such
+as in GBM. For this reason, locoregional strategies for reaching such
+cancer cells, such as CED, are relevant.</p><p>Ongoing studies are
+unraveling the potential of NPs administered <italic>via</italic> CED,
+which were loaded with a combination of cargo and imaging probes.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref32">32</xref>&#x02212;<xref ref-type="bibr" rid="ref36">36</xref></sup> To ensure efficient transport of NP-encapsulated agents using CED,
+several key properties have been highlighted;<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> For example, NPs must seemingly possess a size smaller than 100
+nm to effectively navigate the ECM. Further, to minimize the likelihood
+of nonspecific binding to negatively charged components in the brain
+parenchyma, and enable wide distribution, the surface charge should
+be neutral or negatively charged.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> Of
+particular interest is the observation that cationic liposomes, with
+a binding constant 50 times higher for normal brain tissue, have a
+tissue distribution distance of approximately 3.5 times less than
+their neutral or negatively charged counterparts.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref37">37</xref>,<xref ref-type="bibr" rid="ref38">38</xref></sup> Surface coating made of PEG or dextran has
+been shown to minimize the rate of NP binding to brain cells during
+CED.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref39">39</xref></sup></p><p>With these properties in mind, we
+investigated the distribution
+of stealth LIPs and AuNPs in a range of sizes, by CED in a minipig
+model. NPs were synthesized in three sizes of small AuNPs (&#x0223c;8
+nm), medium AuNPs (&#x0223c;40 nm), and large LIPs (&#x0223c;130 nm),
+all radiolabeled with <sup>64</sup>Cu, enabling their monitoring through
+PET imaging. To quantify the distribution of NPs within the brain,
+we performed a comprehensive analysis of the acquired PET scans in
+terms of line profiles, iso-contours, and Vds of different thresholds.
+We also studied the retention properties of our NPs using TAC plots.</p><p>Based on our line profile analysis, all <sup>64</sup>Cu-NPs could
+distribute effectively within clinically relevant distances when administrated <italic>via</italic> CED using the neuroinfuse catheter and the chronic drug
+delivery system. As mentioned in similar reports, this is particularly
+important in GBM, which tends to recur within &#x0003c;2 cm from the initial
+tumor site.<sup><xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> The FWTM profiles crossing the
+catheter tip (without considering the partial volume effect) were
+observed to expand up to approximately 1.36 cm for <sup>64</sup>Cu-AuNP(40),
+and around 1.8 cm for <sup>64</sup>Cu-AuNP(8) and <sup>64</sup>Cu-LIP(130).
+Moreover, none of the <sup>64</sup>Cu-NPs reached a state of equilibrium,
+known as a steady state, even after the full 120 min infusion time.
+This observation suggests that by longer infusion times and increased
+volume of infusions or the number of catheters, it may be possible
+to reach even greater distances of <sup>64</sup>Cu-NP penetration
+in larger human brains, which should be the subject of further studies.</p><p>The Vd/V<sub>i</sub> in our study aligned well with those documented
+for NPs of approximately similar sizes in pigs<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> and small animal models.<sup><xref ref-type="bibr" rid="ref41">41</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup> However, slight
+differences in Vd/V<sub>i</sub> across different studies could be
+explained by several factors, including the characteristics of the
+NPs used, the presence or absence of a tumor environment, and the
+infusion parameters. The intrinsic properties of the NPs, such as
+their size, composition, shape, or surface chemistry, appear to significantly
+dictate their distribution within the brain. In addition, neuroinfuse
+catheter infusion optimization features and the parameters chosen
+during infusion, such as flow rate or duration, affect the distribution
+of the NPs. Furthermore, the methodologies applied in different studies,
+especially in image analysis and the thresholding techniques used
+to compute Vd values, contribute substantially to the observed discrepancies.
+Herein, we relied on Vd<sub>10%</sub> as the primary threshold level
+to determine Vd/V<sub>i</sub>. We also provided Vd values for other
+thresholds to gain a better understanding of the brain tissue exposed
+to different concentrations of <sup>64</sup>Cu-NPs, which is crucial
+for assessing the potential effectiveness of infused therapeutics
+in brain-targeted therapies. The statistical comparison of Vd and
+AUCs showed a significant difference for threshold levels of 10% to
+50%. However, relatively higher thresholds (&#x0003e;50%) did not exhibit
+a significant difference for <sup>64</sup>Cu-NPs near the catheter
+tip. These findings may imply that while in the vicinity of the cannula,
+the infusion parameters play a pivotal role in the infusate reaching
+a greater distance, the impact of the NP-type and its properties on
+the Vd becomes more prominent as it convects further away from the
+administration site and encounters various anatomical and histological
+features that impede its distribution.</p><p>In our study, <sup>64</sup>Cu-AuNP administered by CED displayed
+a size-dependent diffusion and retention profile. We observed that
+smaller-sized <sup>64</sup>Cu-AuNP(8) navigated the brain&#x02019;s
+ECM more efficiently and reached a larger volume of distribution than <sup>64</sup>Cu-AuNP(40). However, the ECM, with its dense meshwork of
+glycoproteins and proteoglycans, can pose significant barriers to
+the diffusion of larger <sup>64</sup>Cu-AuNP(40). Moreover, <sup>64</sup>Cu-AuNP(8) also exhibited a slightly elevated retention compared
+to <sup>64</sup>Cu-AuNP(40), but the significance and quantitative
+effect of this on overall distribution is uncertain. Accordingly,
+and albeit speculative, we attribute the wider distribution of <sup>64</sup>Cu-AuNP(8) to a more favorable balance between distribution
+and retention from smaller NPs. However, the larger <sup>64</sup>Cu-LIP(130)
+significantly outperformed the two <sup>64</sup>Cu-AuNPs, in terms
+of both the distribution range and retention. In light of the discussion
+above, we attribute this especially to a very favorable retention
+of the larger NPs.</p><p>While size is clearly an important factor
+in NP distribution, the
+deformability and composition of LIPs give them a distinct possible
+advantage over AuNPs. LIPs are flexible, allowing them to maneuver
+through tight spaces more easily than the rigid AuNPs. It is plausible
+that this ability could become even more advantageous under the pressures
+of CED, where LIPs can potentially squeeze through more constricted
+areas. Second, there is a difference in density; while AuNPs are dense
+due to their gold core, LIPs are water-like in density. This lighter
+composition could allow them to move more freely within the tissue.
+Moreover, the small size of the AuNPs means that the random movements
+caused by Brownian motion become more dominant. Future studies should
+elucidate if density is a key factor in distribution by CED. It should
+be noted here that AuNPs in our study were used purely as a surrogate
+for NPs of a given size, as we believe biodegradable NP designs are
+more attractive for intracranial delivery.</p><p>Image-guided delivery
+enables real-time evaluation of drug distribution
+within the designated anatomical location and monitoring of the entire
+CED process. By far, Gd-based MRI stands out as the prevailing technique
+to characterize the delivery volumes attained through CED.<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup> The European Medical Agency&#x02019;s
+restrictions on the use of linear Gd-based contrast agents after safety
+concerns, based on observations of Gd deposition in the brain, together
+with reported inaccuracies of imaging infusion volumes using T2/Flair,<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> highlight the challenges in monitoring the performance
+of intraparenchymal CED infusions using Gd-based MRI techniques. Moreover,
+MRI offers only an approximate visualization of the distribution,
+as it lacks precise quantitative data on the actual concentration
+of the infused compounds, which is another important aspect of interest
+in clinical applications. In contrast, PET presents a highly sensitive
+alternative to MRI for tracking and monitoring the distribution and
+concentration of radiolabeled therapeutics during CED. Coupling PET
+imaging with CED gives researchers the opportunity to acquire profound
+insights regarding the pharmacokinetics of the infused agents. Our
+study exemplified the capability of PET imaging by tracking the journey
+of our NPs inside the brain parenchyma, achieved through radiolabeling
+NPs with copper-64 using methods that have previously been shown to
+be stable <italic>in vivo</italic> for up to 3 h time frame, used
+in this study. Copper-64 boasts favorable decay properties with a
+half-life of 12.7 h and &#x003b2;+ emissions of <italic>E</italic><sub>max</sub> = 0.653 MeV,<sup><xref ref-type="bibr" rid="ref46">46</xref>,<xref ref-type="bibr" rid="ref47">47</xref></sup> making it a workhorse
+in NP imaging. Thanks to its coordination chemistry, copper-64 can
+be effectively conjugated to a wide range of biologically relevant
+molecules <italic>via</italic> chelation by DOTA, the macrocyclic
+chelator that was employed in our studies. While some studies have
+suggested a slight instability <italic>in vivo</italic> of the <sup>64</sup>Cu-DOTA chelate after intravenous administration, this chelator
+remains a widely used and very practical way of labeling with copper-64
+for quantitative PET, both in research and in the clinic.</p><p>The
+present study is not without its limitations as it primarily
+focused on investigating the NP distribution in nontumor bearing minipigs,
+and thus, distribution properties are not entirely applicable to a
+tumorous milieu. Brain tumors like GBM are marked by a heterogeneous
+landscape, characterized by varying cellular compositions, necrotic
+zones, hemorrhage, and distinct growth dynamics. Consequently, different
+regions within the tumor may exhibit varying capabilities for penetration
+and distribution of NPs administered directly into tumoral zones.
+In an interesting study, it has been shown that even though Vd/V<sub>i</sub> remains relatively consistent among normal and diverse tumor
+types, the intratumoral distribution of NPs is heterogeneous with
+a great tendency to accumulate in peritumoral space.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> This distributional pattern can be attributed to both the
+intratumoral heterogeneity and elevated interstitial pressure stemming
+from increased vascular permeability and rapid tumor cell growth.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> The increased pressure within the tumor creates
+resistance to the infused drug, presenting challenges in achieving
+reflux-free infusion and uniform drug penetration throughout the tumor
+mass.<sup><xref ref-type="bibr" rid="ref48">48</xref>,<xref ref-type="bibr" rid="ref49">49</xref></sup> Our iso-contour evaluation also highlighted
+that the distribution of <sup>64</sup>Cu-NPs is not entirely homogeneous.
+The NP type, infusion settings, possible heterogeneities in cellular
+density, and permeability across various brain tissues contribute
+to a slightly nonuniform and asymmetric distribution of the infused
+substance, a scenario that holds true even in healthy and nontumoral
+brain tissues. While these findings are instrumental, they still require
+exploration within tumoral conditions, to elucidate the potential
+implications for clinical applications. In the clinic, both resected
+and nonresected cases are to be treated. In tumor resected cases,
+the resection cavity poses a challenge in relation to catheter implantation,
+drug distribution around the entire cavity, and potential leakage
+into the cavity. Thus, large animal studies in tumor-bearing as well
+as tumor resected specimens are needed. Such studies should be conducted
+with chronic drug delivery systems such as neuroinfuse to successfully
+translate CED therapies into the clinic.</p><p>As previously mentioned,
+the properties of the targeted tissue
+and the type of NPs are just a few of the numerous factors that influence
+the <sup>64</sup>Cu-NPs distribution within the tissue. It is essential
+to acknowledge that flow dynamics of the infused NPs such as infusion
+rate/pressure and catheter design (size/type/length/shape/direction)
+used in the study are equally critical in determining the eventual
+dispersion pattern.<sup><xref ref-type="bibr" rid="ref50">50</xref>&#x02212;<xref ref-type="bibr" rid="ref53">53</xref></sup> Herein, we employed a standardized infusion protocol, which, while
+suitable for controlled investigations, may not fully account for
+the dynamic and patient-specific nature of <sup>64</sup>Cu-NP delivery
+as encountered in real clinical settings. Individual patients may
+require tailored infusion parameters (<italic>e.g.</italic>, prolonged
+infusion times, increased number of catheters) based on their specific
+condition, tumor location, and its characteristics. Considering these
+complexities is imperative when designing and optimizing intracranial
+drug delivery strategies using CED techniques.<sup><xref ref-type="bibr" rid="ref54">54</xref></sup></p><p>In addition to delivery methods, the integration
+of radiolabeled
+NPs with PET/MRI offers advantages but may have limitations in CED
+studies, especially concerning safety considerations with nonendogenous
+and radioactive materials. Inorganic NPs may be a cause of inflammation
+in certain tissues.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> However, gold is
+generally considered a biocompatible and nontoxic material,<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> although some studies have suggested the toxicity
+of AuNPs, especially at high concentrations.<sup><xref ref-type="bibr" rid="ref57">57</xref>,<xref ref-type="bibr" rid="ref58">58</xref></sup> To the best of our knowledge, no previous studies have found evidence
+of inflammation from direct intracranial administration of AuNPs.
+Our study did not thoroughly assess inflammation originating from
+the NP administration, but during the study period, no adverse effects
+were observed. The AuNPs were administered in relatively low amounts,
+at 0.12&#x02013;0.18 mg/mL, and infusions were done for 2 hours, limiting
+concerns for acute inflammation. Most important, AuNPs were used here
+as model NPs for sizes and are not intended for clinical use. Another
+essential safety aspect pertains to radiation exposure. Despite administering
+small activities ranging from 20.81 to 42.63 Mbq in the current study,
+safety concerns regarding radiation exposure should always be considered.
+Other challenges such as the limited scanner availability of PET/MRI
+scanners compared to PET/CT and ensuring compatibility of infusion
+devices with the imaging scanners to avoid potential artifacts and
+inaccuracies in quantification are additional noteworthy considerations.
+All in all, our findings support the potential of integrating <sup>64</sup>Cu-NPs and localized delivery methodologies as a promising
+therapeutic platform for addressing CNS-related disorders. However,
+before this approach can be translated into clinical practice, more
+in-depth investigations should be conducted to verify its reliability
+and robustness. Moreover, clinical implementation would require additional
+studies to optimize multiple attributes in relation to the NP design
+such as size, shape, surface properties, and cargo loading capacity,
+in order to enhance their ability to penetrate greater distances effectively.
+Furthermore, this study focused on exploring the size-dependent distribution
+of NPs administered <italic>via</italic> CED, and comparing these
+findings with the distribution observed in the absence of NPs could
+provide valuable insights and is an area worthy of further investigation.</p></sec></sec><sec id="sec3"><title>Conclusions</title><p>In this study, we conducted a PET- guided
+intracranial CED of three
+differently sized <sup>64</sup>Cu-labeled NPs, ranging in diameters
+from 8 to 130 nm, <italic>in vivo</italic> in minipigs. Our results
+showcase the promising combination of CED and NPs for intracranial
+drug delivery and elucidate the impact of NP size on the distribution
+volume and brain retention. The comprehensive analysis of PET imaging
+data revealed substantial advantages for the larger liposomes (LIPs)
+over smaller gold nanoparticles (AuNP), evident in distribution volumes,
+penetration distance, and intracranial retention. Moreover, we observed
+slightly reduced penetration and retention of medium-sized <sup>64</sup>Cu-AuNP(40) compared to small-sized <sup>64</sup>Cu-AuNP(8). These
+findings support that larger NPs, around 100&#x02013;150 nm, perform
+better in intracranial administration by CED and highlight the crucial
+role of NP size and physicochemical properties in this application.
+By employing a chronic CED system, designed specifically for use in
+long-term, intermittent, intraparenchymal infusions, we have in addition
+demonstrated feasibility for the translation of such a device for
+clinical evaluation.</p></sec><sec id="sec4"><title>Experimental Section</title><sec id="sec4.1"><title>Animals and Housing</title><p>Three G&#x000f6;ttingen female minipigs
+(Ellegaard G&#x000f6;ttingen Minipigs A/S, Dalmose, Denmark) with an
+average weight of 9.3 &#x000b1; 0.18 kg and approximately 2 months old
+were included in the present study. Minipigs were used due to their
+slow growth rate, making them optimal for long-term CED studies. All
+animal procedures were conducted per the approval from the Danish
+Animal Experiments Inspectorate (license no. 2020&#x02013;15&#x02013;0201&#x02013;00553).
+The experiments were conducted according to the EU directive 2010/63/EU
+on the protection of animals used for scientific purposes. Detailed
+information regarding animals, housing, and perioperative procedures
+can be found in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Supporting Information</ext-link>.</p></sec><sec id="sec4.2"><title>Head Immobilization and Precatheter Implantation MRI</title><p>A dedicated MRI-compatible head frame (Renishaw Neuro Solutions Ltd.,
+Wotton-Under-Edge, Gloucestershire, UK)<sup><xref ref-type="bibr" rid="ref59">59</xref>,<xref ref-type="bibr" rid="ref60">60</xref></sup> was used to
+fully immobilize the head before transferring the anesthetized animal
+to the scanner bed for preoperative MRI. All imaging was performed
+in a prone position using GE SIGNA 3T PET/MRI (GE Healthcare, Waukesha,
+WI, USA). The step-by-step overview of all procedures involved on
+the surgery day is summarized in (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Figure S21</ext-link>). 3D MRI scans of T1-weighted BRAVO and T2-weighted sequences were
+obtained using the upper anterior array (UAA). The preoperative MRI
+scans were then loaded into the neurosurgical planning software neuroinspire
+(Renishaw Neuro Solutions Ltd., Wotton-under-Edge, Gloucestershire,
+UK) to plan the implantation trajectories of two neuroinfuse CED catheters
+within the putaminal targets connected to an implanted transcutaneous
+port (Renishaw Neuro Solutions Ltd., Wotton-Under-Edge, Gloucestershire,
+UK), as illustrated in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Figure S14A</ext-link>. To
+enable CED, the neuroinfuse chronic drug delivery system<sup><xref ref-type="bibr" rid="ref61">61</xref></sup> and preclinical stereotactic system, developed
+by Renishaw Neuro Solutions Ltd., were utilized. Information regarding
+imaging protocols, devices, implantation of the neuroinfuse system,
+and postoperative recovery of the animals is detailed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Supporting Information</ext-link>.</p></sec><sec id="sec4.3"><title>Infusion Method of Radiolabeled Nanoparticles (<sup>64</sup>Cu-NPs)</title><p>The administration of <sup>64</sup>Cu-NPs commenced
+7 days after catheter implantation by connecting the application set
+to the transcutaneous port (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Figures S21B and 14C</ext-link>). Infusions were repeated through the transcutaneous port at weekly
+intervals for 4 weeks. Each week, a different type of <sup>64</sup>Cu-NPs was synthesized (as described in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Supporting Information</ext-link>) and infused into the subjects. The infusion method
+of <sup>64</sup>Cu-NPs is shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Figure S21B</ext-link>. Briefly, two 300 &#x003bc;L fixed volume extension sets (FVES) were
+filled with dispersions of radiolabeled NPs at specific sizes for
+each infusion. One end of the FVES tube was connected to the corresponding
+delivery channel of the 4-channel port application set (only 2/4 port
+channels were accessed for this study), while the other end was attached
+to a 6&#x02009;m extension line, which in turn connected to standard
+syringes prefilled with artificial CSF (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Figure S21B</ext-link>). The extension lines were utilized to allow infusions
+from syringe pumps located outside the MRI scanning room. Once the
+application set was secured to the transcutaneous bone-anchored port,
+the infusions were initiated with 40 min linear ramps. The infusion
+rate was gradually increased to a maximum rate of 3&#x02009;&#x003bc;L/min
+per catheter with a total volume of 600 &#x003bc;L of <sup>64</sup>Cu-NPs
+delivered per infusion. The inert aCSF is used to push the <sup>64</sup>Cu-NPs through the FVES, port, and catheters into the desired target.
+An additional dead volume is added to the overall volume to ensure
+only inert buffer is left within the implantable device between reaccess
+infusion periods. Once the infusion was finished, the catheters were
+left <italic>in situ</italic> for an additional 15 min, and the pump
+rate gradually decreased to stabilize the pressure before disconnecting
+the infusion lines. The application set was then removed from the
+port.</p></sec><sec id="sec4.4"><title>Positron Emission Tomography (PET)</title><p>After attaching
+the infusion lines to the application set, the animal was positioned
+inside the brain coil for PET/MRI studies (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Figure S21B</ext-link>). Emission data were collected over a 135 min period,
+beginning at the start of the infusion. To facilitate quantitative
+analysis and to study the biodistribution of <sup>64</sup>Cu-NPs at
+different time points, list-mode emission files were rebinned into
+nine frames of 15 min each to produce dynamic PET scans and reconstructed
+into a 256 &#x000d7; 256 &#x000d7; 89 matrix size (1.1718 mm &#x000d7; 1.1718
+mm &#x000d7; 2.78 mm) using GE&#x02019;s Time of Flight Q.clear algorithm
+considering all quantitative corrections. Additionally, we acquired
+a single MRI scan in each session to serve as an anatomical guide
+for defining the Volume of Interest (VOI). The experimental timeline
+is shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Figure S21C</ext-link> with detailed information
+provided in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Supporting Information</ext-link>.</p></sec><sec id="sec4.5"><title>PET Data Analysis</title><p>Image analysis and visualization
+were carried out using GE&#x02019;s PET4D workstation, ImageJ, Amide
+v1.0.4 software, and MATLAB R2023a. PET data were analyzed in terms
+of line profiles (FWHM/FWTM), iso-contours, Vd, and TAC plots. Briefly,
+to assess FWHM/FWTM for each catheter, two lines perpendicular to
+the catheter trajectory were drawn on transverse and sagittal planes,
+and the final FWHM/FWTM was obtained by averaging the transverse and
+sagittal values. To assess iso-contours, three consecutive cross-sectional
+slices with the highest uptake value surrounding the left catheter
+from the same animal were averaged, normalized to the maximum value
+in the image, and then resampled to a finer grid of 1024 &#x000d7; 1024,
+and a contour plot was generated based on the processed image using
+an integrated program in MATLAB. The filled contour plot represents
+iso-lines obtained from an image and fills the areas between these
+iso-lines with consistent colors that correspond to the final image
+matrix values. For Vd analysis, an MRI-guided ellipsoidal VOI encompassing
+the entire brain was established for each scan, and Vd values were
+then computed by defining various threshold levels (ranging from 10%
+to 90% of the maximum uptake value within the VOI). Further, the activity
+inside the predefined VOIs at different time points was normalized
+to the total injected activity (<italic>A</italic><sub>total</sub>) to generate normalized TAC plots. It should be noted that for comparative
+analysis and statistical assessments among different groups of <sup>64</sup>Cu-NPs, AUC values were computed across all dynamically assessed
+plots. Detailed information regarding PET imaging and data analysis
+is provided in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Supporting Information</ext-link>.</p></sec><sec id="sec4.6"><title>Statistical Analysis</title><p>Data were reported as mean values
+&#x000b1; standard error of the mean (SEM), unless otherwise mentioned.
+Graphs were created in MATLAB 2023a. Statistical testing was performed
+using GraphPad Prism software version 5 (San Diego, CA, USA). One-way
+analysis of variance (ANOVA) followed by Tukey&#x02019;s test was selected
+to compare the AUC results (FWHM, TAC, and Vd) among different groups
+of <sup>64</sup>Cu-NPs with <italic>p</italic> &#x0003c; 0.05 considered
+significant. Significant difference was defined as *<italic>p</italic> &#x0003c; 0.05, **<italic>p</italic> &#x0003c; 0.01, ***<italic>p</italic> &#x0003c; 0.001.</p></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsnano.4c04159?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsnano.4c04159</ext-link>.<list id="silist1" list-type="simple"><list-item><p>Experimental procedures; analysis; experimental details
+of <sup>64</sup>Cu-DOTA-LIPs (Table S1); overview of <sup>64</sup>Cu-NPs prepared and supplied (Table S2); size exclusion and stability
+of <sup>64</sup>Cu-LIP(130) (Figure S1); radio-TLC of <sup>64</sup>Cu-LIP(130) (Figures S2&#x02013;S4), <sup>64</sup>Cu-DOTA-TA complex
+(Figures S5&#x02013;S7), <sup>64</sup>Cu-AuNP(40) (Figure S8), and <sup>64</sup>Cu-AuNP(8) (Figure S9); size exclusion, stability, and ICP-EOS
+characterization of <sup>64</sup>Cu-AuNPs (Figure S10); surface charge
+zeta potential measurements of <sup>64</sup>Cu-AuNP(40) and <sup>64</sup>Cu-AuNP(8) (Figure S11); UV&#x02013;vis measurements of the <sup>64</sup>Cu-AuNP(40) and <sup>64</sup>Cu-AuNP(8) (Figure S12); TEM of the <sup>64</sup>Cu-AuNP(40) and <sup>64</sup>Cu-AuNP(8) (Figure S13); neuroinfuse
+chronic drug delivery system (Figure S14); dynamic PET scans following <sup>64</sup>Cu-AuNP(40) (Figure S15), <sup>64</sup>Cu-AuNP(8) (Figure
+S16), and <sup>64</sup>Cu-LIP(130) (Figure S17); FWTM analysis and
+corresponding AUC plots (Figure S18); multi-threshold Vd calculation
+and corresponding AUC analysis (Figure S19); individual TAC and corresponding
+AUCs (Figure S20); experimental setup and infusion procedure (Figure
+S21) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="nn4c04159_si_001.pdf"><caption><p>nn4c04159_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes2"><title>Author Contributions</title><p><sup>&#x025c6;</sup> A.I.J., H.T., and B.H. contributed equally.
+A.I.J., H.T., and B.H.
+conceptualized the study. M.A., A.I.J., C.G.T.P., L.L., M.W., D.J.,
+J.W., F.R.P., H.T., and B.H. contributed to the methodology. M.A.,
+A.I.J., Q.T., K.R., C.G.T.P., L.L., M.W., D.J., J.W,C.K., F.R.P.,
+H.T., and B.H. carried out experimental investigation. Q.T., N.J.W.S.,
+and K.R. synthesized and characterized nanoparticles; B.H., D.J.,
+J.W., M.W., and C.K. implanted the catheter and carried out the catheter
+planning. M.A., H.T., and C.G.T.P. collected the PET/MRI data. L.L.
+performed animal handling and preoperative procedures. M.A. performed
+data analysis, coding, and software. A.I.J. and B.H. participated
+in funding. M.A., N.J.W.S., and M.W. prepared all the graphs and visualization.
+M.A. and A.I.J. wrote the original draft. All authors were involved
+in reviewing and editing the final draft.</p></notes><notes notes-type="funding-statement" id="notes4"><p>This study was
+supported by research grants from the Sapere Aude program (Independent
+Research Fund Denmark, IRFD), grant no. 9063&#x02013;00067B (A.I.J.).
+The project is part of the Danish Comprehensive Cancer Center (DCCC)
+funded by the Danish Cancer Society, grant no. R295-A16770 (B.H).
+The project was also funded by another grant from the Danish Cancer
+Society, no. R278-Rp21408 (B.H.).</p></notes><notes notes-type="COI-statement" id="notes3"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>Figure
+schematics in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> were prepared using ChemDraw. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c04159/suppl_file/nn4c04159_si_001.pdf">Figure S21</ext-link> icons were created with BioRender.com
+(agreement numbers: HB26QK3US3 and DE26WOUEGJ) and Renishaw Neuro
+Solutions Ltd. The abstract figure was also created with BioRender.com
+and ChemDraw.</p></ack><glossary id="dl1"><def-list><title>Abbreviations</title><def-item><term>BBB</term><def><p>blood&#x02013;brain
+barrier</p></def></def-item><def-item><term>CED</term><def><p>convection-enhanced
+delivery</p></def></def-item><def-item><term>PEG</term><def><p>polyethylene
+glycol</p></def></def-item><def-item><term>NPs</term><def><p>nanoparticles</p></def></def-item><def-item><term>CNS</term><def><p>central nervous
+system</p></def></def-item><def-item><term>GBM</term><def><p>glioblastoma
+multiforme</p></def></def-item><def-item><term>ECM</term><def><p>extracellular
+matrix</p></def></def-item><def-item><term>Gd</term><def><p>gadolinium</p></def></def-item><def-item><term>MRI</term><def><p>magnetic resonance
+imaging</p></def></def-item><def-item><term>PET</term><def><p>positron
+emission tomography</p></def></def-item><def-item><term><sup>64</sup>Cu-NPs</term><def><p>radiolabeled nanoparticles with copper-64</p></def></def-item><def-item><term>AuNPs</term><def><p>gold nanoparticles</p></def></def-item><def-item><term>LIPs</term><def><p>liposomes</p></def></def-item><def-item><term>&#x000d8;<sub>vol-DLS</sub></term><def><p>the volume-weighted hydrodynamic diameter measured by dynamic light
+scattering</p></def></def-item><def-item><term>&#x000d8;<sub>TEM</sub></term><def><p>the diameter of the AuNP gold core measured by transmission
+electron microscopy</p></def></def-item><def-item><term>PDI</term><def><p>polydispersity index</p></def></def-item><def-item><term>&#x003b6;</term><def><p>zeta potential</p></def></def-item><def-item><term>DLS</term><def><p>dynamic light scattering analysis</p></def></def-item><def-item><term>TEM</term><def><p>transmission electron microscopy</p></def></def-item><def-item><term>UV/vis</term><def><p>ultraviolet&#x02013;visible
+spectroscopy</p></def></def-item><def-item><term>RCY</term><def><p>radiochemical yield</p></def></def-item><def-item><term>ndc</term><def><p>nondecay corrected</p></def></def-item><def-item><term>dc</term><def><p>decay corrected</p></def></def-item><def-item><term>RCC</term><def><p>radiochemical conversion</p></def></def-item><def-item><term>ICP&#x02013;EOS</term><def><p>inductively coupled plasma&#x02013;optical emission spectrometry</p></def></def-item><def-item><term>SEC</term><def><p>size-exclusion
+chromatography</p></def></def-item><def-item><term><sup>64</sup>Cu-AuNP(8)</term><def><p>radiolabeled gold nanoparticles with copper-64 and an average
+diameter of 8 nm</p></def></def-item><def-item><term><sup>64</sup>Cu-AuNP(40)</term><def><p>radiolabeled gold nanoparticles with copper-64
+and an average diameter of 40 nm</p></def></def-item><def-item><term><sup>64</sup>Cu-LIP(130)</term><def><p>radiolabeled liposomes with
+copper-64 and an average diameter of 130 nm</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Samal</surname><given-names>J.</given-names></name>; <name><surname>Rebelo</surname><given-names>A. L.</given-names></name>; <name><surname>Pandit</surname><given-names>A.</given-names></name>
+<article-title>A Window into the Brain: Tools to
+Assess Pre-Clinical Efficacy of Biomaterials-Based Therapies on Central
+Nervous System Disorders</article-title>. <source>Adv. Drug Delivery
+Rev.</source>
+<year>2019</year>, <volume>148</volume>, <fpage>68</fpage>&#x02013;<lpage>145</lpage>. <pub-id pub-id-type="doi">10.1016/j.addr.2019.01.012</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Bobo</surname><given-names>R. H.</given-names></name>; <name><surname>Laske</surname><given-names>D. W.</given-names></name>; <name><surname>Akbasak</surname><given-names>A.</given-names></name>; <name><surname>Morrison</surname><given-names>P. F.</given-names></name>; <name><surname>Dedrick</surname><given-names>R. L.</given-names></name>; <name><surname>Oldfield</surname><given-names>E. H.</given-names></name>
+<article-title>Convection-Enhanced
+Delivery of Macromolecules in the
+Brain</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>1994</year>, <volume>91</volume>, <fpage>2076</fpage>&#x02013;<lpage>2080</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.91.6.2076</pub-id>.<pub-id pub-id-type="pmid">8134351</pub-id>
+</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Groothuis</surname><given-names>D. R.</given-names></name>
+<article-title>The Blood-Brain
+and Blood-Tumor Barriers: a Review of Strategies for Increasing Drug
+Delivery</article-title>. <source>Neuro-Oncol.</source>
+<year>2000</year>, <volume>2</volume>, <fpage>45</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1093/neuonc/2.1.45</pub-id>.<pub-id pub-id-type="pmid">11302254</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Sampson</surname><given-names>J. H.</given-names></name>; <name><surname>Archer</surname><given-names>G.</given-names></name>; <name><surname>Pedain</surname><given-names>C.</given-names></name>; <name><surname>Wembacher-Schr&#x000f6;der</surname><given-names>E.</given-names></name>; <name><surname>Westphal</surname><given-names>M.</given-names></name>; <name><surname>Kunwar</surname><given-names>S.</given-names></name>; <name><surname>Vogelbaum</surname><given-names>M. A.</given-names></name>; <name><surname>Coan</surname><given-names>A.</given-names></name>; <name><surname>Herndon</surname><given-names>J. E.</given-names></name>; <name><surname>Raghavan</surname><given-names>R.</given-names></name>; et al. <article-title>Poor Drug
+Distribution As a Possible Explanation for the Results of the PRECISE
+Trial</article-title>. <source>J. Neurosurg.</source>
+<year>2010</year>, <volume>113</volume>, <fpage>301</fpage>&#x02013;<lpage>309</lpage>. <pub-id pub-id-type="doi">10.3171/2009.11.JNS091052</pub-id>.<pub-id pub-id-type="pmid">20020841</pub-id>
+</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Allard</surname><given-names>E.</given-names></name>; <name><surname>Passirani</surname><given-names>C.</given-names></name>; <name><surname>Benoit</surname><given-names>J. P.</given-names></name>
+<article-title>Convection-Enhanced
+Delivery of Nanocarriers
+for the Treatment of Brain Tumors</article-title>. <source>Biomaterials</source>
+<year>2009</year>, <volume>30</volume>, <fpage>2302</fpage>&#x02013;<lpage>2318</lpage>. <pub-id pub-id-type="doi">10.1016/j.biomaterials.2009.01.003</pub-id>.<pub-id pub-id-type="pmid">19168213</pub-id>
+</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Halle</surname><given-names>B.</given-names></name>; <name><surname>Mongelard</surname><given-names>K.</given-names></name>; <name><surname>Poulsen</surname><given-names>F. R.</given-names></name>
+<article-title>Convection-Enhanced Drug Delivery
+for Glioblastoma: A Systematic Review Focused on Methodological Differences
+in the Use of the Convection-Enhanced Delivery Method</article-title>. <source>Asian J. Neurosurg.</source>
+<year>2019</year>, <volume>14</volume>, <fpage>5</fpage>&#x02013;<lpage>14</lpage>. <pub-id pub-id-type="doi">10.4103/ajns.AJNS_302_17</pub-id>.<pub-id pub-id-type="pmid">30937002</pub-id>
+</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Vecchio</surname><given-names>D.</given-names></name>; <name><surname>Daga</surname><given-names>A.</given-names></name>; <name><surname>Carra</surname><given-names>E.</given-names></name>; <name><surname>Marubbi</surname><given-names>D.</given-names></name>; <name><surname>Raso</surname><given-names>A.</given-names></name>; <name><surname>Mascelli</surname><given-names>S.</given-names></name>; <name><surname>Nozza</surname><given-names>P.</given-names></name>; <name><surname>Garr&#x000e8;</surname><given-names>M. L.</given-names></name>; <name><surname>Pitto</surname><given-names>F.</given-names></name>; <name><surname>Ravetti</surname><given-names>J. L.</given-names></name>; <name><surname>Vagge</surname><given-names>S.</given-names></name>; <name><surname>Corv&#x000f2;</surname><given-names>R.</given-names></name>; <name><surname>Profumo</surname><given-names>A.</given-names></name>; <name><surname>Baio</surname><given-names>G.</given-names></name>; <name><surname>Marcello</surname><given-names>D.</given-names></name>; <name><surname>Frosina</surname><given-names>G.</given-names></name>
+<article-title>Pharmacokinetics,
+Pharmacodynamics and Efficacy on Pediatric Tumors of the Glioma Radiosensitizer
+KU60019</article-title>. <source>Int. J. Cancer</source>
+<year>2015</year>, <volume>136</volume>, <fpage>1445</fpage>&#x02013;<lpage>1457</lpage>. <pub-id pub-id-type="doi">10.1002/ijc.29121</pub-id>.<pub-id pub-id-type="pmid">25091220</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Georgiou</surname><given-names>C. J.</given-names></name>; <name><surname>Cai</surname><given-names>Z.</given-names></name>; <name><surname>Alsaden</surname><given-names>N.</given-names></name>; <name><surname>Cho</surname><given-names>H.</given-names></name>; <name><surname>Behboudi</surname><given-names>M.</given-names></name>; <name><surname>Winnik</surname><given-names>M. A.</given-names></name>; <name><surname>Rutka</surname><given-names>J. T.</given-names></name>; <name><surname>Reilly</surname><given-names>R. M.</given-names></name>
+<article-title>Treatment
+of Orthotopic U251 Human
+Glioblastoma Multiforme Tumors in NRG Mice by Convection-Enhanced
+Delivery of Gold Nanoparticles Labeled with the &#x003b2;-Particle-Emitting
+Radionuclide, (177)Lu</article-title>. <source>Mol. Pharmaceutics</source>
+<year>2023</year>, <volume>20</volume>, <fpage>582</fpage>&#x02013;<lpage>592</lpage>. <pub-id pub-id-type="doi">10.1021/acs.molpharmaceut.2c00815</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Inoue</surname><given-names>T.</given-names></name>; <name><surname>Yamashita</surname><given-names>Y.</given-names></name>; <name><surname>Nishihara</surname><given-names>M.</given-names></name>; <name><surname>Sugiyama</surname><given-names>S.</given-names></name>; <name><surname>Sonoda</surname><given-names>Y.</given-names></name>; <name><surname>Kumabe</surname><given-names>T.</given-names></name>; <name><surname>Yokoyama</surname><given-names>M.</given-names></name>; <name><surname>Tominaga</surname><given-names>T.</given-names></name>
+<article-title>Therapeutic Efficacy
+of a Polymeric Micellar Doxorubicin Infused by Convection-Enhanced
+Delivery Against Intracranial 9L Brain Tumor Models</article-title>. <source>Neuro-Oncol.</source>
+<year>2009</year>, <volume>11</volume>, <fpage>151</fpage>&#x02013;<lpage>157</lpage>. <pub-id pub-id-type="doi">10.1215/15228517-2008-068</pub-id>.<pub-id pub-id-type="pmid">18755917</pub-id>
+</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Gleason</surname><given-names>J. M.</given-names></name>; <name><surname>Klass</surname><given-names>S. H.</given-names></name>; <name><surname>Huang</surname><given-names>P.</given-names></name>; <name><surname>Ozawa</surname><given-names>T.</given-names></name>; <name><surname>Santos</surname><given-names>R. A.</given-names></name>; <name><surname>Fogarty</surname><given-names>M. M.</given-names></name>; <name><surname>Raleigh</surname><given-names>D. R.</given-names></name>; <name><surname>Berger</surname><given-names>M. S.</given-names></name>; <name><surname>Francis</surname><given-names>M. B.</given-names></name>
+<article-title>Intrinsically
+Disordered Protein Micelles As Vehicles for Convection-Enhanced Drug
+Delivery to Glioblastoma Multiforme</article-title>. <source>ACS Appl.
+Bio Mater.</source>
+<year>2022</year>, <volume>5</volume>, <fpage>3695</fpage>&#x02013;<lpage>3702</lpage>. <pub-id pub-id-type="doi">10.1021/acsabm.2c00215</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Wu</surname><given-names>G.</given-names></name>; <name><surname>Barth</surname><given-names>R. F.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Kawabata</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Green-Church</surname><given-names>K.</given-names></name>
+<article-title>Targeted Delivery
+of Methotrexate to Epidermal Growth
+Factor Receptor-Positive Brain Tumors by Means of Cetuximab (IMC-C225)
+Dendrimer Bioconjugates</article-title>. <source>Mol. Cancer Ther.</source>
+<year>2006</year>, <volume>5</volume>, <fpage>52</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1158/1535-7163.MCT-05-0325</pub-id>.<pub-id pub-id-type="pmid">16432162</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Saito</surname><given-names>R.</given-names></name>; <name><surname>Krauze</surname><given-names>M. T.</given-names></name>; <name><surname>Bringas</surname><given-names>J. R.</given-names></name>; <name><surname>Noble</surname><given-names>C.</given-names></name>; <name><surname>McKnight</surname><given-names>T. R.</given-names></name>; <name><surname>Jackson</surname><given-names>P.</given-names></name>; <name><surname>Wendland</surname><given-names>M. F.</given-names></name>; <name><surname>Mamot</surname><given-names>C.</given-names></name>; <name><surname>Drummond</surname><given-names>D. C.</given-names></name>; <name><surname>Kirpotin</surname><given-names>D. B.</given-names></name>; <name><surname>Hong</surname><given-names>K.</given-names></name>; <name><surname>Berger</surname><given-names>M. S.</given-names></name>; <name><surname>Park</surname><given-names>J. W.</given-names></name>; <name><surname>Bankiewicz</surname><given-names>K. S.</given-names></name>
+<article-title>Gadolinium-Loaded
+Liposomes Allow for Real-Time Magnetic
+Resonance Imaging of Convection-Enhanced Delivery in the Primate Brain</article-title>. <source>Exp. Neurol.</source>
+<year>2005</year>, <volume>196</volume>, <fpage>381</fpage>&#x02013;<lpage>389</lpage>. <pub-id pub-id-type="doi">10.1016/j.expneurol.2005.08.016</pub-id>.<pub-id pub-id-type="pmid">16197944</pub-id>
+</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>MacKay</surname><given-names>J. A.</given-names></name>; <name><surname>Deen</surname><given-names>D. F.</given-names></name>; <name><surname>Szoka</surname><given-names>F. C.</given-names><suffix>Jr.</suffix></name>
+<article-title>Distribution
+in Brain of Liposomes After Convection Enhanced Delivery; Modulation
+by Particle Charge, Particle Diameter, and Presence of Steric Coating</article-title>. <source>Brain Res.</source>
+<year>2005</year>, <volume>1035</volume>, <fpage>139</fpage>&#x02013;<lpage>153</lpage>. <pub-id pub-id-type="doi">10.1016/j.brainres.2004.12.007</pub-id>.<pub-id pub-id-type="pmid">15722054</pub-id>
+</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Mamot</surname><given-names>C.</given-names></name>; <name><surname>Nguyen</surname><given-names>J. B.</given-names></name>; <name><surname>Pourdehnad</surname><given-names>M.</given-names></name>; <name><surname>Hadaczek</surname><given-names>P.</given-names></name>; <name><surname>Saito</surname><given-names>R.</given-names></name>; <name><surname>Bringas</surname><given-names>J. R.</given-names></name>; <name><surname>Drummond</surname><given-names>D. C.</given-names></name>; <name><surname>Hong</surname><given-names>K.</given-names></name>; <name><surname>Kirpotin</surname><given-names>D. B.</given-names></name>; <name><surname>McKnight</surname><given-names>T.</given-names></name>; <name><surname>Berger</surname><given-names>M. S.</given-names></name>; <name><surname>Park</surname><given-names>J. W.</given-names></name>; <name><surname>Bankiewicz</surname><given-names>K. S.</given-names></name>
+<article-title>Extensive
+Distribution of Liposomes in Rodent Brains and Brain Tumors Following
+Convection-Enhanced Delivery</article-title>. <source>J. Neuro-Oncol.</source>
+<year>2004</year>, <volume>68</volume>, <fpage>1</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1023/B:NEON.0000024743.56415.4b</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Thorne</surname><given-names>R. G.</given-names></name>; <name><surname>Nicholson</surname><given-names>C.</given-names></name>
+<article-title>In Vivo Diffusion
+Analysis with Quantum Dots and Dextrans
+Predicts the Width of Brain Extracellular Space</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>2006</year>, <volume>103</volume>, <fpage>5567</fpage>&#x02013;<lpage>5572</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0509425103</pub-id>.<pub-id pub-id-type="pmid">16567637</pub-id>
+</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Hobbs</surname><given-names>S. K.</given-names></name>; <name><surname>Monsky</surname><given-names>W. L.</given-names></name>; <name><surname>Yuan</surname><given-names>F.</given-names></name>; <name><surname>Roberts</surname><given-names>W. G.</given-names></name>; <name><surname>Griffith</surname><given-names>L.</given-names></name>; <name><surname>Torchilin</surname><given-names>V. P.</given-names></name>; <name><surname>Jain</surname><given-names>R. K.</given-names></name>
+<article-title>Regulation of Transport Pathways
+in Tumor Vessels: Role of Tumor Type and Microenvironment</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>1998</year>, <volume>95</volume>, <fpage>4607</fpage>&#x02013;<lpage>4612</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.95.8.4607</pub-id>.<pub-id pub-id-type="pmid">9539785</pub-id>
+</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Jensen</surname><given-names>A. I.</given-names></name>; <name><surname>Severin</surname><given-names>G. W.</given-names></name>; <name><surname>Hansen</surname><given-names>A. E.</given-names></name>; <name><surname>Fliedner</surname><given-names>F. P.</given-names></name>; <name><surname>Eliasen</surname><given-names>R.</given-names></name>; <name><surname>Parhamifar</surname><given-names>L.</given-names></name>; <name><surname>Kj&#x000e6;r</surname><given-names>A.</given-names></name>; <name><surname>Andresen</surname><given-names>T. L.</given-names></name>; <name><surname>Henriksen</surname><given-names>J. R.</given-names></name>
+<article-title>Remote-Loading
+of Liposomes with Manganese-52 and In Vivo Evaluation of the Stabilities
+of (52)Mn-DOTA and (64)Cu-DOTA Using Radiolabeled Liposomes and PET
+Imaging</article-title>. <source>J. Controlled Release</source>
+<year>2018</year>, <volume>269</volume>, <fpage>100</fpage>&#x02013;<lpage>109</lpage>. <pub-id pub-id-type="doi">10.1016/j.jconrel.2017.11.006</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Frellsen</surname><given-names>A. F.</given-names></name>; <name><surname>Hansen</surname><given-names>A. E.</given-names></name>; <name><surname>J&#x0006f;&#x00337;lck</surname><given-names>R. I.</given-names></name>; <name><surname>Kempen</surname><given-names>P. J.</given-names></name>; <name><surname>Severin</surname><given-names>G. W.</given-names></name>; <name><surname>Rasmussen</surname><given-names>P. H.</given-names></name>; <name><surname>Kj&#x000e6;r</surname><given-names>A.</given-names></name>; <name><surname>Jensen</surname><given-names>A. T.</given-names></name>; <name><surname>Andresen</surname><given-names>T. L.</given-names></name>
+<article-title>Mouse Positron
+Emission Tomography Study of the Biodistribution of Gold Nanoparticles
+with Different Surface Coatings Using Embedded Copper-64</article-title>. <source>ACS Nano</source>
+<year>2016</year>, <volume>10</volume>, <fpage>9887</fpage>&#x02013;<lpage>9898</lpage>. <pub-id pub-id-type="doi">10.1021/acsnano.6b03144</pub-id>.<pub-id pub-id-type="pmid">27754658</pub-id>
+</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Richardson</surname><given-names>R. M.</given-names></name>; <name><surname>Kells</surname><given-names>A. P.</given-names></name>; <name><surname>Rosenbluth</surname><given-names>K. H.</given-names></name>; <name><surname>Salegio</surname><given-names>E. A.</given-names></name>; <name><surname>Fiandaca</surname><given-names>M. S.</given-names></name>; <name><surname>Larson</surname><given-names>P. S.</given-names></name>; <name><surname>Starr</surname><given-names>P. A.</given-names></name>; <name><surname>Martin</surname><given-names>A. J.</given-names></name>; <name><surname>Lonser</surname><given-names>R. R.</given-names></name>; <name><surname>Federoff</surname><given-names>H. J.</given-names></name>; <name><surname>Forsayeth</surname><given-names>J. R.</given-names></name>; <name><surname>Bankiewicz</surname><given-names>K. S.</given-names></name>
+<article-title>Interventional
+MRI-Guided Putaminal Delivery of AAV2-GDNF for a Planned Clinical
+Trial in Parkinson&#x02019;s Disease</article-title>. <source>Mol. Ther.</source>
+<year>2011</year>, <volume>19</volume>, <fpage>1048</fpage>&#x02013;<lpage>1057</lpage>. <pub-id pub-id-type="doi">10.1038/mt.2011.11</pub-id>.<pub-id pub-id-type="pmid">21343917</pub-id>
+</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Su</surname><given-names>X.</given-names></name>; <name><surname>Kells</surname><given-names>A. P.</given-names></name>; <name><surname>Salegio</surname><given-names>E. A.</given-names></name>; <name><surname>Richardson</surname><given-names>R. M.</given-names></name>; <name><surname>Hadaczek</surname><given-names>P.</given-names></name>; <name><surname>Beyer</surname><given-names>J.</given-names></name>; <name><surname>Bringas</surname><given-names>J.</given-names></name>; <name><surname>Pivirotto</surname><given-names>P.</given-names></name>; <name><surname>Forsayeth</surname><given-names>J.</given-names></name>; <name><surname>Bankiewicz</surname><given-names>K. S.</given-names></name>
+<article-title>Real-Time
+MR Imaging with Gadoteridol
+Predicts Distribution of Transgenes After Convection-Enhanced Delivery
+of AAV2 Vectors</article-title>. <source>Mol. Ther.</source>
+<year>2010</year>, <volume>18</volume>, <fpage>1490</fpage>&#x02013;<lpage>1495</lpage>. <pub-id pub-id-type="doi">10.1038/mt.2010.114</pub-id>.<pub-id pub-id-type="pmid">20551915</pub-id>
+</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Christine</surname><given-names>C. W.</given-names></name>; <name><surname>Bankiewicz</surname><given-names>K. S.</given-names></name>; <name><surname>Van Laar</surname><given-names>A. D.</given-names></name>; <name><surname>Richardson</surname><given-names>R. M.</given-names></name>; <name><surname>Ravina</surname><given-names>B.</given-names></name>; <name><surname>Kells</surname><given-names>A. P.</given-names></name>; <name><surname>Boot</surname><given-names>B.</given-names></name>; <name><surname>Martin</surname><given-names>A. J.</given-names></name>; <name><surname>Nutt</surname><given-names>J.</given-names></name>; <name><surname>Thompson</surname><given-names>M. E.</given-names></name>; <name><surname>Larson</surname><given-names>P. S.</given-names></name>
+<article-title>Magnetic Resonance
+Imaging-Guided Phase 1 Trial of Putaminal AADC Gene Therapy for Parkinson&#x02019;s
+Disease</article-title>. <source>Ann. Neurol.</source>
+<year>2019</year>, <volume>85</volume>, <fpage>704</fpage>&#x02013;<lpage>714</lpage>. <pub-id pub-id-type="doi">10.1002/ana.25450</pub-id>.<pub-id pub-id-type="pmid">30802998</pub-id>
+</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="patent" id="cit22"><person-group person-group-type="allauthors"><name><surname>Stiles</surname><given-names>D.</given-names></name></person-group><article-title>Method to Determine
+Distribution of a Material by an Infused Magnetic Resonance Image
+Contrast Agent</article-title><patent>US 9,008,752 B2</patent>, <year>2015</year>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Yao</surname><given-names>Y.</given-names></name>; <name><surname>Ding</surname><given-names>X.</given-names></name>; <name><surname>Qi</surname><given-names>Y.</given-names></name>; <name><surname>Qi</surname><given-names>M.</given-names></name>; <name><surname>Jones</surname><given-names>A.</given-names></name>
+<article-title>Using MRI
+to Determine Gadolinium Contrast Agent Concentration in Convection-Enhanced
+Delivery</article-title>. <source>Brain Tumor Res. Treat</source>
+<year>2022</year>, <volume>10</volume>, <fpage>S60</fpage>&#x02013;<lpage>1</lpage>. <pub-id pub-id-type="doi">10.14791/btrt.2022.10.F-2562</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Salegio</surname><given-names>E. A.</given-names></name>; <name><surname>Cukrov</surname><given-names>M.</given-names></name>; <name><surname>Lortz</surname><given-names>R.</given-names></name>; <name><surname>Green</surname><given-names>A.</given-names></name>; <name><surname>Lambert</surname><given-names>E.</given-names></name>; <name><surname>Copeland</surname><given-names>S.</given-names></name>; <name><surname>Gonzalez</surname><given-names>M.</given-names></name>; <name><surname>Stockinger</surname><given-names>D. E.</given-names></name>; <name><surname>Yeung</surname><given-names>J. M.</given-names></name>; <name><surname>Hwa</surname><given-names>G. G. C.</given-names></name>
+<article-title>Feasibility of Targeted Delivery
+of AAV5-GFP into the Cerebellum of Nonhuman Primates Following a Single
+Convection-Enhanced Delivery Infusion</article-title>. <source>Hum.
+Gene Ther.</source>
+<year>2022</year>, <volume>33</volume>, <fpage>86</fpage>&#x02013;<lpage>93</lpage>. <pub-id pub-id-type="doi">10.1089/hum.2021.163</pub-id>.<pub-id pub-id-type="pmid">34779239</pub-id>
+</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Spinazzi</surname><given-names>E. F.</given-names></name>; <name><surname>Argenziano</surname><given-names>M. G.</given-names></name>; <name><surname>Upadhyayula</surname><given-names>P. S.</given-names></name>; <name><surname>Banu</surname><given-names>M. A.</given-names></name>; <name><surname>Neira</surname><given-names>J. A.</given-names></name>; <name><surname>Higgins</surname><given-names>D. M. O.</given-names></name>; <name><surname>Wu</surname><given-names>P. B.</given-names></name>; <name><surname>Pereira</surname><given-names>B.</given-names></name>; <name><surname>Mahajan</surname><given-names>A.</given-names></name>; <name><surname>Humala</surname><given-names>N.</given-names></name>; et al. <article-title>Chronic Convection-Enhanced Delivery of Topotecan for
+Patients with Recurrent Glioblastoma: a First-In-Patient, Single-Centre,
+Single-Arm, Phase 1b Trial</article-title>. <source>Lancet Oncol.</source>
+<year>2022</year>, <volume>23</volume>, <fpage>1409</fpage>&#x02013;<lpage>1418</lpage>. <pub-id pub-id-type="doi">10.1016/S1470-2045(22)00599-X</pub-id>.<pub-id pub-id-type="pmid">36243020</pub-id>
+</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Salegio</surname><given-names>E. A.</given-names></name>; <name><surname>Campagna</surname><given-names>M. V.</given-names></name>; <name><surname>Allen</surname><given-names>P. C.</given-names></name>; <name><surname>Stockinger</surname><given-names>D. E.</given-names></name>; <name><surname>Song</surname><given-names>Y.</given-names></name>; <name><surname>Hwa</surname><given-names>G. G.</given-names></name>
+<article-title>Targeted Delivery
+and Tolerability
+of MRI-Guided CED Infusion into the Cerebellum of Nonhuman Primates</article-title>. <source>Hum. Gene Ther: Methods</source>
+<year>2018</year>, <volume>29</volume>, <fpage>169</fpage>&#x02013;<lpage>176</lpage>. <pub-id pub-id-type="doi">10.1089/hgtb.2018.049</pub-id>.<pub-id pub-id-type="pmid">29953257</pub-id>
+</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Jensen</surname><given-names>A. T.</given-names></name>; <name><surname>Binderup</surname><given-names>T.</given-names></name>; <name><surname>Andresen</surname><given-names>T. L.</given-names></name>; <name><surname>Kj&#x000e6;r</surname><given-names>A.</given-names></name>; <name><surname>Rasmussen</surname><given-names>P. H.</given-names></name>
+<article-title>PET Imaging of Liposomes Labeled with an [<sup>18</sup>F]-Fluorocholesteryl Ether Probe Prepared by Automated Radiosynthesis</article-title>. <source>J. Liposome Res.</source>
+<year>2012</year>, <volume>22</volume>, <fpage>295</fpage>&#x02013;<lpage>305</lpage>. <pub-id pub-id-type="doi">10.3109/08982104.2012.698418</pub-id>.<pub-id pub-id-type="pmid">22803638</pub-id>
+</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Lilius</surname><given-names>T. O.</given-names></name>; <name><surname>Mortensen</surname><given-names>K. N.</given-names></name>; <name><surname>Deville</surname><given-names>C.</given-names></name>; <name><surname>Lohela</surname><given-names>T. J.</given-names></name>; <name><surname>St&#x000e6;ger</surname><given-names>F. F.</given-names></name>; <name><surname>Sigurdsson</surname><given-names>B.</given-names></name>; <name><surname>Fiordaliso</surname><given-names>E. M.</given-names></name>; <name><surname>Rosenholm</surname><given-names>M.</given-names></name>; <name><surname>Kamphuis</surname><given-names>C.</given-names></name>; <name><surname>Beekman</surname><given-names>F. J.</given-names></name>; et al. <article-title>Glymphatic-Assisted
+Perivascular Brain Delivery of Intrathecal Small Gold Nanoparticles</article-title>. <source>J. Controlled Release</source>
+<year>2023</year>, <volume>355</volume>, <fpage>135</fpage>&#x02013;<lpage>148</lpage>. <pub-id pub-id-type="doi">10.1016/j.jconrel.2023.01.054</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Sporer</surname><given-names>E.</given-names></name>; <name><surname>Poulie</surname><given-names>C. B.</given-names></name>; <name><surname>Lindegren</surname><given-names>S.</given-names></name>; <name><surname>Aneheim</surname><given-names>E.</given-names></name>; <name><surname>Jensen</surname><given-names>H.</given-names></name>; <name><surname>B&#x000e4;ck</surname><given-names>T.</given-names></name>; <name><surname>Kempen</surname><given-names>P. J.</given-names></name>; <name><surname>Kjaer</surname><given-names>A.</given-names></name>; <name><surname>Herth</surname><given-names>M. M.</given-names></name>; <name><surname>Jensen</surname><given-names>A. I.</given-names></name>
+<article-title>Surface
+Adsorption of the Alpha-Emitter Astatine-211
+To Gold Nanoparticles Is Stable In Vivo and Potentially Useful in
+Radionuclide Therapy</article-title>. <source>J. Nanotheranostics</source>
+<year>2021</year>, <volume>2</volume>, <fpage>196</fpage>&#x02013;<lpage>207</lpage>. <pub-id pub-id-type="doi">10.3390/jnt2040012</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Mozafari</surname><given-names>M.</given-names></name>; <name><surname>Mazaheri</surname><given-names>E.</given-names></name>; <name><surname>Dormiani</surname><given-names>K.</given-names></name>
+<article-title>Simple Equations
+Pertaining to the
+Particle Number and Surface Area of Metallic, Polymeric, Lipidic and
+Vesicular Nanocarriers</article-title>. <source>Sci. Pharm.</source>
+<year>2021</year>, <volume>89</volume>, <fpage>15</fpage><pub-id pub-id-type="doi">10.3390/scipharm89020015</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Healy</surname><given-names>A. T.</given-names></name>; <name><surname>Vogelbaum</surname><given-names>M. A.</given-names></name>
+<article-title>Convection-Enhanced
+Drug Delivery for Gliomas</article-title>. <source>Surg. Neurol. Int.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>S59</fpage><pub-id pub-id-type="doi">10.4103/2152-7806.151337</pub-id>.<pub-id pub-id-type="pmid">25722934</pub-id>
+</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Jiang</surname><given-names>Y.</given-names></name>; <name><surname>Wei</surname><given-names>D.</given-names></name>; <name><surname>Singh</surname><given-names>P.</given-names></name>; <name><surname>Yu</surname><given-names>Y.</given-names></name>; <name><surname>Lee</surname><given-names>T.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Mandl</surname><given-names>H. K.</given-names></name>; <name><surname>Piotrowski-Daspit</surname><given-names>A. S.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; et al. <article-title>Nanoparticle-Mediated Convection-Enhanced Delivery
+of a DNA Intercalator to Gliomas Circumvents Temozolomide Resistance</article-title>. <source>Nat. Biomed. Eng.</source>
+<year>2021</year>, <volume>5</volume>, <fpage>1048</fpage>&#x02013;<lpage>1058</lpage>. <pub-id pub-id-type="doi">10.1038/s41551-021-00728-7</pub-id>.<pub-id pub-id-type="pmid">34045730</pub-id>
+</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Stephen</surname><given-names>Z. R.</given-names></name>; <name><surname>Chiarelli</surname><given-names>P. A.</given-names></name>; <name><surname>Revia</surname><given-names>R. A.</given-names></name>; <name><surname>Wang</surname><given-names>K.</given-names></name>; <name><surname>Kievit</surname><given-names>F.</given-names></name>; <name><surname>Dayringer</surname><given-names>C.</given-names></name>; <name><surname>Jeon</surname><given-names>M.</given-names></name>; <name><surname>Ellenbogen</surname><given-names>R.</given-names></name>; <name><surname>Zhang</surname><given-names>M.</given-names></name>
+<article-title>Time-Resolved MRI Assessment of Convection-Enhanced Delivery by Targeted
+and Nontargeted Nanoparticles in a Human Glioblastoma Mouse Model</article-title>. <source>Cancer Res.</source>
+<year>2019</year>, <volume>79</volume>, <fpage>4776</fpage>&#x02013;<lpage>4786</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-18-2998</pub-id>.<pub-id pub-id-type="pmid">31331912</pub-id>
+</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Finbloom</surname><given-names>J. A.</given-names></name>; <name><surname>Aanei</surname><given-names>I. L.</given-names></name>; <name><surname>Bernard</surname><given-names>J. M.</given-names></name>; <name><surname>Klass</surname><given-names>S. H.</given-names></name>; <name><surname>Elledge</surname><given-names>S. K.</given-names></name>; <name><surname>Han</surname><given-names>K.</given-names></name>; <name><surname>Ozawa</surname><given-names>T.</given-names></name>; <name><surname>Nicolaides</surname><given-names>T. P.</given-names></name>; <name><surname>Berger</surname><given-names>M. S.</given-names></name>; <name><surname>Francis</surname><given-names>M. B.</given-names></name>
+<article-title>Evaluation
+of Three Morphologically Distinct Virus-Like Particles As Nanocarriers
+for Convection-Enhanced Drug Delivery to Glioblastoma</article-title>. <source>Nanomaterials</source>
+<year>2018</year>, <volume>8</volume>, <fpage>1007</fpage><pub-id pub-id-type="doi">10.3390/nano8121007</pub-id>.<pub-id pub-id-type="pmid">30563038</pub-id>
+</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Josowitz</surname><given-names>A. D.</given-names></name>; <name><surname>Bindra</surname><given-names>R. S.</given-names></name>; <name><surname>Saltzman</surname><given-names>W. M.</given-names></name>
+<article-title>Polymer
+Nanocarriers for Targeted
+Local Delivery of Agents in Treating Brain Tumors</article-title>. <source>Nanotechnology</source>
+<year>2023</year>, <volume>34</volume>, <fpage>072001</fpage><pub-id pub-id-type="doi">10.1088/1361-6528/ac9683</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Zhou</surname><given-names>J.</given-names></name>; <name><surname>Patel</surname><given-names>T. R.</given-names></name>; <name><surname>Sirianni</surname><given-names>R. W.</given-names></name>; <name><surname>Strohbehn</surname><given-names>G.</given-names></name>; <name><surname>Zheng</surname><given-names>M. Q.</given-names></name>; <name><surname>Duong</surname><given-names>N.</given-names></name>; <name><surname>Schafbauer</surname><given-names>T.</given-names></name>; <name><surname>Huttner</surname><given-names>A. J.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Carson</surname><given-names>R. E.</given-names></name>; et al. <article-title>Highly
+Penetrative, Drug-Loaded Nanocarriers Improve Treatment of Glioblastoma</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>2013</year>, <volume>110</volume>, <fpage>11751</fpage>&#x02013;<lpage>11756</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1304504110</pub-id>.<pub-id pub-id-type="pmid">23818631</pub-id>
+</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Phillips</surname><given-names>W. T.</given-names></name>; <name><surname>Bao</surname><given-names>A.</given-names></name>; <name><surname>Brenner</surname><given-names>A. J.</given-names></name>; <name><surname>Goins</surname><given-names>B. A.</given-names></name>
+<article-title>Image-Guided Interventional Therapy
+for Cancer with Radiotherapeutic Nanoparticles</article-title>. <source>Adv. Drug Delivery Rev.</source>
+<year>2014</year>, <volume>76</volume>, <fpage>39</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1016/j.addr.2014.07.001</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Saito</surname><given-names>R.</given-names></name>; <name><surname>Bringas</surname><given-names>J. R.</given-names></name>; <name><surname>McKnight</surname><given-names>T. R.</given-names></name>; <name><surname>Wendland</surname><given-names>M. F.</given-names></name>; <name><surname>Mamot</surname><given-names>C.</given-names></name>; <name><surname>Drummond</surname><given-names>D. C.</given-names></name>; <name><surname>Kirpotin</surname><given-names>D. B.</given-names></name>; <name><surname>Park</surname><given-names>J. W.</given-names></name>; <name><surname>Berger</surname><given-names>M. S.</given-names></name>; <name><surname>Bankiewicz</surname><given-names>K. S.</given-names></name>
+<article-title>Distribution of Liposomes into Brain
+and Rat Brain
+Tumor Models by Convection-Enhanced Delivery Monitored with Magnetic
+Resonance Imaging</article-title>. <source>Cancer Res.</source>
+<year>2004</year>, <volume>64</volume>, <fpage>2572</fpage>&#x02013;<lpage>2579</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-03-3631</pub-id>.<pub-id pub-id-type="pmid">15059914</pub-id>
+</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Nance</surname><given-names>E. A.</given-names></name>; <name><surname>Woodworth</surname><given-names>G. F.</given-names></name>; <name><surname>Sailor</surname><given-names>K. A.</given-names></name>; <name><surname>Shih</surname><given-names>T. Y.</given-names></name>; <name><surname>Xu</surname><given-names>Q.</given-names></name>; <name><surname>Swaminathan</surname><given-names>G.</given-names></name>; <name><surname>Xiang</surname><given-names>D.</given-names></name>; <name><surname>Eberhart</surname><given-names>C.</given-names></name>; <name><surname>Hanes</surname><given-names>J.</given-names></name>
+<article-title>A Dense Poly(Ethylene
+Glycol) Coating Improves Penetration of Large Polymeric Nanoparticles
+within Brain Tissue</article-title>. <source>Sci. Transl. Med.</source>
+<year>2012</year>, <volume>4</volume>, <fpage>149ra119</fpage><pub-id pub-id-type="doi">10.1126/scitranslmed.3003594</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Birzu</surname><given-names>C.</given-names></name>; <name><surname>French</surname><given-names>P.</given-names></name>; <name><surname>Caccese</surname><given-names>M.</given-names></name>; <name><surname>Cerretti</surname><given-names>G.</given-names></name>; <name><surname>Idbaih</surname><given-names>A.</given-names></name>; <name><surname>Zagonel</surname><given-names>V.</given-names></name>; <name><surname>Lombardi</surname><given-names>G.</given-names></name>
+<article-title>Recurrent
+Glioblastoma: From Molecular
+Landscape to New Treatment Perspectives</article-title>. <source>Cancers</source>
+<year>2021</year>, <volume>13</volume>, <fpage>47</fpage><pub-id pub-id-type="doi">10.3390/cancers13010047</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Saito</surname><given-names>R.</given-names></name>; <name><surname>Krauze</surname><given-names>M. T.</given-names></name>; <name><surname>Noble</surname><given-names>C. O.</given-names></name>; <name><surname>Tamas</surname><given-names>M.</given-names></name>; <name><surname>Drummond</surname><given-names>D. C.</given-names></name>; <name><surname>Kirpotin</surname><given-names>D. B.</given-names></name>; <name><surname>Berger</surname><given-names>M. S.</given-names></name>; <name><surname>Park</surname><given-names>J. W.</given-names></name>; <name><surname>Bankiewicz</surname><given-names>K. S.</given-names></name>
+<article-title>Tissue
+Affinity of the Infusate Affects the Distribution Volume During Convection-Enhanced
+Delivery into Rodent Brains: Implications for Local Drug Delivery</article-title>. <source>J. Neurosci. Methods</source>
+<year>2006</year>, <volume>154</volume>, <fpage>225</fpage>&#x02013;<lpage>232</lpage>. <pub-id pub-id-type="doi">10.1016/j.jneumeth.2005.12.027</pub-id>.<pub-id pub-id-type="pmid">16472868</pub-id>
+</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Saucier-Sawyer</surname><given-names>J. K.</given-names></name>; <name><surname>Seo</surname><given-names>Y. E.</given-names></name>; <name><surname>Gaudin</surname><given-names>A.</given-names></name>; <name><surname>Quijano</surname><given-names>E.</given-names></name>; <name><surname>Song</surname><given-names>E.</given-names></name>; <name><surname>Sawyer</surname><given-names>A. J.</given-names></name>; <name><surname>Deng</surname><given-names>Y.</given-names></name>; <name><surname>Huttner</surname><given-names>A.</given-names></name>; <name><surname>Saltzman</surname><given-names>W. M.</given-names></name>
+<article-title>Distribution
+of Polymer Nanoparticles by Convection-Enhanced Delivery to Brain
+Tumors</article-title>. <source>J. Controlled Release</source>
+<year>2016</year>, <volume>232</volume>, <fpage>103</fpage>&#x02013;<lpage>112</lpage>. <pub-id pub-id-type="doi">10.1016/j.jconrel.2016.04.006</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Sonabend</surname><given-names>A. M.</given-names></name>; <name><surname>Stuart</surname><given-names>R. M.</given-names></name>; <name><surname>Yun</surname><given-names>J.</given-names></name>; <name><surname>Yanagihara</surname><given-names>T.</given-names></name>; <name><surname>Mohajed</surname><given-names>H.</given-names></name>; <name><surname>Dashnaw</surname><given-names>S.</given-names></name>; <name><surname>Bruce</surname><given-names>S. S.</given-names></name>; <name><surname>Brown</surname><given-names>T.</given-names></name>; <name><surname>Romanov</surname><given-names>A.</given-names></name>; <name><surname>Sebastian</surname><given-names>M.</given-names></name>; et al. <article-title>Prolonged Intracerebral
+Convection-Enhanced Delivery of Topotecan with a Subcutaneously Implantable
+Infusion Pump</article-title>. <source>Neuro-Oncol.</source>
+<year>2011</year>, <volume>13</volume>, <fpage>886</fpage>&#x02013;<lpage>893</lpage>. <pub-id pub-id-type="doi">10.1093/neuonc/nor051</pub-id>.<pub-id pub-id-type="pmid">21750007</pub-id>
+</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Lonser</surname><given-names>R. R.</given-names></name>; <name><surname>Warren</surname><given-names>K. E.</given-names></name>; <name><surname>Butman</surname><given-names>J. A.</given-names></name>; <name><surname>Quezado</surname><given-names>Z.</given-names></name>; <name><surname>Robison</surname><given-names>R. A.</given-names></name>; <name><surname>Walbridge</surname><given-names>S.</given-names></name>; <name><surname>Schiffman</surname><given-names>R.</given-names></name>; <name><surname>Merrill</surname><given-names>M.</given-names></name>; <name><surname>Walker</surname><given-names>M. L.</given-names></name>; <name><surname>Park</surname><given-names>D. M.</given-names></name>; et al. <article-title>Real-Time Image-Guided Direct Convective Perfusion
+of Intrinsic Brainstem Lesions</article-title>. <source>J. Neurosurg.</source>
+<year>2007</year>, <volume>107</volume>, <fpage>190</fpage>&#x02013;<lpage>197</lpage>. <pub-id pub-id-type="doi">10.3171/JNS-07/07/0190</pub-id>.<pub-id pub-id-type="pmid">17639894</pub-id>
+</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Iyer</surname><given-names>R. R.</given-names></name>; <name><surname>Butman</surname><given-names>J. A.</given-names></name>; <name><surname>Walbridge</surname><given-names>S.</given-names></name>; <name><surname>Gai</surname><given-names>N. D.</given-names></name>; <name><surname>Heiss</surname><given-names>J. D.</given-names></name>; <name><surname>Lonser</surname><given-names>R. R.</given-names></name>
+<article-title>Tracking Accuracy
+of T2- and Diffusion-Weighted Magnetic
+Resonance Imaging for Infusate Distribution by Convection-Enhanced
+Delivery</article-title>. <source>J. Neurosurg.</source>
+<year>2011</year>, <volume>115</volume>, <fpage>474</fpage>&#x02013;<lpage>480</lpage>. <pub-id pub-id-type="doi">10.3171/2011.5.JNS11246</pub-id>.<pub-id pub-id-type="pmid">21663409</pub-id>
+</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Boschi</surname><given-names>A.</given-names></name>; <name><surname>Martini</surname><given-names>P.</given-names></name>; <name><surname>Janevik-Ivanovska</surname><given-names>E.</given-names></name>; <name><surname>Duatti</surname><given-names>A.</given-names></name>
+<article-title>The Emerging Role of
+Copper-64 Radiopharmaceuticals as Cancer Theranostics</article-title>. <source>Drug Discovery Today</source>
+<year>2018</year>, <volume>23</volume>, <fpage>1489</fpage>&#x02013;<lpage>1501</lpage>. <pub-id pub-id-type="doi">10.1016/j.drudis.2018.04.002</pub-id>.<pub-id pub-id-type="pmid">29635027</pub-id>
+</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Anderson</surname><given-names>C. J.</given-names></name>; <name><surname>Ferdani</surname><given-names>R.</given-names></name>
+<article-title>Copper-64 Radiopharmaceuticals for
+PET Imaging of Cancer:
+Advances in Preclinical and Clinical Research</article-title>. <source>Cancer Biother.Radiopharm.</source>
+<year>2009</year>, <volume>24</volume>, <fpage>379</fpage>&#x02013;<lpage>393</lpage>. <pub-id pub-id-type="doi">10.1089/cbr.2009.0674</pub-id>.<pub-id pub-id-type="pmid">19694573</pub-id>
+</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Boucher</surname><given-names>Y.</given-names></name>; <name><surname>Baxter</surname><given-names>L. T.</given-names></name>; <name><surname>Jain</surname><given-names>R. K.</given-names></name>
+<article-title>Interstitial Pressure Gradients in
+Tissue-Isolated and Subcutaneous Tumors: Implications for Therapy</article-title>. <source>Cancer Res</source>
+<year>1990</year>, <volume>50</volume>, <fpage>4478</fpage>&#x02013;<lpage>4484</lpage>.<pub-id pub-id-type="pmid">2369726</pub-id>
+</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Zhan</surname><given-names>W.</given-names></name>
+<article-title>Role of Tissue Hydraulic Permeability in Convection-Enhanced Delivery
+of Nanoparticle-Encapsulated Chemotherapy Drugs to Brain Tumour</article-title>. <source>Pharm. Res.</source>
+<year>2022</year>, <volume>39</volume>, <fpage>877</fpage>&#x02013;<lpage>892</lpage>. <pub-id pub-id-type="doi">10.1007/s11095-022-03261-7</pub-id>.<pub-id pub-id-type="pmid">35474156</pub-id>
+</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Morrison</surname><given-names>P. F.</given-names></name>; <name><surname>Chen</surname><given-names>M. Y.</given-names></name>; <name><surname>Chadwick</surname><given-names>R. S.</given-names></name>; <name><surname>Lonser</surname><given-names>R. R.</given-names></name>; <name><surname>Oldfield</surname><given-names>E. H.</given-names></name>
+<article-title>Focal Delivery
+During Direct Infusion to Brain: Role of Flow Rate, Catheter Diameter,
+and Tissue Mechanics</article-title>. <source>Am. J. Physiol. Regul.
+Integr. Comp. Physiol.</source>
+<year>1999</year>, <volume>277</volume>, <fpage>R1218</fpage>&#x02013;<lpage>1229</lpage>. <pub-id pub-id-type="doi">10.1152/ajpregu.1999.277.4.R1218</pub-id>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Bauman</surname><given-names>M.</given-names></name>; <name><surname>Gillies</surname><given-names>G.</given-names></name>; <name><surname>Raghavan</surname><given-names>R.</given-names></name>; <name><surname>Brady</surname><given-names>M.</given-names></name>; <name><surname>Pedain</surname><given-names>C.</given-names></name>
+<article-title>Physical Characterization
+of Neurocatheter Performance in a Brain Phantom Gelatin with Nanoscale
+Porosity: Steady-State and Oscillatory Flows</article-title>. <source>Nanotechnology</source>
+<year>2004</year>, <volume>15</volume>, <fpage>92</fpage><pub-id pub-id-type="doi">10.1088/0957-4484/15/1/018</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Chen</surname><given-names>M. Y.</given-names></name>; <name><surname>Lonser</surname><given-names>R. R.</given-names></name>; <name><surname>Morrison</surname><given-names>P. F.</given-names></name>; <name><surname>Governale</surname><given-names>L. S.</given-names></name>; <name><surname>Oldfield</surname><given-names>E. H.</given-names></name>
+<article-title>Variables Affecting Convection-Enhanced
+Delivery to
+the Striatum: A Systematic Examination of Rate of Infusion, Cannula
+Size, Infusate Concentration, and Tissue-Cannula Sealing Time</article-title>. <source>J. Neurosurg.</source>
+<year>1999</year>, <volume>90</volume>, <fpage>315</fpage>&#x02013;<lpage>320</lpage>. <pub-id pub-id-type="doi">10.3171/jns.1999.90.2.0315</pub-id>.<pub-id pub-id-type="pmid">9950503</pub-id>
+</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Sampson</surname><given-names>J. H.</given-names></name>; <name><surname>Brady</surname><given-names>M. L.</given-names></name>; <name><surname>Petry</surname><given-names>N. A.</given-names></name>; <name><surname>Croteau</surname><given-names>D.</given-names></name>; <name><surname>Friedman</surname><given-names>A. H.</given-names></name>; <name><surname>Friedman</surname><given-names>H. S.</given-names></name>; <name><surname>Wong</surname><given-names>T.</given-names></name>; <name><surname>Bigner</surname><given-names>D. D.</given-names></name>; <name><surname>Pastan</surname><given-names>I.</given-names></name>; <name><surname>Puri</surname><given-names>R. K.</given-names></name>; et al. <article-title>Intracerebral Infusate
+Distribution by Convection-Enhanced
+Delivery in Humans with Malignant Gliomas: Descriptive Effects of
+Target Anatomy and Catheter Positioning</article-title>. <source>Oper.
+Neurosurg.</source>
+<year>2007</year>, <volume>60</volume>, <fpage>89</fpage>&#x02013;<lpage>98</lpage>. <pub-id pub-id-type="doi">10.1227/01.NEU.0000249256.09289.5F</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Lewis</surname><given-names>O.</given-names></name>; <name><surname>Woolley</surname><given-names>M.</given-names></name>; <name><surname>Johnson</surname><given-names>D. E.</given-names></name>; <name><surname>Fletcher</surname><given-names>J.</given-names></name>; <name><surname>Fenech</surname><given-names>J.</given-names></name>; <name><surname>Pietrzyk</surname><given-names>M. W.</given-names></name>; <name><surname>Barua</surname><given-names>N. U.</given-names></name>; <name><surname>Bienemann</surname><given-names>A. S.</given-names></name>; <name><surname>Singleton</surname><given-names>W.</given-names></name>; <name><surname>Evans</surname><given-names>S. L.</given-names></name>; et al. <article-title>Maximising Coverage
+of Brain Structures Using Controlled Reflux, Convection-Enhanced Delivery
+and the Recessed Step Catheter</article-title>. <source>J. Neurosci.
+Methods</source>
+<year>2018</year>, <volume>308</volume>, <fpage>337</fpage>&#x02013;<lpage>345</lpage>. <pub-id pub-id-type="doi">10.1016/j.jneumeth.2018.08.029</pub-id>.<pub-id pub-id-type="pmid">30179705</pub-id>
+</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Sager</surname><given-names>T. M.</given-names></name>; <name><surname>Castranova</surname><given-names>V.</given-names></name>
+<article-title>Surface Area of Particle Administered Versus Mass in
+Determining the Pulmonary Toxicity of Ultrafine and Fine Carbon Black:
+Comparison to Ultrafine Titanium Dioxide</article-title>. <source>Part.
+Fibre Toxicol.</source>
+<year>2009</year>, <volume>6</volume>, <fpage>15</fpage><pub-id pub-id-type="doi">10.1186/1743-8977-6-15</pub-id>.<pub-id pub-id-type="pmid">19413904</pub-id>
+</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Senut</surname><given-names>M. C.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>F.</given-names></name>; <name><surname>Sen</surname><given-names>A.</given-names></name>; <name><surname>Ruden</surname><given-names>D. M.</given-names></name>; <name><surname>Mao</surname><given-names>G.</given-names></name>
+<article-title>Size-Dependent Toxicity of Gold Nanoparticles
+on Human Embryonic
+Stem Cells and Their Neural Derivatives</article-title>. <source>Small</source>
+<year>2016</year>, <volume>12</volume>, <fpage>631</fpage>&#x02013;<lpage>646</lpage>. <pub-id pub-id-type="doi">10.1002/smll.201502346</pub-id>.<pub-id pub-id-type="pmid">26676601</pub-id>
+</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>N&#x00069;&#x00307;nik</surname><given-names>&#x00141;.</given-names></name>; <name><surname>Noga</surname><given-names>M.</given-names></name>; <name><surname>Kobylarz</surname><given-names>D.</given-names></name>; <name><surname>Frydrych</surname><given-names>A.</given-names></name>; <name><surname>Kr&#x000f3;niak</surname><given-names>A.</given-names></name>; <name><surname>Kapka-Skrzypczak</surname><given-names>L.</given-names></name>; <name><surname>Jurowski</surname><given-names>K.</given-names></name>
+<article-title>Gold Nanoparticles (AuNPs)&#x02014;Toxicity,
+Safety and Green Synthesis: A Critical Review</article-title>. <source>Int. J. Mol. Sci.</source>
+<year>2024</year>, <volume>25</volume>, <fpage>4057</fpage><pub-id pub-id-type="doi">10.3390/ijms25074057</pub-id>.<pub-id pub-id-type="pmid">38612865</pub-id>
+</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Bailly</surname><given-names>A.-L.</given-names></name>; <name><surname>Correard</surname><given-names>F.</given-names></name>; <name><surname>Popov</surname><given-names>A.</given-names></name>; <name><surname>Tselikov</surname><given-names>G.</given-names></name>; <name><surname>Chaspoul</surname><given-names>F.</given-names></name>; <name><surname>Appay</surname><given-names>R.</given-names></name>; <name><surname>Al-Kattan</surname><given-names>A.</given-names></name>; <name><surname>Kabashin</surname><given-names>A. V.</given-names></name>; <name><surname>Braguer</surname><given-names>D.</given-names></name>; <name><surname>Esteve</surname><given-names>M.-A.</given-names></name>
+<article-title>In Vivo Evaluation
+of Safety, Biodistribution and Pharmacokinetics
+of Laser-Synthesized Gold Nanoparticles</article-title>. <source>Sci.
+Rep.</source>
+<year>2019</year>, <volume>9</volume>, <fpage>12890</fpage><pub-id pub-id-type="doi">10.1038/s41598-019-48748-3</pub-id>.<pub-id pub-id-type="pmid">31501470</pub-id>
+</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Bienemann</surname><given-names>A.</given-names></name>; <name><surname>White</surname><given-names>E.</given-names></name>; <name><surname>Woolley</surname><given-names>M.</given-names></name>; <name><surname>Castrique</surname><given-names>E.</given-names></name>; <name><surname>Johnson</surname><given-names>D. E.</given-names></name>; <name><surname>Wyatt</surname><given-names>M.</given-names></name>; <name><surname>Murray</surname><given-names>G.</given-names></name>; <name><surname>Taylor</surname><given-names>H.</given-names></name>; <name><surname>Barua</surname><given-names>N.</given-names></name>; <name><surname>Gill</surname><given-names>S. S.</given-names></name>
+<article-title>The Development
+of an Implantable
+Catheter System for Chronic or Intermittent Convection-Enhanced Delivery</article-title>. <source>J. Neurosci. Methods</source>
+<year>2012</year>, <volume>203</volume>, <fpage>284</fpage>&#x02013;<lpage>291</lpage>. <pub-id pub-id-type="doi">10.1016/j.jneumeth.2011.10.002</pub-id>.<pub-id pub-id-type="pmid">22015599</pub-id>
+</mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>White</surname><given-names>E.</given-names></name>; <name><surname>Woolley</surname><given-names>M.</given-names></name>; <name><surname>Bienemann</surname><given-names>A.</given-names></name>; <name><surname>Johnson</surname><given-names>D. E.</given-names></name>; <name><surname>Wyatt</surname><given-names>M.</given-names></name>; <name><surname>Murray</surname><given-names>G.</given-names></name>; <name><surname>Taylor</surname><given-names>H.</given-names></name>; <name><surname>Gill</surname><given-names>S. S.</given-names></name>
+<article-title>A Robust MRI-Compatible
+System to Facilitate Highly Accurate Stereotactic Administration of
+Therapeutic Agents to Targets within the Brain of a Large Animal Model</article-title>. <source>J. Neurosci. Methods-</source>
+<year>2011</year>, <volume>195</volume>, <fpage>78</fpage>&#x02013;<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1016/j.jneumeth.2010.10.023</pub-id>.<pub-id pub-id-type="pmid">21074564</pub-id>
+</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Barua</surname><given-names>N.</given-names></name>; <name><surname>Woolley</surname><given-names>M.</given-names></name>; <name><surname>Bienemann</surname><given-names>A.</given-names></name>; <name><surname>Johnson</surname><given-names>D.</given-names></name>; <name><surname>Lewis</surname><given-names>O.</given-names></name>; <name><surname>Wyatt</surname><given-names>M.</given-names></name>; <name><surname>Irving</surname><given-names>C.</given-names></name>; <name><surname>O&#x02019;Sullivan</surname><given-names>S.</given-names></name>; <name><surname>Murray</surname><given-names>G.</given-names></name>; <name><surname>Fennelly</surname><given-names>C.</given-names></name>; et al. <article-title>Intermittent
+Convection-Enhanced
+Delivery to the Brain Through a Novel Transcutaneous Bone-Anchored
+Port</article-title>. <source>J. Neurosci. Methods</source>
+<year>2013</year>, <volume>214</volume>, <fpage>223</fpage>&#x02013;<lpage>232</lpage>. <pub-id pub-id-type="doi">10.1016/j.jneumeth.2013.02.007</pub-id>.<pub-id pub-id-type="pmid">23419699</pub-id>
+</mixed-citation></ref></ref-list></back></article>

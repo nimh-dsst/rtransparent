@@ -1,0 +1,843 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Chem Sci</journal-id><journal-id journal-id-type="iso-abbrev">Chem Sci</journal-id><journal-id journal-id-type="publisher-id">SC</journal-id><journal-id journal-id-type="coden">CSHCBM</journal-id><journal-title-group><journal-title>Chemical Science</journal-title></journal-title-group><issn pub-type="ppub">2041-6520</issn><issn pub-type="epub">2041-6539</issn><publisher><publisher-name>The Royal Society of Chemistry</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40443987</article-id><article-id pub-id-type="pmc">PMC12117708</article-id>
+<article-id pub-id-type="publisher-id">d5sc01958c</article-id><article-id pub-id-type="doi">10.1039/d5sc01958c</article-id><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>Spiro-fluorene locked multi-resonance delayed fluorescence helical framework: efficient circularly polarized electroluminescent materials<xref rid="fn1" ref-type="fn">&#x02020;</xref></article-title><fn-group><fn id="fn1"><label>&#x02020;</label><p>Electronic supplementary information (ESI) available. See DOI: <uri xlink:href="https://doi.org/10.1039/d5sc01958c">https://doi.org/10.1039/d5sc01958c</uri></p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Cai</surname><given-names>Xinliang</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5977-5527</contrib-id><name><surname>Wei</surname><given-names>Jinbei</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7939-6543</contrib-id><contrib-id contrib-id-type="resid" authenticated="false">J-9485-2013</contrib-id><name><surname>Li</surname><given-names>Zhiqiang</given-names></name><xref rid="affb" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><name><surname>Pu</surname><given-names>Yexuan</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name><surname>Wu</surname><given-names>Youwei</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6936-5081</contrib-id><name><surname>Wang</surname><given-names>Yue</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><aff id="affa">
+<label>a</label>
+<institution>State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, College of Electronic Science and Engineering, Jilin University</institution>
+<city>Changchun 130012</city>
+<country>P. R. China</country>
+<email>jinbwei@jlu.edu.cn</email>
+<email>yuewang@jlu.edu.cn</email>
+</aff><aff id="affb">
+<label>b</label>
+<institution>Jihua Laboratory</institution>
+<addr-line>28 Huandao Nan Road</addr-line>
+<city>Foshan</city>
+<postal-code>528200</postal-code>
+<state>Guangdong Province</state>
+<country>P. R. China</country>
+</aff></contrib-group><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2025-05-14"><day>14</day><month>5</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2025-06-25"><day>25</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="pmc-release"><day>14</day><month>5</month><year>2025</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>16</volume><issue>25</issue><fpage>11539</fpage><lpage>11547</lpage><history><date date-type="received" iso-8601-date="2025-03-12"><day>12</day><month>3</month><year>2025</year></date><date date-type="accepted" iso-8601-date="2025-05-13"><day>13</day><month>5</month><year>2025</year></date></history><permissions><copyright-statement>This journal is &#x000a9; The Royal Society of Chemistry</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2025-05-14">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This article is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-Non Commercial 3.0 Unported Licence</ext-link>. You can use material from this article in other publications without requesting further permissions from the RSC, provided that the correct acknowledgement is given and it is not used for commercial purposes.</license-p></license></permissions><abstract><p>Due to their excellent optical properties, circularly polarized multiple resonance thermally activated delayed fluorescence (CP-MR-TADF) compounds are highly suitable for applications as chiral emitters with high efficiency and high color purity. However, challenges due to limited molecular design strategies often hinder their application in circularly polarized organic light-emitting diodes (CP-OLEDs). In this work, based on an intramolecular-locking strategy, a carbon bridge was introduced to fuse the <italic toggle="yes">tert</italic>-butyl carbazole moiety within the MR skeleton, merging the intrinsically helical chirality into the MR framework. The designed molecule was modified by incorporating a locking group with significant spatial hindrance, named Spiro-3TCzBN. Consequently, the optimized CP-OLEDs with (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN emitters achieved remarkable maximum external quantum efficiencies of 34.6% and 34.9%, respectively, accompanied by clear circularly polarized electroluminescence signals with electroluminescence dissymmetry factors of &#x02212;3.51 &#x000d7; 10<sup>&#x02212;4</sup> and +4.26 &#x000d7; 10<sup>&#x02212;4</sup>. Furthermore, the electroluminescence spectra of Spiro-3TCzBN-based OLEDs show a notably stable profile as the doping level increases from 1 to 10 wt%. These results indicate that the conformational locking strategy is a compelling design approach for helicene, which is expected to be a potential chiral optical material for next-generation high-resolution CP-OLED displays.</p></abstract><abstract abstract-type="toc"><p>An intramolecular conformation-locking strategy has been proposed to construct efficient circularly polarized electroluminescent materials by fusing the <italic toggle="yes">tert</italic>-butyl carbazole moiety to the MR skeleton with a spiro-fluorene structure.<graphic xlink:href="d5sc01958c-ga.jpg" id="ga" position="float"/></p></abstract><funding-group><award-group><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>52303230</award-id><award-id>523B2031</award-id></award-group></funding-group><counts><page-count count="9"/></counts><custom-meta-group><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Introduction</title><p>Circularly polarized luminescent (CPL) materials have emerged as promising candidates for various optoelectronic applications, including optical data storage and security, chiral sensing, bio-responsive imaging, and CPL-responsive organic field-effect transistors.<sup><xref rid="cit1" ref-type="bibr">1</xref></sup> The most notable applications are circularly polarized organic light-emitting diodes (CP-OLEDs) and 3D displays.<sup><xref rid="cit2" ref-type="bibr">2</xref></sup> However, conventional OLEDs rely on a wire grid polarizer and a quarter-wave plate to generate circularly polarized electroluminescence (CPEL), resulting in increased absorption loss due to the polarizer and a more sophisticated device structure. Organic emitters featuring intrinsic CPL emissions are crucial for fabricating CP-OLEDs since they can effectively address these limitations. Based on excited-state relaxation dynamics, these materials can be categorized into fluorescent, phosphorescent, and thermally activated delayed fluorescent (TADF) types. In a bid to harness both singlet and triplet excitons through the reverse intersystem crossing (RISC) process, facilitating the conversion of non-radiative triplet excitons (T<sub>1</sub>) into radiative singlet excitons (S<sub>1</sub>), metal-free organic circularly polarized TADF (CP-TADF) materials are more promising alternatives for high-performance OLEDs with low-cost.<sup><xref rid="cit3" ref-type="bibr">3</xref></sup></p><p>A typical method to construct CP-TADF materials entails the incorporation of a chiral moiety, such as a stereogenic carbon center, axial chirality, or planar chirality, into the traditional TADF framework as a substituent.<sup><xref rid="cit4" ref-type="bibr">4</xref></sup> Although such chiral perturbation on TADF molecules provides a straightforward means to achieve CP-TADF properties, the corresponding materials suffer from broad emission governed by the inevitable strong intramolecular charge transfer (ICT) nature of the twisted donor&#x02013;acceptor (D&#x02013;A) structure. An additional optical filter or optical microcavity is needed to enhance the color purity of CP-TADF-based OLEDs, however, this approach inevitably leads to considerable energy loss and necessitates more intricate device architectures. Therefore, the development of luminescent materials capable of simultaneously exhibiting efficient CPL activity and narrowband emission has emerged as the most direct, economical, and promising solution.<sup><xref rid="cit5" ref-type="bibr">5</xref></sup></p><p>Addressing the critical challenge of high color purity in wide color gamut displays, Hatakeyama <italic toggle="yes">et al.</italic> pioneered the development of multiple resonance (MR) TADF emitters.<sup><xref rid="cit6" ref-type="bibr">6</xref></sup> Through suppressing the vibrational relaxation of S<sub>1</sub> states by virtue of their rigid planar structure, these materials exhibit highly efficient emission with an inherently narrow full width at half maximum (FWHM), providing excellent color purity and outstanding electroluminescent performance. Simultaneously, this exciting breakthrough has also spurred significant interest in CP-MR-TADF materials, leading to remarkable advancements in the field.<sup><xref rid="cit7" ref-type="bibr">7</xref></sup> In 2021, our group successfully developed the first CP-MR-TADF materials, (<italic toggle="yes">R</italic>/<italic toggle="yes">S</italic>)-OBN-2CN-BN and (<italic toggle="yes">R</italic>/<italic toggle="yes">S</italic>)-OBN-4CN-BN, by attaching chiral octahydro-binaphthol derivatives to the periphery of 2CN-BN and 4CN-BN, respectively.<sup><xref rid="cit8" ref-type="bibr">8</xref></sup> The CP-OLEDs with high color purity achieved maximum external quantum efficiencies (EQE<sub>max</sub>) of 29.4% and 24.5%. However, this modification of the designed molecule at the periphery of the MR-TADF material leads to indiscernible circularly polarized photoluminescence (CPPL) and CPEL signals. Alternatively, helicenes demonstrate substantial potential as promising candidates to achieve more distinct CPPL and CPEL signals by allowing the fusion of chiral cores within the chromophoric skeletons.<sup><xref rid="cit9" ref-type="bibr">9</xref></sup> As shown in <xref rid="fig1" ref-type="fig">Fig. 1a</xref>, Duan <italic toggle="yes">et al.</italic> developed two enantiomers with <italic toggle="yes">bis</italic>-hetero-[<italic toggle="yes">n</italic>]helicene (<italic toggle="yes">n</italic> = 6 and 7) structures, namely <italic toggle="yes">M</italic>, <italic toggle="yes">M</italic>-RBNN and <italic toggle="yes">P</italic>, <italic toggle="yes">P</italic>-RBNN, by incorporating B&#x02013;N bonds into the B&#x02013;&#x003c0;&#x02013;B framework. These enantiomers exhibited mirror-image pure red CPL emission in solution, and demonstrated excellent performance in CP-OLEDs, achieving an EQE<sub>max</sub> of 36.6% and displaying significant CPEL signals with a <italic toggle="yes">g</italic><sub>EL</sub> of 10<sup>&#x02212;3</sup>.<sup><xref rid="cit10" ref-type="bibr">10</xref></sup> Zheng <italic toggle="yes">et al.</italic> and our group reported a set of pure-green CP-MR-TADF materials, (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-BN-Py, by harnessing an edge-topology molecular engineering strategy with the corresponding CP-OLEDs showing clear CPEL signals with a <italic toggle="yes">g</italic><sub>EL</sub> of 10<sup>&#x02212;3</sup>.<sup><xref rid="cit11" ref-type="bibr">11</xref></sup> Recently, a series of deep-blue hetero[6]helicene-based CPL emitters, DB-O and DB-S, have been strategically engineered by Yang <italic toggle="yes">et al.</italic> through the helical extension of an MR-TADF motif. The resulting CP-OLEDs achieved a record-breaking EQE of up to 29.3% and complied with the BT.2020 blue standard.<sup><xref rid="cit12" ref-type="bibr">12</xref></sup> Although helically chiral derivatives exhibit important applications in this field, derivatives possessing adequate configurational stability under operational stimuli remain remarkably scarce. Besides, an important issue to be addressed for most MR-TADF OLEDs is the severe aggregation-caused quenching (ACQ) and spectral broadening at high doping concentrations due to intense &#x003c0;&#x02013;&#x003c0; interactions. Therefore, to advance the utilization of helical architectures in CP-OLEDs, rational molecular design strategies for constructing helical CP-MR-TADF emitters with suppressed quenching are critically needed.</p><fig position="float" id="fig1"><label>Fig. 1</label><caption><title>(a) Reported molecular structures of CP-MR-TADF emitters with helical chirality and (b) conformation-locking strategy for high-performance CP-MR-TADF emitters.</title></caption><graphic xlink:href="d5sc01958c-f1" position="float"/></fig><p>In this contribution, an intramolecular conformation-locking strategy is proposed to construct a CP-MR-TADF emitter ((<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN) featuring a twisted disk-like molecular structure with a seven-membered hetero-[7]helicene unit (<xref rid="fig1" ref-type="fig">Fig. 1b</xref>). Spiro-3TCzBN was designed and synthesized by using a carbon bridge (sp<sup>3</sup> hybridized) to bond the <italic toggle="yes">tert</italic>-butylcarbazole (TCz) group from <italic toggle="yes">m</italic>-Cz-BNCz to the MR framework, which enables the introduction of intrinsically helical chirality into the MR-TADF framework. As the hetero-[7]helicene unit originates from the helical extension of the MR skeleton, (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN not only exhibits excellent CPL performance in both solution and film states but also inherits the MR-TADF characteristics with a narrow FWHM and high <italic toggle="yes">&#x003a6;</italic><sub>PL</sub>. In addition, the orthogonal arrangement of the bulky locking group relative to the MR framework endowed the emitter with the ability to mitigate emission quenching at high concentrations. The sensitized CP-OLEDs employing (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN as emitters demonstrated yellow circularly polarized electroluminescence peaking at 560 nm with an EQE<sub>max</sub> approaching 35%. Moreover, the <italic toggle="yes">g</italic><sub>EL</sub> values of &#x02212;4.26 &#x000d7; 10<sup>&#x02212;4</sup> and +3.51 &#x000d7; 10<sup>&#x02212;4</sup> were observed for (<italic toggle="yes">P</italic>)-Spiro-3TCzBN and (<italic toggle="yes">M</italic>)-Spiro-3TCzBN, respectively. These noteworthy EL properties not only underscore the potential of hetero-helicenes as promising chiral optical materials for next-generation high-definition CP-OLED displays but also demonstrate the significance of the conformation-locking strategy in designing CP-MR-TADF emitters.</p></sec><sec><title>Results and discussion</title><p>The synthetic route for Spiro-3TCzBN is depicted in Scheme S1.<xref rid="fn1" ref-type="fn">&#x02020;</xref> An arylamine-based precursor with a defined electron-rich electrophilic borylation reactive site was employed in a bora-Friedel&#x02013;Crafts reaction, facilitating the straightforward synthesis of compounds featuring MR characteristics (Fig. S1<xref rid="fn1" ref-type="fn">&#x02020;</xref>). The precursor was obtained through a three-step reaction sequence from commercially available starting materials in good yields, involving nucleophilic substitution followed by tandem nucleophilic addition and acid-catalyzed intramolecular dehydration cyclization. To avoid over-borylation, the reaction conditions were rigorously regulated using 1 eq of BI<sub>3</sub> at 120 &#x000b0;C for 20 hours. Subsequently, the target molecule was purified by column chromatography, and then further purified by gradient sublimation under high vacuum to afford an orange solid with a yield of 36%. Using the same method, we also synthesized compounds DPh-3TCzBN and DMe-3TCzBN for comparison, employing diphenyl and dimethyl as the locking units (Scheme S2 and S3<xref rid="fn1" ref-type="fn">&#x02020;</xref>). The target molecules were fully characterized by elemental analyses and by <sup>1</sup>H and <sup>13</sup>C nuclear magnetic resonance (NMR) spectroscopy as shown in the ESI (Fig. S2&#x02013;S21).<xref rid="fn1" ref-type="fn">&#x02020;</xref> Since the properties of the enantiomers are almost identical, racemic compounds were chosen as the samples to investigate their thermal, electrochemical, and photophysical properties. Thermogravimetric analysis (TGA) measurements revealed that these rigid polycyclic compounds exhibit excellent thermal stability, with high decomposition temperatures (<italic toggle="yes">T</italic><sub>d</sub>, corresponding to 5% weight loss) of 479 &#x000b0;C for Spiro-3TCzBN, 486 &#x000b0;C for DPh-3TCzBN and 470 &#x000b0;C for DMe-3TCzBN (Fig. S22<xref rid="fn1" ref-type="fn">&#x02020;</xref>). These properties are advantageous for fabricating stable OLEDs through the vacuum thermal deposition process. As shown in Fig. S23,<xref rid="fn1" ref-type="fn">&#x02020;</xref> the highest occupied molecular orbital (HOMO) and the lowest unoccupied molecular orbital (LUMO) energy levels were calculated to be &#x02212;4.87 and &#x02212;2.63 eV for Spiro-3TCzBN, &#x02212;4.86 and &#x02212;2.65 eV for DPh-3TCzBN and &#x02212;4.87 eV and &#x02212;2.65 eV for DMe-3TCzBN based on cyclic voltammetry (CV) measurements, respectively. The energy gaps (<italic toggle="yes">E</italic><sub>g</sub>s) of Spiro-3TCzBN, DPh-3TCzBN and DMe-3TCzBN were determined to be 2.24, 2.21 and 2.22 eV, respectively, all of which are smaller than that of <italic toggle="yes">m</italic>-Cz-BNCz (2.52 eV). This reduction in <italic toggle="yes">E</italic><sub>g</sub> suggests a red-shift in emission, which can be attributed to the enhanced conjugation introduced by donor fusion.</p><p>The geometrical configurations and electronic characteristics of the target molecules were simulated using density functional theory (DFT) and time-dependent DFT (TD-DFT) calculations. The calculated data, encompassing S<sub>1</sub>, T<sub>1</sub>, and energy gap (&#x00394;<italic toggle="yes">E</italic><sub>ST</sub>, between the S<sub>1</sub> and T<sub>1</sub>), as well as oscillator strength (<italic toggle="yes">f</italic>) are presented in Table S1.<xref rid="fn1" ref-type="fn">&#x02020;</xref> In the ground state, all three molecules exhibit a comparable distribution pattern of frontier molecular orbitals (<xref rid="fig2" ref-type="fig">Fig. 2</xref>). Specifically, the HOMOs in these molecules were predominantly localized on the nitrogen atoms and the carbon atoms at the <italic toggle="yes">ortho</italic>/<italic toggle="yes">para</italic>-positions within the BNCz core, with notable contributions from the TCz moiety located at the <italic toggle="yes">meta</italic>-position relative to the boron atom. Meanwhile, the LUMOs were primarily located on the boron atom and the carbon atoms at the <italic toggle="yes">ortho</italic>/<italic toggle="yes">para</italic>-positions. The extension of the HOMOs introduced mild ICT character into the MR system, exerting minimal influence on its multiple resonance properties. The calculated <italic toggle="yes">E</italic><sub>g</sub> values are 2.907 eV for Spiro-3TCzBN, 2.879 eV for DPh-3TCzBN, and 2.899 eV for DMe-3TCzBN, respectively. These slight differences are likely attributed to minor perturbations in the electron cloud on the MR skeleton, caused by the substituents used for locking. As depicted in Fig. S24,<xref rid="fn1" ref-type="fn">&#x02020;</xref> the spiro-fluorene was orthogonally aligned with the MR skeleton, forming a dihedral angle degree of 89.56&#x000b0;. Compared to DPh-3TCzBN and DMe-3TCzBN, a bulkier and more rigid unit was introduced to serve as an effective blocking group, which could significantly suppress intermolecular &#x003c0;&#x02013;&#x003c0; stacking interactions. Natural transition orbital (NTO) calculations were also conducted to investigate the excited state properties of Spiro-3TCzBN, DPh-3TCzBN and DMe-3TCzBN (Fig. S25&#x02013;S27<xref rid="fn1" ref-type="fn">&#x02020;</xref>). According to the NTO analysis, no significant electron or hole distribution was observed on the carbon bridge in the target molecules. This is attributed to the sp<sup>3</sup>-hybridized carbon atoms, which do not provide p orbitals to participate in the delocalization of &#x003c0; electrons in the excited states of the molecules. Additionally, the electron and hole distributions in the S<sub>1</sub> state were alternately localized on the atoms within the BNCz core, while the TCz moiety only exhibited distinct hole distributions. These results confirm that the electron transitions in the target molecules arise from the synergistic effect of short-range charge transfer (SRCT) and long-range charge transfer (LRCT), which is favorable for enhancing TADF properties. Additionally, the second triplet state (T<sub>2</sub>) exhibited different transition symmetries compared to the S<sub>1</sub> state, resulting in notably higher &#x0003c;S<sub>1</sub>|<italic toggle="yes">&#x00124;</italic><sub>SOC</sub>|T<sub>2</sub>&#x0003e; values of 0.23 cm<sup>&#x02212;1</sup> for Spiro-3TCzBN, 0.22 cm<sup>&#x02212;1</sup> for DPh-3TCzBN and 0.25 cm<sup>&#x02212;1</sup> for DMe-3TCzBN, indicating a pronounced contribution of the T<sub>2</sub> state to the RISC process (<xref rid="fig2" ref-type="fig">Fig. 2</xref>).</p><fig position="float" id="fig2"><label>Fig. 2</label><caption><title>Calculated HOMO and LUMO distributions, energy level gaps, oscillator strengths, excited state energies and associated SOC matrix elements for (a) Spiro-3TCzBN, (b) DPh-3TCzBN and (c) DMe-3TCzBN, respectively, at the B3LYP/6-311G (d, p) level.</title></caption><graphic xlink:href="d5sc01958c-f2" position="float"/></fig><p>The preliminary photophysical properties of the investigated compounds were characterized in dilute toluene solution (1 &#x000d7; 10<sup>&#x02212;5</sup> M) and the corresponding key photophysical data are shown in <xref rid="fig3" ref-type="fig">Fig. 3</xref> and <xref rid="tab1" ref-type="table">Table 1</xref>. The emitters exhibited prominent absorption bands peaking at 523, 529, and 526 nm for Spiro-3TCzBN, DPh-3TCzBN and DMe-3TCzBN, respectively, corresponding to the HOMO to LUMO transitions, indicating the characteristic of the MR effect. The photoluminescence (PL) spectra of Spiro-3TCzBN, DPh-3TCzBN, and DMe-3TCzBN exhibit peak wavelengths at 556, 568, and 565 nm with bright yellow emission and high <italic toggle="yes">&#x003a6;</italic><sub>PL</sub>s of 92&#x02013;96%, respectively. Both the absorption and PL spectral profiles exhibit excellent mirror symmetry, which can be attributed to the effective suppression of excited state structural deformation in the three molecules, in contrast to their ground state configurations. The FWHM values for Spiro-3TCzBN, DPh-3TCzBN, and DMe-3TCzBN are 44 nm (0.17 eV), 54 nm (0.18 eV), and 49 nm (0.19 eV), respectively. These values are slightly broader than those of traditional MR-TADF emitters, which may originate from the enhanced LRCT.<sup><xref rid="cit13" ref-type="bibr">13</xref></sup> The root mean square deviation (RMSD) values for Spiro-3TCzBN, DPh-3TCzBN and DMe-3TCzBN were calculated to be 0.32238, 0.09931 and 0.08159, indicating the small geometry changes in molecular structures during the excitation process (Fig. S28<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Notably, Spiro-3TCzBN exhibited a larger RMSD value, which may result from the swinging of the spiro-fluorene group. However, it does not contribute to the frontier molecular orbital distributions, resulting in no significant broadening of the FWHM. By utilizing the S<sub>1</sub> energy levels (<italic toggle="yes">E</italic><sub>S1</sub>, 2.32 eV for Spiro-3TCzBN, 2.33 eV for DPh-3TCzBN and 2.32 eV for DMe-3TCzBN) along with the T<sub>1</sub> energy levels (<italic toggle="yes">E</italic><sub>T1</sub>, 2.24 eV for all three compounds), determined from the onset of fluorescence and phosphorescence spectra recorded in frozen toluene at 77 K (Fig. S29<xref rid="fn1" ref-type="fn">&#x02020;</xref>), the &#x00394;<italic toggle="yes">E</italic><sub>ST</sub> values of 0.08, 0.09 and 0.08 eV were obtained, respectively. As mentioned above, the relatively small values of &#x00394;<italic toggle="yes">E</italic><sub>ST</sub> may be attributed to the contributions from LRCT, which could realize the up-conversion of the triplet states to singlet states, enhancing the delayed radiation. Additionally, the solvatochromic effects of these compounds were also investigated in various solvents. As the solvent polarity increased from cyclohexane to dichloromethane, the emission maxima (<italic toggle="yes">&#x003bb;</italic><sub>PL</sub>) underwent gradual redshifts, accompanied by significant broadening of the FWHM (Fig. S30 and Table S2<xref rid="fn1" ref-type="fn">&#x02020;</xref>). These observations highlight the pronounced LRCT properties of the molecules.</p><fig position="float" id="fig3"><label>Fig. 3</label><caption><title>UV/Vis absorption and fluorescence spectra of Spiro-3TCzBN, DPh-3TCzBN and DMe-3TCzBN in toluene at 298 K.</title></caption><graphic xlink:href="d5sc01958c-f3" position="float"/></fig><table-wrap position="float" id="tab1"><label>Table 1</label><caption><title>Summary of the physical properties of the investigated compounds</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1">Emitter</th><th rowspan="1" colspan="1">
+<italic toggle="yes">&#x003bb;</italic>
+<sub>abs</sub>
+<xref rid="tab1fna" ref-type="table-fn">a</xref> [nm]</th><th rowspan="1" colspan="1">
+<italic toggle="yes">&#x003bb;</italic>
+<sub>em</sub>
+<xref rid="tab1fnb" ref-type="table-fn">b</xref> [nm]</th><th rowspan="1" colspan="1">FWHM<xref rid="tab1fnc" ref-type="table-fn">c</xref> [nm/eV]</th><th rowspan="1" colspan="1">
+<italic toggle="yes">E</italic>
+<sub>S1</sub>
+<xref rid="tab1fnd" ref-type="table-fn">d</xref> [eV]</th><th rowspan="1" colspan="1">
+<italic toggle="yes">E</italic>
+<sub>T1</sub>
+<xref rid="tab1fne" ref-type="table-fn">e</xref> [eV]</th><th rowspan="1" colspan="1">&#x00394;<italic toggle="yes">E</italic><sub>ST</sub><xref rid="tab1fnf" ref-type="table-fn">f</xref> [eV]</th><th rowspan="1" colspan="1">
+<italic toggle="yes">E</italic>
+<sub>g</sub>
+<xref rid="tab1fng" ref-type="table-fn">g</xref> [eV]</th><th rowspan="1" colspan="1">HOMO<xref rid="tab1fnh" ref-type="table-fn">h</xref> [eV]</th><th rowspan="1" colspan="1">LUMO<xref rid="tab1fnh" ref-type="table-fn">h</xref> [eV]</th><th rowspan="1" colspan="1">
+<italic toggle="yes">&#x00424;</italic>
+<sub>PL</sub>
+<xref rid="tab1fni" ref-type="table-fn">i</xref> [%]</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Spiro-3TCzBN</td><td align="char" char="." rowspan="1" colspan="1">523</td><td align="char" char="." rowspan="1" colspan="1">556</td><td align="char" char="." rowspan="1" colspan="1">44/0.17</td><td align="char" char="." rowspan="1" colspan="1">2.32</td><td align="char" char="." rowspan="1" colspan="1">2.24</td><td align="char" char="." rowspan="1" colspan="1">0.08</td><td align="char" char="." rowspan="1" colspan="1">2.24</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;4.87</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;2.63</td><td align="char" char="." rowspan="1" colspan="1">96</td></tr><tr><td rowspan="1" colspan="1">DPh-3TCzBN</td><td align="char" char="." rowspan="1" colspan="1">529</td><td align="char" char="." rowspan="1" colspan="1">568</td><td align="char" char="." rowspan="1" colspan="1">54/0.18</td><td align="char" char="." rowspan="1" colspan="1">2.33</td><td align="char" char="." rowspan="1" colspan="1">2.24</td><td align="char" char="." rowspan="1" colspan="1">0.09</td><td align="char" char="." rowspan="1" colspan="1">2.21</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;4.86</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;2.65</td><td align="char" char="." rowspan="1" colspan="1">92</td></tr><tr><td rowspan="1" colspan="1">DMe-3TCzBN</td><td align="char" char="." rowspan="1" colspan="1">526</td><td align="char" char="." rowspan="1" colspan="1">565</td><td align="char" char="." rowspan="1" colspan="1">49/0.19</td><td align="char" char="." rowspan="1" colspan="1">2.32</td><td align="char" char="." rowspan="1" colspan="1">2.24</td><td align="char" char="." rowspan="1" colspan="1">0.08</td><td align="char" char="." rowspan="1" colspan="1">2.22</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;4.87</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;2.65</td><td align="char" char="." rowspan="1" colspan="1">95</td></tr></tbody></table><table-wrap-foot><fn id="tab1fna"><label>a</label><p>Peak wavelength of the lowest energy absorption band.</p></fn><fn id="tab1fnb"><label>b</label><p>Peak wavelength of the PL spectrum in toluene (1 &#x000d7; 10<sup>&#x02212;5</sup> M, 298 K).</p></fn><fn id="tab1fnc"><label>c</label><p>Full width at half maximum of the spectra given in wavelength and energy.</p></fn><fn id="tab1fnd"><label>d</label><p>Singlet energy estimated from the onset of the fluorescence spectrum in toluene (10<sup>&#x02212;5</sup> M, 77 K).</p></fn><fn id="tab1fne"><label>e</label><p>Triplet energy estimated from the onset of the phosphorescence spectrum in a frozen toluene matrix (10<sup>&#x02212;5</sup> M, 77 K).</p></fn><fn id="tab1fnf"><label>f</label><p>&#x00394;<italic toggle="yes">E</italic><sub>ST</sub> = <italic toggle="yes">E</italic><sub>S1</sub> &#x02013; <italic toggle="yes">E</italic><sub>T1</sub>.</p></fn><fn id="tab1fng"><label>g</label><p>Optical band gap estimated from the absorption edge of the UV-vis spectrum.</p></fn><fn id="tab1fnh"><label>h</label><p>Determined from cyclic voltammetry using the formula: <italic toggle="yes">E</italic><sub>HOMO</sub> = &#x02013; (<italic toggle="yes">E</italic><sub>ox</sub> + 4.8) eV, <italic toggle="yes">E</italic><sub>LUMO</sub> = &#x02013; (<italic toggle="yes">E</italic><sub>re</sub> + 4.8) eV.</p></fn><fn id="tab1fni"><label>i</label><p>Absolute photoluminescence quantum yield measured with an integral-sphere system in N<sub>2</sub>-bubbling toluene.</p></fn></table-wrap-foot></table-wrap><p>The thin-film properties of the investigated compounds were tested by doping into 9-(2-(9-phenyl-9<italic toggle="yes">H</italic>-carbazol-3-yl)phenyl)-9<italic toggle="yes">H</italic>-3,9&#x02032;-bicarbazole (PhCzBCz) at a 3 wt% ratio.<sup><xref rid="cit14" ref-type="bibr">14</xref></sup> The doped films exhibited yellow emission, peaking at 560, 572 and 569 nm, with exceptional <italic toggle="yes">&#x003a6;</italic><sub>PL</sub> values of 96%, 93% and 90% for Spiro-3TCzBN, DPh-3TCzBN and DMe-3TCzBN, respectively (Fig. S31<xref rid="fn1" ref-type="fn">&#x02020;</xref>). To confirm the TADF properties, transient PL characteristics of the TADF emitters and their temperature-dependent behaviors were collected. The PL transient decay analyses were conducted for Spiro-3TCzBN, DPh-3TCzBN and DMe-3TCzBN at 298 K under vacuum, consisting of a nanosecond-scale prompt component and a microsecond-scale delayed component, with corresponding prompt-to-delayed lifetime ratios (<italic toggle="yes">&#x003c4;</italic><sub>F</sub>/<italic toggle="yes">&#x003c4;</italic><sub>TADF</sub>) of 9.4 ns/92.9 &#x003bc;s, 11.3 ns/93.5 &#x003bc;s, and 11.8 ns/88.6 &#x003bc;s, respectively (Fig. S32<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Additionally, temperature-dependent transient PL decay spectra of the doped films were recorded (Fig. S33<xref rid="fn1" ref-type="fn">&#x02020;</xref>). When the temperature increased from 80 to 320 K, the proportion of delayed fluorescence components gradually intensified, confirming the participation of triplet excitons in light emission <italic toggle="yes">via</italic> the endothermic RISC process. Based on the aforementioned <italic toggle="yes">&#x003a6;</italic><sub>PL</sub> and lifetimes, the key kinetic constants for radiative decay (<italic toggle="yes">k</italic><sub>r</sub>), non-radiative decay (<italic toggle="yes">k</italic><sub>nr</sub>), intersystem crossing (<italic toggle="yes">k</italic><sub>ISC</sub>), and reverse intersystem crossing (<italic toggle="yes">k</italic><sub>RISC</sub>) were further calculated and are listed in Tables S3&#x02013;S5.<xref rid="fn1" ref-type="fn">&#x02020;</xref> The <italic toggle="yes">k</italic><sub>r</sub> values of these emitters are over 10<sup>7</sup> s<sup>&#x02212;1</sup>, due to the locking effect that further stiffens the MR skeleton. This results in minimal non-radiative decay energy loss and significantly improves the efficiency of the emitters. To quantify the spin-flipping exciton-transformation speed, the calculated <italic toggle="yes">k</italic><sub>RISC</sub> values were 1.7 &#x000d7; 10<sup>4</sup> s<sup>&#x02212;1</sup> for all three compounds, which may be attributed to the synergistic effect of small &#x00394;<italic toggle="yes">E</italic><sub>ST</sub> and large &#x0003c;S<sub>1</sub>|<italic toggle="yes">&#x00124;</italic><sub>SOC</sub>|T<sub>2</sub>&#x0003e; values. Moreover, as the dopant concentration increased from 1 to 10 wt%, the PL spectra of Spiro-3TCzBN-based doped films exhibited a more stable profile with a slight redshift and broadening. In contrast, the trend of change was significantly more pronounced for DPh-3TCzBN and DMe-3TCzBN-based doped films, as illustrated in Fig. S34.<xref rid="fn1" ref-type="fn">&#x02020;</xref> Notably, a higher <italic toggle="yes">&#x003a6;</italic><sub>PL</sub> value for Spiro-3TCzBN (88%) was observed compared to DPh-3TCzBN (84%) and DMe-3TCzBN (72%) at a doping concentration of 10 wt%, which essentially stemmed from a mitigated exciton-related quenching process (Fig. S35<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>To evaluate the electroluminescent performances of the new emitters, OLEDs were initially fabricated using racemic Spiro-3TCzBN, DPh-3TCzBN and DMe-3TCzBN as guest materials followed by the optimized structures: indium tin oxide (ITO)/hole transport layer (HTL, 55 nm)/electron blocking layer (EBL, 5 nm)/emitting layers (EMLs, 30 nm)/electron transport layer (ETL, 30 nm)/electron injection layer (EIL, 1 nm)/Al (100 nm). In this device configuration, ITO and Al served as the anode and cathode, respectively; TAPC (1,1-bis[(di-4-tolylamino)phenyl]cyclohexane), TCTA (tris(4-carbazolyl-9-ylphenyl)amine), TmPyPB (3,3&#x02032;&#x02013;[5&#x02032;&#x02013;[3-(3-pyridinyl)phenyl][1,1&#x02032;:3&#x02032;,1&#x02032;&#x02032;-terphenyl]-3,3&#x02032;&#x02032;-diyl]bispyridine) and LiF functioned as the HTL, EBL, ETL and EIL, respectively; these emitters were doped into the PhCzBCz host with 1&#x02013;10 wt% doping concentrations to serve as EMLs. The energy level diagrams, employed materials, and device performances are depicted in Fig. S36&#x02013;S39<xref rid="fn1" ref-type="fn">&#x02020;</xref> with the key device parameters summarized in Table S6.<xref rid="fn1" ref-type="fn">&#x02020;</xref></p><p>The low turn-on voltages (<italic toggle="yes">V</italic><sub>on</sub> at 1 cd m<sup>&#x02212;2</sup>) of 3.3&#x02013;3.4 V indicate efficient carrier injection and transport in the devices. The turn-on voltage gradually diminishes as the doping concentration increases, indicating that carriers are directly injected into the emitter to some extent. The electroluminescence (EL) spectra of OLEDs based on Spiro-3TCzBN, DPh-3TCzBN, and DMe-3TCzBN, within the concentration range of 1&#x02013;10 wt%, demonstrate narrowband yellow emission with peak wavelengths at 560&#x02013;564 nm, 574&#x02013;578 nm, and 568&#x02013;572 nm, respectively. The FWHM values for these devices were 50&#x02013;52 nm (0.17&#x02013;0.18 eV), 59&#x02013;60 nm (0.21&#x02013;0.22 eV), and 55&#x02013;59 nm (0.20&#x02013;0.22 eV), respectively, which are in good agreement with the film-state PL profile. As for Spiro-3TCzBN-based OLEDs, the corresponding Commission International de L'Eclairage (CIE) coordinates changed slightly from (0.460, 0.532) to (0.469, 0.525), while the CIE coordinates of the other two emitters changed significantly with increasing concentration. The improved stability of EL spectra and higher EQE of Spiro-3TCzBN at a high concentration of 10 wt% can be ascribed to the incorporation of the sterically hindered building block oriented outward to the MR core, which enlarges the intermolecular distance and inhibits the interchromophore aggregation and close interactions. All three devices achieve the best EL performance at 3 wt% doping concentration with optimized maximum EQE values of 33.8%, 35.4%, and 34.7%; maximum current efficiency (CE) values of 125.9, 126.8, and 119.9 cd A<sup>&#x02212;1</sup>; maximum power efficiency (PE) values of 113.1, 120.7, and 110.7 lm W<sup>&#x02212;1</sup> for Spiro-3TCzBN, DPh-3TCzBN and DMe-3TCzBN, respectively. Unfortunately, due to the disfavored RISC process caused by the intrinsically long <italic toggle="yes">&#x003c4;</italic><sub>TADF</sub>, all devices based on the three emitters suffer from severe efficiency roll-offs at 100 and 1000 cd m<sup>&#x02212;2</sup>. We also fabricated non-doped OLEDs without the assistance of any host material; however, all three emitters exhibited low EQEs of around 3% and broadened spectra over 63 nm due to severe aggregation-caused quenching and intermolecular excitonic interactions (Fig. S40 and Table S7<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>To enhance the performance of OLED devices and mitigate efficiency roll-off for more practical applications, a TADF-sensitized device structure was implemented to optimize the energy transfer process and exciton utilization.<sup><xref rid="cit15" ref-type="bibr">15</xref></sup> In such a device, the generated triplet excitons could be harvested by the TADF-type sensitizer <italic toggle="yes">via</italic> the RISC process and then transferred to the dopant through efficient long-range F&#x000f6;rster energy transfer (FET). To fabricate highly efficient TADF-sensitized OLEDs, a classic TADF material, namely DACT-II (9-(4-(4,6-diphenyl-1,3,5-triazin-2-yl)phenyl)-<italic toggle="yes">N</italic><sup>3</sup>,<italic toggle="yes">N</italic><sup>3</sup>,<italic toggle="yes">N</italic><sup>6</sup>,<italic toggle="yes">N</italic><sup>6</sup>-tetraphenyl-9<italic toggle="yes">H</italic>-carbazole-3,6-diamine), was selected as the sensitizer with high <italic toggle="yes">&#x003a6;</italic><sub>PL</sub> and large <italic toggle="yes">k</italic><sub>RISC</sub>.<sup><xref rid="cit16" ref-type="bibr">16</xref></sup> Furthermore, DACT-II exhibits a remarkable spectral overlap between its emission spectrum and the absorption spectra of MR-TADF emitters, which is advantageous for the efficient FET process (Fig. S41<xref rid="fn1" ref-type="fn">&#x02020;</xref>). With the assistance of the sensitizer, the blend films composed of 25 wt% DACT-II and 3 wt% MR-TADF emitters in PhCzBCz exhibited bright yellow emissions with no residual emission of DACT-II, indicating effective FET in these films (Fig. S42<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Furthermore, the <italic toggle="yes">k</italic><sub>RISC</sub> values for the doped films with a sensitizer were significantly higher than those without a sensitizer (Fig. S43 and Tables S3&#x02013;S5<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>The TADF-sensitized OLED devices maintained a similar structural configuration to the previously mentioned doped device, except for the EML, where a sensitized EML comprising PhCzBCz: 25 wt% DACT-II: 3 wt% emitters was employed. Compared to devices based on a single host, all sensitized devices exhibit lower turn-on voltages of 2.7 V, suggesting a more efficient carrier injection and transport process. As depicted in Fig. S44 and Table S8,<xref rid="fn1" ref-type="fn">&#x02020;</xref> the EL spectra of all sensitized devices are similar to those of the single host-based devices, with peak wavelengths at 560, 568, and 572 nm. The corresponding FWHM values for Spiro-3TCzBN, DPh-3TCzBN, and DMe-3TCzBN are 53/0.18, 58/0.21, and 56/0.21 nm/eV, respectively. The sensitized devices outperformed their counterparts, with optimized maximum EQEs, CEs and PEs of 35.3%, 129.6 cd A<sup>&#x02212;1</sup> and 136.5 lm W<sup>&#x02212;1</sup> for Spiro-3TCzBN, 35.4%, 109.7 cd A<sup>&#x02212;1</sup> and 116.3 lm W<sup>&#x02212;1</sup> for DPh-3TCzBN, 34.8%, 115.5 cd A<sup>&#x02212;1</sup> and 127.8 lm W<sup>&#x02212;1</sup> for DMe-3TCzBN. Furthermore, they also show remarkable maximum luminance values of 142&#x02009;450, 151&#x02009;140 and 146&#x02009;590 cd m<sup>&#x02212;2</sup>, and maintain high EQEs of 34.1%, 30.0% and 26.9% even at a luminance of 1000 cd m<sup>&#x02212;2</sup> for Spiro-3TCzBN, DPh-3TCzBN and DMe-3TCzBN, respectively. The higher EQE retention of Spiro-3TCzBN stems from its unique steric configuration that blocks intermolecular Dexter energy transfer (Fig. S45<xref rid="fn1" ref-type="fn">&#x02020;</xref>). These results unambiguously demonstrate the superiority of TADF sensitized strategy in improving EL performance.</p><p>The intramolecular conformation-locking strategy successfully achieved CPPL by stabilizing the helical framework, while maintaining the high <italic toggle="yes">&#x003a6;</italic><sub>PL</sub> and emission stability inherited from <italic toggle="yes">m</italic>-Cz-BNCz (Fig. S46<xref rid="fn1" ref-type="fn">&#x02020;</xref>). To further investigate the chiroptical properties of these compounds, the <italic toggle="yes">P</italic>/<italic toggle="yes">M</italic> racemization barriers of the corresponding enantiomers were first calculated to account for their remarkable configurational stability. The energy barriers of racemization were calculated to be 46.34, 47.42, and 43.18 kcal mol<sup>&#x02212;1</sup> for Spiro-3TCzBN, DPh-3TCzBN, and DMe-3TCzBN, respectively, indicating that these chiral materials hold potential for the fabrication of CP-OLEDs. (Fig. S47&#x02013;S49<xref rid="fn1" ref-type="fn">&#x02020;</xref>). This high energy barrier of racemization arises from the strengthened intramolecular noncovalent interactions between the BNCz core and TCz moiety located at the meta-position relative to the boron atom, which can be characterized by the reduced density gradient (RDG) analysis. As shown in Fig. S50&#x02013;S52,<xref rid="fn1" ref-type="fn">&#x02020;</xref> these interactions are mainly located at the spatial overlap of head-to-tail rings of the hetero-[7]helicene in these compounds, attributed to the TCz moiety being locked by carbon bridges, thereby restricting their rotation and creating steric hindrance. Theoretically, the photoluminescence dissymmetry factors (<italic toggle="yes">g</italic><sub>PL</sub>) could be determined using the equation <italic toggle="yes">g</italic><sub>PL</sub> = 4&#x000d7;|<italic toggle="yes">&#x003bc;</italic><sub>m</sub>|&#x000b7;|<italic toggle="yes">&#x003bc;</italic><sub>e</sub>|&#x000b7;cos&#x02009;<italic toggle="yes">&#x003b8;</italic>/(|<italic toggle="yes">&#x003bc;</italic><sub>m</sub>|<sup>2</sup>+|<italic toggle="yes">&#x003bc;</italic><sub>e</sub>|<sup>2</sup>), where <italic toggle="yes">&#x003bc;</italic><sub>m</sub> represents the magnetic transition dipole moment, <italic toggle="yes">&#x003bc;</italic><sub>e</sub> denotes the electrical transition dipole moment, and <italic toggle="yes">&#x003b8;</italic> signifies the angle between <italic toggle="yes">&#x003bc;</italic><sub>m</sub> and <italic toggle="yes">&#x003bc;</italic><sub>e</sub>.<sup><xref rid="cit17" ref-type="bibr">17</xref></sup> Eventually, the theoretical <italic toggle="yes">g</italic><sub>PL</sub> values for Spiro-3TCzBN, DPh-3TCzBN and DMe-3TCzBN, were calculated to be 1.3 &#x000d7; 10<sup>&#x02212;3</sup>, 4.0 &#x000d7; 10<sup>&#x02212;3</sup> and 1.6 &#x000d7; 10<sup>&#x02212;3</sup>, respectively (Fig. S53<xref rid="fn1" ref-type="fn">&#x02020;</xref>). All the aforementioned properties verify our design strategy for constructing efficient, concentration-independent CP-MR-TADF molecules.</p><p>To obtain chiral enantiomers, high-performance liquid chromatography (HPLC) was used with a chiral stationary phase to separate the racemates. Unfortunately, despite the slight structural differences among the three compounds, only the enantiomers of (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN were successfully separated (Fig. S54<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Despite extensive efforts, we were unable to identify suitable conditions for separating DPh-3TCzBN and DMe-3TCzBN enantiomers. Subsequently, the chiral properties of (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN were thoroughly characterized to demonstrate its great potential as a CPL material. The corresponding circular dichroism (CD) spectrum of (<italic toggle="yes">P</italic>)-Spiro-3TCzBN was recorded in toluene (1 &#x000d7; 10<sup>&#x02212;5</sup> M) and compared with the simulated spectrum of (<italic toggle="yes">P</italic>)-Spiro-3TCzBN to confirm the absolute configuration (Fig. S55<xref rid="fn1" ref-type="fn">&#x02020;</xref>). From 350 to 420 nm, the alternating positive and negative peaks can be attributed to the Cotton effect, which is caused by the chiral nature of the electronic excited states (<xref rid="fig4" ref-type="fig">Fig. 4a</xref>).<sup><xref rid="cit8" ref-type="bibr">8,18</xref></sup> As shown in <xref rid="fig4" ref-type="fig">Fig. 4a and b</xref>, (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN exhibited almost mirror-image CPL spectra at 550 nm with <italic toggle="yes">g</italic><sub>PL</sub> values of &#x02212;2.99/+4.08 &#x000d7; 10<sup>&#x02212;4</sup> in solution, respectively, signifying the chiral nature of the S<sub>1</sub> state. Before investigating the potential of (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN as CPL emitters in OLEDs, it is crucial to verify the optical purity of the enantiomers, (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN, to ensure that no racemization occurs during the device fabrication process through vacuum thermal deposition (170 &#x000b0;C, &#x0003c; 5.0 &#x000d7; 10<sup>&#x02212;4</sup> pa). According to chiral HPLC analysis, the remaining samples showed that their enantiomeric excess (ee) values were slightly reduced compared to the as-synthesized samples, indicating minimal racemization (Fig. S56<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Consequently, (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN exhibited <italic toggle="yes">g</italic><sub>PL</sub> values of &#x02212;4.20/+3.17 &#x000d7; 10<sup>&#x02212;4</sup> in doped films, which are comparable to those measured in solution, indicating their impressive configurational stability (<xref rid="fig4" ref-type="fig">Fig. 4c and d</xref>). Given the comparable EL performance of both racemates and enantiomers, devices incorporating the enantiomers (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN were constructed to showcase their CPEL properties with an optimized device structure, showing the following configurations: ITO/TAPC (55 nm)/TCTA (5 nm)/EMLs (3 wt% (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN: 25 wt% DACT-II: PhCzBCz, 30 nm)/TmPyPb (30 nm)/LiF (1 nm)/Al (100 nm). The EL characteristics are illustrated in <xref rid="fig5" ref-type="fig">Fig. 5</xref>, and the key EL data are summarized in <xref rid="tab2" ref-type="table">Table 2</xref>. The devices achieved the maximum EQEs of 34.6% and 34.9%, maximum CEs of 127.1 and 128.3 cd A<sup>&#x02212;1</sup>, and maximum PEs of 134.5 and 135.8 lm W<sup>&#x02212;1</sup> for (<italic toggle="yes">P</italic>)-Spiro-3TCzBN and (<italic toggle="yes">M</italic>)-Spiro-3TCzBN, respectively. Furthermore, given the obvious CPPL characteristics observed in doped films, the (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN-based devices also displayed mirror symmetric CPEL signals with <italic toggle="yes">g</italic><sub>EL</sub> factors of &#x02212;3.51 &#x000d7; 10<sup>&#x02212;4</sup>/+4.26 &#x000d7; 10<sup>&#x02212;4</sup>, respectively. Additionally, the CP-OLEDs demonstrated excellent spectral stability over a wide range of operating voltages from 3 to 8 V, indicating the efficient FET process (Fig. S57<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Consequently, a conformation-locking strategy was successfully proposed for constructing CP-MR-TADF materials with suppressed aggregation-caused quenching, enabling the fabrication of highly efficient CP-OLEDs.</p><fig position="float" id="fig4"><label>Fig. 4</label><caption><title>(a) CD and CPPL spectra and (b) <italic toggle="yes">g</italic><sub>PL</sub> curves of (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN (measured in toluene solution (1 &#x000d7; 10<sup>&#x02212;5</sup> M, 298 K)). (c) CPPL spectra and (d) <italic toggle="yes">g</italic><sub>PL</sub> curves of (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN;measured in doped films (3 wt% Spiro-3TCzBN:25 wt% DACT-II: PhCzBCz, 298 K).</title></caption><graphic xlink:href="d5sc01958c-f4" position="float"/></fig><fig position="float" id="fig5"><label>Fig. 5</label><caption><title>EL characteristics of the devices with a sensitizer based on (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN. (a) EL spectra. (b) <italic toggle="yes">J</italic>&#x02013;<italic toggle="yes">V</italic>&#x02013;<italic toggle="yes">L</italic> curves. (c) EQE-<italic toggle="yes">L</italic> curves. (d) CE-<italic toggle="yes">L</italic>, PE-<italic toggle="yes">L</italic> curves. (e) CPEL curves. (f) <italic toggle="yes">g</italic><sub>EL</sub> curves.</title></caption><graphic xlink:href="d5sc01958c-f5" position="float"/></fig><table-wrap position="float" id="tab2"><label>Table 2</label><caption><title>Summary of the EL data for the (<italic toggle="yes">P</italic>/<italic toggle="yes">M</italic>)-Spiro-3TCzBN-based devices with a sensitizer</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1">Device</th><th rowspan="1" colspan="1">
+<italic toggle="yes">&#x003bb;</italic>
+<sub>em</sub>
+<xref rid="tab2fna" ref-type="table-fn">a</xref> [nm]</th><th rowspan="1" colspan="1">FWHM<xref rid="tab2fnb" ref-type="table-fn">b</xref> [nm/eV]</th><th rowspan="1" colspan="1">
+<italic toggle="yes">V</italic>
+<sub>on</sub>
+<xref rid="tab2fnc" ref-type="table-fn">c</xref> [V]</th><th rowspan="1" colspan="1">
+<italic toggle="yes">L</italic>
+<sub>max</sub>
+<xref rid="tab2fnd" ref-type="table-fn">d</xref> [cd m<sup>&#x02212;2</sup>]</th><th rowspan="1" colspan="1">CE<sub>max</sub><xref rid="tab2fne" ref-type="table-fn">e</xref> [cd A<sup>&#x02212;1</sup>]</th><th rowspan="1" colspan="1">PE<sub>max</sub><xref rid="tab2fnf" ref-type="table-fn">f</xref> [lm W<sup>&#x02212;1</sup>]</th><th rowspan="1" colspan="1">EQE<xref rid="tab2fng" ref-type="table-fn">g</xref> [%]</th><th rowspan="1" colspan="1">
+<italic toggle="yes">g</italic>
+<sub>EL</sub>
+<xref rid="tab2fnh" ref-type="table-fn">h</xref> [10<sup>&#x02212;4</sup>]</th><th rowspan="1" colspan="1">CIE<xref rid="tab2fni" ref-type="table-fn">i</xref> (<italic toggle="yes">x</italic>, <italic toggle="yes">y</italic>)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">(<italic toggle="yes">M</italic>)-Spiro-3TCzBN</td><td align="char" char="." rowspan="1" colspan="1">560</td><td align="char" char="." rowspan="1" colspan="1">53/0.18</td><td align="char" char="." rowspan="1" colspan="1">2.7</td><td align="char" char="." rowspan="1" colspan="1">134&#x02009;054</td><td align="char" char="." rowspan="1" colspan="1">128.3</td><td align="char" char="." rowspan="1" colspan="1">135.8</td><td align="char" char="." rowspan="1" colspan="1">34.9/34.8/33.5</td><td align="char" char="." rowspan="1" colspan="1">+4.26</td><td align="char" char="." rowspan="1" colspan="1">(0.443, 0.546)</td></tr><tr><td rowspan="1" colspan="1">(<italic toggle="yes">P</italic>)-Spiro-3TCzBN</td><td align="char" char="." rowspan="1" colspan="1">560</td><td align="char" char="." rowspan="1" colspan="1">53/0.18</td><td align="char" char="." rowspan="1" colspan="1">2.7</td><td align="char" char="." rowspan="1" colspan="1">139&#x02009;700</td><td align="char" char="." rowspan="1" colspan="1">127.1</td><td align="char" char="." rowspan="1" colspan="1">134.5</td><td align="char" char="." rowspan="1" colspan="1">34.6/34.3/32.5</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;3.51</td><td align="char" char="." rowspan="1" colspan="1">(0.442, 0.546)</td></tr></tbody></table><table-wrap-foot><fn id="tab2fna"><label>a</label><p>EL peak wavelength at 100 cd m<sup>&#x02212;2</sup>.</p></fn><fn id="tab2fnb"><label>b</label><p>Full width at half maximum of the spectra given in wavelength and energy.</p></fn><fn id="tab2fnc"><label>c</label><p>Turn-on voltage at 1 cd m<sup>&#x02212;2</sup>.</p></fn><fn id="tab2fnd"><label>d</label><p>Maximum luminance.</p></fn><fn id="tab2fne"><label>e</label><p>Maximum current efficiency.</p></fn><fn id="tab2fnf"><label>f</label><p>Maximum power efficiency.</p></fn><fn id="tab2fng"><label>g</label><p>Maximum external quantum efficiency, and values at 100 and 1000 cd m<sup>&#x02212;2</sup>, respectively.</p></fn><fn id="tab2fnh"><label>h</label><p>Electroluminescence asymmetry factor.</p></fn><fn id="tab2fni"><label>i</label><p>Value taken at 100 cd m<sup>&#x02212;2</sup>.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Conclusions</title><p>In conclusion, we have successfully developed a MR-TADF emitter, Spiro-3TCzBN, through an intramolecular conformation-locking design strategy. The synthesis of the proof-of-concept MR-TADF containing a seven-membered hetero-[7]helicene unit could be straightforwardly achieved through a lithium-free one-shot borylation approach with satisfactory yields. The corresponding enantiomers, (<italic toggle="yes">P</italic>)-Spiro-3TCzBN and (<italic toggle="yes">M</italic>)-Spiro-3TCzBN, exhibited outstanding chiroptical properties, including high color purity with an FWHM of 44 nm (0.17 eV), a high <italic toggle="yes">&#x003a6;</italic><sub>PL</sub> of 96%, sufficient configurational stability, and mirror image CPL spectra with a <italic toggle="yes">g</italic><sub>PL</sub> factor of 10<sup>&#x02212;4</sup>. The exceptional performance was further evidenced by their impressive electroluminescence efficiencies and stable CPEL properties, achieving EQE<sub>max</sub> values of 34.6% and 34.9% for (<italic toggle="yes">P</italic>)-Spiro-3TCzBN and (<italic toggle="yes">M</italic>)-Spiro-3TCzBN, respectively, along with <italic toggle="yes">g</italic><sub>EL</sub> values of &#x02212;3.51 &#x000d7; 10<sup>&#x02212;4</sup> and +4.26 &#x000d7; 10<sup>&#x02212;4</sup>. As a result, this work offers a unique pathway and a promising strategy for the development of helicene-based emitters for advanced optoelectronic applications.</p></sec><sec><title>Author contributions</title><p>Xinliang Cai conducted the synthesis of compounds and OLED fabrication. Xinliang Cai also wrote the original draft of the manuscript. Jinbei Wei and Yue Wang co-supervised Xinliang Cai and co-wrote the manuscript. Zhiqiang Li, Yexuan Pu and Youwei Wu participated in the discussion of the photo-physical properties. Zhiqiang Li helped with the corresponding theoretical calculations and co-wrote the manuscript.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="SC-016-D5SC01958C-s001" position="float" content-type="local-data"><label>SC-016-D5SC01958C-s001</label><media xlink:href="SC-016-D5SC01958C-s001.pdf" id="d67e1575" position="anchor"/></supplementary-material></sec></body><back><ack><p>This work was supported by the Jilin Provincial Science and Technology Development Plan Project (SKL202402010 and 20240602058RC) and the National Natural Science Foundation of China (523B2031 and 52303230).</p></ack><sec sec-type="data-availability"><title>Data availability</title><p>The data supporting the findings of this study are available within the paper and the ESI.<xref rid="fn1" ref-type="fn">&#x02020;</xref></p></sec><ref-list><title>Notes and references</title><ref id="cit1"><element-citation publication-type="journal" id="cit1a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Farshchi</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ramsteiner</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Herfort</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tahraoui</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Grahn</surname><given-names>H. T.</given-names></name>
+</person-group><source>Appl. Phys. Lett.</source><year>2011</year><volume>98</volume><fpage>162508</fpage><pub-id pub-id-type="doi">10.1063/1.3582917</pub-id></element-citation><element-citation publication-type="journal" id="cit1b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>M.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2017</year><volume>8</volume><fpage>15727</fpage><pub-id pub-id-type="doi">10.1038/ncomms15727</pub-id><pub-id pub-id-type="pmid">28585538</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit1c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Brandt</surname><given-names>J. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Salerno</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fuchter</surname><given-names>M. J.</given-names></name>
+</person-group><source>Nat. Rev. Chem.</source><year>2017</year><volume>1</volume><fpage>0045</fpage><pub-id pub-id-type="doi">10.1038/s41570-017-0045</pub-id></element-citation><element-citation publication-type="journal" id="cit1d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>T.-T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>Z.-P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>X.-F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Z.-G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>Y.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zuo</surname><given-names>J.-L.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2019</year><volume>58</volume><fpage>17220</fpage><lpage>17225</lpage><pub-id pub-id-type="doi">10.1002/anie.201909076</pub-id><pub-id pub-id-type="pmid">31559680</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit1e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>R.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2020</year><volume>59</volume><fpage>4756</fpage><lpage>4762</lpage><pub-id pub-id-type="doi">10.1002/anie.201915164</pub-id><pub-id pub-id-type="pmid">31901181</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit1f"><label> (f) </label><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>Y.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhai</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gaulding</surname><given-names>E. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Harvey</surname><given-names>S. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Berry</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vardeny</surname><given-names>Z. V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Luther</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Beard</surname><given-names>M. C.</given-names></name>
+</person-group><source>Science</source><year>2021</year><volume>371</volume><fpage>1129</fpage><lpage>1133</lpage><pub-id pub-id-type="doi">10.1126/science.abf5291</pub-id><pub-id pub-id-type="pmid">33707260</pub-id>
+</element-citation></ref><ref id="cit2"><element-citation publication-type="journal" id="cit2a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>D.-W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.-F.</given-names></name>
+</person-group><source>Chem. Soc. Rev.</source><year>2020</year><volume>49</volume><fpage>1331</fpage><lpage>1343</lpage><pub-id pub-id-type="doi">10.1039/C9CS00680J</pub-id><pub-id pub-id-type="pmid">31999286</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit2b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Dhbaibi</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Abella</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Meunier-Della-Gatta</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Roisnel</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vanthuyne</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jamoussi</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pieters</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Racine</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Quesnel</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Autschbach</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Crassous</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Favereau</surname><given-names>L.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2021</year><volume>12</volume><fpage>5522</fpage><lpage>5533</lpage><pub-id pub-id-type="doi">10.1039/D0SC06895K</pub-id><pub-id pub-id-type="pmid">34163772</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit2c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Furlan</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Moreno-Naranjo</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gasparini</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feldmann</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wade</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fuchter</surname><given-names>M. J.</given-names></name>
+</person-group><source>Nat. Photonics</source><year>2024</year><volume>18</volume><fpage>658</fpage><lpage>668</lpage><pub-id pub-id-type="doi">10.1038/s41566-024-01408-z</pub-id></element-citation><element-citation publication-type="journal" id="cit2d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Qu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nie</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ye</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2024</year><volume>63</volume><fpage>e202400661</fpage><pub-id pub-id-type="doi">10.1002/anie.202400661</pub-id><pub-id pub-id-type="pmid">38333930</pub-id>
+</element-citation></ref><ref id="cit3"><element-citation publication-type="journal" id="cit3a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Z.-G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>H.-B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>Z.-P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>X.-F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>Y.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zuo</surname><given-names>J.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>Y.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2019</year><volume>31</volume><fpage>1900524</fpage><pub-id pub-id-type="doi">10.1002/adma.201900524</pub-id><pub-id pub-id-type="pmid">31106503</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit3b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Fr&#x000e9;d&#x000e9;ric</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Desmarchelier</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Favereau</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pieters</surname><given-names>G.</given-names></name>
+</person-group><source>Adv. Funct. Mater.</source><year>2021</year><volume>31</volume><fpage>2010281</fpage><pub-id pub-id-type="doi">10.1002/adfm.202010281</pub-id></element-citation></ref><ref id="cit4"><element-citation publication-type="journal" id="cit4a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Feuillastre</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pauton</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Desmarchelier</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Riives</surname><given-names>A. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Prim</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tondelier</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Geffroy</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Muller</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Clavier</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pieters</surname><given-names>G.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2016</year><volume>138</volume><fpage>3990</fpage><lpage>3993</lpage><pub-id pub-id-type="doi">10.1021/jacs.6b00850</pub-id><pub-id pub-id-type="pmid">26967372</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit4b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>S.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fung</surname><given-names>M.-K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.-F.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2018</year><volume>57</volume><fpage>2889</fpage><lpage>2893</lpage><pub-id pub-id-type="doi">10.1002/anie.201800198</pub-id><pub-id pub-id-type="pmid">29356268</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit4c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qiu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qi</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sung</surname><given-names>H. H. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Williams</surname><given-names>I. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lam</surname><given-names>J. W. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qin</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>B. Z.</given-names></name>
+</person-group><source>Adv. Funct. Mater.</source><year>2018</year><volume>28</volume><fpage>1800051</fpage></element-citation><element-citation publication-type="journal" id="cit4d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Sharma</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Spuling</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mattern</surname><given-names>C. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fuhr</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tsuchiya</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Adachi</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Br&#x000e4;se</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Samuel</surname><given-names>I. D. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Colman</surname><given-names>E. Z.-</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2019</year><volume>10</volume><fpage>6689</fpage><lpage>6696</lpage><pub-id pub-id-type="doi">10.1039/C9SC01821B</pub-id><pub-id pub-id-type="pmid">31367323</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit4e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>S.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.-K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Peng</surname><given-names>C.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Z.-G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>Y.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>T.-T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>Y.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Z.-Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liao</surname><given-names>L.-S.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2020</year><volume>142</volume><fpage>17756</fpage><lpage>17765</lpage><pub-id pub-id-type="doi">10.1021/jacs.0c08980</pub-id><pub-id pub-id-type="pmid">33021373</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit4f"><label> (f) </label><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.-F.</given-names></name>
+</person-group><source>Org. Chem. Front.</source><year>2022</year><volume>9</volume><fpage>6441</fpage><lpage>6452</lpage><pub-id pub-id-type="doi">10.1039/D2QO01383E</pub-id></element-citation></ref><ref id="cit5"><element-citation publication-type="journal" id="cit5a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>J.-W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>B.-K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>W.-Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>Y.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chou</surname><given-names>P.-T.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2022</year><volume>34</volume><fpage>2105080</fpage><pub-id pub-id-type="doi">10.1002/adma.202105080</pub-id><pub-id pub-id-type="pmid">34693564</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit5b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Miao</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ying</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lv</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ni</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gong</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>C.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2022</year><volume>61</volume><fpage>e202202227</fpage></element-citation><element-citation publication-type="journal" id="cit5c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>Z.-P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mao</surname><given-names>M.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liao</surname><given-names>X.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ni</surname><given-names>H.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>An</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>Y.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zuo</surname><given-names>J.-L.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2022</year><volume>34</volume><fpage>2204253</fpage><pub-id pub-id-type="doi">10.1002/adma.202204253</pub-id><pub-id pub-id-type="pmid">35839149</pub-id>
+</element-citation></ref><ref id="cit6"><element-citation publication-type="journal" id="cit6a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Hatakeyama</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shiren</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nakajima</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nomura</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nakatsuka</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kinoshita</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ni</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ono</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ikuta</surname><given-names>T.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2016</year><volume>28</volume><fpage>2777</fpage><lpage>2781</lpage><pub-id pub-id-type="doi">10.1002/adma.201505491</pub-id><pub-id pub-id-type="pmid">26865384</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit6b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Kondo</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yoshiura</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kitera</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nishi</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Oda</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gotoh</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sasada</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yanai</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hatakeyama</surname><given-names>T.</given-names></name>
+</person-group><source>Nat. Photonics</source><year>2019</year><volume>13</volume><fpage>678</fpage><lpage>682</lpage><pub-id pub-id-type="doi">10.1038/s41566-019-0476-5</pub-id></element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C.</given-names></name>
+</person-group><source>Chem. Eur. J.</source><year>2023</year><volume>29</volume><fpage>e202203414</fpage><pub-id pub-id-type="doi">10.1002/chem.202203414</pub-id><pub-id pub-id-type="pmid">36585378</pub-id>
+</element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2021</year><volume>33</volume><fpage>2100652</fpage><pub-id pub-id-type="doi">10.1002/adma.202100652</pub-id><pub-id pub-id-type="pmid">33864284</pub-id>
+</element-citation></ref><ref id="cit9"><element-citation publication-type="journal" id="cit9a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.-K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>Y.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sue</surname><given-names>A. C.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>X.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.-Y.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2021</year><volume>143</volume><fpage>17958</fpage><lpage>17963</lpage><pub-id pub-id-type="doi">10.1021/jacs.1c09058</pub-id><pub-id pub-id-type="pmid">34665638</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Miao</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhan</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gong</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>C.</given-names></name>
+</person-group><source>CCS Chem.</source><year>2022</year><volume>4</volume><fpage>3463</fpage><lpage>3471</lpage><pub-id pub-id-type="doi">10.31635/ccschem.022.202101661</pub-id></element-citation><element-citation publication-type="journal" id="cit9c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rauch</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Swain</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Marder</surname><given-names>T. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ravat</surname><given-names>P.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2023</year><volume>62</volume><fpage>e202218965</fpage><pub-id pub-id-type="doi">10.1002/anie.202218965</pub-id><pub-id pub-id-type="pmid">36799716</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Ju</surname><given-names>Y.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>L.-E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xing</surname><given-names>J.-F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>Q.-S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X.-W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>L.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nie</surname><given-names>G.-H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>Y.-Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>B.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2025</year><volume>64</volume><fpage>e202414383</fpage><pub-id pub-id-type="doi">10.1002/anie.202414383</pub-id><pub-id pub-id-type="pmid">39223084</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>W.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>W.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>K.-K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.-F.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2024</year><volume>63</volume><fpage>e202401835</fpage><pub-id pub-id-type="doi">10.1002/anie.202401835</pub-id><pub-id pub-id-type="pmid">38380835</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9f"><label> (f) </label><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hung</surname><given-names>F.-F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Che</surname><given-names>C.-M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2025</year><fpage>e202501645</fpage></element-citation></ref><ref id="cit10"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Meng</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>X.-S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.-F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>L.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2024</year><volume>36</volume><fpage>2307420</fpage><pub-id pub-id-type="doi">10.1002/adma.202307420</pub-id><pub-id pub-id-type="pmid">37697624</pub-id>
+</element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>Y.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2023</year><volume>35</volume><fpage>2305125</fpage></element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ye</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hua</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lv</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Miao</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>C.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2024</year><volume>36</volume><fpage>2308314</fpage></element-citation></ref><ref id="cit13"><element-citation publication-type="journal" id="cit13a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>L.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2019</year><volume>58</volume><fpage>16912</fpage><lpage>16917</lpage><pub-id pub-id-type="doi">10.1002/anie.201911266</pub-id><pub-id pub-id-type="pmid">31553115</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit13b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>I. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yasuda</surname><given-names>T.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2020</year><volume>142</volume><fpage>19468</fpage><lpage>19472</lpage><pub-id pub-id-type="doi">10.1021/jacs.0c10081</pub-id><pub-id pub-id-type="pmid">33151672</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit13c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhuang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2023</year><volume>62</volume><fpage>e202216473</fpage><pub-id pub-id-type="doi">10.1002/anie.202216473</pub-id><pub-id pub-id-type="pmid">36511099</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit13d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhong</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Miao</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>C.</given-names></name>
+</person-group><source>Chem</source><year>2024</year><volume>10</volume><fpage>1485</fpage><lpage>1501</lpage></element-citation></ref><ref id="cit14"><element-citation publication-type="journal" id="cit14a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2020</year><volume>59</volume><fpage>17442</fpage><lpage>17446</lpage><pub-id pub-id-type="doi">10.1002/anie.202007210</pub-id><pub-id pub-id-type="pmid">32533603</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit14b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><source>CCS Chem.</source><year>2022</year><volume>4</volume><fpage>2065</fpage><lpage>2079</lpage><pub-id pub-id-type="doi">10.31635/ccschem.021.202101033</pub-id></element-citation></ref><ref id="cit15"><element-citation publication-type="journal" id="cit15a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qiu</surname><given-names>Y.</given-names></name>
+</person-group><source>Adv. Mater.</source><year>2014</year><volume>26</volume><fpage>5050</fpage><lpage>5055</lpage><pub-id pub-id-type="doi">10.1002/adma.201401476</pub-id><pub-id pub-id-type="pmid">24944186</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit15b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Nakanotani</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Higuchi</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Furukawa</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Masui</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Morimoto</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Numata</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tanaka</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sagara</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yasuda</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Adachi</surname><given-names>C.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2014</year><volume>5</volume><fpage>4016</fpage><pub-id pub-id-type="doi">10.1038/ncomms5016</pub-id><pub-id pub-id-type="pmid">24874292</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit15c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><source>Chem. Commun.</source><year>2015</year><volume>51</volume><fpage>11972</fpage><lpage>11975</lpage><pub-id pub-id-type="doi">10.1039/C5CC04469C</pub-id><pub-id pub-id-type="pmid">26120606</pub-id>
+</element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kaji</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Suzuki</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fukushima</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shizu</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Suzuki</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kubo</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Komino</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Oiwa</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Suzuki</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wakamiya</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Murata</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Adachi</surname><given-names>C.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2015</year><volume>6</volume><fpage>8476</fpage><pub-id pub-id-type="doi">10.1038/ncomms9476</pub-id><pub-id pub-id-type="pmid">26477390</pub-id>
+</element-citation></ref><ref id="cit17"><element-citation publication-type="journal" id="cit17a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>X.-F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>S.-Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yip</surname><given-names>C.-F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>Y.-X.</given-names></name>
+</person-group><source>Aggregate</source><year>2024</year><volume>5</volume><fpage>e445</fpage><pub-id pub-id-type="doi">10.1002/agt2.445</pub-id></element-citation><element-citation publication-type="journal" id="cit17b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.-P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>Y.-X.</given-names></name>
+</person-group><source>Sci. China Chem.</source><year>2024</year><volume>67</volume><fpage>1097</fpage><lpage>1116</lpage></element-citation></ref><ref id="cit18"><element-citation publication-type="journal" id="cit18a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Zang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Brancaccio</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Saal</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deori</surname><given-names>U.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Radacki</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Braunschweig</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rajamall</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ravat</surname><given-names>P.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2024</year><volume>146</volume><fpage>29782</fpage><lpage>29791</lpage><pub-id pub-id-type="doi">10.1021/jacs.4c11404</pub-id><pub-id pub-id-type="pmid">39435966</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit18b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>W.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.-Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>F Chen</surname><given-names>C.-</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>H.-B.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2024</year><fpage>e202417458</fpage></element-citation></ref></ref-list></back></article>

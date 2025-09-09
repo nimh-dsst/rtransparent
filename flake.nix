@@ -38,6 +38,10 @@
 						xml2
 						qpdf
 						pdftools
+						tokenizers
+						foreach
+						doParallel
+						readr
 						prev.poppler
 						final.oddpub
 					]; };
@@ -84,10 +88,12 @@
 				config.Env = [ "TMPDIR=/" ];
 			};
 
-			devShell = (pkgs.buildFHSEnv {
-				name = "shell-env";
-				targetPkgs = _: [ rWrapper ];
-			}).env;
 		});
-  	};
+		devShell = forAllSystems(system: let
+			pkgs = nixPkgsFor.${system};
+		in (pkgs.buildFHSEnv {
+			name = "shell-env";
+			targetPkgs = _: [ pkgs.rWrapper ];
+		}).env);
+ 	};
 }

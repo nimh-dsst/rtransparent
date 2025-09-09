@@ -1,0 +1,713 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Chem Sci</journal-id><journal-id journal-id-type="iso-abbrev">Chem Sci</journal-id><journal-id journal-id-type="publisher-id">SC</journal-id><journal-id journal-id-type="coden">CSHCBM</journal-id><journal-title-group><journal-title>Chemical Science</journal-title></journal-title-group><issn pub-type="ppub">2041-6520</issn><issn pub-type="epub">2041-6539</issn><publisher><publisher-name>The Royal Society of Chemistry</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40438167</article-id><article-id pub-id-type="pmc">PMC12107479</article-id>
+<article-id pub-id-type="publisher-id">d5sc02144h</article-id><article-id pub-id-type="doi">10.1039/d5sc02144h</article-id><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>Inter-cluster-linker-absence-enabled sub-&#x000c5;ngstrom pore modulation in a metal&#x02013;organic framework for multi-scenario CO<sub>2</sub> capture<xref rid="fn1" ref-type="fn">&#x02020;</xref></article-title><fn-group><fn id="fn1"><label>&#x02020;</label><p>Electronic supplementary information (ESI) available. CCDC <uri>2416690</uri>. For ESI and crystallographic data in CIF or other electronic format see DOI: <uri xlink:href="https://doi.org/10.1039/d5sc02144h">https://doi.org/10.1039/d5sc02144h</uri></p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Jia-Wen</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name><surname>Fan</surname><given-names>Shu-Cong</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name><surname>Yuan</surname><given-names>Wenyu</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9013-017X</contrib-id><name><surname>Wang</surname><given-names>Ying</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1117-4017</contrib-id><name><surname>Zhai</surname><given-names>Quan-Guo</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><aff id="affa">
+<label>a</label>
+<institution>Key Laboratory of Applied Surface and Colloid Chemistry (MOE), Key Laboratory of Macromolecular Science of Shaanxi Province, School of Chemistry &#x00026; Chemical Engineering, Shaanxi Normal University</institution>
+<city>Xi'an</city>
+<state>Shaanxi</state>
+<postal-code>710062</postal-code>
+<country>China</country>
+<email>zhaiqg@snnu.edu.cn</email>
+</aff></contrib-group><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2025-05-14"><day>14</day><month>5</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2025-06-25"><day>25</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="pmc-release"><day>14</day><month>5</month><year>2025</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>16</volume><issue>25</issue><fpage>11447</fpage><lpage>11455</lpage><history><date date-type="received" iso-8601-date="2025-03-20"><day>20</day><month>3</month><year>2025</year></date><date date-type="accepted" iso-8601-date="2025-05-13"><day>13</day><month>5</month><year>2025</year></date></history><permissions><copyright-statement>This journal is &#x000a9; The Royal Society of Chemistry</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2025-05-14">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This article is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-Non Commercial 3.0 Unported Licence</ext-link>. You can use material from this article in other publications without requesting further permissions from the RSC, provided that the correct acknowledgement is given and it is not used for commercial purposes.</license-p></license></permissions><abstract><p>Ultrafine aperture control of carbon capture adsorbents is first and foremost important but inscrutable. Herein, an inter-cluster-linker-absence-enabled sub-&#x000c5;ngstrom pore modulation strategy is proposed through the efficient transitivity of coordination bonds in a metal&#x02013;organic framework (MOF). The feasibility of this strategy is well-demonstrated in SNNU-98-M materials composed of directly connected [M<sub>8</sub>(TAZ)<sub>9</sub>] (M = Cd or Cu, TAZ = tetrazolate) triangular prism clusters. The removal of inter-cluster linkers effectively transfers the difference in coordination bond length (approximately 2.3 &#x000c5; for Cd(<sc>ii</sc>)&#x02013;N and approximately 2.1 &#x000c5; for Cu(<sc>ii</sc>)&#x02013;N) to the size of secondary building blocks (approximately 6.5 &#x000d7; 6.5 &#x000d7; 6.7 &#x000c5;<sup>3</sup> for [Cd<sub>8</sub>(TAZ)<sub>9</sub>] and approximately 6.2 &#x000d7; 6.2 &#x000d7; 6.3 &#x000c5;<sup>3</sup> for [Cu<sub>8</sub>(TAZ)<sub>9</sub>]), and to the final MOF pore (approximately 5.5 &#x000c5; for SNNU-98-Cd and approximately 5.1 &#x000c5; for SNNU-98-Cu). Rational and hyperfine pore control together with optimized Lewis basic N sites endow SNNU-98-M with benchmark multi-scenario CO<sub>2</sub> capture performance varying from binary flue gas (CO<sub>2</sub>/N<sub>2</sub>) to ternary biogas (CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub>) and even to quinary coal gas (CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub>/CO/H<sub>2</sub>) mixtures by a one-step process. SNNU-98-Cu is an ideal carbon capture material for practical applications due to its low-cost raw materials, easy scalablity in synthesis, ultra-high stability, and top-level selective adsorption ability as well as multi-scenario adaptability.</p></abstract><abstract abstract-type="toc"><p>The removal of inter-cluster linkers enables a rational sub-&#x000c5;ngstrom pore modulation in MOF adsorbents with ultra-high stability, top-level IAST selectivity, benchmark CO<sub>2</sub> capture ability from flue gas, biogas and coal gas by a one-step process.<graphic xlink:href="d5sc02144h-ga.jpg" id="ga" position="float"/></p></abstract><funding-group><award-group><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>22471149</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>Fundamental Research Funds for the Central Universities</institution><institution-id institution-id-type="doi">10.13039/501100012226</institution-id></institution-wrap>
+</funding-source><award-id>GK202307009</award-id></award-group></funding-group><counts><page-count count="9"/></counts><custom-meta-group><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Introduction</title><p>With the atmospheric CO<sub>2</sub> concentration projected to exceed 500 ppm by 2050 due to anthropogenic emissions, the removal of greenhouse gases from dilute emissions has been identified as one of the seven chemical separations that will change the world.<sup><xref rid="cit1" ref-type="bibr">1&#x02013;5</xref></sup> Currently, CO<sub>2</sub> removal scenarios can be mainly divided into pre-combustion capture (biogas CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub> and coal gas CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub>/CO/H<sub>2</sub>), post-combustion capture (flue gas CO<sub>2</sub>/N<sub>2</sub>), and direct air capture.<sup><xref rid="cit6" ref-type="bibr">6&#x02013;12</xref></sup> The conventional amine-scrubbing method is widely used for CO<sub>2</sub> capture, but the absorbent regeneration consumes a large amount of energy and requires additional waste treatment processes.<sup><xref rid="cit13" ref-type="bibr">13,14</xref></sup></p><p>Physical adsorption is recognized as a promising carbon-capture method due to its high efficiency, easy operation, non-corrosiveness, and low energy consumption.<sup><xref rid="cit15" ref-type="bibr">15&#x02013;18</xref></sup> A large variety of adsorbents, including zeolites, porous carbon materials, and porous organic networks have been explored and applied in CO<sub>2</sub> removal.<sup><xref rid="cit19" ref-type="bibr">19,20</xref></sup> From an application perspective, the construction of highly selective CO<sub>2</sub> adsorbents suitable for multi-scenarios such as flue gas, biogas, and coal gas is extremely necessary but remains a challenging task.<sup><xref rid="cit3" ref-type="bibr">3</xref></sup> As a new type of adsorbent, a metal&#x02013;organic framework (MOF) has the ability to rationally regulate thermodynamic and kinetic processes and is considered as an ideal platform for developing the next generation of CO<sub>2</sub> capture materials.<sup><xref rid="cit5" ref-type="bibr">5,21</xref></sup> Most adsorbents are currently suitable for a single separation process,<sup><xref rid="cit22" ref-type="bibr">22</xref></sup> and therefore, there is an urgent need to develop MOFs for multi-scenario carbon capture.</p><p>Due to the highly similar physical properties and tiny molecular size difference (usual sub-&#x000c5;ngstrom level, Table S1<xref rid="fn1" ref-type="fn">&#x02020;</xref>) of the involved gas molecules, ultrafine pore regulation is important for the adsorbent design of MOFs to be used as adsorbents in multi-scenario carbon capture. However, sub-&#x000c5;ngstrom pore size regulation in typical MOFs containing metal clusters and inter-cluster organic linkers is not easy, although the iso-network principle and building block approach have achieved remarkable success.<sup><xref rid="cit23" ref-type="bibr">23</xref></sup> Other common strategies including organic linker functionalization,<sup><xref rid="cit24" ref-type="bibr">24&#x02013;27</xref></sup> framework penetration,<sup><xref rid="cit28" ref-type="bibr">28</xref></sup> and pore space partition<sup><xref rid="cit29" ref-type="bibr">29</xref></sup> also seem powerless to solve this problem. In our opinion, the main reason for this situation is the presence of inter-cluster organic linkers. Their minor variations (<italic toggle="yes">e.g.</italic>, addition or removal of a single atom) can induce pore size fluctuations exceeding 1 &#x000c5;, significantly surpassing the sub-&#x000c5;ngstrom-level structural control. However, the flexibility of inter-cluster linkers may also reduce the variations in coordination bond lengths between different metal centers, resulting in nearly identical pore sizes for isostructural MOFs containing distinct metals (<xref rid="sch1" ref-type="fig">Scheme 1a</xref>).</p><fig position="float" id="sch1" fig-type="scheme"><label>Scheme 1</label><caption><title>The inter-cluster-linker-absence-enabled sub-&#x000c5;ngstrom pore modulation strategy proposed in this work.</title></caption><graphic xlink:href="d5sc02144h-s1" position="float"/></fig><p>Based on the above considerations, an inter-cluster-linker-absence-enabled sub-&#x000c5;ngstrom pore modulation strategy is proposed herein (<xref rid="sch1" ref-type="fig">Scheme 1b</xref>). The removal of inter-cluster linkers will generate architectures consisting of directly connected clusters,<sup><xref rid="cit30" ref-type="bibr">30&#x02013;32</xref></sup> which favorably combines the advantages of inorganic zeolites and MOFs with extra-high stability. Ultra-fine pore regulation can be achieved simply by replacing the metal nodes, which may successfully transmit the sub-&#x000c5;ngstrom level changes of coordination bond length to the entire pore environment.</p><p>The feasibility of this strategy is well-demonstrated in SNNU-98-M MOF materials composed of directly connected [M<sub>8</sub>(TAZ)<sub>9</sub>] (M = Cd or Cu, TAZ = tetrazolate) triangular prism clusters. Because the ionic radius of Cu<sup>2+</sup> (0.73 &#x000c5;) is significantly smaller than that of Cd<sup>2+</sup> (0.95 &#x000c5;), the absence of inter-cluster linkers effectively transfers the difference from coordination bond length to the size of secondary building blocks and to the final MOF pore capture size (approximately 5.5 &#x000c5; for SNNU-98-Cd and approximately 5.1 &#x000c5; for SNNU-98-Cu). This sub-&#x000c5;ngstrom pore modulation is beneficial for the SNNU-98-Cu adsorbent, and enabled it to set a benchmark for challenging multi-scenario CO<sub>2</sub> capture ability with ultrahigh CO<sub>2</sub>/N<sub>2</sub> (flue gas) selectivity (1509.3), top-level separation of ternary CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub> mixtures (biogas, breakthrough interval time of 9 min g<sup>&#x02212;1</sup> for N<sub>2</sub>, 18.3 min g<sup>&#x02212;1</sup> for CH<sub>4</sub>, and 80.9 min g<sup>&#x02212;1</sup> for CO<sub>2</sub>), and even highly efficient one-step CO<sub>2</sub> capture from quinary coal gas (CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub>/CO/H<sub>2</sub>) mixtures, outperforming all advanced materials. The removal of inter-cluster linkers from SNNU-98-Cu also led to superb acid and alkali resistance stability, which lasted for 7 days in solutions with pH &#x02212;0.5&#x02013;13, and for as long as half a year in solutions with pH 1&#x02013;12, which surpassed almost all highly stable MOF materials. In addition, rapid, efficient, and low-energy consumption reflux synthesis routes endow SNNU-98-Cu adsorbents with great potential for large-scale production and commercialization.</p></sec><sec><title>Results and discussion</title><p>Typical solvothermal reactions of low-cost metal salts and tetrazole ligands produce isostructural SNNU-98-M metal&#x02013;organic frameworks<sup><xref rid="cit33" ref-type="bibr">33,34</xref></sup> with a formula of [M<sub>5</sub>(TAZ)<sub>9</sub>(NO<sub>3</sub>)&#x000b7;(H<sub>2</sub>O)<sub><italic toggle="yes">n</italic></sub>] (M = Cd<sup>2+</sup>/Cu<sup>2+</sup>, TAZ = tetrazolate). The production of SNNU-98-Cu can be scaled up by an ultra-fast and efficient reflux synthesis process. Only 30 min of a refluxing reaction of raw materials at 150 &#x000b0;C can produce 10.8 g of SNNU-98-Cu with a high yield of approximately 85% (<xref rid="fig1" ref-type="fig">Fig. 1</xref>, S2 and S3<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Powder X-ray diffraction (PXRD) patterns and scanning electron microscopy (SEM) images confirmed the high purity and high crystallinity of SNNU-98-Cd/Cu (Fig. S1&#x02013;S3 and Table S2<xref rid="fn1" ref-type="fn">&#x02020;</xref>) obtained by two different synthesis methods.</p><fig position="float" id="fig1"><label>Fig. 1</label><caption><title>Illustration of the structures and rapid reflux synthesis route of SNNU-98-Cd/Cu MOFs: (a and b) comparison of metal&#x02013;N bond lengths; (c and d) detailed comparison of [Cd<sub>8</sub>(TAZ)<sub>9</sub>] and [Cu<sub>8</sub>(TAZ)<sub>9</sub>] clusters; (e, f, j, and h) detailed comparison of the 3D porous frameworks and 1D hexagonal channel viewed along the <italic toggle="yes">c</italic>-axis direction; (i) scaled-up production of SNNU-98-Cu material.</title></caption><graphic xlink:href="d5sc02144h-f1" position="float"/></fig><p>Single crystal structural analysis indicates that the framework of SNNU-98-Cd/Cu is formed by the direct connection of triangular prism clusters without inter-cluster organic linkers. Specifically, different metal centers result in a gap of approximately 0.2 &#x000c5; in the metal&#x02013;N coordination bond lengths (Cd(<sc>ii</sc>)&#x02013;N of approximately 2.3 &#x000c5; and Cu(<sc>ii</sc>)&#x02013;N of approximately 2.1 &#x000c5;) (<xref rid="fig1" ref-type="fig">Fig. 1a and b</xref>). Eight metals are connected through six &#x003bc;<sub>3</sub>-TAZs and three &#x003bc;<sub>4</sub>-TAZs to form [M<sub>8</sub>(TAZ)<sub>9</sub>] clusters. The difference in metal&#x02013;N bond lengths rationally resulted in a bulk reduction of the [Cu<sub>8</sub>(TAZ)<sub>9</sub>] cluster (approximately 6.2 &#x000d7; 6.2 &#x000d7; 6.3 &#x000c5;<sup>3</sup>) compared to the [Cd<sub>8</sub>(TAZ)<sub>9</sub>] cluster (approximately 6.5 &#x000d7; 6.5 &#x000d7; 6.7 &#x000c5;<sup>3</sup>) (<xref rid="fig1" ref-type="fig">Fig. 1c and d</xref>). Each [M<sub>8</sub>(TAZ)<sub>9</sub>] cluster connects with six equal adjacent neighbors through vertex (metal) sharing patterns to generate a three-dimensional (3D) structure with typical <italic toggle="yes">acs</italic> topology.<sup><xref rid="cit35" ref-type="bibr">35</xref></sup> Due to the removal of inter-cluster linkers, the lattice of the 3D framework formed by [M<sub>8</sub>(TAZ)<sub>9</sub>] cluster stacking contracted due to the substitution of metallic cadmium with copper, and the <italic toggle="yes">c</italic>/<italic toggle="yes">a</italic> ratio of the cell size decreased by approximately 1% (<xref rid="fig1" ref-type="fig">Fig. 1e and f</xref>). Such ultrafine changes in the coordination bond length ultimately transmit to the one-dimensional hexagonal channel, which resulted in the successful achievement of sub-&#x000c5;ngstrom-level modulation (approximately 5.5 &#x000c5; for SNNU-98-Cd and approximately 5.1 &#x000c5; for SNNU-98-Cu) (<xref rid="fig1" ref-type="fig">Fig. 1g and h</xref>).</p><p>The permanent porosity and sub-&#x000c5;ngstrom pore modulation of the activated SNNU-98-Cd/Cu materials was confirmed by N<sub>2</sub> (77 K) and CO<sub>2</sub> (195 K) adsorption and desorption isotherms. As shown in <xref rid="fig2" ref-type="fig">Fig. 2a</xref>, SNNU-98-Cd exhibits a type I adsorption isotherm, while SNNU-98-Cu adsorbs very little N<sub>2</sub> at 77 K. Furthermore, CO<sub>2</sub> adsorption experiments at 195 K show their permanent microporosity and reversible type I adsorption isotherms (<xref rid="fig2" ref-type="fig">Fig. 2b</xref>), with calculated Brunauer&#x02013;Emmett&#x02013;Teller (BET) surface areas of 322 m<sup>2</sup> g<sup>&#x02212;1</sup> (for SNNU-98-Cd) and 212 m<sup>2</sup> g<sup>&#x02212;1</sup> (for SNNU-98-Cu). The pore size distributions of SNNU-98-Cd/Cu were calculated to be 5.1 &#x000c5; and 4.8 &#x000c5;, respectively, further confirming the ultra-fine pore size control, which also highly matched with their single crystal structure. Clearly, the removal of inter-cluster linkers results in successful transmission of the coordination bond length gap and rational achievement of sub-&#x000c5;ngstrom pore regulation.</p><fig position="float" id="fig2"><label>Fig. 2</label><caption><title>Stability and porosity of SNNU-98-Cd/Cu MOFs: (a) 77 K N<sub>2</sub> adsorption and calculated pore size distributions; (b) 195 K CO<sub>2</sub> adsorption and calculated pore size distributions; (c) PXRD patterns of SNNU-98-Cu immersed in pH &#x02212;0.5&#x02013;13 solution for 1 week; (d and e) 195 K CO<sub>2</sub> adsorption curves and calculated pore size distributions of SNNU-98-Cu after immersion in &#x02212;0.5&#x02013;13 solution for 1 week and pH 1&#x02013;12 solution for 6 months.</title></caption><graphic xlink:href="d5sc02144h-f2" position="float"/></fig><p>Thermal and chemical stability has long been a limitation of MOF materials for intended use in industrial applications, especially for multi-scenario CO<sub>2</sub> capture. These unique structural features may endow SNNU-98-Cd/Cu with ultra-high stability: (i) soft-base N sites and soft-acidic metal sites can form strong coordination bonds; (ii) tetrazolate anions with a lower p<italic toggle="yes">K</italic><sub>a</sub> value can significantly promote acid resistance; and (iii) the absence of inter-cluster linkers will increase the robustness of the MOF framework. Thermogravimetric analysis (TGA) of the synthesized and methanol-exchanged samples showed that the thermal stability is satisfactory for SNNU-98-Cd/Cu (Fig. S4<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>Furthermore, SNNU-98-Cu was immersed in pH 1&#x02013;14 and 1&#x02013;3 M HCl solutions to test its acid&#x02013;base stability. The PXRD results showed that SNNU-98-Cu remained highly crystalline for up to 7 days in pH &#x02212;0.5&#x02013;13 solutions (<xref rid="fig2" ref-type="fig">Fig. 2c</xref>). Encouragingly, it remained stable for 6 months (pH 1&#x02013;12), which is extraordinarily long and surpassed that of nearly all MOF adsorbent materials. The pH stability range and duration of SNNU-98-Cu are better than all reported Cu-MOFs, most well-known highly stable MOFs such as UiO-66,<sup><xref rid="cit36" ref-type="bibr">36</xref></sup> ZIF-8,<sup><xref rid="cit37" ref-type="bibr">37</xref></sup> and MOF-808,<sup><xref rid="cit38" ref-type="bibr">38</xref></sup> and even most of the recognized Zr-MOFs<sup><xref rid="cit39" ref-type="bibr">39&#x02013;41</xref></sup> with a high degree of connectivity (Table S3 and Fig. S5&#x02013;S7<xref rid="fn1" ref-type="fn">&#x02020;</xref>). In addition, the 195 K CO<sub>2</sub> adsorption of SNNU-98-Cu after the acid&#x02013;base stability test showed that a high degree of crystallinity and intact pore structure was maintained (<xref rid="fig2" ref-type="fig">Fig. 2d and e</xref>). The adsorption capacity remained unchanged after 6 months of immersion in pH 12 solution, and the pore size distribution slightly changed, suggesting that the pore structure may have undergone a subtle collapse, but the effect on the overall gas adsorption performance was negligible. SNNU-98-Cu is capable of adapting to the complex environment of the industrial CO<sub>2</sub> capture process due to its low-cost raw materials, rapid scale-up reflux synthesis, and ultra-high stability.</p><p>The CO<sub>2</sub>, CH<sub>4</sub>, and N<sub>2</sub> adsorption of SNNU-98-Cd/Cu was investigated at different temperatures (Fig. S8&#x02013;S13, Tables S8 and S9<xref rid="fn1" ref-type="fn">&#x02020;</xref>) to systematically evaluate the effect of sub-&#x000c5;ngstrom pore regulation on selective CO<sub>2</sub> capture. As shown in <xref rid="fig3" ref-type="fig">Fig. 3a</xref>, the CO<sub>2</sub> adsorption by SNNU-98-Cu (124.1 cm<sup>3</sup> cm<sup>&#x02212;3</sup>) was higher than that by SNNU-98-Cd (109.1 cm<sup>3</sup> cm<sup>&#x02212;3</sup>) at 298 K and 1 bar. In addition, SNNU-98-Cu (80.1 cm<sup>3</sup> cm<sup>&#x02212;3</sup>, 64.5% at 1 bar) exhibited superior CO<sub>2</sub> adsorption as compared to SNNU-98-Cd (42.5 cm<sup>3</sup> cm<sup>&#x02212;3</sup>, 38.9% at 1 bar) at relatively low pressure (0.15 bar) and at 298 K, which outperformed most of the well-known MOF adsorbents, such as SIFSIX-2-Cu-i<sup><xref rid="cit42" ref-type="bibr">42</xref></sup> (58.9 cm<sup>3</sup> cm<sup>&#x02212;3</sup>), NJU-Bai8&#x02009;<sup><xref rid="cit43" ref-type="bibr">43</xref></sup> (38.1 cm<sup>3</sup> cm<sup>&#x02212;3</sup>), and Qc-5-Cu-sql<sup><xref rid="cit14" ref-type="bibr">14</xref></sup> (24.4 cm<sup>3</sup> cm<sup>&#x02212;3</sup>) (<xref rid="fig3" ref-type="fig">Fig. 3b</xref>). The adjustment of the ultra-fine pore size resulted in SNNU-98-Cu with more suitable narrow pores and high-density uncoordinated tetrazolate N sites suitable for rapid mass adsorption of CO<sub>2</sub>. Conversely, the CH<sub>4</sub> and N<sub>2</sub> uptakes on SNNU-98-Cd/Cu at 298 K and 1 bar were found to be only 37/24 cm<sup>3</sup> cm<sup>&#x02212;3</sup> and 8.4/6.2 cm<sup>3</sup> cm<sup>&#x02212;3</sup>, respectively, illustrating the molecular-sieving effect of SNNU-98-Cd/Cu. Similarly, the same adsorption characteristics were observed at 273 and 283 K (Fig. S10<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><fig position="float" id="fig3"><label>Fig. 3</label><caption><title>Static adsorption performance of SNNU-98-Cd/Cu: (a) CO<sub>2</sub>, CH<sub>4</sub>, and N<sub>2</sub> adsorption isotherms at 298 K; (b) CO<sub>2</sub> adsorption isotherms at 298 K and 0.15 bar; (c) CO<sub>2</sub>/N<sub>2</sub> and CO<sub>2</sub>/CH<sub>4</sub> uptake ratio at 298 K; (d) CO<sub>2</sub> adsorption cycle stability of SNNU-98-Cu; (e and f) comparison of CO<sub>2</sub>/N<sub>2</sub> and CO<sub>2</sub>/CH<sub>4</sub> selectivity at 298 K; (g) heat of adsorption values for CO<sub>2</sub>, CH<sub>4</sub>, and N<sub>2</sub>; (h) radar plots comparing the adsorption performance regulated by pore modulation; (i) summary of IAST selectivity (CO<sub>2</sub>/N<sub>2</sub>) and CO<sub>2</sub> uptake among reported top-level MOF adsorbents.</title></caption><graphic xlink:href="d5sc02144h-f3" position="float"/></fig><p>Furthermore, the separation ratios of CO<sub>2</sub><italic toggle="yes">versus</italic> CH<sub>4</sub> and N<sub>2</sub> of SNNU-98-Cu (5.2/20) were significantly higher than those of SNNU-98-Cd (2.9/13), suggesting that a sub-&#x000c5;ngstrom reduction in pore size favors multi-scene CO<sub>2</sub> separation (<xref rid="fig3" ref-type="fig">Fig. 3c</xref>). Notably, SNNU-98-Cd/Cu continued to maintain the original adsorption amount after multiple cycles of CO<sub>2</sub> adsorption and desorption, indicating good cyclic stability (<xref rid="fig3" ref-type="fig">Fig. 3d</xref> and S13<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>The heat of adsorption (<italic toggle="yes">Q</italic><sub>st</sub>) of CO<sub>2</sub>, CH<sub>4</sub>, and N<sub>2</sub> was further calculated based on the adsorption isotherms at different temperatures to understand the binding affinities between host surface and guest gas molecules (Fig. S14&#x02013;S17, Tables S4 and S5<xref rid="fn1" ref-type="fn">&#x02020;</xref>). At zero coverage, the &#x02212;<italic toggle="yes">Q</italic><sub>st</sub> values for CO<sub>2</sub>, CH<sub>4</sub>, and N<sub>2</sub> are 34.6, 20.8, and 25.9 kJ mol<sup>&#x02212;1</sup> for SNNU-98-Cu and 25.2, 28.6, and 35.7 kJ mol<sup>&#x02212;1</sup> for SNNU-98-Cd, respectively (<xref rid="fig3" ref-type="fig">Fig. 3g</xref>). The CO<sub>2</sub> adsorption affinity for SNNU-98-Cu was significantly stronger than that for SNNU-98-Cd. The affinity for CO<sub>2</sub> was also higher than that for CH<sub>4</sub> and N<sub>2</sub> in SNNU-98-Cu, which indicated its greater potential for CO<sub>2</sub> capture and separation.</p><p>Notably, the &#x02212;<italic toggle="yes">Q</italic><sub>st</sub> value for SNNU-98-Cu was at the maximum at zero loading, whereas the &#x02212;<italic toggle="yes">Q</italic><sub>st</sub> value for SNNU-98-Cd gradually increased with adsorption, which could be attributed to the smaller pore environment with stronger affinity for CO<sub>2</sub> at low pressure, and is consistent with the adsorption performance. In addition, compared with other well-known CO<sub>2</sub> separation materials, the CO<sub>2</sub> adsorption enthalpy for SNNU-98-Cu is moderate, which is favorable for recycling in practical applications (Table S10<xref rid="fn1" ref-type="fn">&#x02020;</xref>). The CO<sub>2</sub> temperature-programmed desorption (CO<sub>2</sub>-TPD) curves also showed that the CO<sub>2</sub> desorption temperature and thermal conductivity detector (TCD) intensity for SNNU-98-Cu (123 &#x000b0;C) were higher than those for SNNU-98-Cd (94 &#x000b0;C), indicating its stronger binding with CO<sub>2</sub> (Fig. S18<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>The separation potentials of SNNU-98-Cd/Cu for the CO<sub>2</sub>/N<sub>2</sub>, CO<sub>2</sub>/CH<sub>4</sub>, and CH<sub>4</sub>/N<sub>2</sub> mixtures were evaluated by ideal adsorbed solution theory (IAST) (Fig. S19&#x02013;S27, Tables S6 and S7<xref rid="fn1" ref-type="fn">&#x02020;</xref>). For CO<sub>2</sub>/N<sub>2</sub> (15/85, v/v), the selectivity values for SNNU-98-Cd/Cu at 298 K and 1 bar were 70.1 and 1509.3, respectively (<xref rid="fig3" ref-type="fig">Fig. 3e</xref>). The ultra-high selectivity value for SNNU-98-Cu exceeds most of the top-level MOF adsorbents, such as ZU-301&#x02009;<sup><xref rid="cit10" ref-type="bibr">10</xref></sup> (846), MUF-16&#x02009;<sup><xref rid="cit6" ref-type="bibr">6,15</xref></sup> (631), NJU-Bai52&#x02009;<sup><xref rid="cit44" ref-type="bibr">44</xref></sup> (581), and UTSA-16&#x02009;<sup><xref rid="cit45" ref-type="bibr">45</xref></sup> (314.7). The IAST selectivity values are 8.5/94.6 for CO<sub>2</sub>/CH<sub>4</sub> (50/50, v/v) and 6.5/5.3 for CH<sub>4</sub>/N<sub>2</sub> (50/50, v/v), respectively, at 298 K and 1 bar (<xref rid="fig3" ref-type="fig">Fig. 3f</xref> and S21<xref rid="fn1" ref-type="fn">&#x02020;</xref>). These values further indicate that SNNU-98-Cu has greater potential for separating multi-scenario CO<sub>2</sub> (<xref rid="fig3" ref-type="fig">Fig. 3h</xref>). In particular, when considering the adsorption and separation selectivity of CO<sub>2</sub>, the comprehensive capacity of SNNU-98-Cu is superior to that of most benchmark MOF adsorbents, such as ZU-36-Ni,<sup><xref rid="cit4" ref-type="bibr">4</xref></sup> NMMOF-9a,<sup><xref rid="cit3" ref-type="bibr">3</xref></sup> and ZU-66&#x02009;<sup><xref rid="cit8" ref-type="bibr">8</xref></sup> (<xref rid="fig3" ref-type="fig">Fig. 3i</xref>).</p><p>To evaluate the feasibility of the actual multi-scenario CO<sub>2</sub> separation process, dynamic fixed-bed breakthrough experiments were conducted for the binary gas mixtures, including flue gas (CO<sub>2</sub>/N<sub>2</sub>) and CO<sub>2</sub>/CH<sub>4</sub>, ternary biogas (CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub>), and quinary coal gas (CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub>/CO/H<sub>2</sub>) (<xref rid="fig4" ref-type="fig">Fig. 4</xref> and S28&#x02013;S35<xref rid="fn1" ref-type="fn">&#x02020;</xref>). For CO<sub>2</sub>/N<sub>2</sub> (15/85, v/v) flue gas separation, N<sub>2</sub> was first observed from the column due to the lower adsorption capacity and weak affinity with the MOF frameworks, whereas CO<sub>2</sub> was not eluted until the breakthrough interval time reached 64.4 min g<sup>&#x02212;1</sup> for SNNU-98-Cd and 82.6 min g<sup>&#x02212;1</sup> for SNNU-98-Cu, with a flow rate of 2 mL min<sup>&#x02212;1</sup> at 298 K (<xref rid="fig4" ref-type="fig">Fig. 4a</xref>). Excitingly, CO<sub>2</sub> was retained in the column over 109.8 min g<sup>&#x02212;1</sup> and 127.1 min g<sup>&#x02212;1</sup> at 273 K for SNNU-98-Cd and SNNU-98-Cu, respectively (Fig. S28<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><fig position="float" id="fig4"><label>Fig. 4</label><caption><title>The experimental breakthrough separation performance for SNNU-98-Cd/Cu: (a and c) breakthrough curves for CO<sub>2</sub>/N<sub>2</sub> (15/85, v/v) and CO<sub>2</sub>/CH<sub>4</sub> (50/50, v/v) gas mixtures at 298 K and 1 bar; (b) breakthrough curves for CO<sub>2</sub>/N<sub>2</sub> (15/85, v/v) gas mixtures and SNNU-98-Cu at different flow rates; (d) summary of CO<sub>2</sub>/N<sub>2</sub> against CO<sub>2</sub>/CH<sub>4</sub> breakthrough interval times for top-level MOFs at 298 K; (e) breakthrough curves for CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub> (5/5/90, v/v/v) gas mixtures at 298 K and 1 bar; (f) comparison of CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub> three-component separation properties of the currently studied MOF materials; (g) cycling breakthrough tests for CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub> (5/5/90, v/v/v) on SNNU-98-Cu; (h) experimental breakthrough curves for N<sub>2</sub>/CO<sub>2</sub>/CO/CH<sub>4</sub>/H<sub>2</sub> (66.3/14.5/9.1/5/5.1, v/v/v/v/v) gas mixtures at 298 K and 1 bar; (i) radar plots illustrating the practical separation performance regulated by the pore modulation.</title></caption><graphic xlink:href="d5sc02144h-f4" position="float"/></fig><p>Notably, these breakthrough interval time values are superior to almost all currently used MOF adsorbents under the same conditions, such as UTSA-120a (80 min g<sup>&#x02212;1</sup>), JLU-MOF110 (FeNi)<sup><xref rid="cit2" ref-type="bibr">2</xref></sup> (49.1 min g<sup>&#x02212;1</sup>), and ZU-66&#x02009;<sup><xref rid="cit8" ref-type="bibr">8</xref></sup> (28 min g<sup>&#x02212;1</sup>) and only lower than ZU-301&#x02009;<sup><xref rid="cit10" ref-type="bibr">10</xref></sup> (175 min g<sup>&#x02212;1</sup>) and FJI-H29&#x02009;<sup><xref rid="cit7" ref-type="bibr">7</xref></sup> (114 min g<sup>&#x02212;1</sup>). In addition, the interval time for SNNU-98-Cu was longer than that of SNNU-98-Cd (18.2 min g<sup>&#x02212;1</sup>), indicating that the sub-&#x000c5;ngstrom pore modulation is conducive to the separation of flue gas components. Subsequently, the separation effect of SNNU-98-Cu on the CO<sub>2</sub>/N<sub>2</sub> mixed gas remained unchanged in a humid environment (50% and 98% relative humidity (RH)), indicating that it has great potential for industrial applications (Fig. S29<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>The cyclic stability of CO<sub>2</sub>/N<sub>2</sub> was tested, which further demonstrated the accuracy and reproducibility of the separation performance of SNNU-98-Cu (Fig. S32<xref rid="fn1" ref-type="fn">&#x02020;</xref>). It was noted that the breakthrough time did not proportionally decrease with increasing flow rate (<xref rid="fig4" ref-type="fig">Fig. 4b</xref>), which may be due to the strong interaction between the SNNU-98-Cu adsorbent and CO<sub>2</sub> molecules. The high CO<sub>2</sub> adsorption at low pressure also indicates that the separation of CO<sub>2</sub>/N<sub>2</sub> (15/85, v/v) in SNNU-98-Cu is mainly dominated by thermodynamics. The superb flue gas separation by SNNU-98-Cu was attributed to a clear thermodynamic effect, whereby CO<sub>2</sub> had a higher affinity for the high-density N sites of the pores in a narrower pore environment.</p><p>As for the binary biogas separation of CO<sub>2</sub>/CH<sub>4</sub> (50/50, v/v), CH<sub>4</sub> was first observed from the column, whereas CO<sub>2</sub> was not eluted until the breakthrough interval time reached 29 min g<sup>&#x02212;1</sup> for SNNU-98-Cd and 31 min g<sup>&#x02212;1</sup> for SNNU-98-Cu with a flow rate of 2 mL min<sup>&#x02212;1</sup> at 298 K (<xref rid="fig4" ref-type="fig">Fig. 4c</xref>). The interval time for SNNU-98-Cu was nearly the same as that for SNNU-98-Cd, but the outflow time was much earlier (CH<sub>4</sub>: 12, 27 min g<sup>&#x02212;1</sup>, CO<sub>2</sub>: 43, 56 min g<sup>&#x02212;1</sup>). This may be due to the kinetic diffusion effect being greater than the thermodynamic effect for SNNU-98-Cu, resulting in the preferential outflow in SNNU-98-Cu. Furthermore, the CO<sub>2</sub>/CH<sub>4</sub> separation performance was also better when compared to most of the MOF materials. When considering the materials for simultaneous separation of flue gas and biogas, SNNU-98-Cu is nearly superior to all high-performance MOFs, and second only to ZU-301&#x02009;<sup><xref rid="cit10" ref-type="bibr">10</xref></sup> (<xref rid="fig4" ref-type="fig">Fig. 4d</xref> and Table S11<xref rid="fn1" ref-type="fn">&#x02020;</xref>). In addition, it also is highly advantageous for the difficult problem of CH<sub>4</sub>/N<sub>2</sub> (10/90, v/v) separation. N<sub>2</sub> was first observed from the column, whereas CH<sub>4</sub> was not eluted until the breakthrough interval time reached 12.5 min g<sup>&#x02212;1</sup> for SNNU-98-Cd and 27 min g<sup>&#x02212;1</sup> for SNNU-98-Cu (2 mL min<sup>&#x02212;1</sup> at 298 K) (Fig. S31<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>Multi-component gas separation plays an important role in adsorption separation technology, but it is still in the initial stage. We evaluated the separation of ternary biogas mixture CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub> (5/5/90, v/v/v). As shown in <xref rid="fig4" ref-type="fig">Fig. 4e</xref>, N<sub>2</sub> and CH<sub>4</sub> broke through the adsorption column at 12.9 and 22.4 min g<sup>&#x02212;1</sup>, respectively, whereas CO<sub>2</sub> was not detected at the exit until 47.9 min g<sup>&#x02212;1</sup> for SNNU-98-Cd. Notably, the shrinking of pore size produced a much better performance, with the outflow of N<sub>2</sub> detected at 9 min g<sup>&#x02212;1</sup>, while the outflow of CH<sub>4</sub> and CO<sub>2</sub> from the column was 18.3 and 80.9 min g<sup>&#x02212;1</sup>, respectively. Such separation of the CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub> ternary gas mixture in a single process is unprecedented. The separation ability was further promoted as the temperature decreased, and was superior to all adsorbent materials that were used in this separation process (<xref rid="fig4" ref-type="fig">Fig. 4f</xref> and Table S12<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Notably, the CH<sub>4</sub> breakthrough curve shows a plateau region in the middle stage, which is due to the presence of competing adsorption. Simultaneous adsorption and desorption of CH<sub>4</sub> occurs until CO<sub>2</sub> adsorption is saturated, and then, the <italic toggle="yes">C</italic>/<italic toggle="yes">C</italic><sub>0</sub> rises to 1. In addition, the cyclic stability of this three-component separation is excellent (<xref rid="fig4" ref-type="fig">Fig. 4g</xref>). Subsequently, real industrial separation ratios (CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub>: 30/65/5 and 40/55/5, v/v/v) for SNNU-98-Cu were further simulated, which showed that N<sub>2</sub> broke through at 6 min g<sup>&#x02212;1</sup>, and CH<sub>4</sub> at 23 and 29 min g<sup>&#x02212;1</sup>, respectively, while CO<sub>2</sub> was not detected until 88 and 80 min g<sup>&#x02212;1</sup>. This further confirmed that SNNU-98-Cu has great potential for industrial applications (Fig. S34<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>Furthermore, the adsorption capacities were calculated from the breakthrough curves and compared with single-component gas adsorption (Tables S13 and S14<xref rid="fn1" ref-type="fn">&#x02020;</xref>). The results showed that the low-pressure CO<sub>2</sub> breakthrough capacity of SNNU-98-Cu was higher than that of SNNU-98-Cd. For CO<sub>2</sub>/N<sub>2</sub> (15/85, v/v) at 298 K, the CO<sub>2</sub> adsorption capacity of SNNU-98-Cu/Cd was calculated to be 56.9 and 64.6 cm<sup>3</sup> cm<sup>&#x02212;3</sup> compared to 41.2 and 80 cm<sup>3</sup> cm<sup>&#x02212;3</sup> for static adsorption, respectively. This is also consistent with GCMC simulation and &#x02212;<italic toggle="yes">Q</italic><sub>st</sub> values, which further confirms that the separation effect conferred by SNNU-98-Cu is satisfactory.</p><p>To further demonstrate the multi-scenario adaptability of SNNU-98-Cd/Cu adsorbents, low calorific value coal gas with a practical composition of N<sub>2</sub>/CO<sub>2</sub>/CO/H<sub>2</sub>O/CH<sub>4</sub>/H<sub>2</sub> (58.4/14.5/9.1/8/5.1/4.8, v/v/v/v/v/v) was selected. Extraordinarily, SNNU-98-Cd/Cu can realize efficient one-step CO<sub>2</sub> capture from this five-component gas mixture (<xref rid="fig4" ref-type="fig">Fig. 4h</xref>). The N<sub>2</sub>, CO, CH<sub>4</sub>, and H<sub>2</sub> gas components concurrently broke through the adsorption column at 10 min g<sup>&#x02212;1</sup>, whereas CO<sub>2</sub> was not detected exiting until 21.5 and 58.9 min g<sup>&#x02212;1</sup> for SNNU-98-Cd and SNNU-98-Cu, respectively. Notably, SNNU-98-Cd/Cu also possessed a high water vapor adsorption capacity (Fig. S36<xref rid="fn1" ref-type="fn">&#x02020;</xref>), which further indicated that these robust MOFs without inter-cluster linkers are suitable for complex industrial separation scenarios and will achieve unprecedented separation results.</p><p>Overall, SNNU-98-Cu benefits from an inter-cluster-linker-absence-enabled sub-&#x000c5;ngstrom pore modulation, and its comprehensive CO<sub>2</sub> capture ability is much more optimal than that of SNNU-98-Cd (<xref rid="fig4" ref-type="fig">Fig. 4i</xref>). The ultra-microporous environments coupled with the high density of bare tetrazolate N sites leads to the strongest interactions with CO<sub>2</sub> molecules and achieved efficient multi-scenario separation with thermodynamic and kinetic synergy.</p><p>
+<italic toggle="yes">In situ</italic> infrared (IR) spectroscopic measurements further probed the interaction of SNNU-Cd/Cu with CO<sub>2</sub> and CH<sub>4</sub>, whereas the N<sub>2</sub> molecule has a high degree of symmetry and absorbs IR light very weakly (<xref rid="fig5" ref-type="fig">Fig. 5</xref> and S37&#x02013;S38<xref rid="fn1" ref-type="fn">&#x02020;</xref>). The results show that the CO<sub>2</sub> asymmetric telescopic vibrational peaks (<italic toggle="yes">v</italic><sub>3</sub> = 2349 cm<sup>&#x02212;1</sup>) are redshifted, and the bending vibrational peaks (<italic toggle="yes">v</italic><sub>2</sub> = 667 cm<sup>&#x02212;1</sup>) are split, which proves that CO<sub>2</sub> strongly interacts with SNNU-98-Cd/Cu. As shown in <xref rid="fig5" ref-type="fig">Fig. 5a and b</xref>, CO<sub>2</sub>-loaded SNNU-98-Cu (2335&#x02013;2316 cm<sup>&#x02212;1</sup>) is redshifted more than SNNU-98-Cd (2338&#x02013;2327 cm<sup>&#x02212;1</sup>).</p><fig position="float" id="fig5"><label>Fig. 5</label><caption><title>
+<italic toggle="yes">In situ</italic> FT-IR spectra for SNNU-98-Cd/Cu: (a and b) for the CO<sub>2</sub> adsorption process; (c and d) for the CH<sub>4</sub> adsorption process; (e and f) comparison of CO<sub>2</sub> and CH<sub>4</sub> adsorption.</title></caption><graphic xlink:href="d5sc02144h-f5" position="float"/></fig><p>The positional differences of SNNU-98-Cd/Cu bending vibrational peak splitting were 8 cm<sup>&#x02212;1</sup> and 30 cm<sup>&#x02212;1</sup>, respectively, and the vibrational peaks of SNNU-98-Cu at 3000&#x02013;3250 cm<sup>&#x02212;1</sup> were significantly stronger than those of SNNU-98-Cd, indicating a stronger C&#x02013;H&#x022ef;O<sub>CO2</sub> interaction between SNNU-98-Cu and CO<sub>2</sub>. With the increase in pressure, the characteristic peak of CH<sub>4</sub>-loaded SNNU-98-Cd/Cu appeared at 3015 cm<sup>&#x02212;1</sup>, and it gradually enhanced (<xref rid="fig5" ref-type="fig">Fig. 5c and d</xref>). The spectra of CO<sub>2</sub> and CH<sub>4</sub> at low pressure indicated that the peaks of SNNU-98-Cu are stronger than those of SNNU-98-Cd, which further proved that the affinity of SNNU-98-Cu for CO<sub>2</sub> and CH<sub>4</sub> was very strong (<xref rid="fig5" ref-type="fig">Fig. 5e and f</xref>). All these results not only validate the above adsorption separation performance but also illustrate the power of sub-&#x000c5;ngstrom pore modulation on multi-scenario CO<sub>2</sub> capture.</p><p>To gain further insight into the host&#x02013;guest interactions and adsorption behavior at the molecular level, grand canonical Monte Carlo (GCMC) simulations were performed. As shown in <xref rid="fig6" ref-type="fig">Fig. 6</xref>, SNNU-98-Cd and SNNU-98-Cu obviously adsorb different amounts of gas molecules in a certain channel, at 298 K and 1 bar. SNNU-98-Cu adsorbed significantly more CO<sub>2</sub> molecules than SNNU-98-Cd, and the amount of CO<sub>2</sub> exceeded that of CH<sub>4</sub> and N<sub>2</sub>, indicating that the interaction of CO<sub>2</sub> was stronger in smaller pores. This is very useful for efficient capture of CO<sub>2</sub> from multiple industrial scenarios.</p><fig position="float" id="fig6"><label>Fig. 6</label><caption><title>GCMC-simulated (a and d) CO<sub>2</sub>, (b and e) CH<sub>4</sub>, and (c and f) N<sub>2</sub> distributions in the channel of SNNU-98-Cd/Cu MOFs.</title></caption><graphic xlink:href="d5sc02144h-f6" position="float"/></fig><p>As shown in Fig. S39,<xref rid="fn1" ref-type="fn">&#x02020;</xref> the binding sites of CO<sub>2</sub> mainly interact with high-density bare tetrazolate N sites and hydrogen bond with H, where the interaction with SNNU-98-Cu (N&#x022ef;C<sub>CO<sub>2</sub></sub>: 2.7861&#x02013;3.6808 &#x000c5;, C&#x02013;H&#x022ef;O<sub>CO<sub>2</sub></sub>: 2.3646&#x02013;3.108 &#x000c5;) is significantly stronger than that with SNNU-98-Cd (N&#x022ef;C<sub>CO<sub>2</sub></sub>: 3.6063&#x02013;3.9138 &#x000c5;, C&#x02013;H&#x022ef;O<sub>CO<sub>2</sub></sub>: 2.8270&#x02013;3.4154 &#x000c5;), and thus, it can adsorb additional CO<sub>2</sub> molecules. It was confirmed that the reduced pore size at the &#x000c5;ngstrom level enhances the interaction between the framework and CO<sub>2</sub>. However, CH<sub>4</sub> molecules with larger kinetic diameters undergo weaker N&#x022ef;H&#x02013;C<sub>CH<sub>4</sub></sub> interactions with N atoms in the pores (2.9424&#x02013;3.8830 &#x000c5; for SNNU-98-Cd, and 2.5317&#x02013;3.0746 &#x000c5; for SNNU-98-Cu). This indicates that CH<sub>4</sub> diffuses more slowly in the micropores, and SNNU-98 can efficiently separate CO<sub>2</sub> and CH<sub>4</sub> by kinetic sieving. In addition, the polarizability and quadrupole moment of N<sub>2</sub> are lower than those of CO<sub>2</sub>, and thus, the interaction with SNNU-98-Cu (H&#x022ef;N<sub>N<sub>2</sub></sub>: 2.8799&#x02013;3.8322 &#x000c5;) and SNNU-98-Cd (H&#x022ef;N<sub>N<sub>2</sub></sub>: 2.5857&#x02013;3.9138 &#x000c5;) is weaker, suggesting an excellent separation of CO<sub>2</sub> and N<sub>2</sub> based on thermodynamic principles. Subsequently, the density distributions of different gas molecules were further calculated, which clearly showed that the interaction between CO<sub>2</sub> and the SNNU-98-Cd/Cu adsorbents was stronger than those of CH<sub>4</sub> and N<sub>2</sub>. The CO<sub>2</sub> distribution density in SNNU-98-Cu was significantly higher than that of SNNU-98-Cd, especially in the low-pressure region (Fig. S40&#x02013;S44<xref rid="fn1" ref-type="fn">&#x02020;</xref>). This further demonstrates that the interaction of CO<sub>2</sub> in smaller pores is stronger, thereby benchmarking the capture of CO<sub>2</sub> in multiple scenarios (flue gas, biogas, and coal gas).</p></sec><sec><title>Conclusions</title><p>In this work, we propose a rational sub-&#x000c5;ngstrom pore modulation strategy for metal&#x02013;organic frameworks by the removal of inter-cluster linkers. With the absence of inter-cluster linkers, tiny changes in coordination bond lengths triggered by metal regulation can be efficiently transmitted, enabling ultra-fine pore size control and further significantly promoting multi-scenario CO<sub>2</sub> capture performance. Due to the suitable pore environment and high density of bare N sites, SNNU-98-Cu exhibits ultra-high stability (pH &#x02212;0.5&#x02013;13), top-level CO<sub>2</sub>/N<sub>2</sub> selectivity (1509.3), and CO<sub>2</sub> capture ability superior to nearly all porous adsorbent material, which can efficiently separate CO<sub>2</sub> from binary flue gas, ternary biogas, and quinary coal gas mixtures in one step. <italic toggle="yes">In situ</italic> IR spectra and GCMC calculations clearly indicate that the benchmark CO<sub>2</sub> capture performance is due to the coupling effect of thermodynamics and dynamics in the ultra-micropore space. This work introduces a valid strategy realizing hyperfine pore size regulation of MOF adsorbent and prompts the CO<sub>2</sub> capture from &#x02018;single-scene passive adaptation&#x02019; to &#x02018;multi-scene active response&#x02019;, which may provide the combination of high efficiency, economy, and sustainability for industrial carbon emission reduction.</p></sec><sec><title>Author contributions</title><p>Q.-G. Z. and J.-W. W. conceived the idea for this research. J.-W. W. carried out the experiments, analyzed the results, and wrote the manuscript. Q.-G. Z. led the project and edited the manuscript. All authors participated in and contributed to the preparation of the manuscript.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>There are no conflicts to declare.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="SC-016-D5SC02144H-s001" position="float" content-type="local-data"><label>SC-016-D5SC02144H-s001</label><media xlink:href="SC-016-D5SC02144H-s001.pdf" id="d67e1502" position="anchor"/></supplementary-material><supplementary-material id="SC-016-D5SC02144H-s002" position="float" content-type="local-data"><label>SC-016-D5SC02144H-s002</label><media xlink:href="SC-016-D5SC02144H-s002.cif" id="d67e1505" position="anchor"/></supplementary-material></sec></body><back><ack><p>This work was financially supported by the National Natural Science Foundation of China (22471149), the Youth Innovation Team of Shaanxi Universities (2023), and the Fundamental Research Funds for the Central Universities (GK202307009).</p></ack><sec sec-type="data-availability"><title>Data availability</title><p>All the associated data are available in the ESI.<xref rid="fn1" ref-type="fn">&#x02020;</xref></p></sec><ref-list><title>Notes and references</title><ref id="cit1"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>You</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jia</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hua</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>L.-A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ye</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.-X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><source>ACS Appl. Mater. Interfaces</source><year>2023</year><volume>15</volume><fpage>30394</fpage><lpage>30401</lpage><pub-id pub-id-type="doi">10.1021/acsami.3c06530</pub-id><pub-id pub-id-type="pmid">37327481</pub-id>
+</element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ji</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+</person-group><source>Inorg. Chem.</source><year>2023</year><volume>62</volume><fpage>18248</fpage><lpage>18256</lpage><pub-id pub-id-type="doi">10.1021/acs.inorgchem.3c02851</pub-id><pub-id pub-id-type="pmid">37870805</pub-id>
+</element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Geng</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>C.-S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pham</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2023</year><volume>62</volume><fpage>e202305390</fpage><pub-id pub-id-type="doi">10.1002/anie.202305390</pub-id><pub-id pub-id-type="pmid">37261869</pub-id>
+</element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ding</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Peh</surname><given-names>S. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xing</surname><given-names>H.</given-names></name>
+</person-group><source>Chem. Commun.</source><year>2020</year><volume>56</volume><fpage>7726</fpage><lpage>7729</lpage><pub-id pub-id-type="doi">10.1039/D0CC03196H</pub-id><pub-id pub-id-type="pmid">32555835</pub-id>
+</element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ren</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bao</surname><given-names>Z.</given-names></name>
+</person-group><source>Sep. Purif. Technol.</source><year>2022</year><volume>292</volume><fpage>121031</fpage><pub-id pub-id-type="doi">10.1016/j.seppur.2022.121031</pub-id></element-citation></ref><ref id="cit6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Qazvini</surname><given-names>O. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Telfer</surname><given-names>S. G.</given-names></name>
+</person-group><source>ACS Appl. Mater. Interfaces</source><year>2021</year><volume>13</volume><fpage>12141</fpage><lpage>12148</lpage><pub-id pub-id-type="doi">10.1021/acsami.1c01156</pub-id><pub-id pub-id-type="pmid">33661605</pub-id>
+</element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hong</surname><given-names>M.</given-names></name>
+</person-group><source>Inorg. Chem.</source><year>2020</year><volume>59</volume><fpage>13542</fpage><lpage>13550</lpage><pub-id pub-id-type="doi">10.1021/acs.inorgchem.0c01912</pub-id><pub-id pub-id-type="pmid">32864962</pub-id>
+</element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Suo</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xing</surname><given-names>H.</given-names></name>
+</person-group><source>ACS Sustain. Chem. Eng.</source><year>2019</year><volume>7</volume><fpage>3138</fpage><lpage>3144</lpage><pub-id pub-id-type="doi">10.1021/acssuschemeng.8b04916</pub-id></element-citation></ref><ref id="cit9"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pal</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chand</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Elahi</surname><given-names>S. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Das</surname><given-names>M. C.</given-names></name>
+</person-group><source>Dalton Trans.</source><year>2017</year><volume>46</volume><fpage>15280</fpage><lpage>15286</lpage><pub-id pub-id-type="doi">10.1039/C7DT03341A</pub-id><pub-id pub-id-type="pmid">29068020</pub-id>
+</element-citation></ref><ref id="cit10"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ding</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xing</surname><given-names>H.</given-names></name>
+</person-group><source>Chem. Eng. J.</source><year>2021</year><volume>405</volume><fpage>126937</fpage><pub-id pub-id-type="doi">10.1016/j.cej.2020.126937</pub-id></element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.-R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>L.-B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sculley</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Balbuena</surname><given-names>P. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>H.-C.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2013</year><volume>4</volume><fpage>1538</fpage><pub-id pub-id-type="doi">10.1038/ncomms2552</pub-id><pub-id pub-id-type="pmid">23443566</pub-id>
+</element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chheda</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ehrling</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Giovine</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Alawadhi</surname><given-names>A. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Abduljawad</surname><given-names>M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Alawad</surname><given-names>M. O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gagliardi</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sauer</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yaghi</surname><given-names>O. M.</given-names></name>
+</person-group><source>Nature</source><year>2024</year><volume>635</volume><fpage>96</fpage><lpage>101</lpage><pub-id pub-id-type="doi">10.1038/s41586-024-08080-x</pub-id><pub-id pub-id-type="pmid">39443804</pub-id>
+</element-citation></ref><ref id="cit13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shekhah</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Belmabkhout</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guillerm</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cairns</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Adil</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Eddaoudi</surname><given-names>M.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2014</year><volume>5</volume><fpage>4228</fpage><pub-id pub-id-type="doi">10.1038/ncomms5228</pub-id><pub-id pub-id-type="pmid">24964404</pub-id>
+</element-citation></ref><ref id="cit14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>K.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Madden</surname><given-names>D. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pham</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Forrest</surname><given-names>K. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kumar</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Q.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Space</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Perry</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J.-P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X.-M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zaworotko</surname><given-names>M. J.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2016</year><volume>55</volume><fpage>10268</fpage><lpage>10272</lpage><pub-id pub-id-type="doi">10.1002/anie.201603934</pub-id><pub-id pub-id-type="pmid">27439315</pub-id>
+</element-citation></ref><ref id="cit15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Qazvini</surname><given-names>O. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Babarao</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Telfer</surname><given-names>S. G.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2021</year><volume>12</volume><fpage>197</fpage><pub-id pub-id-type="doi">10.1038/s41467-020-20489-2</pub-id><pub-id pub-id-type="pmid">33420024</pub-id>
+</element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>Q.</given-names></name>
+</person-group><source>J. Fuel Chem. Technol.</source><year>2021</year><volume>49</volume><fpage>1531</fpage><lpage>1539</lpage><pub-id pub-id-type="doi">10.1016/S1872-5813(21)60095-6</pub-id></element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ji</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>M.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2025</year><volume>64</volume><fpage>e202423496</fpage><pub-id pub-id-type="doi">10.1002/anie.202423496</pub-id><pub-id pub-id-type="pmid">39825675</pub-id>
+</element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Geng</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2023</year><volume>145</volume><fpage>21483</fpage><lpage>21490</lpage><pub-id pub-id-type="doi">10.1021/jacs.3c07224</pub-id><pub-id pub-id-type="pmid">37736678</pub-id>
+</element-citation></ref><ref id="cit19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zafanelli</surname><given-names>L. F. A. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Henrique</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Karimi</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rodrigues</surname><given-names>A. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Silva</surname><given-names>J. A. C.</given-names></name>
+</person-group><source>Ind. Eng. Chem. Res.</source><year>2020</year><volume>59</volume><fpage>13724</fpage><lpage>13734</lpage><pub-id pub-id-type="doi">10.1021/acs.iecr.0c01911</pub-id></element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>L.</given-names></name>
+</person-group><source>Adv. Theory Simul.</source><year>2022</year><volume>5</volume><fpage>2100378</fpage><pub-id pub-id-type="doi">10.1002/adts.202100378</pub-id></element-citation></ref><ref id="cit21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Aly</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zafanelli</surname><given-names>L. F. A. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Henrique</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Golini Pires</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rodrigues</surname><given-names>A. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gleichmann</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Silva</surname><given-names>J. A. C.</given-names></name>
+</person-group><source>Ind. Eng. Chem. Res.</source><year>2021</year><volume>60</volume><fpage>15236</fpage><lpage>15247</lpage><pub-id pub-id-type="doi">10.1021/acs.iecr.1c02261</pub-id></element-citation></ref><ref id="cit22"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gu</surname><given-names>X.-W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qian</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>B.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2023</year><volume>14</volume><fpage>6146</fpage><pub-id pub-id-type="doi">10.1038/s41467-023-41692-x</pub-id><pub-id pub-id-type="pmid">37783674</pub-id>
+</element-citation></ref><ref id="cit23"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guan</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yue</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>D.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2024</year><volume>63</volume><fpage>e202407240</fpage><pub-id pub-id-type="doi">10.1002/anie.202407240</pub-id><pub-id pub-id-type="pmid">38839564</pub-id>
+</element-citation></ref><ref id="cit24"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Su</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>R.-B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zeng</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>B.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2022</year><volume>13</volume><fpage>200</fpage><pub-id pub-id-type="doi">10.1038/s41467-021-27929-7</pub-id><pub-id pub-id-type="pmid">35017555</pub-id>
+</element-citation></ref><ref id="cit25"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qin</surname><given-names>J.-S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cagin</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>H.-C.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2020</year><volume>142</volume><fpage>4732</fpage><lpage>4738</lpage><pub-id pub-id-type="doi">10.1021/jacs.9b13072</pub-id><pub-id pub-id-type="pmid">32058715</pub-id>
+</element-citation></ref><ref id="cit26"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>D.</given-names></name>
+</person-group><source>Coord. Chem. Rev.</source><year>2021</year><volume>440</volume><fpage>213968</fpage><pub-id pub-id-type="doi">10.1016/j.ccr.2021.213968</pub-id></element-citation></ref><ref id="cit27"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y.-P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qin</surname><given-names>J.-S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>H.-C.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2016</year><volume>138</volume><fpage>8912</fpage><lpage>8919</lpage><pub-id pub-id-type="doi">10.1021/jacs.6b04501</pub-id><pub-id pub-id-type="pmid">27345035</pub-id>
+</element-citation></ref><ref id="cit28"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>H.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Makal</surname><given-names>T. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>H.-C.</given-names></name>
+</person-group><source>Coord. Chem. Rev.</source><year>2013</year><volume>257</volume><fpage>2232</fpage><lpage>2249</lpage><pub-id pub-id-type="doi">10.1016/j.ccr.2013.03.017</pub-id></element-citation></ref><ref id="cit29"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ye</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>R.-B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Krishna</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>B.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2019</year><volume>141</volume><fpage>4130</fpage><lpage>4136</lpage><pub-id pub-id-type="doi">10.1021/jacs.9b00232</pub-id><pub-id pub-id-type="pmid">30793890</pub-id>
+</element-citation></ref><ref id="cit30"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.-W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>S.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Q.-Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.-F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhai</surname><given-names>Q.-G.</given-names></name>
+</person-group><source>Adv. Funct. Mater.</source><year>2024</year><volume>35</volume><fpage>2420070</fpage><pub-id pub-id-type="doi">10.1002/adfm.202420070</pub-id></element-citation></ref><ref id="cit31"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chan</surname><given-names>S. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+</person-group><source>Chem. - Eur. J.</source><year>2023</year><volume>29</volume><fpage>e202301279</fpage><pub-id pub-id-type="doi">10.1002/chem.202301279</pub-id><pub-id pub-id-type="pmid">37424192</pub-id>
+</element-citation></ref><ref id="cit32"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhai</surname><given-names>Q.-G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>C.-Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>S.-M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>X.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>W.-B.</given-names></name>
+</person-group><source>Cryst. Growth Des.</source><year>2006</year><volume>6</volume><fpage>1393</fpage><lpage>1398</lpage><pub-id pub-id-type="doi">10.1021/cg0600142</pub-id></element-citation></ref><ref id="cit33"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hou</surname><given-names>Z.-J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Z.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>E.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>X.-J.</given-names></name>
+</person-group><source>Dalton Trans.</source><year>2015</year><volume>44</volume><fpage>2223</fpage><lpage>2233</lpage><pub-id pub-id-type="doi">10.1039/C4DT03172E</pub-id><pub-id pub-id-type="pmid">25519424</pub-id>
+</element-citation></ref><ref id="cit34"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.-W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fan</surname><given-names>S.-C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.-P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>Y.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhai</surname><given-names>Q.-G.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2023</year><volume>62</volume><fpage>e202217839</fpage><pub-id pub-id-type="doi">10.1002/anie.202217839</pub-id><pub-id pub-id-type="pmid">36631412</pub-id>
+</element-citation></ref><ref id="cit35"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Anderson</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Robison</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Redfern</surname><given-names>L. R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Moribe</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Islamoglu</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>G&#x000f3;mez-Gualdr&#x000f3;n</surname><given-names>D. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yildirim</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Stoddart</surname><given-names>J. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Farha</surname><given-names>O. K.</given-names></name>
+</person-group><source>Science</source><year>2020</year><volume>368</volume><fpage>297</fpage><lpage>303</lpage><pub-id pub-id-type="doi">10.1126/science.aaz8881</pub-id><pub-id pub-id-type="pmid">32299950</pub-id>
+</element-citation></ref><ref id="cit36"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kandiah</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nilsen</surname><given-names>M. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Usseglio</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jakobsen</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Olsbye</surname><given-names>U.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tilset</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Larabi</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Quadrelli</surname><given-names>E. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bonino</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lillerud</surname><given-names>K. P.</given-names></name>
+</person-group><source>Chem. Mater.</source><year>2010</year><volume>22</volume><fpage>6632</fpage><lpage>6640</lpage><pub-id pub-id-type="doi">10.1021/cm102601v</pub-id></element-citation></ref><ref id="cit37"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Leus</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bogaerts</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>De Decker</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Depauw</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hendrickx</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vrielinck</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Van Speybroeck</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Van Der Voort</surname><given-names>P.</given-names></name>
+</person-group><source>Microporous Mesoporous Mater.</source><year>2016</year><volume>226</volume><fpage>110</fpage><lpage>116</lpage><pub-id pub-id-type="doi">10.1016/j.micromeso.2015.11.055</pub-id></element-citation></ref><ref id="cit38"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chevreau</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ragon</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Southon</surname><given-names>P. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Peterson</surname><given-names>V. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>D'Alessandro</surname><given-names>D. M.</given-names></name>
+</person-group><source>CrystEngComm</source><year>2014</year><volume>16</volume><fpage>6530</fpage><lpage>6533</lpage><pub-id pub-id-type="doi">10.1039/C4CE01031K</pub-id></element-citation></ref><ref id="cit39"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Peng</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hong</surname><given-names>A. N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>P.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2021</year><volume>143</volume><fpage>14470</fpage><lpage>14474</lpage><pub-id pub-id-type="doi">10.1021/jacs.1c07277</pub-id><pub-id pub-id-type="pmid">34464126</pub-id>
+</element-citation></ref><ref id="cit40"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>H.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gu</surname><given-names>Z.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Y.-P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>H.-C.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2013</year><volume>135</volume><fpage>13934</fpage><lpage>13938</lpage><pub-id pub-id-type="doi">10.1021/ja406844r</pub-id><pub-id pub-id-type="pmid">23984878</pub-id>
+</element-citation></ref><ref id="cit41"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ji</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Imbrogno</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>D.</given-names></name>
+</person-group><source>Ind. Eng. Chem. Res.</source><year>2025</year><volume>64</volume><fpage>5372</fpage><lpage>5382</lpage><pub-id pub-id-type="doi">10.1021/acs.iecr.4c04326</pub-id></element-citation></ref><ref id="cit42"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nugent</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Belmabkhout</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Burd</surname><given-names>S. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cairns</surname><given-names>A. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Luebke</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Forrest</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pham</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Space</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wojtas</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Eddaoudi</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zaworotko</surname><given-names>M. J.</given-names></name>
+</person-group><source>Nature</source><year>2013</year><volume>495</volume><fpage>80</fpage><lpage>84</lpage><pub-id pub-id-type="doi">10.1038/nature11893</pub-id><pub-id pub-id-type="pmid">23446349</pub-id>
+</element-citation></ref><ref id="cit43"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Du</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>You</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bai</surname><given-names>J.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2013</year><volume>135</volume><fpage>562</fpage><lpage>565</lpage><pub-id pub-id-type="doi">10.1021/ja309992a</pub-id><pub-id pub-id-type="pmid">23268731</pub-id>
+</element-citation></ref><ref id="cit44"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bai</surname><given-names>J.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2019</year><volume>141</volume><fpage>14539</fpage><lpage>14543</lpage><pub-id pub-id-type="doi">10.1021/jacs.9b07422</pub-id><pub-id pub-id-type="pmid">31469955</pub-id>
+</element-citation></ref><ref id="cit45"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xiang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Krishna</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>B.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2012</year><volume>3</volume><fpage>954</fpage><pub-id pub-id-type="doi">10.1038/ncomms1956</pub-id><pub-id pub-id-type="pmid">22805561</pub-id>
+</element-citation></ref></ref-list></back></article>

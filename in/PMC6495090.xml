@@ -1,0 +1,1123 @@
+<!-- PMCEdits, 06/26/2025 (brennan1),
+   Edit 1, noissue.
+  -->
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="trc2jtrci201903002" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement (N Y)</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement (N Y)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2352-8737</journal-id><journal-id journal-id-type="publisher-id">TRC2</journal-id><journal-title-group><journal-title>Alzheimer's &#x00026; Dementia : Translational Research &#x00026; Clinical Interventions</journal-title></journal-title-group><issn pub-type="epub">2352-8737</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">31065583</article-id><article-id pub-id-type="pmc">PMC6495090</article-id>
+<article-id pub-id-type="doi">10.1016/j.trci.2019.03.002</article-id><article-id pub-id-type="publisher-id">TRC2JTRCI201903002</article-id><article-categories><subj-group subj-group-type="overline"><subject>Theoretical Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Theoretical Article</subject></subj-group></article-categories><title-group><article-title>A model of lipid dysregulation and altered nutrient status in Alzheimer's disease</article-title></title-group><contrib-group><contrib id="au1" contrib-type="author" corresp="yes"><name><surname>Fluegge</surname><given-names>Keith</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>keithfluegge@gmail.com</email></address></contrib></contrib-group><aff id="aff1">
+<label>
+<sup>1</sup>
+</label>
+<institution>Institute of Health and Environmental Research</institution>
+<city>Columbus</city>
+<named-content content-type="country-part">OH</named-content>
+<postal-code>43220</postal-code>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>Corresponding author.</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>4</month><year>2019</year></pub-date><pub-date pub-type="collection"><year>2019</year></pub-date><volume>5</volume><fpage>139</fpage><lpage>145</lpage><permissions><!--&#x000a9; The Alzheimer's Association--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the CC BY&#x02010;NC&#x02010;ND license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>).</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:TRC2-5-139.pdf"/><abstract><title>Abstract</title><sec id="abssec0010"><title>Introduction</title><p>Dysregulated lipid metabolism and nutrient status are thought to play a role in the pathophysiology of Alzheimer's disease (AD). However, the precise involvement is not well understood, and it remains unclear exactly how such dysregulated lipid metabolism and altered nutrient status, especially changes in phosphatidylcholine, B12, and folate, are connected to the hallmark pathology in AD (i.e., amyloidogenesis).</p></sec><sec id="abssec0015"><title>Methods</title><p>We have postulated that genetic susceptibility (i.e., APOE &#x003b5;4/&#x003b5;4) to environmental exposure to emissions of nitrous oxide (N<sub>2</sub>O) could underlie the onset of AD and its early neuropsychiatric correlates</p></sec><sec id="abssec0020"><title>Results and Discussion</title><p>The current theoretical editorial describes, using clinical, preclinical, and in&#x02009;vitro evidences, how this model contributes not only to amyloidogenesis but also other nonopioid effects, specifically altered lipid metabolism, depletion of vitamin B12, and disruption of the folate&#x02010;mediated one carbon metabolic pathway.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="kwd1">Alzheimer's disease</kwd><kwd id="kwd2">Phospholipids</kwd><kwd id="kwd3">Dynorphin</kwd><kwd id="kwd4">Nitrous oxide</kwd><kwd id="kwd5">Vitamin B12</kwd><kwd id="kwd6">Folate</kwd><kwd id="kwd7">Choline</kwd></kwd-group><counts><fig-count count="3"/><table-count count="0"/><ref-count count="71"/><page-count count="7"/><word-count count="5946"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.7 mode:remove_FC converted:20.06.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="trc2jtrci201903002-ntgp-0001"><fn id="ntpara0010"><p>Conflict of Interest: The author owns shares in Pain Therapeutics, Inc.</p></fn></fn-group></notes></front><body id="body1"><sec sec-type="opening-section" id="trc2jtrci201903002-sec-0001"><label>1</label><p>Alzheimer's disease (AD) is a progressive neurodegenerative condition that comprises the most common cause of dementia <xref rid="bib1" ref-type="bibr">[1]</xref>. In developed economies, AD is a leading cause of mortality and, while most of the risk is commonly attributed to genetics, the role of environmental factors is increasingly being suspected to play an interactive role in modulating this genetic susceptibility <xref rid="bib2" ref-type="bibr">[2]</xref>. The disease is characterized clinically by memory loss and other cognitive functioning decline. The disease's etiopathology is attributed to the accumulation of amyloid plaques between nerve cells (neurons) in the brain and insoluble twisted fibers known as neurofibrillary tangles (consisting of aggregates of hyperphosphorylated tau protein) found inside the brain's cells <xref rid="bib3" ref-type="bibr">[3]</xref>. These manifestations are thought to contribute to&#x02009;the degradation of neurons over time and the onset of disease symptoms.</p><p>Dysregulated lipid metabolism and altered nutrient status are thought to play a role in the pathophysiology of AD. The recent meta&#x02010;analysis from De Wilde et&#x02009;al. <xref rid="bib4" ref-type="bibr">[4]</xref> showed that patients with AD have lower CSF/brain availability of docosahexaenoic acid, choline, vitamin B12, folate, vitamin C, and vitamin E. However, the precise involvement of these metabolic alterations is not well understood. It remains unclear exactly how such dysregulated lipid/nutrient metabolism is connected to the hallmark pathology in AD. This theoretical editorial provides a parsimonious explanation, suggesting that individual exposure to a novel environmental factor may contribute to the hallmark neurobiology of AD but also non&#x02013;AD&#x02010;related effects, including altered lipodome and nutrient status.</p></sec><sec id="sec1"><label>1</label><title>Environmental nitrous oxide (N<sub>2</sub>O) exposure and AD pathology</title><p>We have postulated that genetic susceptibility to environmental exposure to emissions of nitrous oxide (N<sub>2</sub>O) could underlie the onset of dementia and its early neuropsychiatric correlates, such as attention&#x02010;deficit hyperactivity disorder (ADHD) [<xref rid="bib5" ref-type="bibr">[5]</xref>, <xref rid="bib6" ref-type="bibr">[6]</xref>, <xref rid="bib7" ref-type="bibr">[7]</xref>]. N<sub>2</sub>O is an air pollutant that is derived from soil management practices in agriculture as well as from mobile and stationary combustion sources. Although N<sub>2</sub>O has also been and continues to be used widely as an analgesic during labor, dentistry, and other medical procedures for over a century, the human health effects from chronic exposure do exist and include an increased risk of headache, dizziness, tachycardia, oxidative damage/stress, vitamin B12 deficiency among operating room personnel chronically exposed to N<sub>2</sub>O [<xref rid="bib8" ref-type="bibr">[8]</xref>, <xref rid="bib9" ref-type="bibr">[9]</xref>, <xref rid="bib10" ref-type="bibr">[10]</xref>], as well as increased long&#x02010;term risk of myocardial infarction among a noncardiac surgery population <xref rid="bib11" ref-type="bibr">[11]</xref>.</p><p>Recent case reports have also provided anecdotal evidence associating chronic N<sub>2</sub>O use with subacute combined degeneration and limb weakness <xref rid="bib12" ref-type="bibr">[12]</xref>, myeloneuropathy <xref rid="bib13" ref-type="bibr">[13]</xref>, pernicious anemia <xref rid="bib14" ref-type="bibr">[14]</xref>, hematologic changes and risk of thrombosis [<xref rid="bib15" ref-type="bibr">[15]</xref>, <xref rid="bib16" ref-type="bibr">[16]</xref>], myocardial infarction <xref rid="bib17" ref-type="bibr">[17]</xref>, pneumomediastinum <xref rid="bib18" ref-type="bibr">[18]</xref>, vitamin B12 deficiency with lower motor neuronal degeneration [<xref rid="bib19" ref-type="bibr">[19]</xref>, <xref rid="bib20" ref-type="bibr">[20]</xref>], and stroke <xref rid="bib21" ref-type="bibr">[21]</xref>, and many conditions that are considered significant risk factors for AD onset, including headache <xref rid="bib22" ref-type="bibr">[22]</xref>, anemia <xref rid="bib23" ref-type="bibr">[23]</xref>, gait imbalance/ataxia <xref rid="bib24" ref-type="bibr">[24]</xref>, thrombosis <xref rid="bib25" ref-type="bibr">[25]</xref>, stroke <xref rid="bib26" ref-type="bibr">[26]</xref>, and myocardial infarction <xref rid="bib27" ref-type="bibr">[27]</xref>. Moreover, clinical evidence suggests that trace N<sub>2</sub>O exposure induces impairments in the Digit Span Test <xref rid="bib28" ref-type="bibr">[28]</xref>, a test that has predictive power in identifying cognitive decline in participants with mild cognitive impairment (MCI)&#x02014;a condition often prodromal to AD <xref rid="bib29" ref-type="bibr">[29]</xref>.</p><p>Molecularly, N<sub>2</sub>O, especially at lower doses, induces endogenous release of dynorphin (DYN) and activation of its cognate kappa opioid receptor (KOR) <xref rid="bib30" ref-type="bibr">[30]</xref>. The release of DYN opioid peptides and KOR activation putatively regulate acute elevations in N<sub>2</sub>O&#x02010;induced mesolimbic dopamine release <xref rid="bib31" ref-type="bibr">[31]</xref>. Although, maturational decline in KOR constitutive activity occurs in rats <xref rid="bib32" ref-type="bibr">[32]</xref>, which could differentially affect KORs ligand efficacy and impart consequential age&#x02010;related effects. Age&#x02010;dependent decline in KOR activity or its desensitization likely explain the N<sub>2</sub>O&#x02010;induced, DYN&#x02010;mediated activation of the nonopioid targets responsible for amyloidogenesis, including modulation of glutamate receptors <xref rid="bib33" ref-type="bibr">[33]</xref> and caspase activation. Consistently, significantly elevated DYN levels have been shown in AD brain <xref rid="bib34" ref-type="bibr">[34]</xref>. These age&#x02010;dependent mechanisms of toxicity are discussed next and form the basis of the hypothetical argument that chronic exposure to trace environmental N<sub>2</sub>O induces AD.</p><p>At high concentrations and exposure times for 4 or&#x02009;72&#x02009;hours, DYN&#x02010;induced striatal neurotoxicity in mouse&#x02009;brain involved activation of &#x00251;&#x02010;amino&#x02010;3&#x02010;hydroxy&#x02010;5&#x02010;methylisoxazole&#x02010;4&#x02010;propionate (AMPA)/kainate receptors with concomitant concentration&#x02010;dependent increases in cytochrome C and caspase&#x02010;3 activity <xref rid="bib35" ref-type="bibr">[35]</xref>. Kolaj et&#x02009;al. <xref rid="bib36" ref-type="bibr">[36]</xref> demonstrated that, at much lower concentrations (1&#x02009;&#x003bc;M), DYN induced an initial (10&#x02009;minutes) depressant effect (KOR&#x02010;dependent) and late potentiating effect (KOR&#x02010;independent) on the transient component of AMPA&#x02010;induced currents, suggesting that KOR desensitization (or maturational decline) permits DYN nonopioid toxicity via ionotropic glutamate receptor activation. In this regard, we have proposed a novel pathway, consistent with the <italic toggle="yes">in&#x02009;vitro</italic> evidence of N<sub>2</sub>O&#x02010;induced caspase activation <xref rid="bib37" ref-type="bibr">[37]</xref> and &#x00251; 7 nicotinic acetylcholine receptor (&#x003b1;7) inhibition <xref rid="bib38" ref-type="bibr">[38]</xref>, through which reduced KOR constitutive activity and greater responsivity to endogenous ligand due to aging yields excess brain DYN from N<sub>2</sub>O that facilitates amyloidogenesis (i.e., trace environmental N<sub>2</sub>O&#x02010;induced DYN release&#x02192;AMPA receptor late potentiation and caspase activation&#x02192; &#x00251;7 nicotinic acetylcholine receptor inhibition&#x02192;nitric oxide synthase uncoupling&#x02192;oxidative stress/amyloidogenesis) [See a general schematic shown <xref rid="fig1" ref-type="fig">Fig.&#x02009;1</xref>]. This model suggests that targeting proteins involved in amyloid synthesis, as has been historical practice in preclinical AD research, is a late&#x02010;stage focus and therefore, a limited biological intervention in AD therapy. We suggest that consideration ought to be given to novel AD therapeutics that are designed to target not late pathological manifestations of the hypothesized disease process (i.e., amyloid synthesis) but rather early apoptotic events thought to be triggered by environmental N<sub>2</sub>O&#x02010;induced caspase activation via endogenous DYN release. We next highlight one novel AD therapeutic that has caught our interest insofar as the drug could halt the proposed neurodegenerative cascade induced from environmental N<sub>2</sub>O.</p><fig position="float" fig-type="Figure" id="fig1"><label>Figure 1</label><caption><p>Within mesolimbic neurons [A, B], trace nitrous oxide (N<sub>2</sub>O) stimulates the release of opioid peptides, including dynorphin (DYN) A (1&#x02010;17), contained within synaptic vesicles (2) and ultimately released into the synaptic membrane (4) via vesicular fusion (7). These peptides act on cognate opioid receptors such as the kappa opioid receptor (KOR) (6). Owing to aging, KOR constitutive expression declines, leaving the receptor more sensitive to chronic ligand&#x02010;induced stimulation (i.e., downregulation). This receptor modulation permits DYN&#x02010;induced activation of several nonopioid targets (indicated by multiple red arrows), including activation of &#x003b1;&#x02010;amino&#x02010;3&#x02010;hydroxy&#x02010;5&#x02010;methylisoxazole&#x02010;4&#x02010;propionate (AMPA)/kainate receptors (5), triggering an apoptotic pathway that involves cytochrome c release from mitochondrion (1), caspase&#x02010;3 activation, and restricted calcium influx via inhibition of the &#x003b1;7 receptor (8), as well as leakage from phospholipid vesicles contained within the neuronal membrane in an attempt to restore free choline (See text). These AD&#x02010;related effects are hypothesized to co&#x02010;occur with the well&#x02010;documented effects of N<sub>2</sub>O on cobalamin and folate metabolism through the inactivation of the methionine synthase enzyme.</p></caption><graphic xlink:href="TRC2-5-139-g003" position="anchor" id="jats-graphic-1"/></fig><p>Wang et&#x02009;al. [<xref rid="bib39" ref-type="bibr">[39]</xref>, <xref rid="bib40" ref-type="bibr">[40]</xref>] published data on the effectiveness using a intracerebroventricular A&#x003b2;42 infusion mouse model, a triple&#x02010;transgenic (3xTg) mouse model of AD, as well as postmortem AD brain tissue of a novel therapeutic candidate, PTI&#x02010;125, in the reversal of hallmark AD pathology including reduced tau hyperphosphorylation, aggregated A&#x003b2;42 deposition, neurofibrillary tangles, and neuroinflammation. The novel mechanism of PTI&#x02010;125 is thought to involve the differential binding affinity to altered filamin A (FLNA), a 280&#x02010;kD actin&#x02010;binding protein, and restoration of the protein to its native conformation. This action averts the altered FLNA associations with &#x003b1;7&#x02010;nicotinic acetylcholine receptor and toll&#x02010;like receptor 4 that foster amyloid&#x02010;&#x003b2;1&#x02010;42&#x02013;induced tau phosphorylation and neuroinflammation, presumably through impaired &#x003b1;7&#x02010;induced calcium permeability and uncoupled nitric oxide synthesis. Critically, the authors demonstrate that these effects of PTI&#x02010;125 on FLNA effectuate a virtually nondiseased state. The studies conducted so far implicate altered FLNA as an integral protein constituent mediating pathological AD signaling.</p><p>In&#x02009;vitro screening shows that filamin is a substrate of caspase&#x02010;3 <xref rid="bib41" ref-type="bibr">[41]</xref>, as etoposide&#x02010;induced caspase&#x02010;3 activation cleaved filamin from 280&#x02009;kDa to 170, 150, and 120&#x02009;kDa major N&#x02010;terminal and 135, 120, and 110&#x02009;kDa major C&#x02010;terminal fragments. Consistently, the procleavage effects of caspase&#x02010;3 on filamin were inhibited by a cell permeable inhibitor of&#x02009;caspase&#x02010;3&#x02013;like protease <xref rid="bib41" ref-type="bibr">[41]</xref>. FLNA silencing in human tumoral cells significantly reduced caspase&#x02010;3/7 activation <xref rid="bib42" ref-type="bibr">[42]</xref>. Activated caspase&#x02010;3 immunoreactivity was elevated in AD brain, and this activity appeared to co&#x02010;occur with&#x02009;neurofibrillary tangles and plaque formation <xref rid="bib43" ref-type="bibr">[43]</xref>. Therefore, altered FLNA processing and conformation may be concomitantly related to N<sub>2</sub>O&#x02010;induced caspase&#x02010;3 activation in AD. We believe this paradigm of neurodegeneration accompanies other nonopioid effects, including altered lipid metabolism and dysregulated nutrient status, mediated, as well, by trace environmental N<sub>2</sub>O exposure.</p></sec><sec id="sec2"><label>2</label><title>Altered lipodome</title><p>Clinically relevant concentrations of N<sub>2</sub>O (30&#x02009;minute exposure) increased phospholipid methylation in rat synaptosomes, which are isolated synaptic terminals from a neuron and are often used to study synaptic transmission <xref rid="bib44" ref-type="bibr">[44]</xref>. Phospholipid methylation is a reaction in which phosphatidylethanolamine is converted to phosphatidylcholine (PtdCho) by PE&#x02010;methyltransferase via three sequential methylations by S&#x02010;adenosyl methionine <xref rid="bib45" ref-type="bibr">[45]</xref>. Increased phospholipid methylation from N<sub>2</sub>O mirrors PC synthesis induced from catecholamine stimulation, especially dopamine <xref rid="bib46" ref-type="bibr">[46]</xref>, which occurs with acute N<sub>2</sub>O exposure <xref rid="bib31" ref-type="bibr">[31]</xref>. These data augment other findings from infrared spectroscopy demonstrating sites of N<sub>2</sub>O&#x02010;lipid interaction, especially in an aqueous solution of PC vesicles <xref rid="bib47" ref-type="bibr">[47]</xref>, as well as N<sub>2</sub>O&#x02010;induced reduction in the phase transition in smectic mesophase of dipalmitoyl PtdCho by 0.58&#x000b0; C/atm <xref rid="bib48" ref-type="bibr">[48]</xref>. These effects are consistent with the elemental thermodynamic description of anesthetics, including N<sub>2</sub>O, as freezing point depressants.</p><p>However, under conditions of prolonged exposure to N<sub>2</sub>O, both S&#x02010;adenosyl methionine levels and vitamin B12 are reduced [<xref rid="bib10" ref-type="bibr">[10]</xref>, <xref rid="bib49" ref-type="bibr">[49]</xref>], theoretically compromising endogenous synthesis of PtdCho by methylation <xref rid="bib50" ref-type="bibr">[50]</xref>. Moreover, brain dopamine levels, especially in the mesolimbic pathway, are dramatically reduced under subchronic, trace N<sub>2</sub>O exposure <xref rid="bib51" ref-type="bibr">[51]</xref>, indicative of activation of the KOR/DYN system. Alford et&#x02009;al. <xref rid="bib52" ref-type="bibr">[52]</xref> clarified DYN interactions with phospholipid membrane, demonstrating that dynorphin A (1&#x02010;17) induces leakage from phosphatidylserine and PtdCho vesicles. Fagone and Jackowski reviewed the cytidine diphosphocholine pathway of PtdCho biosynthesis and concluded that &#x0201c;serum PtdCho or lysoPtdCho provide substantial amounts of phospholipid for cells and can provide the choline in serum&#x02010;based cell culture models to buffer against depletion of free choline&#x0201d; <xref rid="bib53" ref-type="bibr">[53]</xref>, a phenomenon that occurs in N<sub>2</sub>O&#x02010;exposed subjects <xref rid="bib54" ref-type="bibr">[54]</xref>. Indeed, the argument of &#x0201c;autocannibalism&#x0201d; of choline&#x02010;containing membrane phospholipids in AD as a means of free choline restoration has been put forward previously <xref rid="bib55" ref-type="bibr">[55]</xref>, albeit without the critical link to environmental N<sub>2</sub>O as the precipitating factor of choline dysregulation via endogenous DYN release <xref rid="bib56" ref-type="bibr">[56]</xref>. In some cases, this &#x0201c;autocannibalism&#x0201d; may rescue choline status during AD progression <xref rid="bib55" ref-type="bibr">[55]</xref>, although the meta&#x02010;analytic evidence from De Wilde et&#x02009;al. <xref rid="bib4" ref-type="bibr">[4]</xref> suggests such compensatory mechanisms may still be insufficient in most AD cases.</p></sec><sec id="sec3"><label>3</label><title>Dysregulated nutrient status</title><p>In addition to modulation of apoptotic pathways, a review of the case literature indicates that N<sub>2</sub>O is associated with depletion of vitamin B12 and disruption of the folate&#x02010;mediated one carbon metabolic pathway <xref rid="bib20" ref-type="bibr">[20]</xref>. In this pathway (<xref rid="fig2" ref-type="fig">Fig.&#x02009;2</xref>), a carbon unit from serine or glycine is transported to tetrahydrofolate (THF), which yields methylene&#x02010;THF, a key endogenous one&#x02010;carbon donor for the synthesis of thymidine, which is incorporated into DNA. Methylene&#x02010;THF can also be reduced to 5&#x02010;methyl&#x02010;THF by methylenetetrahydrofolate reductase (MTHFR gene) which can be used to methylate homocysteine to form methionine. The latter reaction, along with simultaneous conversion of 5&#x02010;methyl&#x02010;THF to THF, is catalyzed by a B12&#x02010;containing methionine synthase. The N<sub>2</sub>O&#x02010;induced inactivation of methionine synthase putatively disrupts maternal and embryonic folate metabolism in rats, with a significant reduction in nonmethylated folate in embryonic tissues <xref rid="bib58" ref-type="bibr">[58]</xref>. Plasma folate increases have been recorded in rats and humans during N<sub>2</sub>O exposure, but this is followed by a fall in folate levels, presumably due to excretion or normal host catabolism <xref rid="bib59" ref-type="bibr">[59]</xref>, which can be prevented by dietary and/or supplemented forms of folate. Elderly subjects with reduced levels of both vitamins have doubled AD risk <xref rid="bib60" ref-type="bibr">[60]</xref>, indicating that consideration of exposures capable of modulating both of these biochemical parameters is warranted in AD research.</p><fig position="float" fig-type="Figure" id="fig2"><label>Figure 2</label><caption><p>A schematic showing N<sub>2</sub>O&#x02010;induced inactivation of methionine synthase in the folate&#x02010;mediated one carbon metabolic pathway.</p><p>(Figure&#x02009;from <xref rid="bib57" ref-type="bibr">[57]</xref>)</p></caption><graphic xlink:href="TRC2-5-139-g001" position="anchor" id="jats-graphic-3"/></fig><p>To further investigate these possible links, we used the GAAIN Interrogator tool to understand whether vitamin B12 deficiency, a deleterious toxicity from N<sub>2</sub>O, is more common in patients with AD versus normal cognitive controls <xref rid="bib61" ref-type="bibr">[61]</xref>. The three cohorts that we extracted from the National Alzheimer's Coordinating Center (described previously <xref rid="bib62" ref-type="bibr">[62]</xref>), are based on diagnosis and include MCI, AD, and normal cognitive functioning. Because our preliminary analyses thus far have indicated a relationship between anthropogenic farm nitrogen (greatest source of environmental N<sub>2</sub>O) and age&#x02010;adjusted AD mortality, and N<sub>2</sub>O is&#x02009;clinically implicated in B12 deficiency, we expected to replicate previous findings that B12 deficiency increases AD risk <xref rid="bib60" ref-type="bibr">[60]</xref>.</p><p>The odds ratios presented in <xref rid="fig3" ref-type="fig">Fig.&#x02009;3</xref> show increased odds of B12 deficiency among subjects in the AD cohort (cases) in the National Alzheimer's Coordinating Center data set, compared with normal cognitive functioning and MCI cohorts (controls). This finding confirms previous research of a link between low B12 and dementia risk. However, linear regression analysis using clinically diagnosed patients with AD (N&#x02009;=&#x02009;19) from the Layton Aging &#x00026; Alzheimer's Disease Center does not support a link between increasing plasma B12 and scores on the Mini&#x02010;Mental State Examination, suggesting that B12 is not correlated with the level of cognitive impairment in subjects with AD. The small sample size limits any conclusion that can be drawn. Although, an&#x02009;evidence&#x02010;based analysis suggests that vitamin B12 treatment does not significantly improve cognitive function in&#x02009;patients with dementia regardless of B12 status <xref rid="bib63" ref-type="bibr">[63]</xref>. Cumulatively, these GAAIN data show that the odds of B12 deficiency are significantly higher in AD, although the extent to which such deficiency contributes to the cognitive decline in this disease is not clear and may be incidental.</p><fig position="float" fig-type="Figure" id="fig3"><label>Figure 3</label><caption><p>The logit model results (GAAIN output screenshot) show greater odds of B12 deficiency among subjects diagnosed with AD compared with those subjects diagnosed with mild cognitive impairment (MCI) or normal cognitive subjects (NL).</p></caption><graphic xlink:href="TRC2-5-139-g002" position="anchor" id="jats-graphic-5"/></fig></sec><sec id="sec4"><label>4</label><title>Considerations for future research</title><p>We earlier proposed that individual genetic susceptibility (APOE &#x003b5;4/&#x003b5;4) to environmental drivers of N<sub>2</sub>O emissions may be associated with age&#x02010;adjusted AD mortality, and this link is consistent with the nutritional and lipodome phenotypes that ostensibly manifest in AD. We have repeatedly recommended that efforts be undertaken to begin monitoring environmental emissions of N<sub>2</sub>O as a risk exposure in the development of dementias and co&#x02010;occurring changes in lipid metabolism and blood nutrient status, specifically vitamin B12 and folate.</p><p>Although we are aware of a great deal of research endeavoring to understand the role of environmental N<sub>2</sub>O as a greenhouse gas pollutant in global climate change, virtually no effort has been made to quantify human exposure, even though preclinical study reveals significant neurochemical changes occur from trace long&#x02010;term N<sub>2</sub>O exposure. Such data are needed to further investigate our proposed hypothesis and could better clarify the inconclusive epidemiological literature on AD risk and air pollution <xref rid="bib64" ref-type="bibr">[64]</xref>. Given the lack of exposure assessments currently available and preliminary evidence from the E.P.A. of &#x0201c;considerable&#x0201d; street&#x02010;level N<sub>2</sub>O emissions in Ohio <xref rid="bib65" ref-type="bibr">[65]</xref>, our current efforts seek to follow&#x02010;up on the recommendations of other researchers by undertaking an appropriate program of individual&#x02010;level N<sub>2</sub>O monitoring using state&#x02010;of&#x02010;the&#x02010;art, high&#x02010;resolution infrared laser technologies <xref rid="bib66" ref-type="bibr">[66]</xref>.</p><p>One suggestion we have is to conduct a longitudinal investigation (1&#x02009;year) using these monitors at an individual (adult) level and associating seasonal N<sub>2</sub>O emission exposures with psychometric assessment of ADHD symptoms. Our previous work has focused specifically on ADHD [<xref rid="bib5" ref-type="bibr">[5]</xref>, <xref rid="bib6" ref-type="bibr">[6]</xref>, <xref rid="bib7" ref-type="bibr">[7]</xref>]&#x02014;a neurodevelopmental disorder often diagnosed in childhood that is also characterized by altered lipodome, changes in B12 [<xref rid="bib67" ref-type="bibr">[67]</xref>, <xref rid="bib68" ref-type="bibr">[68]</xref>], as well as tau accumulation <xref rid="bib69" ref-type="bibr">[69]</xref>. Our main hypothesis to be tested is supported with recent evidence linking ADHD with both agricultural and combustion sources <xref rid="bib70" ref-type="bibr">[70]</xref>. Then, these individuals could be followed up for several decades to test the second hypothesis that higher level of N<sub>2</sub>O exposures earlier in life increases AD risk in later life. Such data could clarify the question about whether these two conditions do, in fact, represent a possible continuum of brain degeneration over the lifespan <xref rid="bib71" ref-type="bibr">[71]</xref>, perhaps due to chronic exposure to environmental N<sub>2</sub>O. Related to this line of inquiry, we recommend that further study specifically focus on the presence of the aforementioned AD changes in early neuropsychiatric correlates of AD. Moreover, long&#x02010;term prospective studies should also attempt to follow&#x02010;up operating room personnel to observe whether an increased AD incidence occurs in such populations, in addition to the increased risks of headache, dizziness, tachycardia, oxidative damage/stress, and vitamin B12 deficiency that have already been documented from chronic exposure to trace anesthetic gases, such as N<sub>2</sub>O.
+<boxed-text position="anchor" id="dtbox1" content-type="box"><sec id="trc2jtrci201903002-sec-0002"><label>1</label><title>Research in context</title><p>
+<list list-type="simple" id="olist0010"><list-item><label>1.</label><p>Systematic review: The current editorial discusses findings from a recent meta&#x02010;analysis conducted by De Wilde et al. <xref rid="bib4" ref-type="bibr">[4]</xref> showing altered nutrient status in Alzheimer's disease (AD).</p></list-item><list-item><label>2.</label><p>Interpretation: Findings from the meta&#x02010;analysis are integrated into an etiopathological framework suggesting that the age&#x02010;dependent, non&#x02010;opioid toxicity induced by chronic exposure to trace emissions of nitrous oxide (N<sub>2</sub>O) facilitates amyloidogenesis.</p></list-item><list-item><label>3.</label><p>Future directions: Future work should entail a comprehensive environmental monitoring program of N<sub>2</sub>O emissions as well as prospective cohort studies assessing AD risk among operating room personnel chronically exposed to trace anesthetic gases, specifically N<sub>2</sub>O.</p></list-item></list>
+</p></sec></boxed-text>
+</p></sec></body><back><ack id="ack0010"><title>Acknowledgments</title><p>This research did not receive any specific grant from funding agencies in the public, commercial, or not&#x02010;for&#x02010;profit sectors.</p><p>This article does not contain any studies with human participants or animals performed by any of the authors.</p></ack><ref-list id="cebib0010"><title>References</title><ref id="bib1"><label>[1]</label><mixed-citation publication-type="journal" id="sref1">
+<string-name>
+<given-names>P.</given-names>
+<surname>Scheltens</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Blennow</surname>
+</string-name>, <string-name>
+<given-names>M.M.</given-names>
+<surname>Breteler</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>de Strooper</surname>
+</string-name>, <string-name>
+<given-names>G.B.</given-names>
+<surname>Frisoni</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Salloway</surname>
+</string-name>, et al. <article-title>Alzheimer's disease</article-title>. <source>Lancet</source>. <volume>388</volume>: <year>2016</year>; <fpage>505</fpage>&#x02013;<lpage>517</lpage>
+<pub-id pub-id-type="pmid">26921134</pub-id>
+</mixed-citation></ref><ref id="bib2"><label>[2]</label><mixed-citation publication-type="journal" id="sref2">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Manivannan</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Manivannan</surname>
+</string-name>, <string-name>
+<given-names>T.G.</given-names>
+<surname>Beach</surname>
+</string-name>, and <string-name>
+<given-names>R.U.</given-names>
+<surname>Halden</surname>
+</string-name>. <article-title>Role of environmental contaminants in the etiology of Alzheimer's disease: a review</article-title>. <source>Curr Alzheimer Res</source>. <volume>12</volume>: <year>2015</year>; <fpage>116</fpage>&#x02013;<lpage>146</lpage>
+<pub-id pub-id-type="pmid">25654508</pub-id>
+</mixed-citation></ref><ref id="bib3"><label>[3]</label><mixed-citation publication-type="journal" id="sref3">
+<string-name>
+<given-names>A.</given-names>
+<surname>Serrano&#x02010;Pozo</surname>
+</string-name>, <string-name>
+<given-names>M.P.</given-names>
+<surname>Frosch</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Masliah</surname>
+</string-name>, and <string-name>
+<given-names>B.T.</given-names>
+<surname>Hyman</surname>
+</string-name>. <article-title>Neuropathological alterations in Alzheimer disease</article-title>. <source>Cold Spring Harbor Perspect Med</source>. <volume>1</volume>: <year>2011</year>; <elocation-id>a006189</elocation-id>
+</mixed-citation></ref><ref id="bib4"><label>[4]</label><mixed-citation publication-type="journal" id="sref4">
+<string-name>
+<given-names>M.C.</given-names>
+<surname>De Wilde</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Vellas</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Girault</surname>
+</string-name>, <string-name>
+<given-names>A.C.</given-names>
+<surname>Yavuz</surname>
+</string-name>, and <string-name>
+<given-names>J.W.</given-names>
+<surname>Sijben</surname>
+</string-name>. <article-title>Lower brain and blood nutrient status in Alzheimer's disease: results from meta&#x02010;analyses</article-title>. <source>Alzheimers Dement</source>. <volume>3</volume>: <year>2017</year>; <fpage>416</fpage>&#x02013;<lpage>431</lpage>
+</mixed-citation></ref><ref id="bib5"><label>[5]</label><mixed-citation publication-type="journal" id="sref5">
+<string-name>
+<given-names>K.</given-names>
+<surname>Fluegge</surname>
+</string-name>, and <string-name>
+<given-names>K.</given-names>
+<surname>Fluegge</surname>
+</string-name>. <article-title>Antecedent ADHD, dementia, and metabolic dysregulation: A U.S. based cohort analysis</article-title>. <source>Neurochem Int</source>. <volume>112</volume>: <year>2018</year>; <fpage>255</fpage>&#x02013;<lpage>258</lpage>
+<pub-id pub-id-type="pmid">28811268</pub-id>
+</mixed-citation></ref><ref id="bib6"><label>[6]</label><mixed-citation publication-type="miscellaneous" id="sref6">
+<string-name>
+<given-names>K.</given-names>
+<surname>Fluegge</surname>
+</string-name>. <article-title>Environmental factors influencing the link between APOE &#x003b5;4 and Alzheimer's disease (AD) risk</article-title>. <article-title>Int Psychoger</article-title>, <year>2018</year>; <fpage>1</fpage>&#x02013;<lpage>2</lpage>
+</mixed-citation></ref><ref id="bib7"><label>[7]</label><mixed-citation publication-type="miscellaneous" id="sref7">
+<string-name>
+<given-names>K.</given-names>
+<surname>Fluegge</surname>
+</string-name>. <article-title>Tau Protein Levels in ADHD</article-title>. <article-title>Ind J Clin Biochem</article-title>, <year>2018</year>, <pub-id pub-id-type="doi">10.1007/s12291-018-0747-9</pub-id>
+</mixed-citation></ref><ref id="bib8"><label>[8]</label><mixed-citation publication-type="journal" id="sref8">
+<string-name>
+<given-names>B.</given-names>
+<surname>Eftimova</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sholjakova</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Mirakovski</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Hadzi&#x02010;Nikolova</surname>
+</string-name>. <article-title>Health effects associated with exposure to anesthetic gas nitrous oxide&#x02010;N2O in clinical hospital &#x02010; shtip personel</article-title>. <source>Open Access Maced J Med Sci</source>. <volume>5</volume>: <year>2017</year>; <fpage>800</fpage>&#x02013;<lpage>804</lpage>
+<pub-id pub-id-type="pmid">29104694</pub-id>
+</mixed-citation></ref><ref id="bib9"><label>[9]</label><mixed-citation publication-type="journal" id="sref9">
+<string-name>
+<given-names>T.</given-names>
+<surname>Wro&#x00144;ska&#x02010;Nofer</surname>
+</string-name>, <string-name>
+<given-names>J.R.</given-names>
+<surname>Nofer</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jajte</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Dziuba&#x00142;towska</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Szymczak</surname>
+</string-name>, and <string-name>
+<given-names>W.</given-names>
+<surname>Krajewski</surname>
+</string-name>, et al. <article-title>Oxidative DNA damage and oxidative stress in subjects occupationally exposed to nitrous oxide (N(2)O)</article-title>. <source>Mutat Res</source>. <volume>731</volume>: <year>2012</year>; <fpage>58</fpage>&#x02013;<lpage>63</lpage>
+<pub-id pub-id-type="pmid">22085808</pub-id>
+</mixed-citation></ref><ref id="bib10"><label>[10]</label><mixed-citation publication-type="journal" id="sref10">
+<string-name>
+<given-names>W.</given-names>
+<surname>Krajewski</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kucharska</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Pilacik</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Fobker</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Stetkiewicz</surname>
+</string-name>, and <string-name>
+<given-names>J.R.</given-names>
+<surname>Nofer</surname>
+</string-name>, et al. <article-title>Impaired vitamin B12 metabolic status in healthcare workers occupationally exposed to nitrous oxide</article-title>. <source>Br J Anaesth</source>. <volume>99</volume>: <year>2007</year>; <fpage>812</fpage>&#x02013;<lpage>818</lpage>
+<pub-id pub-id-type="pmid">17951609</pub-id>
+</mixed-citation></ref><ref id="bib11"><label>[11]</label><mixed-citation publication-type="journal" id="sref11">
+<string-name>
+<given-names>K.</given-names>
+<surname>Leslie</surname>
+</string-name>, <string-name>
+<given-names>P.S.</given-names>
+<surname>Myles</surname>
+</string-name>, <string-name>
+<given-names>M.T.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Forbes</surname>
+</string-name>, <string-name>
+<given-names>M.J.</given-names>
+<surname>Paech</surname>
+</string-name>, and <string-name>
+<given-names>P.</given-names>
+<surname>Peyton</surname>
+</string-name>, et al. <article-title>Nitrous oxide and long&#x02010;term morbidity and mortality in the ENIGMA trial</article-title>. <source>Anesth Analg</source>. <volume>112</volume>: <year>2011</year>; <fpage>387</fpage>&#x02013;<lpage>393</lpage>
+<pub-id pub-id-type="pmid">20861416</pub-id>
+</mixed-citation></ref><ref id="bib12"><label>[12]</label><mixed-citation publication-type="journal" id="sref12">
+<string-name>
+<given-names>S.Y.</given-names>
+<surname>Lan</surname>
+</string-name>, <string-name>
+<given-names>C.Y.</given-names>
+<surname>Kuo</surname>
+</string-name>, <string-name>
+<given-names>C.C.</given-names>
+<surname>Chou</surname>
+</string-name>, <string-name>
+<given-names>S.S.</given-names>
+<surname>Kong</surname>
+</string-name>, <string-name>
+<given-names>P.C.</given-names>
+<surname>Hung</surname>
+</string-name>, and <string-name>
+<given-names>H.Y.</given-names>
+<surname>Tsai</surname>
+</string-name>, et al.<collab collab-type="authors">PCHAN Study Group</collab>
+. <article-title>Recreational nitrous oxide abuse related subacute combined degeneration of the spinal cord in adolescents &#x02010; A case series and literature review</article-title>. <source>Brain Dev</source>. <volume>41</volume>: <year>2019</year>; <fpage>428</fpage>&#x02013;<lpage>435</lpage>
+<pub-id pub-id-type="pmid">30611595</pub-id>
+</mixed-citation></ref><ref id="bib13"><label>[13]</label><mixed-citation publication-type="journal" id="sref13">
+<string-name>
+<given-names>S.W.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>J.M.</given-names>
+<surname>Hong</surname>
+</string-name>, <string-name>
+<given-names>D.W.</given-names>
+<surname>Namgung</surname>
+</string-name>, and <string-name>
+<given-names>Y.C.</given-names>
+<surname>Choi</surname>
+</string-name>. <article-title>Neurological manifestations of myeloneuropathy in patients with nitrous oxide intoxication</article-title>. <source>J Clin Neurol</source>. <volume>15</volume>: <year>2018</year>; <fpage>116</fpage>&#x02013;<lpage>117</lpage>
+<pub-id pub-id-type="pmid">30375766</pub-id>
+</mixed-citation></ref><ref id="bib14"><label>[14]</label><mixed-citation publication-type="journal" id="sref14">
+<string-name>
+<given-names>A.</given-names>
+<surname>Vozy</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Cohen</surname>
+</string-name>, <string-name>
+<given-names>M.T.</given-names>
+<surname>Rubio</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Rostaing&#x02010;Rigattieri</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mohty</surname>
+</string-name>, and <string-name>
+<given-names>A.C.</given-names>
+<surname>Mamez</surname>
+</string-name>. <article-title>Medullar toxicity after prolonged nitrous oxide exposure: an unexpected cause of bone marrow failure post allogeneic transplant</article-title>. <source>Bone Marrow Transpl</source>. <volume>51</volume>: <year>2016</year>; <fpage>876</fpage>&#x02013;<lpage>878</lpage>
+</mixed-citation></ref><ref id="bib15"><label>[15]</label><mixed-citation publication-type="journal" id="sref15">
+<string-name>
+<given-names>F.</given-names>
+<surname>Amiri</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Neghab</surname>
+</string-name>, <string-name>
+<given-names>F.K.</given-names>
+<surname>Shouroki</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yousefinejad</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Hassanzadeh</surname>
+</string-name>. <article-title>Early, subclinical hematological changes associated with occupational exposure to high levels of nitrous oxide</article-title>. <source>Toxics</source>. <volume>6</volume>: <year>2018</year>
+<pub-id pub-id-type="doi">10.3390/toxics6040070</pub-id>
+</mixed-citation></ref><ref id="bib16"><label>[16]</label><mixed-citation publication-type="journal" id="sref16">
+<string-name>
+<given-names>S.H.</given-names>
+<surname>den Uil</surname>
+</string-name>, <string-name>
+<given-names>E.G.J.</given-names>
+<surname>Vermeulen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Metz</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Rijbroek</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>de Vries</surname>
+</string-name>. <article-title>Aortic arch thrombus caused by nitrous oxide abuse</article-title>. <source>J Vasc Surg Cases Innov Tech</source>. <volume>4</volume>: <year>2018</year>; <fpage>80</fpage>&#x02013;<lpage>82</lpage>
+<pub-id pub-id-type="pmid">29942888</pub-id>
+</mixed-citation></ref><ref id="bib17"><label>[17]</label><mixed-citation publication-type="journal" id="sref17">
+<string-name>
+<given-names>P.</given-names>
+<surname>Indraratna</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Alexopoulos</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Celermajer</surname>
+</string-name>, and <string-name>
+<given-names>K.</given-names>
+<surname>Alford</surname>
+</string-name>. <article-title>Acute ST&#x02010;Elevation myocardial infarction, a unique complication of recreational nitrous oxide use</article-title>. <source>Heart Lung Circ</source>. <volume>26</volume>: <year>2017</year>; <fpage>e41</fpage>&#x02013;<lpage>e43</lpage>
+<pub-id pub-id-type="pmid">28291664</pub-id>
+</mixed-citation></ref><ref id="bib18"><label>[18]</label><mixed-citation publication-type="journal" id="sref18">
+<string-name>
+<given-names>A.N.</given-names>
+<surname>Tavare</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.S.</given-names>
+<surname>Hare</surname>
+</string-name>, and <string-name>
+<given-names>D.D.</given-names>
+<surname>Creer</surname>
+</string-name>. <article-title>Pneumomediastinum and pneumorrhachis from recreational nitrous oxide inhalation: no laughing matter</article-title>. <source>Thorax</source>. <volume>73</volume>: <year>2018</year>; <fpage>195</fpage>&#x02013;<lpage>196</lpage>
+<pub-id pub-id-type="pmid">28743767</pub-id>
+</mixed-citation></ref><ref id="bib19"><label>[19]</label><mixed-citation publication-type="journal" id="sref19">
+<string-name>
+<given-names>J.</given-names>
+<surname>Hirvioja</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Joutsa</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Wahlsten</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Korpela</surname>
+</string-name>. <article-title>Recurrent paraparesis and death of a patient with 'whippet' abuse</article-title>. <source>Oxf Med Case Rep</source>. <volume>2016</volume>: <year>2016</year>; <fpage>41</fpage>&#x02013;<lpage>43</lpage>
+</mixed-citation></ref><ref id="bib20"><label>[20]</label><mixed-citation publication-type="journal" id="sref20">
+<string-name>
+<given-names>A.</given-names>
+<surname>Garakani</surname>
+</string-name>, <string-name>
+<given-names>R.J.</given-names>
+<surname>Jaffe</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Savla</surname>
+</string-name>, <string-name>
+<given-names>A.K.</given-names>
+<surname>Welch</surname>
+</string-name>, <string-name>
+<given-names>C.A.</given-names>
+<surname>Protin</surname>
+</string-name>, and <string-name>
+<given-names>E.O.</given-names>
+<surname>Bryson</surname>
+</string-name>, et al. <article-title>Neurologic, psychiatric, and other medical manifestations of nitrous oxide abuse: A systematic review of the case literature</article-title>. <source>Am J Addict</source>. <volume>25</volume>: <year>2016</year>; <fpage>358</fpage>&#x02013;<lpage>369</lpage>
+<pub-id pub-id-type="pmid">27037733</pub-id>
+</mixed-citation></ref><ref id="bib21"><label>[21]</label><mixed-citation publication-type="journal" id="sref21">
+<string-name>
+<given-names>D.</given-names>
+<surname>Bajaj</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Agrawal</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Gupta</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Bajaj</surname>
+</string-name>. <article-title>Recreational nitrous oxide abuse causing ischemic stroke in a young patient: a rare case report</article-title>. <source>Cureus</source>. <volume>10</volume>: <year>2018</year>; <fpage>e3761</fpage>
+<pub-id pub-id-type="pmid">30820381</pub-id>
+</mixed-citation></ref><ref id="bib22"><label>[22]</label><mixed-citation publication-type="journal" id="sref22">
+<string-name>
+<given-names>F.C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>T.Y.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>H.J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.T.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>C.C.</given-names>
+<surname>Lin</surname>
+</string-name>, and <string-name>
+<given-names>C.H.</given-names>
+<surname>Kao</surname>
+</string-name>. <article-title>Increased risk of dementia in patients with tension&#x02010;type headache: a nationwide retrospective population&#x02010;based cohort study</article-title>. <source>PLoS One</source>. <volume>11</volume>: <year>2016</year>; <elocation-id>e0156097</elocation-id>
+<pub-id pub-id-type="pmid">27272332</pub-id>
+</mixed-citation></ref><ref id="bib23"><label>[23]</label><mixed-citation publication-type="journal" id="sref23">
+<string-name>
+<given-names>S.M.</given-names>
+<surname>Jeong</surname>
+</string-name>, <string-name>
+<given-names>D.W.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>J.E.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J.H.</given-names>
+<surname>Hyeon</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lee</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Kim</surname>
+</string-name>. <article-title>Anemia is associated with incidence of dementia: a national health screening study in Korea involving 37,900 persons</article-title>. <source>Alzheimers Res Ther</source>. <volume>9</volume>: <year>2017</year>; <fpage>94</fpage>
+<pub-id pub-id-type="pmid">29212527</pub-id>
+</mixed-citation></ref><ref id="bib24"><label>[24]</label><mixed-citation publication-type="journal" id="sref24">
+<string-name>
+<given-names>O.</given-names>
+<surname>Beauchet</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Annweiler</surname>
+</string-name>, <string-name>
+<given-names>M.L.</given-names>
+<surname>Callisaya</surname>
+</string-name>, <string-name>
+<given-names>A.M.</given-names>
+<surname>De Cock</surname>
+</string-name>, <string-name>
+<given-names>J.L.</given-names>
+<surname>Helbostad</surname>
+</string-name>, and <string-name>
+<given-names>R.W.</given-names>
+<surname>Kressig</surname>
+</string-name>, et al. <article-title>Poor gait performance and prediction of dementia: results from a meta&#x02010;analysis</article-title>. <source>J Am Med Dir Assoc</source>. <volume>17</volume>: <year>2016</year>; <fpage>482</fpage>&#x02013;<lpage>490</lpage>
+<pub-id pub-id-type="pmid">26852960</pub-id>
+</mixed-citation></ref><ref id="bib25"><label>[25]</label><mixed-citation publication-type="journal" id="sref25">
+<string-name>
+<given-names>M.</given-names>
+<surname>Cortes&#x02010;Canteli</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Paul</surname>
+</string-name>, <string-name>
+<given-names>E.H.</given-names>
+<surname>Norris</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Bronstein</surname>
+</string-name>, <string-name>
+<given-names>H.J.</given-names>
+<surname>Ahn</surname>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Zamolodchikov</surname>
+</string-name>, et al. <article-title>Fibrinogen and beta&#x02010;amyloid association alters thrombosis and fibrinolysis: a possible contributing factor to Alzheimer's disease</article-title>. <source>Neuron</source>. <volume>66</volume>: <year>2010</year>; <fpage>695</fpage>&#x02013;<lpage>709</lpage>
+<pub-id pub-id-type="pmid">20547128</pub-id>
+</mixed-citation></ref><ref id="bib26"><label>[26]</label><mixed-citation publication-type="journal" id="sref26">
+<string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>J.T.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>H.F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.F.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>C.C.</given-names>
+<surname>Tan</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, et al. <article-title>Association between stroke and Alzheimer's disease: systematic review and meta&#x02010;analysis</article-title>. <source>J Alzheimers Dis</source>. <volume>43</volume>: <year>2015</year>; <fpage>479</fpage>&#x02013;<lpage>489</lpage>
+<pub-id pub-id-type="pmid">25096624</pub-id>
+</mixed-citation></ref><ref id="bib27"><label>[27]</label><mixed-citation publication-type="journal" id="sref27">
+<string-name>
+<given-names>K.</given-names>
+<surname>Deckers</surname>
+</string-name>, <string-name>
+<given-names>S.H.J.</given-names>
+<surname>Schievink</surname>
+</string-name>, <string-name>
+<given-names>M.M.F.</given-names>
+<surname>Rodriquez</surname>
+</string-name>, <string-name>
+<given-names>R.J.</given-names>
+<surname>van Oostenbrugge</surname>
+</string-name>, <string-name>
+<given-names>M.P.J.</given-names>
+<surname>van Boxtel</surname>
+</string-name>, and <string-name>
+<given-names>F.R.J.</given-names>
+<surname>Verhey</surname>
+</string-name>, et al. <article-title>Coronary heart disease and risk for cognitive impairment or dementia: Systematic review and meta&#x02010;analysis</article-title>. <source>PLoS One</source>. <volume>12</volume>: <year>2017</year>; <elocation-id>e0184244</elocation-id>
+<pub-id pub-id-type="pmid">28886155</pub-id>
+</mixed-citation></ref><ref id="bib28"><label>[28]</label><mixed-citation publication-type="journal" id="sref28">
+<string-name>
+<given-names>D.L.</given-names>
+<surname>Bruce</surname>
+</string-name>, <string-name>
+<given-names>M.J.</given-names>
+<surname>Bach</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Arbit</surname>
+</string-name>. <article-title>Trace anesthetic effects on perceptual, cognitive, and motor skills</article-title>. <source>Anesthesiology</source>. <volume>40</volume>: <year>1974</year>; <fpage>453</fpage>&#x02013;<lpage>458</lpage>
+<pub-id pub-id-type="pmid">4595616</pub-id>
+</mixed-citation></ref><ref id="bib29"><label>[29]</label><mixed-citation publication-type="journal" id="sref29">
+<string-name>
+<given-names>J.J.</given-names>
+<surname>Lortie</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Remington</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hoffmann</surname>
+</string-name>, and <string-name>
+<given-names>T.B.</given-names>
+<surname>Shea</surname>
+</string-name>. <article-title>Lack of correlation of WAIS Digit Span with clox 1 and the dementia rating scale in MCI</article-title>. <source>Int J Alzheimers Dis</source>. <volume>2012</volume>: <year>2012</year>; <elocation-id>829743</elocation-id>
+<pub-id pub-id-type="pmid">22577593</pub-id>
+</mixed-citation></ref><ref id="bib30"><label>[30]</label><mixed-citation publication-type="journal" id="sref30">
+<string-name>
+<given-names>E.M.</given-names>
+<surname>Branda</surname>
+</string-name>, <string-name>
+<given-names>J.T.</given-names>
+<surname>Ramza</surname>
+</string-name>, <string-name>
+<given-names>F.J.</given-names>
+<surname>Cahill</surname>
+</string-name>, <string-name>
+<given-names>L.F.</given-names>
+<surname>Tseng</surname>
+</string-name>, and <string-name>
+<given-names>R.M.</given-names>
+<surname>Quock</surname>
+</string-name>. <article-title>Role of brain dynorphin in nitrous oxide antinociception in mice</article-title>. <source>Pharmacol Biochem Behav</source>. <volume>65</volume>: <year>2000</year>; <fpage>217</fpage>&#x02013;<lpage>221</lpage>
+<pub-id pub-id-type="pmid">10672972</pub-id>
+</mixed-citation></ref><ref id="bib31"><label>[31]</label><mixed-citation publication-type="journal" id="sref31">
+<string-name>
+<given-names>S.</given-names>
+<surname>Sakamoto</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Nakao</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Masuzawa</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Inada</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Maze</surname>
+</string-name>, and <string-name>
+<given-names>N.P.</given-names>
+<surname>Franks</surname>
+</string-name>, et al. <article-title>The differential effects of nitrous oxide and xenon on extracellular dopamine levels in the rat nucleus accumbens: a microdialysis study</article-title>. <source>Anesth Analg</source>. <volume>103</volume>: <year>2006</year>; <fpage>1459</fpage>&#x02013;<lpage>1463</lpage>
+<pub-id pub-id-type="pmid">17122223</pub-id>
+</mixed-citation></ref><ref id="bib32"><label>[32]</label><mixed-citation publication-type="journal" id="sref32">
+<string-name>
+<given-names>S.</given-names>
+<surname>Sirohi</surname>
+</string-name>, and <string-name>
+<given-names>B.M.</given-names>
+<surname>Walker</surname>
+</string-name>. <article-title>Maturational alterations in constitutive activity of medial prefrontal cortex &#x003ba;&#x02010;opioid receptors in Wistar rats</article-title>. <source>J Neurochem</source>. <volume>135</volume>: <year>2015</year>; <fpage>659</fpage>&#x02013;<lpage>665</lpage>
+<pub-id pub-id-type="pmid">26257334</pub-id>
+</mixed-citation></ref><ref id="bib33"><label>[33]</label><mixed-citation publication-type="journal" id="sref33">
+<string-name>
+<given-names>S.</given-names>
+<surname>Mennerick</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Jevtovic&#x02010;Todorovic</surname>
+</string-name>, <string-name>
+<given-names>S.M.</given-names>
+<surname>Todorovic</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>J.W.</given-names>
+<surname>Olney</surname>
+</string-name>, and <string-name>
+<given-names>C.F.</given-names>
+<surname>Zorumski</surname>
+</string-name>. <article-title>Effect of nitrous oxide on excitatory and inhibitory synaptic transmission in hippocampal cultures</article-title>. <source>J Neurosci</source>. <volume>18</volume>: <year>1998</year>; <fpage>9716</fpage>&#x02013;<lpage>9726</lpage>
+<pub-id pub-id-type="pmid">9822732</pub-id>
+</mixed-citation></ref><ref id="bib34"><label>[34]</label><mixed-citation publication-type="journal" id="sref100">
+<string-name>
+<given-names>T.</given-names>
+<surname>Yakovleva</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Marinova</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kuzmin</surname>
+</string-name>, <string-name>
+<given-names>N.G.</given-names>
+<surname>Seidah</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Haroutunian</surname>
+</string-name>, and <string-name>
+<given-names>L.</given-names>
+<surname>Terenius</surname>
+</string-name>, et al. <article-title>Dysregulation of dynorphins in Alzheimer disease</article-title>. <source>Neurobiol Aging</source>. <volume>28</volume>: <year>2007</year>; <fpage>1700</fpage>&#x02013;<lpage>1708</lpage>
+<pub-id pub-id-type="pmid">16914231</pub-id>
+</mixed-citation></ref><ref id="bib35"><label>[35]</label><mixed-citation publication-type="journal" id="sref34">
+<string-name>
+<given-names>I.N.</given-names>
+<surname>Singh</surname>
+</string-name>, <string-name>
+<given-names>R.J.</given-names>
+<surname>Goody</surname>
+</string-name>, <string-name>
+<given-names>S.M.</given-names>
+<surname>Goebel</surname>
+</string-name>, <string-name>
+<given-names>K.M.</given-names>
+<surname>Martin</surname>
+</string-name>, <string-name>
+<given-names>P.E.</given-names>
+<surname>Knapp</surname>
+</string-name>, and <string-name>
+<given-names>Z.</given-names>
+<surname>Marinova</surname>
+</string-name>, et al. <article-title>Dynorphin A (1&#x02010;17) induces apoptosis in striatal neurons in vitro through alpha&#x02010;amino&#x02010;3&#x02010;hydroxy&#x02010;5&#x02010;methylisoxazole&#x02010;4&#x02010;propionate/kainate receptor&#x02010;mediated cytochrome c release and caspase&#x02010;3 activation</article-title>. <source>Neuroscience</source>. <volume>122</volume>: <year>2003</year>; <fpage>1013</fpage>&#x02013;<lpage>1023</lpage>
+<pub-id pub-id-type="pmid">14643768</pub-id>
+</mixed-citation></ref><ref id="bib36"><label>[36]</label><mixed-citation publication-type="journal" id="sref35">
+<string-name>
+<given-names>M.</given-names>
+<surname>Kolaj</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Cerne</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Randi&#x00107;</surname>
+</string-name>. <article-title>The opioid peptide dynorphin modulates AMPA and kainate responses in acutely isolated neurons from the dorsal horn</article-title>. <source>Brain Res</source>. <volume>671</volume>: <year>1995</year>; <fpage>227</fpage>&#x02013;<lpage>244</lpage>
+<pub-id pub-id-type="pmid">7538029</pub-id>
+</mixed-citation></ref><ref id="bib37"><label>[37]</label><mixed-citation publication-type="journal" id="sref36">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Norton</surname>
+</string-name>, et al. <article-title>Nitrous oxide plus isoflurane induces apoptosis and increases &#x003b2;&#x02010;amyloid protein levels</article-title>. <source>Anesthesiology</source>. <volume>111</volume>: <year>2009</year>; <fpage>741</fpage>&#x02013;<lpage>752</lpage>
+<pub-id pub-id-type="pmid">19741497</pub-id>
+</mixed-citation></ref><ref id="bib38"><label>[38]</label><mixed-citation publication-type="journal" id="sref37">
+<string-name>
+<given-names>T.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Ueta</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sugimoto</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Uchida</surname>
+</string-name>, and <string-name>
+<given-names>T.</given-names>
+<surname>Mashimo</surname>
+</string-name>. <article-title>Nitrous oxide and xenon inhibit the human (alpha 7)5 nicotinic acetylcholine receptor expressed in Xenopus oocyte</article-title>. <source>Anesth Analg</source>. <volume>96</volume>: <year>2003</year>; <fpage>443</fpage>&#x02013;<lpage>448</lpage>
+<pub-id pub-id-type="pmid">12538194</pub-id>
+</mixed-citation></ref><ref id="bib39"><label>[39]</label><mixed-citation publication-type="journal" id="sref38">
+<string-name>
+<given-names>H.Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K.C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Khan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Bakshi</surname>
+</string-name>, and <string-name>
+<given-names>L.H.</given-names>
+<surname>Burns</surname>
+</string-name>. <article-title>PTI&#x02010;125 binds and reverses an altered conformation of filamin A to reduce Alzheimer's disease pathogenesis</article-title>. <source>Neurobiol Aging</source>. <volume>55</volume>: <year>2017</year>; <fpage>99</fpage>&#x02013;<lpage>114</lpage>
+<pub-id pub-id-type="pmid">28438486</pub-id>
+</mixed-citation></ref><ref id="bib40"><label>[40]</label><mixed-citation publication-type="journal" id="sref39">
+<string-name>
+<given-names>H.Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Bakshi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Frankfurt</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Stucky</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Goberdhan</surname>
+</string-name>, and <string-name>
+<given-names>S.M.</given-names>
+<surname>Shah</surname>
+</string-name>, et al. <article-title>Reducing amyloid&#x02010;related Alzheimer's disease pathogenesis by a small molecule targeting filamin A</article-title>. <source>J Neurosci</source>. <volume>32</volume>: <year>2012</year>; <fpage>9773</fpage>&#x02013;<lpage>9784</lpage>
+<pub-id pub-id-type="pmid">22815492</pub-id>
+</mixed-citation></ref><ref id="bib41"><label>[41]</label><mixed-citation publication-type="journal" id="sref40">
+<string-name>
+<given-names>T.</given-names>
+<surname>Umeda</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Kouchi</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kawahara</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tomioka</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sasagawa</surname>
+</string-name>, and <string-name>
+<given-names>T.</given-names>
+<surname>Maeda</surname>
+</string-name>, et al. <article-title>Limited proteolysis of filamin is catalyzed by caspase&#x02010;3 in U937 and Jurkat cells</article-title>. <source>J Biochem</source>. <volume>130</volume>: <year>2001</year>; <fpage>535</fpage>&#x02013;<lpage>542</lpage>
+<pub-id pub-id-type="pmid">11574073</pub-id>
+</mixed-citation></ref><ref id="bib42"><label>[42]</label><mixed-citation publication-type="journal" id="sref41">
+<string-name>
+<given-names>E.</given-names>
+<surname>Peverelli</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Giardino</surname>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Treppiedi</surname>
+</string-name>, et al. <article-title>Filamin A (FLNA) plays an essential role in somatostatin receptor 2 (SST2) signaling and stabilization after agonist stimulation in human and rat somatotroph tumor cells</article-title>. <source>Endocrinology</source>. <volume>155</volume>: <year>2014</year>; <fpage>2932</fpage>&#x02013;<lpage>2941</lpage>
+<pub-id pub-id-type="pmid">24828612</pub-id>
+</mixed-citation></ref><ref id="bib43"><label>[43]</label><mixed-citation publication-type="journal" id="sref42">
+<string-name>
+<given-names>J.H.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>A.J.</given-names>
+<surname>Anderson</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Srinivasan</surname>
+</string-name>, and <string-name>
+<given-names>C.W.</given-names>
+<surname>Cotman</surname>
+</string-name>. <article-title>Activated caspase&#x02010;3 expression in Alzheimer's and aged control brain: correlation with Alzheimer pathology</article-title>. <source>Brain Res</source>. <volume>898</volume>: <year>2001</year>; <fpage>350</fpage>&#x02013;<lpage>357</lpage>
+<pub-id pub-id-type="pmid">11306022</pub-id>
+</mixed-citation></ref><ref id="bib44"><label>[44]</label><mixed-citation publication-type="journal" id="sref43">
+<string-name>
+<given-names>J.L.</given-names>
+<surname>Horn</surname>
+</string-name>, <string-name>
+<given-names>P.K.</given-names>
+<surname>Janicki</surname>
+</string-name>, and <string-name>
+<given-names>J.J.</given-names>
+<surname>Franks</surname>
+</string-name>. <article-title>Nitrous oxide and xenon enhance phospholipid&#x02010;N&#x02010;methylation in rat brain synaptic plasma membranes</article-title>. <source>Life Sci</source>. <volume>56</volume>: <year>1995</year>; <fpage>PL455</fpage>&#x02013;<lpage>PL460</lpage>
+<pub-id pub-id-type="pmid">7791507</pub-id>
+</mixed-citation></ref><ref id="bib45"><label>[45]</label><mixed-citation publication-type="journal" id="sref44">
+<string-name>
+<given-names>D.E.</given-names>
+<surname>Vance</surname>
+</string-name>. <article-title>Phospholipid methylation in mammals: from biochemistry to physiological function</article-title>. <source>Biochim Biophys Acta</source>. <volume>1838</volume>: <year>2014</year>; <fpage>1477</fpage>&#x02013;<lpage>1487</lpage>
+<pub-id pub-id-type="pmid">24184426</pub-id>
+</mixed-citation></ref><ref id="bib46"><label>[46]</label><mixed-citation publication-type="journal" id="sref45">
+<string-name>
+<given-names>R.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Waly</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sharma</surname>
+</string-name>, and <string-name>
+<given-names>P.</given-names>
+<surname>Stover</surname>
+</string-name>, et al. <article-title>Relationship between dopamine&#x02010;stimulated phospholipid methylation and the single&#x02010;carbon folate pathway</article-title>. <source>J Neurochem</source>. <volume>78</volume>: <year>2001</year>; <fpage>788</fpage>&#x02013;<lpage>796</lpage>
+<pub-id pub-id-type="pmid">11520899</pub-id>
+</mixed-citation></ref><ref id="bib47"><label>[47]</label><mixed-citation publication-type="journal" id="sref46">
+<string-name>
+<given-names>J.H.</given-names>
+<surname>Hazzard</surname>
+</string-name>, <string-name>
+<given-names>J.C.</given-names>
+<surname>Gorga</surname>
+</string-name>, and <string-name>
+<given-names>W.S.</given-names>
+<surname>Caughey</surname>
+</string-name>. <article-title>Determination of anesthetic molecule environments by infrared spectroscopy. II. Multiple sites for nitrous oxide in proteins, lipids, and brain tissue</article-title>. <source>Arch Biochem Biophys</source>. <volume>240</volume>: <year>1985</year>; <fpage>747</fpage>&#x02013;<lpage>756</lpage>
+<pub-id pub-id-type="pmid">4026302</pub-id>
+</mixed-citation></ref><ref id="bib48"><label>[48]</label><mixed-citation publication-type="journal" id="sref47">
+<string-name>
+<given-names>W.</given-names>
+<surname>MacNaughtan</surname>
+</string-name>, and <string-name>
+<given-names>A.G.</given-names>
+<surname>MacDonald</surname>
+</string-name>. <article-title>Effects of gaseous anaesthetics and inert gases on the phase transition in smectic mesophases of dipalmitoyl phosphatidylcholine</article-title>. <source>Biochim Biophys Acta</source>. <volume>597</volume>: <year>1980</year>; <fpage>193</fpage>&#x02013;<lpage>198</lpage>
+<pub-id pub-id-type="pmid">6892785</pub-id>
+</mixed-citation></ref><ref id="bib49"><label>[49]</label><mixed-citation publication-type="journal" id="sref48">
+<string-name>
+<given-names>J.R.</given-names>
+<surname>Vi&#x000f1;a</surname>
+</string-name>, <string-name>
+<given-names>D.W.</given-names>
+<surname>Davis</surname>
+</string-name>, and <string-name>
+<given-names>R.A.</given-names>
+<surname>Hawkins</surname>
+</string-name>. <article-title>The influence of nitrous oxide on methionine, S&#x02010;adenosylmethionine, and other amino acids</article-title>. <source>Anesthesiology</source>. <volume>64</volume>: <year>1986</year>; <fpage>490</fpage>&#x02013;<lpage>495</lpage>
+<pub-id pub-id-type="pmid">2870665</pub-id>
+</mixed-citation></ref><ref id="bib50"><label>[50]</label><mixed-citation publication-type="journal" id="sref49">
+<string-name>
+<given-names>B.</given-names>
+<surname>Akesson</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Fehling</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>J&#x000e4;gerstad</surname>
+</string-name>. <article-title>Effect of vitamin B12 deficiency on phosphatidylethanolamine methylation in rat liver</article-title>. <source>Br J Nutr</source>. <volume>40</volume>: <year>1978</year>; <fpage>521</fpage>&#x02013;<lpage>527</lpage>
+<pub-id pub-id-type="pmid">718835</pub-id>
+</mixed-citation></ref><ref id="bib51"><label>[51]</label><mixed-citation publication-type="journal" id="sref50">
+<string-name>
+<given-names>H.S.</given-names>
+<surname>Abdul&#x02010;Kareem</surname>
+</string-name>, <string-name>
+<given-names>R.P.</given-names>
+<surname>Sharma</surname>
+</string-name>, and <string-name>
+<given-names>D.B.</given-names>
+<surname>Drown</surname>
+</string-name>. <article-title>Effects of repeated intermittent exposures to nitrous oxide on central neurotransmitters and hepatic methionine synthetase activity in CD&#x02010;1 mice</article-title>. <source>Toxicol Ind Health</source>. <volume>7</volume>: <year>1991</year>; <fpage>97</fpage>&#x02013;<lpage>108</lpage>
+<pub-id pub-id-type="pmid">1677218</pub-id>
+</mixed-citation></ref><ref id="bib52"><label>[52]</label><mixed-citation publication-type="journal" id="sref51">
+<string-name>
+<given-names>D.R.</given-names>
+<surname>Alford</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Renugopalakrishnan</surname>
+</string-name>, and <string-name>
+<given-names>N.</given-names>
+<surname>Duzgunes</surname>
+</string-name>. <article-title>Dynorphin&#x02010;phospholipid membrane interactions: role of phospholipid head&#x02010;group and cholesterol</article-title>. <source>Int J Pep Prot Res</source>. <volume>47</volume>: <year>1996</year>; <fpage>84</fpage>&#x02013;<lpage>90</lpage>
+</mixed-citation></ref><ref id="bib53"><label>[53]</label><mixed-citation publication-type="journal" id="sref52">
+<string-name>
+<given-names>P.</given-names>
+<surname>Fagone</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Jackowski</surname>
+</string-name>. <article-title>Phosphatidylcholine and the CDP&#x02010;Choline Cycle</article-title>. <source>Biochim Biophys Acta</source>. <volume>1831</volume>: <year>2013</year>; <fpage>523</fpage>&#x02013;<lpage>532</lpage>
+<pub-id pub-id-type="pmid">23010477</pub-id>
+</mixed-citation></ref><ref id="bib54"><label>[54]</label><mixed-citation publication-type="journal" id="sref53">
+<string-name>
+<given-names>G.E.</given-names>
+<surname>Gibson</surname>
+</string-name>, and <string-name>
+<given-names>T.E.</given-names>
+<surname>Duffy</surname>
+</string-name>. <article-title>Impaired synthesis of acetylcholine by mild hypoxic hypoxia or nitrous oxide</article-title>. <source>J Neurochem</source>. <volume>36</volume>: <year>1981</year>; <fpage>28</fpage>&#x02013;<lpage>33</lpage>
+<pub-id pub-id-type="pmid">7463052</pub-id>
+</mixed-citation></ref><ref id="bib55"><label>[55]</label><mixed-citation publication-type="journal" id="sref54">
+<string-name>
+<given-names>K.</given-names>
+<surname>Kantarci</surname>
+</string-name>, <string-name>
+<given-names>S.D.</given-names>
+<surname>Weigand</surname>
+</string-name>, <string-name>
+<given-names>R.C.</given-names>
+<surname>Petersen</surname>
+</string-name>, <string-name>
+<given-names>B.F.</given-names>
+<surname>Boeve</surname>
+</string-name>, <string-name>
+<given-names>D.S.</given-names>
+<surname>Knopman</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Gunter</surname>
+</string-name>, et al. <article-title>Longitudinal 1H MRS changes in mild cognitive impairment and Alzheimer's disease</article-title>. <source>Neurobiol Aging</source>. <volume>28</volume>: <year>2007</year>; <fpage>1330</fpage>&#x02013;<lpage>1339</lpage>
+<pub-id pub-id-type="pmid">16860440</pub-id>
+</mixed-citation></ref><ref id="bib56"><label>[56]</label><mixed-citation publication-type="journal" id="sref55">
+<string-name>
+<given-names>M.</given-names>
+<surname>Hiramatsu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Murai</surname>
+</string-name>, and <string-name>
+<given-names>T.</given-names>
+<surname>Kameyama</surname>
+</string-name>. <article-title>Different modulation of cholinergic neuronal systems by dynorphin A (1&#x02010;13) in carbon monoxide&#x02010;exposed mice</article-title>. <source>Biochem Pharmacol</source>. <volume>57</volume>: <year>1999</year>; <fpage>1321</fpage>&#x02013;<lpage>1329</lpage>
+<pub-id pub-id-type="pmid">10230776</pub-id>
+</mixed-citation></ref><ref id="bib57"><label>[57]</label><mixed-citation publication-type="journal" id="sref56">
+<string-name>
+<given-names>P.</given-names>
+<surname>Nagele</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Zeugswetter</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wiener</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Burger</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>H&#x000fc;pfl</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Mittlb&#x000f6;ck</surname>
+</string-name>, et al. <article-title>Influence of methylenetetrahydrofolate reductase gene polymorphisms on homocysteine concentrations after nitrous oxide anesthesia</article-title>. <source>Anesthesiology</source>. <volume>109</volume>: <year>2008</year>; <fpage>36</fpage>&#x02013;<lpage>43</lpage>
+<pub-id pub-id-type="pmid">18580170</pub-id>
+</mixed-citation></ref><ref id="bib58"><label>[58]</label><mixed-citation publication-type="journal" id="sref57">
+<string-name>
+<given-names>D.K.</given-names>
+<surname>Hansen</surname>
+</string-name>, and <string-name>
+<given-names>R.E.</given-names>
+<surname>Billings</surname>
+</string-name>. <article-title>Effects of nitrous oxide on maternal and embryonic folate metabolism in rats</article-title>. <source>Develop Pharmacol Ther</source>. <volume>8</volume>: <year>1985</year>; <fpage>43</fpage>&#x02013;<lpage>54</lpage>
+</mixed-citation></ref><ref id="bib59"><label>[59]</label><mixed-citation publication-type="journal" id="sref58">
+<string-name>
+<given-names>M.</given-names>
+<surname>Lumb</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Perry</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Deacon</surname>
+</string-name>, and <string-name>
+<given-names>I.</given-names>
+<surname>Chanarin</surname>
+</string-name>. <article-title>Recovery of tissue folates after inactivation of cobalamin by nitrous oxide. The significance of dietary folate</article-title>. <source>Am J Clin Nutr</source>. <volume>34</volume>: <year>1981</year>; <fpage>2418</fpage>&#x02013;<lpage>2422</lpage>
+<pub-id pub-id-type="pmid">7304483</pub-id>
+</mixed-citation></ref><ref id="bib60"><label>[60]</label><mixed-citation publication-type="journal" id="sref59">
+<string-name>
+<given-names>H.X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Wahlin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Basun</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Fastbom</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Winblad</surname>
+</string-name>, and <string-name>
+<given-names>L.</given-names>
+<surname>Fratiglioni</surname>
+</string-name>. <article-title>Vitamin B(12) and folate in relation to the development of Alzheimer's disease</article-title>. <source>Neurology</source>. <volume>56</volume>: <year>2001</year>; <fpage>1188</fpage>&#x02013;<lpage>1194</lpage>
+<pub-id pub-id-type="pmid">11342684</pub-id>
+</mixed-citation></ref><ref id="bib61"><label>[61]</label><mixed-citation publication-type="miscellaneous" id="sref60">
+<collab collab-type="authors">The Global Alzheimer's Association Interactive Network (GAAIN)</collab>
+. <article-title>The Interrogator: Explore Big Data</article-title>. <ext-link xlink:href="https://www.gaaindata.org/data3/explore/login.jsp;jsessionid=0502F1E2C341E9E13F97487AF68AC3CF" ext-link-type="uri">https://www.gaaindata.org/data3/explore/login.jsp;jsessionid=0502F1E2C341E9E13F97487AF68AC3CF</ext-link> Accessed February, 2018.</mixed-citation></ref><ref id="bib62"><label>[62]</label><mixed-citation publication-type="journal" id="sref61">
+<string-name>
+<given-names>D.L.</given-names>
+<surname>Beekly</surname>
+</string-name>, <string-name>
+<given-names>E.M.</given-names>
+<surname>Ramos</surname>
+</string-name>, and <string-name>
+<given-names>W.W.</given-names>
+<surname>Lee</surname>
+</string-name>, et al. <article-title>The National Alzheimer's Coordinating Center (NACC) database: the Uniform Data Set</article-title>. <source>Alzheimer Dis Associated Disord</source>. <volume>21</volume>: <year>2007</year>; <fpage>249</fpage>&#x02013;<lpage>258</lpage>
+</mixed-citation></ref><ref id="bib63"><label>[63]</label><mixed-citation publication-type="journal" id="sref62">
+<collab collab-type="authors">Health Quality Ontario</collab>
+. <article-title>Vitamin B12 and Cognitive Function: An Evidence&#x02010;Based Analysis</article-title>. <source>Ontario Health Technology Assess Ser</source>. <volume>13</volume>: <year>2013</year>; <fpage>1</fpage>&#x02013;<lpage>45</lpage>
+</mixed-citation></ref><ref id="bib64"><label>[64]</label><mixed-citation publication-type="journal" id="sref63">
+<string-name>
+<given-names>J.</given-names>
+<surname>Kilian</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Kitazawa</surname>
+</string-name>. <article-title>The emerging risk of exposure to air pollution on cognitive decline and Alzheimer's disease &#x02010; Evidence from epidemiological and animal studies</article-title>. <source>Biomed J</source>. <volume>41</volume>: <year>2018</year>; <fpage>141</fpage>&#x02013;<lpage>162</lpage>
+<pub-id pub-id-type="pmid">30080655</pub-id>
+</mixed-citation></ref><ref id="bib65"><label>[65]</label><mixed-citation publication-type="journal" id="sref64">
+<string-name>
+<given-names>A.E.</given-names>
+<surname>Fries</surname>
+</string-name>, <string-name>
+<given-names>L.A.</given-names>
+<surname>Schifman</surname>
+</string-name>, <string-name>
+<given-names>W.D.</given-names>
+<surname>Shuster</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Townsend&#x02010;Small</surname>
+</string-name>. <article-title>Street&#x02010;level emissions of methane and nitrous oxide from the wastewater collection system in Cincinnati, Ohio</article-title>. <source>Environ Pollut</source>. <volume>236</volume>: <year>2018</year>; <fpage>247</fpage>&#x02013;<lpage>256</lpage>
+<pub-id pub-id-type="pmid">29414346</pub-id>
+</mixed-citation></ref><ref id="bib66"><label>[66]</label><mixed-citation publication-type="journal" id="sref65">
+<string-name>
+<given-names>A.</given-names>
+<surname>Hensen</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Skiba</surname>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Famulari</surname>
+</string-name>. <article-title>Low cost and state of the art methods to measure nitrous oxide emissions</article-title>. <source>Environ Res Lett</source>. <volume>8</volume>: <year>2013</year>; <elocation-id>025022</elocation-id>
+</mixed-citation></ref><ref id="bib67"><label>[67]</label><mixed-citation publication-type="journal" id="sref66">
+<string-name>
+<given-names>M.</given-names>
+<surname>Garipardic</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Do&#x0011f;an</surname>
+</string-name>, <string-name>
+<given-names>K.A.</given-names>
+<surname>Bala</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Mutluer</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kaba</surname>
+</string-name>, and <string-name>
+<given-names>O.</given-names>
+<surname>Aslan</surname>
+</string-name>, et al. <article-title>Association of attention deficit hyperactivity disorder and autism spectrum disorders with mean platelet volume and vitamin D</article-title>. <source>Med Sci Monit</source>. <volume>23</volume>: <year>2017</year>; <fpage>1378</fpage>&#x02013;<lpage>1384</lpage>
+<pub-id pub-id-type="pmid">28319054</pub-id>
+</mixed-citation></ref><ref id="bib68"><label>[68]</label><mixed-citation publication-type="journal" id="sref67">
+<string-name>
+<given-names>M.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name>
+<given-names>J.E.</given-names>
+<surname>M&#x000e5;nsson</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ostlund</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Fransson</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Areskoug</surname>
+</string-name>, and <string-name>
+<given-names>K.</given-names>
+<surname>Hjalmarsson</surname>
+</string-name>, et al. <article-title>Fatty acids in ADHD: plasma profiles in a placebo&#x02010;controlled study of Omega 3/6 fatty acids in children and adolescents</article-title>. <source>Atten Defic Hyperact Disord</source>. <volume>4</volume>: <year>2012</year>; <fpage>199</fpage>&#x02013;<lpage>204</lpage>
+<pub-id pub-id-type="pmid">22753087</pub-id>
+</mixed-citation></ref><ref id="bib69"><label>[69]</label><mixed-citation publication-type="journal" id="sref68">
+<string-name>
+<given-names>I.</given-names>
+<surname>Cetin</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Simsek</surname>
+</string-name>. <article-title>A preliminary study on investigation of serum &#x003b1;&#x02010;synuclein and tau protein levels in children with attention deficit hyperactivity disorder</article-title>. <source>Indian J Clin Biochem</source>. <volume>32</volume>: <year>2017</year>; <fpage>285</fpage>&#x02013;<lpage>291</lpage>
+<pub-id pub-id-type="pmid">28811687</pub-id>
+</mixed-citation></ref><ref id="bib70"><label>[70]</label><mixed-citation publication-type="journal" id="sref69">
+<string-name>
+<given-names>M.</given-names>
+<surname>Saez</surname>
+</string-name>, <string-name>
+<given-names>M.A.</given-names>
+<surname>Barcel&#x000f3;</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Farrerons</surname>
+</string-name>, and <string-name>
+<given-names>G.</given-names>
+<surname>L&#x000f3;pez&#x02010;Casasnovas</surname>
+</string-name>. <article-title>The association between exposure to environmental factors and the occurrence of attention&#x02010;deficit/hyperactivity disorder (ADHD). A population&#x02010;based retrospective cohort study</article-title>. <source>Environ Res</source>. <volume>166</volume>: <year>2018</year>; <fpage>205</fpage>&#x02013;<lpage>214</lpage>
+<pub-id pub-id-type="pmid">29890425</pub-id>
+</mixed-citation></ref><ref id="bib71"><label>[71]</label><mixed-citation publication-type="journal" id="sref70">
+<string-name>
+<given-names>B.L.</given-names>
+<surname>Callahan</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Bierstone</surname>
+</string-name>, <string-name>
+<given-names>D.T.</given-names>
+<surname>Stuss</surname>
+</string-name>, and <string-name>
+<given-names>S.E.</given-names>
+<surname>Black</surname>
+</string-name>. <article-title>Adult ADHD: Risk Factor for Dementia or Phenotypic Mimic?</article-title>. <source>Front Aging Neurosci</source>. <volume>9</volume>: <year>2017</year>; <fpage>260</fpage>
+<pub-id pub-id-type="pmid">28824421</pub-id>
+</mixed-citation></ref></ref-list></back></article>

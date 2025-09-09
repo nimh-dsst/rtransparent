@@ -1,0 +1,644 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Chem Sci</journal-id><journal-id journal-id-type="iso-abbrev">Chem Sci</journal-id><journal-id journal-id-type="publisher-id">SC</journal-id><journal-id journal-id-type="coden">CSHCBM</journal-id><journal-title-group><journal-title>Chemical Science</journal-title></journal-title-group><issn pub-type="ppub">2041-6520</issn><issn pub-type="epub">2041-6539</issn><publisher><publisher-name>The Royal Society of Chemistry</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40443982</article-id><article-id pub-id-type="pmc">PMC12118486</article-id>
+<article-id pub-id-type="publisher-id">d5sc01428j</article-id><article-id pub-id-type="doi">10.1039/d5sc01428j</article-id><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>Metal-catalyzed methylthiolation of chloroarenes and diverse aryl electrophiles<xref rid="fn1" ref-type="fn">&#x02020;</xref></article-title><fn-group><fn id="fn1"><label>&#x02020;</label><p>Electronic supplementary information (ESI) available: For experimental procedures, spectroscopic data for compounds including <sup>1</sup>H and <sup>13</sup>C NMR spectra. See DOI: <uri xlink:href="https://doi.org/10.1039/d5sc01428j">https://doi.org/10.1039/d5sc01428j</uri></p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Toyoda</surname><given-names>Sae</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name><surname>Iizumi</surname><given-names>Keiichiro</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3896-5882</contrib-id><contrib-id contrib-id-type="resid" authenticated="false">D-4198-2009</contrib-id><name><surname>Yamaguchi</surname><given-names>Junichiro</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><aff id="affa">
+<label>a</label>
+<institution>Department of Applied Chemistry, Waseda University</institution>
+<addr-line>513 Wasedatsurumakicho</addr-line>
+<city>Shinjuku</city>
+<state>Tokyo 162-0041</state>
+<country>Japan</country>
+<email>junyamaguchi@waseda.jp</email>
+</aff></contrib-group><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2025-05-22"><day>22</day><month>5</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2025-06-25"><day>25</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="pmc-release"><day>22</day><month>5</month><year>2025</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>16</volume><issue>25</issue><fpage>11559</fpage><lpage>11567</lpage><history><date date-type="received" iso-8601-date="2025-02-22"><day>22</day><month>2</month><year>2025</year></date><date date-type="accepted" iso-8601-date="2025-05-21"><day>21</day><month>5</month><year>2025</year></date></history><permissions><copyright-statement>This journal is &#x000a9; The Royal Society of Chemistry</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense" start_date="2025-05-22">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This article is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-Non Commercial 3.0 Unported Licence</ext-link>. You can use material from this article in other publications without requesting further permissions from the RSC, provided that the correct acknowledgement is given and it is not used for commercial purposes.</license-p></license></permissions><abstract><p>In this study, we report the first development of metal catalyzed methylthiolation of chloroarenes and diverse aromatic electrophiles, addressing the persistent challenges of catalyst and intermediate deactivation in the functionalization of less reactive substrates. To overcome these issues, we designed a novel anion-shuttle-type methylthiolation agent, 4-((methylthio)methyl)morpholine, which enables the controlled <italic toggle="yes">in situ</italic> release of methylthiolate anions, thereby preventing catalyst poisoning and enhancing reactivity. This strategy allows efficient methylthiolation not only of chloroarenes but also of a broad range of aryl electrophiles, including bromoarenes, aryl triflates, aryl tosylates, aryl pivalates, aryl nitriles, and aryl carboxylic acids. The developed system exhibits excellent functional group compatibility, making it applicable to the derivatization of pharmaceuticals and natural products. Furthermore, detailed mechanistic investigations revealed key factors underlying the exceptional efficiency of this methylthiolation agent, providing new insights into C&#x02013;S bond formation under practical conditions.</p></abstract><abstract abstract-type="toc"><p>We developed an anion-shuttle-type methylthiolation agent that enables efficient and versatile methylthiolation of diverse arylelectrophiles, including challenging substrates, with broad applications in pharmaceuticals and natural products.<graphic xlink:href="d5sc01428j-ga.jpg" id="ga" position="float"/></p></abstract><counts><page-count count="9"/></counts><custom-meta-group><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Introduction</title><p>Arenes bearing methylthio groups are prevalent structural motifs in pharmaceuticals, agrochemicals, and organic materials (<xref rid="fig1" ref-type="fig">Fig. 1A</xref>).<sup><xref rid="cit1" ref-type="bibr">1</xref></sup> Notable examples include the antipsychotic drug thioridazine and the natural aromatic sulfide lissoclibadin 1, which features a unique disulfide bridge.<sup><xref rid="cit2" ref-type="bibr">2,3</xref></sup> Additionally, compounds such as sulmazole and firocoxib are readily accessible through oxidation of their methylthio groups.<sup><xref rid="cit4" ref-type="bibr">4,5</xref></sup> The incorporation of methylthio units has also enabled functional modifications of BODIPY dyes <italic toggle="yes">via</italic> methylthio and sulfoxide functionalities.<sup><xref rid="cit6" ref-type="bibr">6</xref></sup> Given the widespread occurrence in functional molecules and their significant influence on molecular properties, the development of efficient methods for carbon&#x02013;sulfur (C&#x02013;S) bond formation has become a key focus in synthetic chemistry.<sup><xref rid="cit7" ref-type="bibr">7</xref></sup></p><fig position="float" id="fig1"><label>Fig. 1</label><caption><title>(A) Functional compounds containing methylthio groups and related structures. (B) Cross-coupling strategies for C&#x02013;SMe bond formation with aryl electrophiles and common methylating agents. (C) Palladium catalyst deactivation in methylthiolation reactions. (D) Methylthiolation reactions with chloroarenes and various electrophiles using an anion-shuttle-type methylthiolation agent (this work).</title></caption><graphic xlink:href="d5sc01428j-f1" position="float"/></fig><p>In this context, transition-metal-catalyzed C&#x02013;S cross-coupling reactions have advanced significantly since the pioneering work of Migita and co-workers, who first reported palladium-catalyzed alkylthiolation and arylthiolation of haloarenes.<sup><xref rid="cit8" ref-type="bibr">8</xref></sup> Subsequent studies have expanded this strategy to various (pseudo)haloarenes, enabling the synthesis of diverse sulfur-containing arenes.<sup><xref rid="cit9" ref-type="bibr">9</xref></sup> However, methylthiolation of aryl electrophiles, particularly less reactive ones, remains a major challenge due to the volatility and toxicity of methanethiol, as well as catalyst poisoning by thiolate species. To circumvent these issues, organic methylthiolation agents have been developed as alternatives to methanethiol. Nonetheless, most existing methylthiolation methods have been limited to highly reactive bromoarenes and iodoarenes, while chloroarenes and other less reactive aryl electrophiles remain challenging substrates (<xref rid="fig1" ref-type="fig">Fig. 1B</xref>).<sup><xref rid="cit10" ref-type="bibr">10</xref></sup> To the best of our knowledge, the Jiang group has primarily focused on bromoarenes, reporting only a single example involving a chloroarene.<sup><xref rid="cit11" ref-type="bibr">11</xref></sup> Morandi and our group have demonstrated sulfide transfer reactions involving aryl nitriles<sup><xref rid="cit12" ref-type="bibr">12</xref></sup> and in one case, esters<sup><xref rid="cit13" ref-type="bibr">13</xref></sup> using nickel catalysis, Li and co-workers reported the methylthiolation of aryl triflates <italic toggle="yes">via</italic> a retro-Michael reaction that generates the methylthiolate <italic toggle="yes">in situ</italic>.<sup><xref rid="cit14" ref-type="bibr">14</xref></sup> Additionally, Shi and Huang's group reported one example of methylthiolation for chloroarenes, aryl triflates, and acid chlorides, although yields for the chloroarenes were notably low.<sup><xref rid="cit15" ref-type="bibr">15</xref></sup> These results underscore the continued difficulty of achieving efficient methylthiolation of chloroarenes and other less reactive aryl electrophiles, and highlight the need for a more general, broadly applicable strategy.</p><p>This limitation is particularly pronounced in palladium-catalyzed systems, where oxidative addition to less reactive electrophiles proceeds slowly and with lower efficiency. Under these conditions, excess thiolate nucleophiles, such as methylthiolates, can coordinate to the palladium center, leading to deactivation of the Ar&#x02013;Pd&#x02013;SR intermediate (<xref rid="fig1" ref-type="fig">Fig. 1C</xref>).<sup><xref rid="cit16" ref-type="bibr">16</xref></sup> As a result, most current methylthiolation protocols remain limited to highly reactive substrates like iodoarenes and bromoarenes, where the rapid formation and higher concentration of oxidative addition complexes help mitigate catalyst deactivation. Therefore, there is a pressing need to develop methylthiolation agents and methodologies that can efficiently functionalize less reactive aryl electrophiles, such as chloroarenes, under practical conditions.</p><p>To address these challenges, we designed a novel methylthiolation agent capable of regulating methylthiolate release (<xref rid="fig1" ref-type="fig">Fig. 1D</xref>). By leveraging the nucleophile-releasing properties of tertiary amines at the &#x003b1;-position, we developed a system in which the methylthiolates generated could nucleophilically coordinate to the metal catalyst without causing deactivation. This system operates <italic toggle="yes">via</italic> a dynamic equilibrium between the methylthiolate and an iminium ion, effectively minimizing the concentration of free methylthiolate available to interact undesirably with the metal catalyst or its intermediates.<sup><xref rid="cit17" ref-type="bibr">17</xref></sup> Herein, we report the first systematic study of the metal-catalyzed methylthiolation of chloroarenes and diverse aryl electrophiles using this anion-shuttle-type reagent.</p></sec><sec><title>Results and discussion</title><p>Methylthiolation agent 1 was synthesized in large scale (100 mmol) in high yield (72%) from inexpensive, commercially available morpholine and chloromethyl methyl sulfide (<xref rid="fig2" ref-type="fig">Fig. 2A</xref>). The product is a colorless liquid that requires no column chromatography for purification and can be easily purified by distillation. This approach eliminates the need for methanethiol or its salts, thereby avoiding issues related to volatility and odor. Using Pd catalysis with methylthiolation agent 1, the methylthiolation of haloarenes was explored (<xref rid="fig2" ref-type="fig">Fig. 2B</xref>). Treatment of 1-bromonaphthalene (Br-2a) with 1 (1.5 equiv.) under Pd(OAc)<sub>2</sub> (5.0 mol%) and xantphos (10 mol%) catalysis, along with Cs<sub>2</sub>CO<sub>3</sub> (2.0 equiv.) in toluene at 120 &#x000b0;C for 12 h, afforded the desired methylthionaphthalene (3a) in excellent yield (96%, detailed optimization provided in the ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>). This result confirmed that 1 is an effective methylthiolation agent under these conditions. In contrast, the reaction of <italic toggle="yes">ortho</italic>-methyl-substituted bromonaphthalene Br-2b under similar conditions gave only trace amounts of the product. However, the addition of zinc improved the yield to 91%.</p><fig position="float" id="fig2"><label>Fig. 2</label><caption><title>(A) Large-scale synthesis of methylthiolation agent 1 from morpholine and chloromethyl methyl sulfide. (B) Methylthiolation of haloarenes using Pd catalysis with agent 1. (C) Optimization of methylthiolation conditions across various aryl electrophiles. Xantphos: 4,5-bis(diphenylphosphino)-9,9-dimethylxanthene. dppf: 1,1&#x02032;-bis(diphenylphosphino)ferrocene dcypt: 3,4-bis(dicyclohexylphosphino)thiophene. dcype: 1,2-bis(dicyclohexylphosphino)ethane.</title></caption><graphic xlink:href="d5sc01428j-f2" position="float"/></fig><p>Given that efficient reactivity observed with bromoarenes, we next investigated the more challenging chloroarenes, which have been rarely explored for methylthiolation. Without zinc, the reaction of Cl-2a exhibited minimal progress (2% yield), whereas the addition of zinc significantly improved the yield to 53%. Although zinc may function as a reductant for Pd(<sc>ii</sc>), the lack of reactivity observed with stronger reductants such as Mg and Mn suggests that zinc's role is not solely as a simple reductant. It was further hypothesized that Zn<sup>2+</sup>, generated by the reduction of Pd(<sc>ii</sc>), might facilitate the reaction. However, the addition of Zn<sup>2+</sup> salts had no significant effect. The precise role of zinc in this reaction remains unclear and will be discussed in detail later (in <xref rid="fig4" ref-type="fig">Fig. 4B</xref>).</p><p>With these findings, the methylthiolation of not only chloroarenes but also a diverse range of aryl electrophiles using the novel methylthiolation agent 1 was further investigated. The optimized conditions were found to be effective for bromoarenes, aryl triflates, tosylates, pivalates, aryl nitriles, and aryl carboxylic acids, demonstrating the broad applicability of this catalytic system to various electrophiles with different reactivity profiles (<xref rid="fig2" ref-type="fig">Fig. 2C</xref>). For bromoarenes, the conditions outlined in <xref rid="fig2" ref-type="fig">Fig. 2B</xref> were found to be optimal. For chloroarenes and aryl triflates, ligands with large bite angle proved effective, with dppf providing high yields.<sup><xref rid="cit18" ref-type="bibr">18</xref></sup> Ni catalysis demonstrated high efficiency for tosylates and mesylates, affording the desired methylthiolated product 3c in excellent yields (caution: scaling up reactions in diethyl ether at high temperatures should be avoided unless appropriate equipment is used). Similarly, Ni catalysis with the dcypt ligand enabled efficient activation of C&#x02013;O bonds in pivalates, producing methylthiolated product 3c in a good yield.<sup><xref rid="cit13" ref-type="bibr">13</xref></sup> All of the Ni catalysis described herein employed Ni(cod)<sub>2</sub>. Although Ni(<sc>ii</sc>) salts were also tested, the reactions proceeded with reduced efficiency for triflates and pivalates, while no reaction occurred for tosylates and mesylates (for details, see the ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>). In contrast, Pd catalysis facilitated the methylthiolation of aryl nitriles with good yields,<sup><xref rid="cit19" ref-type="bibr">19</xref></sup> while Ni catalysis enabled methylthiolation of aryl carboxylic acids, albeit with lower yields.<sup><xref rid="cit20" ref-type="bibr">20</xref></sup> Notably, this study represents the first example of Pd-catalyzed sulfidation of aryl nitriles.</p><p>Based on the reaction conditions described in <xref rid="fig2" ref-type="fig">Fig. 2C</xref>, the substrate scope of aryl electrophiles was further explored (<xref rid="fig3" ref-type="fig">Fig. 3</xref>). Initially, we examined naphthalene, anthracene, and polycyclic aromatic hydrocarbon (PAH) electrophiles. Under optimized conditions, Cl-2a afforded the desired product 3a in an excellent yield of 96%. The triflate derivative also gave the product in high yield, while tosylate and mesylate derivatives provided the product 3a in moderate yields but confirmed the reaction's applicability. During the investigation of commercially available aryl electrophiles, we primarily used bromoarenes due to their widespread availability. The reaction also proceeded efficiently with anthracene (3d and 3e), phenanthrene (3f), and pyrene (3g). Notably, when cyanopyrene was used as a substrate, a decyanative methylthiolation reaction occurred, affording 3g in 43% yield.</p><fig position="float" id="fig3"><label>Fig. 3</label><caption><title>Substrate scope. Reaction conditions: for bromoarenes; 2 (0.2 mmol), 1 (0.3 mmol), 5.0 mol% Pd(OAc)<sub>2</sub>, 10 mol% xantphos, Cs<sub>2</sub>CO<sub>3</sub> (0.4 mmol), toluene, 120 &#x000b0;C for 12 h. For chloroarenes; 2 (0.2 mmol), 1 (0.3 mmol), 5.0 mol% Pd(OAc)<sub>2</sub> 10 mol% dppf, Zn (0.4 mmol), Cs<sub>2</sub>CO<sub>3</sub> (0.4 mmol) toluene, 150 &#x000b0;C for 12 h. For aryl tosylates and mesylates: 2 (0.2 mmol), 1 (0.3 mmol), 5.0 mol% Ni(cod)<sub>2</sub>, 10 mol% dppf, Cs<sub>2</sub>CO<sub>3</sub> (2.0 equiv.), Zn (2.0 equiv.), Et<sub>2</sub>O, 150 &#x000b0;C for 12 h. For aryl pivalates; 2 (0.2 mmol), 1 (0.3 mmol), 10 mol% Ni(cod)<sub>2</sub>, 20 mol% dcypt, Cs<sub>2</sub>CO<sub>3</sub> (0.4 mmol), Zn (0.4 mmol), toluene, 150 &#x000b0;C for 12 h. For aryl cyanides, 2 (0.2 mmol), 1 (0.3 mmol), 5.0 mol% Pd(OAc)<sub>2</sub>, 10 mol% dcype, NaO<sup><italic toggle="yes">t</italic></sup>Bu (0.4 mmol), Zn (0.4 mmol), toluene, 150 &#x000b0;C for 12 h. For aryl carboxylic acids; 2 (0.2 mmol), 1 (0.3 mmol), 10 mol% Ni(cod)<sub>2</sub>, 20 mol% dcypt, Piv<sub>2</sub>O (0.24 mmol), Zn (0.4 mmol), toluene, 150 &#x000b0;C for 12 h. <sup><italic toggle="yes">a</italic></sup>10 mol% Pd(OAc)<sub>2</sub>, 20 mol% dppf were used. <sup><italic toggle="yes">b</italic></sup>Zinc was added. <sup><italic toggle="yes">c</italic></sup>0.4 mmol scale. <sup><italic toggle="yes">d</italic></sup>Yield was determined by <sup>1</sup>H NMR. <sup><italic toggle="yes">e</italic></sup>1 (0.6 mmol, 3.0 equiv.) was used. <sup><italic toggle="yes">f</italic></sup>24 h.</title></caption><graphic xlink:href="d5sc01428j-f3" position="float"/></fig><p>Next, we explored benzene derivatives and functionalized aryl electrophiles. Substituted benzene derivatives afforded the corresponding methylthiolated products in good yields (3h and 3i). Expanding the substrate scope, we tested biphenyl derivatives, finding that bromo, chloro, and triflate derivatives reacted smoothly. However, tosylate and pivalate derivatives exhibited significantly lower yields of 3j compared to naphthalene derivatives. This decreasing yield is likely due to the higher aromaticity of biphenyl relative to naphthalene, which makes oxidative addition more challenging. Cyanated biphenyl derivatives provided 3j in moderate yields. Reactions involving biphenyl derivatives with <italic toggle="yes">meta</italic>- or <italic toggle="yes">para</italic>-substituted phenyl groups proceeded efficiently, affording the products in moderate yields (3k&#x02013;3l). However, for <italic toggle="yes">ortho</italic>-disubstituted haloarenes, including both bromo and chloro derivatives, the reaction barely progressed, likely due to steric hindrance at the catalyst's active site. The methylthiolation reaction also exhibited broad functional group compatibility, successfully delivering the methylthiolated products without affecting ketone (3n), esters (3o, 3p and 3q), nitro group (3r), and alcohol (3s).</p><p>Next, we investigated heteroaromatic electrophiles. Chloro-substituted pyridine reacted efficiently under the optimized conditions, affording 3t in 65% yield. Owing to the high volatility of the product, the yield was determined by <sup>1</sup>H NMR spectroscopy. The reaction also proceeded with other pyridines (3u), quinolines (3v and 3w), dibenzothiophene (3x), and thiophene (3y). However, the corresponding tosylate and mesylate derivatives remained unreactive under these conditions. The only exception was 2-cyanoquinoline, which afforded the methylthiolated product 3v in low yield (14%).</p><p>To further enhance the practical utility of this methylthiolation reaction, we applied it to substrates derived from natural products and pharmaceutical APIs with diverse functional groups. In these cases, tosylate and pivalate derivatives again showed low reactivity, so most reactions were conducted using chloro or triflate derivatives.</p><p>Aryl electrophiles containing flavone and coumarin skeletons underwent smooth methylthiolation, affording 3A and 3B. Similarly, substrates such as fenofibrate (3C), vanillin (3D), eugenol (3E), and phenothiazine derivative (3F)&#x02014;which feature ester, ketone, aldehyde, olefin, and amine functionalities&#x02014;were successfully methylthiolated without compromising the integrity of these functional groups. For estrone, the ketone moiety was reactive under standard conditions; however, when protected as an acetal, the triflate derivative afforded 3G in good yield. Additionally, converting the ketone into an enol triflate and reacting it with 3.0 equiv. of methylthiolation agent 1 enabled efficient dual methylthiolation, affording 3H in high yield. These results demonstrate that the developed conditions are applicable not only to aryl electrophiles but also to enol triflates,<sup><xref rid="cit21" ref-type="bibr">21</xref></sup> representing, to the best of our knowledge, the first example of methylthiolation of enol triflates. Finally, when ticlopidine was used as a substrate, reacting it with 3.0 equiv. of 1 for 12 h afforded the mono-methylthiolated product 3I. Extending the reaction time to 24 h selectively gave the di-methylthiolated product 3J. It should be noted that while Cs<sub>2</sub>CO<sub>3</sub> was added in most reactions, certain substrates did not require its presence. Although it is presumed that the base primarily facilitates the exchange of the anionic species before the methylthiolate reacts with the metal-aryl complex following oxidative addition, its precise role remains unclear (for details on substrate-dependent variations, see the ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>). In addition, although zinc was added in all reactions, there were substrates for which its presence had no significant effect, and the reaction proceeded even in its absence. Zinc appeared to be particularly effective for sterically hindered substrates or those for which oxidative addition is challenging (for details, see the ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>In this methylthiolation reaction, three key mechanistic questions emerged: (1) does the methylthiolation agent effectively regulate the concentration of the methylthiolate, keeping it low? (2) Why does the addition of zinc significantly improve the reaction yield? (3) How is the methylthiolate generated from 1? To address these, we performed a series of mechanistic investigations. First, to investigate the concentration of the methylthiolate, to evaluate the effect of methylthiolate concentration, we performed control experiments (<xref rid="fig4" ref-type="fig">Fig. 4A</xref>). Under the optimized conditions using 1.5 equiv. of methylthiolation agent 1 and Cl-2a, product 3a was obtained in 96% yield. However, when 1.2 equiv. of sodium methanethiolate (NaSMe, 15% in water, 100 &#x003bc;L) was added, the yield of 3a dropped to 26%, with 64% the starting material Cl-2a recovered. To assess the role of water, we added 100 &#x003bc;L of water under otherwise identical conditions; in this case, the yield increased to 60%, indicating that the NaSMe itself&#x02014;not water alone&#x02014;was detrimental to the reaction. Furthermore, using 2.5 or 5.0 equiv. of agent 1 led to lower yields (74% and 53%, respectively) and substantial recovery of Cl-2a, highlighting that excessive thiolate negatively impacts catalysis. These findings clearly demonstrate that controlling the thiolate concentration is crucial for maintaining catalyst activity.</p><fig position="float" id="fig4"><label>Fig. 4</label><caption><title>(A) Investigation of the role of methylthiolate concentration using sodium methanethiolate under optimized conditions. (B) Examination of zinc's role in the reaction. The red bars and numbers indicate the yield of the methylthiolated product 3, while the blue bars and numbers represent the recovery rate of the starting material. (C) Zinc as a reducing agent for disulfides. (D) Generation of methylthiolate. (E) The fate of the iminium ion. <sup><italic toggle="yes">a</italic></sup>The product contains <italic toggle="yes">c.a.</italic> 10% of a regioisomeric methylthiolated compound.</title></caption><graphic xlink:href="d5sc01428j-f4" position="float"/></fig><p>Next, we investigated the role of zinc in the reaction (<xref rid="fig4" ref-type="fig">Fig. 4B</xref>). Without zinc, Cl-2m remained largely unreacted (75% recovery), and only 5% of product 3m was formed. When 2.0 equiv. of zinc was added, the yield improved dramatically to 98%. Replacing Pd(OAc)<sub>2</sub> with Pd(dba)<sub>2</sub> (a Pd<sup>0</sup> complex) resulted in only 45% yield, but adding zinc to this system raised the yield to 90%. Furthermore, we confirmed that using Mn or Mg did not promote the reaction (see the ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>). These results indicate that zinc acts as a reductant to generate Pd(0) from Pd(<sc>ii</sc>), but also provides an additional beneficial effect.</p><p>We hypothesized that trace disulfides, generated by palladium catalyst or intermediates, may deactivate the catalyst and zinc might restore activity by reducing these disulfides.<sup><xref rid="cit22" ref-type="bibr">22</xref></sup> To test this, we added 10 mol% dimethyl disulfide to the Pd(dba)<sub>2</sub>-catalyzed reaction. The reaction was completely inhibited, and the starting material was fully recovered&#x02014;even in the presence of zinc. Using Pd(OAc)<sub>2</sub> and zinc allowed the reaction to proceed, albeit with a reduced yield (33%). These observations suggest that dimethyl disulfide poisons Pd(0) catalysts, likely through strong coordination. Pd(<sc>ii</sc>) is also inhibited, though to a lesser extent, possibly after its <italic toggle="yes">in situ</italic> reduction to Pd(0).</p><p>To further explore the zinc-disulfide hypothesis, we performed the reaction using dimethyl disulfide as a methylthiolation agent (<xref rid="fig4" ref-type="fig">Fig. 4C</xref>). Without zinc, no reaction occurred. However, with zinc (2.0 equiv.), 3a was obtained in 60% yield. For this reaction as well, it was confirmed that Mn and Mg had no effect and 3a was not obtained (see the ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>). We then synthesized Zn(SMe)<sub>2</sub> by heating dimethyl disulfide with zinc in DMSO at 150 &#x000b0;C, affording a white, odorless solid. Although Zn(SMe)<sub>2</sub> was insoluble in toluene, it gave 3a in 80% yield under standard reaction conditions, with 12% starting material remaining. While Zn(SMe)<sub>2</sub> was not more effective than agent 1, its thiolation reactivity suggests that it may act as a methylthiolating species. However, since dimethyl disulfide was not detected in the catalytic system, Zn(SMe)<sub>2</sub> is unlikely to be the dominant active species.</p><p>We then examined the conditions for generating the methylthiolate from agent 1 (<xref rid="fig4" ref-type="fig">Fig. 4D</xref>). Since its formation is expected to produce an iminium ion, we used 4-methoxyphenol, a known iminium trap, to monitor this process. Heating agent 1 with 4-methoxyphenol at 150 &#x000b0;C afforded adduct 4 in 92% yield. The yield decreased to 45% and 29% at 120 &#x000b0;C and 80 &#x000b0;C, respectively, and was negligible at 50 &#x000b0;C or room temperature. Time-course monitoring confirmed that 4 was gradually formed over 4&#x02013;6 hours. These results show that thermal generation of methylthiolate is efficient above 80 &#x000b0;C, with 150 &#x000b0;C being optimal.</p><p>Finally, we probed the behavior of the iminium ion (<xref rid="fig4" ref-type="fig">Fig. 4E</xref>). After methylthiolation of Cl-2a, addition of 4-methoxyphenol afforded 4 in 26% yield, confirming the generation of the cation. Interestingly, adding Cs<sub>2</sub>CO<sub>3</sub> to the mixture of 4 and 4-methoxyphenol led to a similar yield, suggesting that the base may also trap the cation, although the exact mechanism remains unclear. In contrast, using 1,4-dimethoxybenzene did not yield any trapping product, indicating that the iminium ion does not react significantly with less nucleophilic aromatics such as chloroarenes under the reaction conditions (see the ESI<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><p>In summary of these mechanistic studies clarify that: (1) agent 1 maintains a low steady-state concentration of methylthiolate, which is essential to avoid catalyst deactivation. (2) Zinc acts both as a reductant and as a scavenger for inhibitory disulfides, enhancing overall efficiency. (3) Methylthiolate is thermally released from agent 1<italic toggle="yes">via</italic> a reversible process that also generates an iminium ion.</p><p>Based on the results, we propose the reaction mechanism shown in <xref rid="fig5" ref-type="fig">Fig. 5A</xref>. First, Pd(<sc>ii</sc>) is reduced to Pd(0) species A by zinc. Subsequently, oxidative addition of Pd(0) to the aryl electrophile 2 forms complex B. Methylthiolation agent 1 undergoes thermal decomposition to generate the methylthiolate and an iminium ion in equilibrium. The methylthiolate undergoes nucleophilic metallation (ligand exchange) with complex B, and in certain substrates, Cs<sub>2</sub>CO<sub>3</sub> facilitates this exchange process, forming Pd&#x02013;SMe complex C. If the concentration of the methylthiolate becomes too high, deactivation occurs <italic toggle="yes">via</italic> formation of the anionic complex D.<sup><xref rid="cit16" ref-type="bibr">16</xref></sup> Complex C that avoids conversion to complex D undergoes direct reductive elimination, affording the desired methylthiolated product 3 and regenerating Pd(0) to complete the catalytic cycle.</p><fig position="float" id="fig5"><label>Fig. 5</label><caption><title>(A) Proposed mechanism. (B) Oxidation of methylthio groups. (C) Application to other thiosulfide reagents.</title></caption><graphic xlink:href="d5sc01428j-f5" position="float"/></fig><p>For less reactive aryl electrophiles, oxidative addition is slower, allowing free methylthiolate to coordinate directly with Pd(0), forming an inactive Pd(SMe)<sub>2</sub> species.<sup><xref rid="cit22" ref-type="bibr">22</xref></sup> Although reductive elimination from this species can regenerate Pd(0) and dimethyl disulfide, the reaction is reversible and proceeds slowly. However, the dimethyl disulfide generated can be reduced by zinc, thereby shifting the equilibrium toward productive catalysis and enabling smooth turnover of the reaction.</p><p>Additionally, we explored simple derivatizations of the obtained methylthiolated products (<xref rid="fig5" ref-type="fig">Fig. 5B</xref>).<sup><xref rid="cit23" ref-type="bibr">23</xref></sup> When 1.0 equiv. of <italic toggle="yes">m</italic>CPBA was added to 3c, the product was efficiently converted to sulfoxide 5 in good yield. Increasing the amount of <italic toggle="yes">m</italic>CPBA to 2.0 equiv. afforded the sulfone 6 in high yield.</p><p>Finally, as an extension of the methylthiolation agent's application, we synthesized reagents in which the methylthio group was replaced with other alkyl or phenyl groups. These modified reagents were then evaluated for thioalkylation and thiophenylation of chloroarene Cl-2c. For alkyl-substituted reagents, the reaction proceeded efficiently, affording 7. Even with a bulky adamantyl group, the transformation occurred smoothly to give 8. Similarly, thiophenylation was successful, affording 9 in 45% yield.</p></sec><sec><title>Conclusions</title><p>In this study, we developed a highly efficient methylthiolation method for chloroarenes and diverse aryl electrophiles using a novel methylthiolation agent synthesized from inexpensive, commercially available reagent. This agent facilitates methylthiolation without the use of volatile and odor-intensive methanethiol. Given the scarcity of successful methylthiolation examples for chloroarenes, we first established the applicability of our method to bromoarenes and then expanded its scope to the more challenging chloroarenes. Furthermore, the method proved effective for other less reactive aryl electrophiles, achieving efficient C&#x02013;S bond formation despite their inherently lower reactivity. Zinc was found to serve dual functions: facilitating the reduction of Pd(<sc>ii</sc>) to Pd(0) and scavenging trace disulfides, thereby enhancing the reaction efficiency. Mechanistic investigations revealed that methylthiolates are generated through a thermally driven equilibrium, which is crucial for the reaction's success. Furthermore, the method demonstrated excellent functional group compatibility, accommodating complex structures found in pharmaceuticals and natural products, underscoring its versatility and synthetic utility.</p><p>This first systematic study on the methylthiolation of chloroarenes and other less reactive aryl electrophiles provides a robust and practical protocol for methylthiolation with broad substrate scope and functional group tolerance, significantly expanding the toolbox for aryl functionalization and offering promising applications in the synthesis of sulfur-containing aromatic compounds.<sup><xref rid="cit24" ref-type="bibr">24</xref></sup></p></sec><sec><title>Author contributions</title><p>J. Y. supervised the entire project. The reaction was initially discovered by K. I., and all experimental work was carried out by S. T. The manuscript was prepared by J. Y., based on feedback and suggestions from all co-authors.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>There are no conflicts to declare.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="SC-016-D5SC01428J-s001" position="float" content-type="local-data"><label>SC-016-D5SC01428J-s001</label><media xlink:href="SC-016-D5SC01428J-s001.pdf" id="d67e581" position="anchor"/></supplementary-material></sec></body><back><ack><p>This work was supported by JSPS KAKENHI Grant Number JP21H05213 (Digi-TOS) (to J. Y.). This work was partly supported by JST CREST Grant Number JPMJCR24T3 (to J. Y.) We thank Iwatani Corporation for providing Cs<sub>2</sub>CO<sub>3</sub> as a gift. The Materials Characterization Central Laboratory in Waseda University is acknowledged for the support of HRMS measurement.</p></ack><sec sec-type="data-availability"><title>Data availability</title><p>The data supporting this article have been included as part of the ESI.<xref rid="fn1" ref-type="fn">&#x02020;</xref> Data sharing is not applicable to this article as no datasets were generated or analysed during the current study.</p></sec><ref-list><title>Notes and references</title><ref id="cit1"><element-citation publication-type="journal" id="cit1a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Kimoto</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tanaka</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kawahata</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yamaguchi</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Otsubo</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sakai</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ono</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ohno</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kobayashi</surname><given-names>K.</given-names></name>
+</person-group><source>J. Org. Chem.</source><year>2011</year><volume>76</volume><fpage>5018</fpage><lpage>5025</lpage><pub-id pub-id-type="doi">10.1021/jo200696a</pub-id><pub-id pub-id-type="pmid">21568347</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit1b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Ilardi</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vitaku</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Njardarson</surname><given-names>J. T.</given-names></name>
+</person-group><source>J. Med. Chem.</source><year>2014</year><volume>57</volume><fpage>2832</fpage><lpage>2842</lpage><pub-id pub-id-type="doi">10.1021/jm401375q</pub-id><pub-id pub-id-type="pmid">24102067</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit1c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ding</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qian</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>Y.</given-names></name>
+</person-group><source>Catalysts</source><year>2020</year><volume>10</volume><fpage>1339</fpage><pub-id pub-id-type="doi">10.3390/catal10111339</pub-id></element-citation><element-citation publication-type="journal" id="cit1d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiao</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Du</surname><given-names>Y.</given-names></name>
+</person-group><source>Org. Biomol. Chem.</source><year>2022</year><volume>20</volume><fpage>4471</fpage><lpage>4495</lpage><pub-id pub-id-type="doi">10.1039/D2OB00570K</pub-id><pub-id pub-id-type="pmid">35593912</pub-id>
+</element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cameron</surname><given-names>M. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lawrence</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Olrich</surname><given-names>J. G.</given-names></name>
+</person-group><source>Br. J. Ophthalmol.</source><year>1972</year><volume>56</volume><fpage>131</fpage><pub-id pub-id-type="doi">10.1136/bjo.56.2.131</pub-id><pub-id pub-id-type="pmid">5010315</pub-id>
+</element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tatsuta</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hosono</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rotinsulu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wewengkang</surname><given-names>D. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sumilat</surname><given-names>D. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Namikoshi</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yamazaki</surname><given-names>H.</given-names></name>
+</person-group><source>J. Nat. Prod.</source><year>2017</year><volume>80</volume><fpage>499</fpage><lpage>502</lpage><pub-id pub-id-type="doi">10.1021/acs.jnatprod.6b01051</pub-id><pub-id pub-id-type="pmid">28181805</pub-id>
+</element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Parsons</surname><given-names>W. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ramkumar</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Stiles</surname><given-names>G. L.</given-names></name>
+</person-group><source>Mol. Pharmacol.</source><year>1988</year><volume>33</volume><fpage>441</fpage><lpage>448</lpage><pub-id pub-id-type="doi">10.1016/S0026-895X(25)13325-7</pub-id><pub-id pub-id-type="pmid">3128727</pub-id>
+</element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rangel-Nava</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ram&#x000ed;rez-Uribe</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Recillas-Morales</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ibancovichi-Camarillo</surname><given-names>J. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Venebra-Mu&#x000f1;oz</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>S&#x000e1;nchez-Aparicio</surname><given-names>P.</given-names></name>
+</person-group><source>J. Equine Vet. Sci.</source><year>2019</year><volume>77</volume><fpage>36</fpage><lpage>42</lpage><pub-id pub-id-type="doi">10.1016/j.jevs.2019.02.007</pub-id><pub-id pub-id-type="pmid">31133314</pub-id>
+</element-citation></ref><ref id="cit6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>X.-D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fang</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>C.</given-names></name>
+</person-group><source>Dyes Pigments</source><year>2017</year><volume>146</volume><fpage>438</fpage><lpage>444</lpage><pub-id pub-id-type="doi">10.1016/j.dyepig.2017.07.038</pub-id></element-citation></ref><ref id="cit7"><element-citation publication-type="journal" id="cit7a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>H.</given-names></name>
+</person-group><source>Org. Chem. Front.</source><year>2020</year><volume>7</volume><fpage>1395</fpage><lpage>1417</lpage><pub-id pub-id-type="doi">10.1039/D0QO00377H</pub-id></element-citation><element-citation publication-type="journal" id="cit7b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Sundaravelu</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sangeetha</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sekar</surname><given-names>G.</given-names></name>
+</person-group><source>Org. Biomol. Chem.</source><year>2021</year><volume>19</volume><fpage>1459</fpage><lpage>1482</lpage><pub-id pub-id-type="doi">10.1039/D0OB02320E</pub-id><pub-id pub-id-type="pmid">33528480</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit7c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Abedinifar</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bahadorikhalili</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Larijani</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mahdavi</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Verpoort</surname><given-names>F.</given-names></name>
+</person-group><source>Appl. Organomet. Chem.</source><year>2022</year><volume>36</volume><fpage>e6482</fpage><pub-id pub-id-type="doi">10.1002/aoc.6482</pub-id></element-citation><element-citation publication-type="journal" id="cit7d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Geiger</surname><given-names>V. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Oechsner</surname><given-names>R. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gehrtz</surname><given-names>P. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fleischer</surname><given-names>I.</given-names></name>
+</person-group><source>Synthesis</source><year>2022</year><volume>54</volume><fpage>5139</fpage><lpage>5167</lpage><pub-id pub-id-type="doi">10.1055/a-1914-1231</pub-id></element-citation><element-citation publication-type="journal" id="cit7e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>X.</given-names></name>
+</person-group><source>Chem. Soc. Rev.</source><year>2022</year><volume>51</volume><fpage>8351</fpage><lpage>8377</lpage><pub-id pub-id-type="doi">10.1039/D2CS00553K</pub-id><pub-id pub-id-type="pmid">36107012</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit7f"><label> (f) </label><person-group person-group-type="author">
+<name><surname>Beletskaya</surname><given-names>I. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ananikov</surname><given-names>V. P.</given-names></name>
+</person-group><source>Chem. Rev.</source><year>2022</year><volume>122</volume><fpage>16110</fpage><lpage>16293</lpage><pub-id pub-id-type="doi">10.1021/acs.chemrev.1c00836</pub-id><pub-id pub-id-type="pmid">36112510</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit7g"><label> (g) </label><person-group person-group-type="author">
+<name><surname>Rufino-Felipe</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vald&#x000e9;s</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Morales-Morales</surname><given-names>D.</given-names></name>
+</person-group><source>Eur. J. Org Chem.</source><year>2022</year><fpage>e202200654</fpage><pub-id pub-id-type="doi">10.1002/ejoc.202200654</pub-id></element-citation><element-citation publication-type="journal" id="cit7h"><label> (h) </label><person-group person-group-type="author">
+<name><surname>Lindenmaier</surname><given-names>I. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Richter</surname><given-names>R. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fleischer</surname><given-names>I.</given-names></name>
+</person-group><source>Org. Chem. Front.</source><year>2024</year><volume>11</volume><fpage>2485</fpage><lpage>2493</lpage><pub-id pub-id-type="doi">10.1039/D4QO00260A</pub-id></element-citation></ref><ref id="cit8"><element-citation publication-type="journal" id="cit8a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Migita</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shimizu</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Asami</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shiobara</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kato</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kosugi</surname><given-names>M.</given-names></name>
+</person-group><source>Bull. Chem. Soc. Jpn.</source><year>1980</year><volume>53</volume><fpage>1385</fpage><lpage>1389</lpage><pub-id pub-id-type="doi">10.1246/bcsj.53.1385</pub-id></element-citation><element-citation publication-type="journal" id="cit8b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Kosugi</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shimizu</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Migita</surname><given-names>T.</given-names></name>
+</person-group><source>Chem. Lett.</source><year>1978</year><fpage>13</fpage><lpage>14</lpage><pub-id pub-id-type="doi">10.1246/cl.1978.13</pub-id></element-citation><element-citation publication-type="journal" id="cit8c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Migita</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shimizu</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Asami</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shiobara</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kato</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kosugi</surname><given-names>M.</given-names></name>
+</person-group><source>Bull. Chem. Soc. Jpn.</source><year>2006</year><volume>53</volume><fpage>1385</fpage><lpage>1389</lpage><pub-id pub-id-type="doi">10.1246/bcsj.53.1385</pub-id></element-citation></ref><ref id="cit9"><note><p>Representative C&#x02013;S bond formations from (pseudo)haloarenes, see, </p></note><element-citation publication-type="journal" id="cit9a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Itoh</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mase</surname><given-names>T.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2004</year><volume>6</volume><fpage>4587</fpage><lpage>4590</lpage><pub-id pub-id-type="doi">10.1021/ol047996t</pub-id><pub-id pub-id-type="pmid">15548082</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Fern&#x000e1;ndez-Rodr&#x000ed;guez</surname><given-names>M. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hartwig</surname><given-names>J. F.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2006</year><volume>128</volume><fpage>2180</fpage><lpage>2181</lpage><pub-id pub-id-type="doi">10.1021/ja0580340</pub-id><pub-id pub-id-type="pmid">16478149</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Jones</surname><given-names>K. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Power</surname><given-names>D. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bierer</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gericke</surname><given-names>K. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Stewart</surname><given-names>S. G.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2018</year><volume>20</volume><fpage>208</fpage><lpage>211</lpage><pub-id pub-id-type="doi">10.1021/acs.orglett.7b03560</pub-id><pub-id pub-id-type="pmid">29257701</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Scattolin</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Senol</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Schoenebeck</surname><given-names>F.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2018</year><volume>57</volume><fpage>12425</fpage><lpage>12429</lpage><pub-id pub-id-type="doi">10.1002/anie.201806036</pub-id><pub-id pub-id-type="pmid">30014554</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>R. Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yeung</surname><given-names>C. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Buchwald</surname><given-names>S. L.</given-names></name>
+</person-group><source>ACS Catal.</source><year>2019</year><volume>9</volume><fpage>6461</fpage><lpage>6466</lpage><pub-id pub-id-type="doi">10.1021/acscatal.9b01913</pub-id><pub-id pub-id-type="pmid">31929949</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9f"><label> (f) </label><person-group person-group-type="author">
+<name><surname>Mart&#x000ed;n</surname><given-names>M. T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mar&#x000ed;n</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Maya</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Prieto</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nicasio</surname><given-names>M. C.</given-names></name>
+</person-group><source>Chem.&#x02013;Eur. J.</source><year>2021</year><volume>27</volume><fpage>12320</fpage><lpage>12326</lpage><pub-id pub-id-type="doi">10.1002/chem.202101906</pub-id><pub-id pub-id-type="pmid">34191385</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit9g"><label> (g) </label><person-group person-group-type="author">
+<name><surname>Oechsner</surname><given-names>R. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wagner</surname><given-names>J. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fleischer</surname><given-names>I.</given-names></name>
+</person-group><source>ACS Catal.</source><year>2022</year><volume>12</volume><fpage>2233</fpage><lpage>2243</lpage><pub-id pub-id-type="doi">10.1021/acscatal.1c04895</pub-id></element-citation><element-citation publication-type="journal" id="cit9h"><label> (h) </label><person-group person-group-type="author">
+<name><surname>Oechsner</surname><given-names>R. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lindenmaier</surname><given-names>I. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fleischer</surname><given-names>I.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2023</year><volume>25</volume><fpage>1655</fpage><lpage>1660</lpage><pub-id pub-id-type="doi">10.1021/acs.orglett.3c00218</pub-id><pub-id pub-id-type="pmid">36877862</pub-id>
+</element-citation></ref><ref id="cit10"><element-citation publication-type="journal" id="cit10a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Taniguchi</surname><given-names>N.</given-names></name>
+</person-group><source>J. Org. Chem.</source><year>2004</year><volume>69</volume><fpage>6904</fpage><lpage>6906</lpage><pub-id pub-id-type="doi">10.1021/jo040184q</pub-id><pub-id pub-id-type="pmid">15387621</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit10b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>G&#x000f3;mez-Ben&#x000ed;tez</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Baldovino-Pantale&#x000f3;n</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Herrera-&#x000c1;lvarez</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Toscano</surname><given-names>R. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Morales-Morales</surname><given-names>D.</given-names></name>
+</person-group><source>Tetrahedron Lett.</source><year>2006</year><volume>47</volume><fpage>5059</fpage><lpage>5062</lpage><pub-id pub-id-type="doi">10.1016/j.tetlet.2006.05.094</pub-id></element-citation><element-citation publication-type="journal" id="cit10c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Baldovino-Pantale&#x000f3;n</surname><given-names>O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hern&#x000e1;ndez-Ortega</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Morales-Morales</surname><given-names>D.</given-names></name>
+</person-group><source>Adv. Synth. Catal.</source><year>2006</year><volume>348</volume><fpage>236</fpage><lpage>242</lpage><pub-id pub-id-type="doi">10.1002/adsc.200505207</pub-id></element-citation><element-citation publication-type="journal" id="cit10d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Luo</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>J.</given-names></name>
+</person-group><source>Chem. Commun.</source><year>2011</year><volume>47</volume><fpage>5304</fpage><lpage>5306</lpage><pub-id pub-id-type="doi">10.1039/C1CC10795J</pub-id><pub-id pub-id-type="pmid">21451874</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit10e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Joseph</surname><given-names>P. J. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Priyadarshini</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kantam</surname><given-names>M. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sreedhar</surname><given-names>B.</given-names></name>
+</person-group><source>Tetrahedron</source><year>2013</year><volume>69</volume><fpage>8276</fpage><lpage>8283</lpage><pub-id pub-id-type="doi">10.1016/j.tet.2013.07.039</pub-id></element-citation><element-citation publication-type="journal" id="cit10f"><label> (f) </label><person-group person-group-type="author">
+<name><surname>Ghosh</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ranjit</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mal</surname><given-names>D.</given-names></name>
+</person-group><source>Tetrahedron Lett.</source><year>2015</year><volume>56</volume><fpage>5199</fpage><lpage>5202</lpage><pub-id pub-id-type="doi">10.1016/j.tetlet.2015.07.047</pub-id></element-citation><element-citation publication-type="journal" id="cit10g"><label> (g) </label><person-group person-group-type="author">
+<name><surname>G&#x000f3;mez-Ben&#x000ed;tez</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vald&#x000e9;s</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hern&#x000e1;ndez-Ortega</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>German-Acacio</surname><given-names>J. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Morales-Morales</surname><given-names>D.</given-names></name>
+</person-group><source>Polyhedron</source><year>2018</year><volume>143</volume><fpage>144</fpage><lpage>148</lpage><pub-id pub-id-type="doi">10.1016/j.poly.2017.09.026</pub-id></element-citation><element-citation publication-type="journal" id="cit10h"><label> (h) </label><person-group person-group-type="author">
+<name><surname>Heidebrecht</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gendy</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gelfand</surname><given-names>B. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Roesler</surname><given-names>R.</given-names></name>
+</person-group><source>Polyhedron</source><year>2018</year><volume>143</volume><fpage>138</fpage><lpage>143</lpage><pub-id pub-id-type="doi">10.1016/j.poly.2017.09.027</pub-id></element-citation><element-citation publication-type="journal" id="cit10i"><label> (i) </label><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>M.</given-names></name>
+</person-group><source>Synlett</source><year>2020</year><volume>31</volume><fpage>1226</fpage><lpage>1230</lpage><pub-id pub-id-type="doi">10.1055/s-0040-1707131</pub-id></element-citation><element-citation publication-type="journal" id="cit10j"><label> (j) </label><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>G. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>X.-F.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2020</year><volume>11</volume><fpage>2187</fpage><lpage>2192</lpage><pub-id pub-id-type="doi">10.1039/C9SC05532K</pub-id><pub-id pub-id-type="pmid">34123310</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit10k"><label> (k) </label><person-group person-group-type="author">
+<name><surname>Hopkins</surname><given-names>B. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zavesky</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>White</surname><given-names>D.</given-names></name>
+</person-group><source>J. Org. Chem.</source><year>2022</year><volume>87</volume><fpage>7547</fpage><lpage>7550</lpage><pub-id pub-id-type="doi">10.1021/acs.joc.2c00574</pub-id><pub-id pub-id-type="pmid">35580300</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit10l"><label> (l) </label><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ling</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dong</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hong</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>F.-G.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2025</year><volume>27</volume><fpage>1620</fpage><lpage>1625</lpage><pub-id pub-id-type="doi">10.1021/acs.orglett.4c04692</pub-id><pub-id pub-id-type="pmid">39924894</pub-id>
+</element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qiao</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>X.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2018</year><volume>20</volume><fpage>6193</fpage><lpage>6197</lpage><pub-id pub-id-type="doi">10.1021/acs.orglett.8b02677</pub-id><pub-id pub-id-type="pmid">30216075</pub-id>
+</element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Delcaillau</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Boehm</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Morandi</surname><given-names>B.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2021</year><volume>143</volume><fpage>3723</fpage><lpage>3728</lpage><pub-id pub-id-type="doi">10.1021/jacs.1c00529</pub-id><pub-id pub-id-type="pmid">33655746</pub-id>
+</element-citation></ref><ref id="cit13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Isshiki</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kurosawa</surname><given-names>M. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Muto</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yamaguchi</surname><given-names>J.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2021</year><volume>143</volume><fpage>10333</fpage><lpage>10340</lpage><pub-id pub-id-type="doi">10.1021/jacs.1c04215</pub-id><pub-id pub-id-type="pmid">34181399</pub-id>
+</element-citation></ref><ref id="cit14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+</person-group><source>Eur. J. Org Chem.</source><year>2021</year><volume>2021</volume><fpage>4616</fpage><lpage>4619</lpage><pub-id pub-id-type="doi">10.1002/ejoc.202100822</pub-id></element-citation></ref><ref id="cit15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wen</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pei</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>H.</given-names></name>
+</person-group><source>Chem.&#x02013;Eur. J.</source><year>2022</year><volume>28</volume><fpage>e202200869</fpage><pub-id pub-id-type="doi">10.1002/chem.202200869</pub-id><pub-id pub-id-type="pmid">35543280</pub-id>
+</element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fern&#x000e1;ndez-Rodr&#x000ed;guez</surname><given-names>M. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hartwig</surname><given-names>J. F.</given-names></name>
+</person-group><source>Chem.&#x02013;Eur. J.</source><year>2006</year><volume>12</volume><fpage>7782</fpage><lpage>7796</lpage><pub-id pub-id-type="doi">10.1002/chem.200600949</pub-id><pub-id pub-id-type="pmid">17009367</pub-id>
+</element-citation></ref><ref id="cit17"><note><p>A cyanating agent our group and others previously reported, which operates <italic toggle="yes">via</italic> a similar mechanism to release cyanide anions, see, </p></note><element-citation publication-type="journal" id="cit17a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Takise</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Itami</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yamaguchi</surname><given-names>J.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2016</year><volume>18</volume><fpage>4428</fpage><lpage>4431</lpage><pub-id pub-id-type="doi">10.1021/acs.orglett.6b02265</pub-id><pub-id pub-id-type="pmid">27518123</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit17b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Iizumi</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kurosawa</surname><given-names>M. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Isshiki</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Muto</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yamaguchi</surname><given-names>J.</given-names></name>
+</person-group><source>Synlett</source><year>2021</year><volume>32</volume><fpage>1555</fpage><lpage>1559</lpage><pub-id pub-id-type="doi">10.1055/s-0040-1705943</pub-id></element-citation><element-citation publication-type="journal" id="cit17c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Iizumi</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tanaka</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Muto</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yamaguchi</surname><given-names>J.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2024</year><volume>26</volume><fpage>3977</fpage><lpage>3981</lpage><pub-id pub-id-type="doi">10.1021/acs.orglett.4c01118</pub-id><pub-id pub-id-type="pmid">38683691</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit17d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Kotani</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sakamoto</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Osakama</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nakajima</surname><given-names>M.</given-names></name>
+</person-group><source>Eur. J. Org Chem.</source><year>2015</year><fpage>6606</fpage><lpage>6609</lpage><pub-id pub-id-type="doi">10.1002/ejoc.201501084</pub-id></element-citation><element-citation publication-type="journal" id="cit17e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Ahmad</surname><given-names>M. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shafiq</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Meguellati</surname><given-names>K.</given-names></name>
+</person-group><source>Synthesis</source><year>2022</year><volume>54</volume><fpage>3077</fpage><lpage>3084</lpage><pub-id pub-id-type="doi">10.1055/a-1770-8592</pub-id></element-citation><element-citation publication-type="journal" id="cit17f"><label> (f) </label><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>He</surname><given-names>M.-Y.</given-names></name>
+</person-group><source>Org. Biomol. Chem.</source><year>2018</year><volume>16</volume><fpage>4816</fpage><lpage>4820</lpage><pub-id pub-id-type="doi">10.1039/C8OB01034J</pub-id><pub-id pub-id-type="pmid">29916504</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit17g"><label> (g) </label><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Qiao</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Song</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ma</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chu</surname><given-names>W.</given-names></name>
+</person-group><source>N. J. Chem.</source><year>2019</year><volume>43</volume><fpage>9084</fpage><lpage>9089</lpage><pub-id pub-id-type="doi">10.1039/C9NJ00776H</pub-id></element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Littke</surname><given-names>A. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fu</surname><given-names>G. C.</given-names></name>
+</person-group><source>Angew. Chem., Int. Ed.</source><year>2002</year><volume>41</volume><fpage>4176</fpage><lpage>4211</lpage><pub-id pub-id-type="doi">10.1002/1521-3773(20021115)41:22&#x0003c;4176::AID-ANIE4176&#x0003e;3.0.CO;2-U</pub-id><pub-id pub-id-type="pmid">12434342</pub-id>
+</element-citation></ref><ref id="cit19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Boehm</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>M&#x000fc;ller</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Finkelstein</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rivero-Crespo</surname><given-names>M. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ebert</surname><given-names>M.-O.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Trapp</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Morandi</surname><given-names>B.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2022</year><volume>144</volume><fpage>13096</fpage><lpage>13108</lpage><pub-id pub-id-type="doi">10.1021/jacs.2c01595</pub-id><pub-id pub-id-type="pmid">35834613</pub-id>
+</element-citation></ref><ref id="cit20"><element-citation publication-type="journal" id="cit20a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Ji</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cao</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xing</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Szostak</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>C.</given-names></name>
+</person-group><source>Org. Chem. Front.</source><year>2023</year><volume>10</volume><fpage>4275</fpage><lpage>4281</lpage><pub-id pub-id-type="doi">10.1039/D3QO00744H</pub-id></element-citation><element-citation publication-type="journal" id="cit20b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Brigham</surname><given-names>C. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Malapit</surname><given-names>C. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lalloo</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sanford</surname><given-names>M. S.</given-names></name>
+</person-group><source>ACS Catal.</source><year>2020</year><volume>10</volume><fpage>8315</fpage><lpage>8320</lpage><pub-id pub-id-type="doi">10.1021/acscatal.0c02950</pub-id><pub-id pub-id-type="pmid">34306801</pub-id>
+</element-citation></ref><ref id="cit21"><element-citation publication-type="journal" id="cit21a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Imazaki</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Shirakawa</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hayashi</surname><given-names>T.</given-names></name>
+</person-group><source>Tetrahedron</source><year>2011</year><volume>67</volume><fpage>10212</fpage><lpage>10215</lpage><pub-id pub-id-type="doi">10.1016/j.tet.2011.09.145</pub-id></element-citation><element-citation publication-type="journal" id="cit21b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>D&#x000fc;rr</surname><given-names>A. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kalvet</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Napoly</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Schoenebeck</surname><given-names>F.</given-names></name>
+</person-group><source>Chem. Sci.</source><year>2015</year><volume>7</volume><fpage>1076</fpage><lpage>1081</lpage><pub-id pub-id-type="doi">10.1039/C5SC03359D</pub-id><pub-id pub-id-type="pmid">29081943</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit21c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>Y.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2021</year><volume>23</volume><fpage>7524</fpage><lpage>7528</lpage><pub-id pub-id-type="doi">10.1021/acs.orglett.1c02738</pub-id><pub-id pub-id-type="pmid">34519513</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit21d"><label> (d) </label><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xiang</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ye</surname><given-names>X.-Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ye</surname><given-names>Y.</given-names></name>
+</person-group><source>J. Org. Chem.</source><year>2023</year><volume>88</volume><fpage>4592</fpage><lpage>4605</lpage><pub-id pub-id-type="doi">10.1021/acs.joc.3c00049</pub-id><pub-id pub-id-type="pmid">36976534</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit21e"><label> (e) </label><person-group person-group-type="author">
+<name><surname>Du</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ling</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>F.-G.</given-names></name>
+</person-group><source>Org. Chem. Front.</source><year>2023</year><volume>10</volume><fpage>6185</fpage><lpage>6191</lpage><pub-id pub-id-type="doi">10.1039/D3QO01484C</pub-id></element-citation></ref><ref id="cit22"><element-citation publication-type="journal" id="cit22a"><label> (a) </label><person-group person-group-type="author">
+<name><surname>Taniguchi</surname><given-names>N.</given-names></name>
+</person-group><source>J. Org. Chem.</source><year>2004</year><volume>69</volume><fpage>6904</fpage><lpage>6906</lpage><pub-id pub-id-type="doi">10.1021/jo040184q</pub-id><pub-id pub-id-type="pmid">15387621</pub-id>
+</element-citation><element-citation publication-type="journal" id="cit22b"><label> (b) </label><person-group person-group-type="author">
+<name><surname>Bettanin</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Saba</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Galetto</surname><given-names>F. Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mike</surname><given-names>G. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rafique</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Braga</surname><given-names>A. L.</given-names></name>
+</person-group><source>Tetrahedron Lett.</source><year>2017</year><volume>58</volume><fpage>4713</fpage><lpage>4716</lpage><pub-id pub-id-type="doi">10.1016/j.tetlet.2017.11.009</pub-id></element-citation><element-citation publication-type="journal" id="cit22c"><label> (c) </label><person-group person-group-type="author">
+<name><surname>Jones</surname><given-names>K. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Power</surname><given-names>D. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bierer</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gericke</surname><given-names>K. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Stewart</surname><given-names>S. G.</given-names></name>
+</person-group><source>Org. Lett.</source><year>2018</year><volume>20</volume><fpage>208</fpage><lpage>211</lpage><pub-id pub-id-type="doi">10.1021/acs.orglett.7b03560</pub-id><pub-id pub-id-type="pmid">29257701</pub-id>
+</element-citation></ref><ref id="cit23"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pasha</surname><given-names>G. F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Asghari</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tajbakhsh</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mohseni</surname><given-names>M.</given-names></name>
+</person-group><source>Res. Chem. Intermed.</source><year>2017</year><volume>43</volume><fpage>7291</fpage><lpage>7306</lpage><pub-id pub-id-type="doi">10.1007/s11164-017-3075-4</pub-id></element-citation></ref><ref id="cit24"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mouhsine</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Norl&#x000f6;ff</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ghouilem</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sallustrau</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Taran</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Audisio</surname><given-names>D.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2024</year><volume>146</volume><fpage>8343</fpage><lpage>8351</lpage><pub-id pub-id-type="doi">10.1021/jacs.3c14106</pub-id><pub-id pub-id-type="pmid">38498972</pub-id>
+</element-citation></ref></ref-list></back></article>
