@@ -354,7 +354,7 @@ rt_data_pmc_specific <- function(article_xml) {
 #' results_table <- rt_data_pmc(filepath, remove_ns = T)
 #' }
 #' @export
-rt_data_code_pmc <- function(article_xml, remove_ns = T, specificity = "low") {
+rt_data_code_pmc <- function(article_xml, filename, remove_ns = T, specificity = "low") {
 
   # Christoph Li
   # -------------------
@@ -373,7 +373,7 @@ rt_data_code_pmc <- function(article_xml, remove_ns = T, specificity = "low") {
 
 
   if (!is_type) {
-
+    # print("Type A Failure")
     return(dplyr::bind_cols(id_df, type_df, is_success = T))
 
   }
@@ -400,7 +400,7 @@ rt_data_code_pmc <- function(article_xml, remove_ns = T, specificity = "low") {
   relevant_df <- tibble::tibble(is_relevant_data, is_relevant_code)
 
   if (!is_relevant_data & !is_relevant_code) {
-
+    # print("Type B Failure")
     return(dplyr::bind_cols(id_df, type_df, relevant_df, is_success = T))
 
   }
