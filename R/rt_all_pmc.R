@@ -166,7 +166,7 @@
 .get_data_pmc <- function (article_xml) {
   # rt_data_code_pmc <- function(article_xml, remove_ns = T, specificity = "low") {
 
-  open_data <- rt_data_pmc_specific(article_xml)
+  open_data <- rt_data_code_pmc(article_xml)
   return(list(
     "is_open_data" = open_data[["is_open_data"]],
     "is_open_code" = open_data[["is_open_code"]],
