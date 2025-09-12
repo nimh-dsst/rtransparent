@@ -354,7 +354,7 @@ rt_data_pmc_specific <- function(article_xml) {
 #' results_table <- rt_data_pmc(filepath, remove_ns = T)
 #' }
 #' @export
-rt_data_code_pmc <- function(article_xml, remove_ns = T, specificity = "low") {
+rt_data_code_pmc <- function(article_xml, filename, remove_ns = T, specificity = "low") {
 
   # Christoph Li
   # -------------------
