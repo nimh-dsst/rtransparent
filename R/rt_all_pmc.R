@@ -167,8 +167,6 @@
   # rt_data_code_pmc <- function(article_xml, remove_ns = T, specificity = "low") {
 
   open_data <- rt_data_code_pmc(article_xml, filename)
-
-  # print(open_data)
   return(list(
     "is_open_data" = (open_data[["is_open_data"]] %||% F),
     "is_open_code" = (open_data[["is_open_code"]] %||% F),
@@ -306,9 +304,6 @@ rt_all_pmc <- function(filename, remove_ns = F, all_meta = F) {
   pmc_fund_ls <- .get_fund_pmc(article_xml, dict)
   pmc_reg_ls <- .get_register_pmc(article_xml)
   pmc_data_ls <- .get_data_pmc(article_xml, filename)
-  
-  # print(pmc_data_ls)
-
 
   article_ls <- .get_article_txt(article_xml)
   # TODO Uncomment when I implement the .is_relevant functions

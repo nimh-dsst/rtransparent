@@ -18,8 +18,6 @@ if (dir.exists(file.path(inDir))) {
 	args <- list.files(file.path(inDir), ".*\\.xml") %>% lapply(., function(x) file.path(inDir, x))
 
 	if (length(args) > 0) {
-		# print(vectorized_rt(args))
-		# print(setdiff(colnames(rt_all_pmc(args[[3]])), colnames(rt_all_pmc(args[[1]])))) 
 		out <- vectorized_rt(args) %>% Filter(function(x) length(x) == 120, .) %>% do.call(rbind, .) # run & bind into a big tibble
 
 		dir.create(file.path(outDir), showWarnings=F)
