@@ -370,7 +370,7 @@ rt_data_code_pmc <- function(article_xml, filename, remove_ns = T, specificity =
 
 
   if (!is_type) {
-
+    # print("Type A Failure")
     return(dplyr::bind_cols(id_df, type_df, is_success = T))
 
   }
@@ -397,7 +397,7 @@ rt_data_code_pmc <- function(article_xml, filename, remove_ns = T, specificity =
   relevant_df <- tibble::tibble(is_relevant_data, is_relevant_code)
 
   if (!is_relevant_data & !is_relevant_code) {
-
+    # print("Type B Failure")
     return(dplyr::bind_cols(id_df, type_df, relevant_df, is_success = T))
 
   }
