@@ -119,8 +119,6 @@
 
   research_types <- c(
     "research-article",
-    "protocol",
-    "letter",
     "brief-report",
     "data-paper",
     "other"
