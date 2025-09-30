@@ -160,19 +160,19 @@
   ))
 }
 
-.get_data_pmc <- function (article_xml) {
+.get_data_pmc <- function (article_xml, filename) {
   # rt_data_code_pmc <- function(article_xml, remove_ns = T, specificity = "low") {
 
-  open_data <- rt_data_pmc_specific(article_xml)
+  open_data <- rt_data_code_pmc(article_xml, filename)
   return(list(
-    "is_open_data" = open_data[["is_open_data"]],
-    "is_open_code" = open_data[["is_open_code"]],
+    "is_open_data" = (open_data[["is_open_data"]] %||% F),
+    "is_open_code" = (open_data[["is_open_code"]] %||% F),
     # FIXME these ones are inconsistent for some reason
     # "open_data_statements" = open_data["open_data_statements"],
     # "open_code_statements" = open_data["open_code_statements"],
     # "open_data_category" = open_data["open_data_category"],
-    "is_relevant_code" = open_data[["is_relevant_code"]],
-    "is_relevant_data" = open_data[['is_relevant_data']]
+    "is_relevant_code" = (open_data[["is_relevant_code"]] %||% F),
+    "is_relevant_data" = (open_data[['is_relevant_data']] %||% F)
   ))
 }
 
@@ -300,8 +300,7 @@ rt_all_pmc <- function(filename, remove_ns = F, all_meta = F) {
   pmc_coi_ls <- .get_coi_pmc(article_xml, dict)
   pmc_fund_ls <- .get_fund_pmc(article_xml, dict)
   pmc_reg_ls <- .get_register_pmc(article_xml)
-  pmc_data_ls <- .get_data_pmc(article_xml)
-
+  pmc_data_ls <- .get_data_pmc(article_xml, filename)
 
   article_ls <- .get_article_txt(article_xml)
   # TODO Uncomment when I implement the .is_relevant functions
@@ -338,5 +337,8 @@ rt_all_pmc <- function(filename, remove_ns = F, all_meta = F) {
 
   status_ls <- list(is_success = T)
 
-  tibble::as_tibble(c(id_ls, meta_ls, coi_ls, fund_ls, reg_ls, status_ls, pmc_data_ls))
+  a <- tibble::as_tibble(c(id_ls, meta_ls, coi_ls, fund_ls, reg_ls, status_ls, pmc_data_ls))
+  
+  print(filename)
+  return(a)
 }

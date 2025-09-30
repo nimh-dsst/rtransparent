@@ -18,7 +18,7 @@ if (dir.exists(file.path(inDir))) {
 	args <- list.files(file.path(inDir), ".*\\.xml") %>% lapply(., function(x) file.path(inDir, x))
 
 	if (length(args) > 0) {
-		out <- vectorized_rt(args) %>% Filter(function(x) x$is_success, .) %>% do.call(rbind, .) # run & bind into a big tibble
+		out <- vectorized_rt(args) %>% Filter(function(x) length(x) == 120, .) %>% do.call(rbind, .) # run & bind into a big tibble
 
 		dir.create(file.path(outDir), showWarnings=F)
 		write_parquet(out, file.path(outDir, paste("out", ident, "parquet", sep=".")))
