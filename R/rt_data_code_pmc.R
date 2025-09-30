@@ -27,8 +27,6 @@
 
   research_types <- c(
     "research-article",
-    "protocol",
-    "letter",
     "brief-report",
     "data-paper",
     "other"
@@ -248,10 +246,9 @@ rt_data_pmc_specific <- function(article_xml) {
   # Definitions at PMC -> Tagging Guidelines -> Document Objects
   research_types <- c(
     "research-article",
-    "protocol",
-    "letter",
     "brief-report",
-    "data-paper"
+    "data-paper",
+    "other"
   )
 
   review_types <- c(
@@ -369,7 +366,7 @@ rt_data_code_pmc <- function(article_xml, remove_ns = T, specificity = "low") {
 
   # Extract type
   type_df <- .get_type(article_xml)
-  is_type <- type_df %>% unlist() %>% any()
+  is_type <- type_df["is_research"] == T
 
 
   if (!is_type) {
@@ -587,8 +584,6 @@ rt_data_pmc_specific_list <- function(filenames, remove_ns = T) {
 
     research_types <- c(
       "research-article",
-      "protocol",
-      "letter",
       "brief-report",
       "data-paper"
     )
@@ -800,10 +795,9 @@ rt_data_pmc_specific_list <- function(filenames, remove_ns = T) {
 
   research_types <- c(
     "research-article",
-    "protocol",
-    "letter",
     "brief-report",
-    "data-paper"
+    "data-paper",
+    "other"
   )
 
   review_types <- c(

@@ -1297,10 +1297,9 @@ rt_register_pmc <- function(filename, remove_ns = F) {
   # Definitions at PMC -> Tagging Guidelines -> Document Objects
   research_types <- c(
     "research-article",
-    "protocol",
-    "letter",
     "brief-report",
-    "data-paper"
+    "data-paper",
+    "other"
   )
 
   review_types <- c(

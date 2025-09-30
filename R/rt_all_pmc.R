@@ -1,4 +1,3 @@
-
 .get_xml <- function(filename, remove_ns = F) {
 
   if (remove_ns) {
@@ -15,7 +14,7 @@
       xml2::read_xml()
 
   }
-	
+
   return(article_xml)
 }
 
@@ -119,8 +118,6 @@
 
   research_types <- c(
     "research-article",
-    "protocol",
-    "letter",
     "brief-report",
     "data-paper",
     "other"
