@@ -3,7 +3,8 @@
 Streaming XML Metadata Extractor from Tar.gz Archives
 
 Extracts XML files from tar.gz archives and processes them directly in memory
-without writing intermediate files to disk. Only the final output is written.
+without writing intermediate files to disk. Supports incremental saving to prevent
+data loss during long-running extractions.
 
 Usage:
     python extract_from_tarballs.py [options] <tar_directory>
@@ -12,6 +13,7 @@ Examples:
     python extract_from_tarballs.py /Volumes/DSST_backup2025/osm/pmcoa/raw_download/
     python extract_from_tarballs.py --format parquet -o output.parquet /path/to/tarballs/
     python extract_from_tarballs.py --limit 5 /path/to/tarballs/  # Process only first 5 tar.gz files
+    python extract_from_tarballs.py --save-every 100000 /path/to/tarballs/  # Save every 100k records
 """
 
 import argparse
@@ -81,8 +83,13 @@ class StreamingXMLMetadataExtractor:
         'ali': 'http://www.niso.org/schemas/ali/1.0/'
     }
 
-    def __init__(self):
+    def __init__(self, output_path=None, output_format='csv', save_every=250000):
         self.records = []
+        self.output_path = output_path
+        self.output_format = output_format
+        self.save_every = save_every
+        self.total_saved = 0
+        self.save_count = 0
 
     def extract_text(self, element: Optional[ET.Element]) -> str:
         """Extract all text content from an element and its children."""
@@ -337,6 +344,9 @@ class StreamingXMLMetadataExtractor:
                                 self.records.append(record)
                                 count += 1
 
+                                # Check if we need to save incrementally
+                                self.check_and_save_incremental()
+
                         except Exception as e:
                             print(f"Error extracting {member.name} from {tarball_path.name}: {e}", file=sys.stderr)
 
@@ -362,6 +372,56 @@ class StreamingXMLMetadataExtractor:
         df.to_parquet(output_path, index=False)
         print(f"\nSaved {len(df)} records to {output_path}")
 
+    def save_incremental(self, force=False):
+        """Save records incrementally to avoid data loss."""
+        if not self.records:
+            return
+
+        # Check if we should save
+        if not force and len(self.records) < self.save_every:
+            return
+
+        if not self.output_path:
+            return
+
+        df = self.to_dataframe()
+        num_records = len(df)
+
+        try:
+            if self.output_format == 'parquet':
+                # For parquet, append to existing file if it exists
+                if self.save_count == 0:
+                    # First save - create new file
+                    df.to_parquet(self.output_path, index=False)
+                else:
+                    # Append to existing file
+                    existing_df = pd.read_parquet(self.output_path)
+                    combined_df = pd.concat([existing_df, df], ignore_index=True)
+                    combined_df.to_parquet(self.output_path, index=False)
+            else:
+                # For CSV, append after first write
+                mode = 'w' if self.save_count == 0 else 'a'
+                header = self.save_count == 0
+                df.to_csv(self.output_path, mode=mode, header=header, index=False)
+
+            self.total_saved += num_records
+            self.save_count += 1
+
+            timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
+            print(f"  [{timestamp}] Incremental save #{self.save_count}: {num_records:,} records (total: {self.total_saved:,})")
+
+            # Clear records to free memory
+            self.records = []
+
+        except Exception as e:
+            print(f"  ERROR: Failed to save incrementally: {e}", file=sys.stderr)
+            # Don't clear records if save failed
+
+    def check_and_save_incremental(self):
+        """Check if we need to save incrementally based on record count."""
+        if len(self.records) >= self.save_every:
+            self.save_incremental(force=True)
+
 
 def find_tarballs(directory: Path) -> List[Path]:
     """Find all .tar.gz files in directory."""
@@ -379,6 +439,7 @@ Examples:
   %(prog)s --format parquet -o output.parquet /path/to/tarballs/
   %(prog)s --limit 5 /path/to/tarballs/
   %(prog)s --pattern "oa_comm_xml.incr.2025-07-*" /path/to/tarballs/
+  %(prog)s --save-every 100000 /path/to/tarballs/  # Save every 100k records
         """
     )
 
@@ -416,6 +477,13 @@ Examples:
         help='Glob pattern for tar.gz files (default: *.tar.gz)'
     )
 
+    parser.add_argument(
+        '--save-every',
+        type=int,
+        default=250000,
+        help='Save output incrementally every N records to prevent data loss (default: 250000)'
+    )
+
     args = parser.parse_args()
 
     tar_dir = Path(args.tar_directory)
@@ -442,10 +510,15 @@ Examples:
 
     print(f"Found {len(tarballs)} tar.gz file(s) to process")
     print(f"Output: {output_path} ({args.format} format)")
+    print(f"Incremental save: every {args.save_every:,} records")
     print("=" * 70)
 
-    # Create extractor
-    extractor = StreamingXMLMetadataExtractor()
+    # Create extractor with incremental save settings
+    extractor = StreamingXMLMetadataExtractor(
+        output_path=output_path,
+        output_format=args.format,
+        save_every=args.save_every
+    )
 
     # Process all tarballs
     start_time = time.time()
@@ -466,19 +539,22 @@ Examples:
 
     elapsed = time.time() - start_time
 
-    # Save results
-    if not extractor.records:
+    # Save any remaining records
+    print("\n" + "=" * 70)
+    print("FINAL SAVE")
+    print("=" * 70)
+
+    if extractor.records:
+        # Save remaining records
+        extractor.save_incremental(force=True)
+        print(f"Saved final batch of records")
+
+    if extractor.total_saved == 0:
         print("\nNo records extracted. Exiting.", file=sys.stderr)
         return 1
 
-    print("\n" + "=" * 70)
-    print("SAVING RESULTS")
-    print("=" * 70)
-
-    if args.format == 'csv':
-        extractor.save_csv(output_path)
-    else:
-        extractor.save_parquet(output_path)
+    print(f"Total records saved: {extractor.total_saved:,}")
+    print(f"Number of incremental saves: {extractor.save_count}")
 
     # Print summary
     print("\n" + "=" * 70)
