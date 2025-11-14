@@ -73,8 +73,8 @@ def main():
     print(f"  Memory: {df.memory_usage(deep=True).sum() / 1024**2:.1f} MB")
 
     # Extract only necessary columns
-    print("\nExtracting columns: pmid, is_open_code, is_open_data")
-    required_cols = ['pmid', 'is_open_code', 'is_open_data']
+    print("\nExtracting columns: pmid, is_open_code, is_open_data, funder")
+    required_cols = ['pmid', 'is_open_code', 'is_open_data', 'funder']
 
     missing_cols = [col for col in required_cols if col not in df.columns]
     if missing_cols:

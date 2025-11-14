@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """
-Iteratively populate is_open_code and is_open_data fields in metadata files
-using rtrans chunk files.
+Iteratively populate fields in metadata files using rtrans chunk files.
+
+Default fields: is_open_code, is_open_data, funder
+- For existing fields (is_open_code, is_open_data): only populate if blank
+- For new fields (funder): create column and populate all matches
 
 Processes each metadata file against all rtrans chunks to find matches and populate fields.
 """
@@ -19,6 +22,9 @@ def populate_from_chunks(metadata_df: pd.DataFrame, chunk_files: list, fields: l
     """
     Populate specified fields in metadata from rtrans chunks.
 
+    For existing fields: only populate if blank
+    For new fields: create column and populate all matches
+
     Returns: (populated_count, matched_rows)
     """
     # Convert pmid to string
@@ -27,29 +33,57 @@ def populate_from_chunks(metadata_df: pd.DataFrame, chunk_files: list, fields: l
     total_populated = 0
     matched_rows = set()
 
+    # Identify which fields are new (don't exist in metadata)
+    new_fields = [f for f in fields if f not in metadata_df.columns]
+    existing_fields = [f for f in fields if f in metadata_df.columns]
+
+    # Initialize new fields as None/empty
+    for field in new_fields:
+        metadata_df[field] = None
+
     for chunk_file in chunk_files:
         # Load rtrans chunk
         rtrans_chunk = pd.read_parquet(chunk_file)
         rtrans_chunk['pmid'] = rtrans_chunk['pmid'].astype(str)
 
+        # Only join fields that exist in the chunk
+        available_fields = [f for f in fields if f in rtrans_chunk.columns]
+        if not available_fields:
+            continue
+
         # Perform left join
         merged = pd.merge(
             metadata_df,
-            rtrans_chunk[['pmid'] + fields],
+            rtrans_chunk[['pmid'] + available_fields],
             on='pmid',
             how='left',
             suffixes=('', '_rtrans')
         )
 
-        # Populate blank fields
-        for field in fields:
+        # Populate fields
+        for field in available_fields:
             rtrans_col = f"{field}_rtrans"
 
             if rtrans_col in merged.columns:
-                # Find rows where original field is blank but rtrans has value
-                is_blank = (metadata_df[field].isna()) | (metadata_df[field] == '')
-                has_rtrans_value = merged[rtrans_col].notna() & (merged[rtrans_col] != '')
-                to_populate = is_blank & has_rtrans_value
+                # Check if column contains array/list type data
+                sample_value = merged[rtrans_col].dropna().iloc[0] if len(merged[rtrans_col].dropna()) > 0 else None
+                is_array_type = hasattr(sample_value, '__len__') and not isinstance(sample_value, str)
+
+                if is_array_type:
+                    # For array/list columns: check if array has elements
+                    has_rtrans_value = merged[rtrans_col].notna() & (merged[rtrans_col].apply(lambda x: len(x) > 0 if hasattr(x, '__len__') else False))
+                else:
+                    # For scalar columns: check if not null and not empty string
+                    has_rtrans_value = merged[rtrans_col].notna() & (merged[rtrans_col] != '')
+
+                if field in new_fields:
+                    # For new fields: populate all rows that have rtrans value and don't already have a value
+                    is_blank = metadata_df[field].isna()
+                    to_populate = is_blank & has_rtrans_value
+                else:
+                    # For existing fields: only populate if blank
+                    is_blank = (metadata_df[field].isna()) | (metadata_df[field] == '')
+                    to_populate = is_blank & has_rtrans_value
 
                 populated_count = to_populate.sum()
 
@@ -82,12 +116,20 @@ def process_metadata_file(metadata_path: Path, chunk_files: list,
     rows = len(metadata_df)
     print(f"{rows:,} rows")
 
-    # Count blank fields before
+    # Identify new vs existing fields
+    new_fields = [f for f in fields if f not in metadata_df.columns]
+    existing_fields = [f for f in fields if f in metadata_df.columns]
+
+    # Count blank fields before (only for existing fields)
     blank_before = {}
-    for field in fields:
+    for field in existing_fields:
         blank_count = ((metadata_df[field].isna()) | (metadata_df[field] == '')).sum()
         blank_before[field] = blank_count
         print(f"    {field}: {blank_count:,} blank ({100*blank_count/rows:.1f}%)")
+
+    for field in new_fields:
+        blank_before[field] = rows  # All blank since it doesn't exist
+        print(f"    {field}: NEW (will be created)")
 
     # Populate from chunks
     print(f"\n  Processing {len(chunk_files)} rtrans chunks...")
@@ -97,7 +139,17 @@ def process_metadata_file(metadata_path: Path, chunk_files: list,
     print(f"\n  Results:")
     blank_after = {}
     for field in fields:
-        blank_count = ((metadata_df[field].isna()) | (metadata_df[field] == '')).sum()
+        # Check if field contains array/list type data
+        sample_value = metadata_df[field].dropna().iloc[0] if len(metadata_df[field].dropna()) > 0 else None
+        is_array_type = hasattr(sample_value, '__len__') and not isinstance(sample_value, str)
+
+        if is_array_type:
+            # For array columns: count as blank if null or empty array
+            blank_count = (metadata_df[field].isna() | metadata_df[field].apply(lambda x: len(x) == 0 if hasattr(x, '__len__') else True)).sum()
+        else:
+            # For scalar columns: count as blank if null or empty string
+            blank_count = ((metadata_df[field].isna()) | (metadata_df[field] == '')).sum()
+
         blank_after[field] = blank_count
         populated = blank_before[field] - blank_count
         print(f"    {field}: {blank_count:,} blank (populated {populated:,})")
@@ -161,8 +213,8 @@ Examples:
     parser.add_argument(
         '--fields',
         type=str,
-        default='is_open_code,is_open_data',
-        help='Comma-separated list of fields to populate (default: is_open_code,is_open_data)'
+        default='is_open_code,is_open_data,funder',
+        help='Comma-separated list of fields to populate (default: is_open_code,is_open_data,funder)'
     )
 
     args = parser.parse_args()

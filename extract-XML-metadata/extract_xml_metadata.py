@@ -232,9 +232,10 @@ class XMLMetadataExtractor:
 
     def extract_article_type(self, root: ET.Element) -> str:
         """Extract article type attribute."""
-        article = root.find('.//article')
-        if article is not None:
-            return article.get('article-type', '')
+        # The root element IS the article element in JATS XML
+        # Check for 'article' with or without namespace
+        if root.tag == 'article' or root.tag.endswith('}article'):
+            return root.get('article-type', '')
         return ''
 
     def extract_coi_text(self, root: ET.Element) -> str:
