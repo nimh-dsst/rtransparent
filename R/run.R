@@ -8,8 +8,10 @@ source("rt_fund_pmc.R")
 source("rt_data_code_pmc.R")
 source("utils.R")
 
-outDir <- Sys.getenv("R_OUTDIR", "/out")
-inDir <- Sys.getenv("R_INDIR", "/in")
+# outDir <- Sys.getenv("R_OUTDIR", "/out")
+# inDir <- Sys.getenv("R_INDIR", "/in")
+outDir <- "C:\\Users\\licc\\Downloads\\rtransparent\\out"
+inDir <- "C:\\Users\\licc\\Downloads\\rtransparent\\in"
 ident <- Sys.getenv("R_IDENTIFIER", "0")
 
 vectorized_rt <- Vectorize(rt_all_pmc, vectorize.args=c("filename"), SIMPLIFY=F) # remap the rt_all_pmc function to run over vector

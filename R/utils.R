@@ -9,18 +9,19 @@
 .obliterate_fullstop_1 <- function(article) {
 
   j_p_a_i <- "([A-Z])(\\.)\\s*([A-Z])(\\.)\\s*([A-Z])(\\.)"
+  # Looks for sequences like 'A. B. C.'
 
   article %>%
-    stringr::str_replace_all(j_p_a_i, "\\1 \\3 \\5") %>%
-    stringr::str_replace_all("([A-Z])(\\.)\\s*([A-Z])(\\.)", "\\1 \\3") %>%
-    stringr::str_replace_all("(\\s[A-Z])(\\.) ([A-Z][a-z]+)", "\\1 \\3") %>%
-    stringr::str_replace_all("\\.\\s*([a-z0-9])", " \\1") %>%
-    stringr::str_replace_all("\\.([A-Z])", " \\1") %>%
-    stringr::str_replace_all("\\.\\s*([A-Z]+[0-9])", " \\1") %>%
-    stringr::str_replace_all("\\.([^\\s0-9\\[])", "\\1") %>%
-    stringr::str_replace_all("\\.\\s+(\\()", " \\1") %>%
-    stringr::str_replace_all("([0-9])\\.([0-9])", "\\1\\2") %>%
-    stringr::str_replace_all("\\.(\\s*[[:punct:]])", "\\1")
+    stringr::str_replace_all(j_p_a_i, "\\1 \\3 \\5") %>% # replace A. B. C. with A B C
+    stringr::str_replace_all("([A-Z])(\\.)\\s*([A-Z])(\\.)", "\\1 \\3") %>% # replace A. B. with A B
+    stringr::str_replace_all("(\\s[A-Z])(\\.) ([A-Z][a-z]+)", "\\1 \\3") %>% # replace ' A. Abcdef' with A abcdef
+    stringr::str_replace_all("\\.\\s*([a-z0-9])", " \\1") %>% # replace . 1 with 1
+    stringr::str_replace_all("\\.([A-Z])", " \\1") %>% # replace .A with A
+    stringr::str_replace_all("\\.\\s*([A-Z]+[0-9])", " \\1") %>% # replace . AAAAA1 with AAAAA1
+    stringr::str_replace_all("\\.([^\\s0-9\\[])", "\\1") %>% # replace .[
+    stringr::str_replace_all("\\.\\s+(\\()", " \\1") %>% # . (
+    stringr::str_replace_all("([0-9])\\.([0-9])", "\\1\\2") %>% # replace 1.1
+    stringr::str_replace_all("\\.(\\s*[[:punct:]])", "\\1") # . .
 
 }
 
@@ -247,109 +248,6 @@
 }
 
 
-#' Restrict to text after the body of the article and references
-#'
-#' Returns the index with the elements of interest. More generic than _1.
-#'
-#' @param article A List with paragraphs of interest.
-#' @return The index of the start and finish of this section.
-.where_acknows_txt <- function(article) {
-
-  acknow_index <- get_acknow_2(article)
-  fund_index <- get_fund_2(article)
-  finance_index <- get_financial_1(article)
-  grant_index <- get_grant_1(article)
-
-  if (length(acknow_index) > 0) acknow_index <- acknow_index[length(acknow_index)]
-  if (length(fund_index) > 0) fund_index <- fund_index[1]
-  if (length(finance_index) > 0) finance_index <- finance_index[1]
-  if (length(grant_index) > 0) grant_index <- grant_index[1]
-
-  all <- c(acknow_index, fund_index, finance_index, grant_index)
-
-  from <- integer()
-  if (!!length(all)) {
-
-    all_max <- max(all)
-    all_min <- min(all)
-
-    if (all_max - all_min <= 10) {
-
-      from <- all_min
-
-    } else {
-
-      from <- all_max
-
-    }
-  }
-  return(from)
-}
-
-
-
-#' Find the Methods section
-#'
-#' Find the index of the start of the Methods section.
-#'
-#' @param article The text as a vector of strings.
-#' @return Index of element with phrase of interest
-.where_methods_txt  <- function(article) {
-
-  method_index <- integer()
-
-  synonyms <- .create_synonyms()
-  words <- c("Methods", "Abstract", "Results", "Conclusion")
-
-  method_index <-
-    synonyms %>%
-    magrittr::extract(words[1]) %>%
-    lapply(.title_strict) %>%
-    lapply(stringr::str_sub, end = -2) %>%  # remove the $
-    # lapply(paste, "($|\\s+[A-Z]") %>%  # TODO: if too sensitive, uncomment
-    lapply(.encase) %>%
-    paste() %>%
-    grep(article, perl = T)
-
-  if (!!length(method_index)) {
-
-    method_index <- method_index[length(method_index)]
-    return(method_index)
-
-    # TODO: if too sensitive, uncomment
-    # is_abstract <-
-    #   synonyms %>%
-    #   magrittr::extract(words[2:4]) %>%
-    #   grepl(article[(method_index - 3):(method_index + 3)]) %>%
-    #   any()
-    #
-    # if (!is_abstract) {
-    #
-    #   return(method_index)
-    #
-    # }
-  }
-
-  method_index <-
-    synonyms %>%
-    magrittr::extract(words[1]) %>%
-    lapply(.title_strict, within_text = T) %>%
-    lapply(paste, "[A-Z]", sep = "\\s*") %>%
-    lapply(.encase) %>%
-    paste() %>%
-    grep(article, perl = T)
-
-  if (!!length(method_index)) {
-
-    method_index <- method_index[length(method_index)]
-
-  }
-
-  return(method_index)
-
-}
-
-
 #' Encace words within parentheses and OR statements
 #'
 #' Returns a string of words separated by OR statements within parentheses.
@@ -403,6 +301,8 @@
 #' @param space_first If TRUE space first (default), else space last.
 #' @return A vector of bounded strings.
 .max_words <- function(x, n_max = 3, space_first = T) {
+
+  # FIXME: what is this for???
 
   if (space_first) {
 
@@ -460,39 +360,6 @@
     return(paste0("^.{0,4}", x, ".{0,4}$"))
 
   }
-}
-
-
-
-#' Create a regular expression where the first letter is capital
-#'
-#' Returns a regular expression that necessitates that the first letter is
-#'     capital and the rest can be any case.
-#'
-#' @param x A vector of strings.
-#' @param location Whether to "start", "end" or "both" with a capital letter.
-#' @return A string pattern.
-.first_capital <- function(x, location = "both") {
-
-  if (location == "both") {
-
-    return(gsub("^([A-Z])(.*)$", "\\1(?i)\\2(?-i)", x))
-
-  }
-
-  if (location == "start") {
-
-    return(gsub("^(.)(.*)$", "\\1(?i)\\2", x))
-
-  }
-
-  if (location == "end") {
-
-    return(gsub("^(.*)$", "\\1(?-i)", x))
-
-  }
-
-
 }
 
 
